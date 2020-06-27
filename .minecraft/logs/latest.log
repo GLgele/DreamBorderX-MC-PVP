@@ -1,0 +1,74 @@
+[16:55:15] [Client thread/INFO]: Setting user: gele178
+[16:55:17] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:55:17] [Client thread/INFO]: Reloading ResourceManager: Default
+[16:55:18] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:55:18] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[16:55:18] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:55:18] [Thread-4/INFO]: OpenAL initialized.
+[16:55:18] [Sound Library Loader/INFO]: Sound engine started
+[16:55:21] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:55:22] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[16:55:27] [Client thread/INFO]: Reloading ResourceManager: Default
+[16:55:27] [Client thread/INFO]: SoundSystem shutting down...
+[16:55:27] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:55:27] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:55:28] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[16:55:28] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:55:28] [Thread-8/INFO]: OpenAL initialized.
+[16:55:28] [Sound Library Loader/INFO]: Sound engine started
+[16:55:28] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:55:30] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:55:31] [Client thread/INFO]: Reloading ResourceManager: Default
+[16:55:32] [Client thread/INFO]: SoundSystem shutting down...
+[16:55:32] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:55:32] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:55:32] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[16:55:32] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:55:32] [Thread-10/INFO]: OpenAL initialized.
+[16:55:33] [Sound Library Loader/INFO]: Sound engine started
+[16:55:35] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:55:45] [Client thread/INFO]: Reloading ResourceManager: Default, Minecraft-Mod-Language-Modpack.zip
+[16:55:46] [Client thread/INFO]: SoundSystem shutting down...
+[16:55:47] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:55:47] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:55:47] [Thread-12/INFO]: Initializing LWJGL OpenAL
+[16:55:47] [Thread-12/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:55:47] [Thread-12/INFO]: OpenAL initialized.
+[16:55:47] [Sound Library Loader/INFO]: Sound engine started
+[16:55:50] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:55:59] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[16:55:59] [Server thread/INFO]: Generating keypair
+[16:55:59] [Server thread/INFO]: Loaded 488 advancements
+[16:55:59] [Server thread/INFO]: Preparing start region for level 0
+[16:55:59] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:56:05] [Server thread/INFO]: gele178[local:E:10703dea] logged in with entity id 30 at (19.07338535501482, 110.65052121319407, 32.598430698903236)
+[16:56:05] [Server thread/INFO]: gele178加入了游戏
+[16:56:06] [Server thread/INFO]: Saving and pausing game...
+[16:56:06] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[16:56:06] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[16:56:06] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[16:56:06] [Client thread/INFO]: Loaded 41 advancements
+[16:56:17] [Server thread/INFO]: Saving and pausing game...
+[16:56:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[16:56:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[16:56:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[16:56:18] [Server thread/INFO]: Saving and pausing game...
+[16:56:18] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[16:56:18] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[16:56:18] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[16:56:22] [Server thread/INFO]: Saving and pausing game...
+[16:56:22] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[16:56:22] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[16:56:22] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[16:56:23] [Server thread/INFO]: Stopping server
+[16:56:23] [Server thread/INFO]: Saving players
+[16:56:23] [Server thread/INFO]: gele178 lost connection: 连接中止
+[16:56:23] [Server thread/INFO]: gele178退出了游戏
+[16:56:23] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:56:23] [Server thread/INFO]: Saving worlds
+[16:56:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[16:56:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[16:56:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[16:56:24] [Client thread/INFO]: Stopping!
+[16:56:24] [Client thread/INFO]: SoundSystem shutting down...
+[16:56:24] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

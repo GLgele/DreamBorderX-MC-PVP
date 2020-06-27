@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-06-26 16:36:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-06-26 16:40:23 +0800"
+    },
+    "done": true
+  }
+}
