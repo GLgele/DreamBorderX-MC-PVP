@@ -1,74 +1,833 @@
-[16:55:15] [Client thread/INFO]: Setting user: gele178
-[16:55:17] [Client thread/INFO]: LWJGL Version: 2.9.4
-[16:55:17] [Client thread/INFO]: Reloading ResourceManager: Default
-[16:55:18] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:55:18] [Thread-4/INFO]: Initializing LWJGL OpenAL
-[16:55:18] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:55:18] [Thread-4/INFO]: OpenAL initialized.
-[16:55:18] [Sound Library Loader/INFO]: Sound engine started
-[16:55:21] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[16:55:22] [Client thread/INFO]: Narrator library for x64 successfully loaded
-[16:55:27] [Client thread/INFO]: Reloading ResourceManager: Default
-[16:55:27] [Client thread/INFO]: SoundSystem shutting down...
-[16:55:27] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[16:55:27] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:55:28] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[16:55:28] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:55:28] [Thread-8/INFO]: OpenAL initialized.
-[16:55:28] [Sound Library Loader/INFO]: Sound engine started
-[16:55:28] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[16:55:30] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[16:55:31] [Client thread/INFO]: Reloading ResourceManager: Default
-[16:55:32] [Client thread/INFO]: SoundSystem shutting down...
-[16:55:32] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[16:55:32] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:55:32] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[16:55:32] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:55:32] [Thread-10/INFO]: OpenAL initialized.
-[16:55:33] [Sound Library Loader/INFO]: Sound engine started
-[16:55:35] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[16:55:45] [Client thread/INFO]: Reloading ResourceManager: Default, Minecraft-Mod-Language-Modpack.zip
-[16:55:46] [Client thread/INFO]: SoundSystem shutting down...
-[16:55:47] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[16:55:47] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:55:47] [Thread-12/INFO]: Initializing LWJGL OpenAL
-[16:55:47] [Thread-12/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:55:47] [Thread-12/INFO]: OpenAL initialized.
-[16:55:47] [Sound Library Loader/INFO]: Sound engine started
-[16:55:50] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[16:55:59] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
-[16:55:59] [Server thread/INFO]: Generating keypair
-[16:55:59] [Server thread/INFO]: Loaded 488 advancements
-[16:55:59] [Server thread/INFO]: Preparing start region for level 0
-[16:55:59] [Server thread/INFO]: Changing view distance to 12, from 10
-[16:56:05] [Server thread/INFO]: gele178[local:E:10703dea] logged in with entity id 30 at (19.07338535501482, 110.65052121319407, 32.598430698903236)
-[16:56:05] [Server thread/INFO]: gele178加入了游戏
-[16:56:06] [Server thread/INFO]: Saving and pausing game...
-[16:56:06] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[16:56:06] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[16:56:06] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[16:56:06] [Client thread/INFO]: Loaded 41 advancements
-[16:56:17] [Server thread/INFO]: Saving and pausing game...
-[16:56:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[16:56:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[16:56:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[16:56:18] [Server thread/INFO]: Saving and pausing game...
-[16:56:18] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[16:56:18] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[16:56:18] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[16:56:22] [Server thread/INFO]: Saving and pausing game...
-[16:56:22] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[16:56:22] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[16:56:22] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[16:56:23] [Server thread/INFO]: Stopping server
-[16:56:23] [Server thread/INFO]: Saving players
-[16:56:23] [Server thread/INFO]: gele178 lost connection: 连接中止
-[16:56:23] [Server thread/INFO]: gele178退出了游戏
-[16:56:23] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[16:56:23] [Server thread/INFO]: Saving worlds
-[16:56:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[16:56:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[16:56:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[16:56:24] [Client thread/INFO]: Stopping!
-[16:56:24] [Client thread/INFO]: SoundSystem shutting down...
-[16:56:24] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:11:43] [Client thread/INFO]: Setting user: GLgele
+[13:11:44] [Client thread/WARN]: Skipping bad option: lastServer:
+[13:11:44] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:11:44] [Client thread/INFO]: Reloading ResourceManager: Default, Minecraft-Mod-Language-Modpack.zip
+[13:11:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:11:45] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[13:11:45] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:11:46] [Thread-4/INFO]: OpenAL initialized.
+[13:11:46] [Sound Library Loader/INFO]: Sound engine started
+[13:11:48] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[13:11:49] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[13:11:51] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:12:12] [Client thread/INFO]: Connecting to 192.168.122.80, 51096
+[13:12:27] [Client thread/INFO]: Loaded 48 advancements
+[13:12:29] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:12:30] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:12:45] [Client thread/INFO]: [CHAT] GLgele掉出了这个世界
+[13:12:45] [Client thread/INFO]: [CHAT] 已清除GLgele
+[13:12:50] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:12:51] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:13:48] [Client thread/INFO]: [CHAT] [gele178: 已将gele178传送至GLgele]
+[13:13:54] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[13:13:54] [Client thread/INFO]: [CHAT] [gele178: 将GLgele的游戏模式改为冒险模式]
+[13:14:06] [Client thread/INFO]: [CHAT] GLgele掉出了这个世界
+[13:15:44] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:15:45] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:17:47] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为30秒的伤害吸收（ID 22）*0效果]
+[13:18:01] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为30秒的瞬间伤害（ID 7）*0效果]
+[13:18:05] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:18:15] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:18:15] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:18:15] [Client thread/INFO]: [CHAT] 已将GLgele传送至gele178
+[13:18:25] [Client thread/INFO]: [CHAT] [gele178: 给予gele178时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:18:32] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:18:33] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[13:18:49] [Client thread/INFO]: [CHAT] [gele178: 给予gele178时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:19:04] [Client thread/INFO]: [CHAT] [gele178: 给予gele178时长为1秒的瞬间伤害（ID 7）*2效果]
+[13:19:09] [Client thread/INFO]: [CHAT] [gele178: 给予gele178时长为2秒的瞬间伤害（ID 7）*1效果]
+[13:19:17] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为2秒的瞬间伤害（ID 7）*1效果]
+[13:19:23] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:19:23] [Client thread/INFO]: [CHAT] GLgele被魔法杀死了
+[13:19:36] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:19:37] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:19:39] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:19:44] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:19:44] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:19:44] [Client thread/INFO]: [CHAT] 已将GLgele传送至gele178
+[13:19:49] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:19:50] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[13:20:01] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:20:40] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为30秒的急迫（ID 3）*0效果]
+[13:21:01] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为30秒的抗性提升（ID 11）*0效果]
+[13:21:08] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为30秒的生命恢复（ID 10）*0效果]
+[13:21:17] [Client thread/INFO]: [CHAT] [gele178: 已将GLgele身上的全部效果移除]
+[13:21:36] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为30秒的中毒（ID 19）*0效果]
+[13:21:42] [Client thread/INFO]: [CHAT] [gele178: 已将GLgele身上的全部效果移除]
+[13:21:47] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为1秒的中毒（ID 19）*1效果]
+[13:21:50] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为1秒的中毒（ID 19）*3效果]
+[13:22:02] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为3秒的中毒（ID 19）*1效果]
+[13:22:13] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为3秒的中毒（ID 19）*2效果]
+[13:22:18] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为2秒的中毒（ID 19）*1效果]
+[13:22:30] [Client thread/INFO]: [CHAT] GLgele被gele178杀死了
+[13:22:39] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:22:40] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:22:41] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:22:45] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:22:45] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:22:45] [Client thread/INFO]: [CHAT] 已将GLgele传送至gele178
+[13:22:56] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:22:57] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[13:23:02] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为2秒的中毒（ID 19）*1效果]
+[13:23:08] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为2秒的中毒（ID 19）*2效果]
+[13:23:15] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:24:52] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为1秒的瞬间治疗（ID 6）*128效果]
+[13:24:55] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为1秒的瞬间治疗（ID 6）*128效果]
+[13:24:58] [Client thread/INFO]: [CHAT] [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:26:52] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:26:55] [Client thread/INFO]: [CHAT] GLgele掉出了这个世界
+[13:26:57] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:27:04] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:27:04] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:27:06] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:27:06] [Client thread/INFO]: [CHAT] 已将GLgele传送至GLgele
+[13:27:08] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:27:08] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:27:08] [Client thread/INFO]: [CHAT] 已将GLgele传送至gele178
+[13:27:38] [Client thread/INFO]: [CHAT] [gele178: 将gele178传送到 -18.35940993604337，100.0，33.19210933179147]
+[13:32:58] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:32:59] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:33:07] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:33:07] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:33:27] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:33:28] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:34:14] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:34:14] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[13:34:30] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:34:31] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[13:34:41] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:34:42] [Client thread/INFO]: [CHAT] 无法从GLgele身上移除任何效果，因为他们身上什么效果都没有
+[13:34:49] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:34:51] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:36:44] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:36:48] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:37:21] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:37:22] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:38:15] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:38:16] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:38:16] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:38:17] [Client thread/INFO]: [CHAT] [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:38:57] [Client thread/INFO]: Stopping!
+[13:38:57] [Client thread/INFO]: SoundSystem shutting down...
+[13:38:57] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             [13:11:47] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:47] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:47] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:48] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:48] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:48] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:49] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:49] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:49] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:49] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:49] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:49] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:49] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:49] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:49] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:50] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:50] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:50] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:50] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:50] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:50] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:50] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:50] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:50] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:51] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:51] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:51] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:51] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:51] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:51] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:51] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:51] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:51] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:51] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:51] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:51] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:52] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:52] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:52] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:52] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:52] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:52] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:52] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:52] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:52] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:53] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:53] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:53] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:53] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:53] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:53] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:53] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:53] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:53] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:55] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:55] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:55] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:55] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:55] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:55] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:55] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:55] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:55] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:56] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:56] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:56] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:56] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:56] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:56] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:57] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:57] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:57] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:57] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:57] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:57] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:59] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:59] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:59] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:59] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:59] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:59] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:59] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:59] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:59] [Server thread/INFO]: [@: 已清除time_stop]
+[13:12:01] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:12:01] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:12:01] [Server thread/INFO]: [@: 已清除time_stop]
+[13:12:03] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:12:03] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:12:03] [Server thread/INFO]: [@: 已清除time_stop]
+[13:12:05] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:12:05] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:12:05] [Server thread/INFO]: [@: 已清除time_stop]
+[13:12:26] [User Authenticator #1/INFO]: UUID of player GLgele is 84e8de8e-f6d9-4371-835b-6844cb7ff0e9
+[13:12:26] [Server thread/INFO]: GLgele[/192.168.122.80:51138] logged in with entity id 164 at (19.07338535501482, 110.65052121319407, 32.598430698903236)
+[13:12:26] [Server thread/INFO]: GLgele加入了游戏
+[13:12:26] [Client thread/INFO]: [CHAT] GLgele加入了游戏
+[13:12:30] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为创造模式 ]
+[13:12:30] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为创造模式 ]
+[13:12:45] [Server thread/INFO]: GLgele掉出了这个世界
+[13:12:45] [Server thread/INFO]: [GLgele: 已清除GLgele]
+[13:12:45] [Client thread/INFO]: [CHAT] GLgele掉出了这个世界
+[13:12:45] [Client thread/INFO]: [CHAT] [GLgele: 已清除GLgele]
+[13:12:50] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:12:50] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:12:51] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为创造模式 ]
+[13:12:51] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为创造模式 ]
+[13:12:54] [Server thread/INFO]: [@: 已重置玩家GLgele的death的分数]
+[13:12:54] [Server thread/INFO]: [@: 已重置玩家gele178的death的分数]
+[13:12:54] [Server thread/INFO]: [@: 已重置玩家GLgele的score的分数]
+[13:12:54] [Server thread/INFO]: [@: 已重置玩家gele178的score的分数]
+[13:13:06] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:06] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:06] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:06] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:13] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:13] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:13] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:13] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:18] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:18] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:18] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:18] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:37] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:37] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:37] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:37] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:38] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:38] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:38] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:38] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:39] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:39] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:39] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:39] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:39] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:39] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:39] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:39] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:39] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:39] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:39] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:43] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:13:43] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:13:43] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:13:43] [Server thread/INFO]: [@: 已清除time_stop]
+[13:13:48] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:13:48] [Server thread/INFO]: [gele178: 已将gele178传送至GLgele]
+[13:13:48] [Client thread/INFO]: [CHAT] 已将gele178传送至GLgele
+[13:13:53] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[13:13:54] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:13:54] [Server thread/INFO]: [gele178: 将GLgele的游戏模式改为冒险模式]
+[13:14:05] [Client thread/INFO]: [CHAT] [调试]： 区块边界：隐藏
+[13:14:06] [Server thread/INFO]: GLgele掉出了这个世界
+[13:14:06] [Client thread/INFO]: [CHAT] GLgele掉出了这个世界
+[13:14:11] [Server thread/INFO]: [@: 已重置玩家gele178的death的分数]
+[13:14:11] [Server thread/INFO]: [@: 已重置玩家GLgele的death的分数]
+[13:14:11] [Server thread/INFO]: [@: 已重置玩家gele178的score的分数]
+[13:14:11] [Server thread/INFO]: [@: 已重置玩家GLgele的score的分数]
+[13:14:29] [Client thread/INFO]: [CHAT] [调试]： 区块边界：显示
+[13:15:45] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:15:45] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:16:14] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ scoreboard players tag @p add kill_area
+[13:16:45] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ scoreboard players tag @p add kill_area
+[13:17:09] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area]
+[13:17:11] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ scoreboard players tag @p add kill_area
+[13:17:42] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[r=5] 
+[13:17:44] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:17:45] [Client thread/INFO]: [CHAT] minecraft:absorption, minecraft:blindness, minecraft:fire_resistance, minecraft:glowing, minecraft:haste, minecraft:health_boost, minecraft:hunger, minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility, minecraft:jump_boost, minecraft:levitation, minecraft:luck, minecraft:mining_fatigue, minecraft:nausea, minecraft:night_vision, minecraft:poison, minecraft:regeneration, minecraft:resistance, minecraft:saturation, minecraft:slowness, minecraft:speed, minecraft:strength, minecraft:unluck, minecraft:water_breathing, minecraft:weakness, minecraft:wither
+[13:17:47] [Server thread/INFO]: [gele178: 给予GLgele时长为30秒的伤害吸收（ID 22）*0效果]
+[13:17:47] [Client thread/INFO]: [CHAT] 给予GLgele时长为30秒的伤害吸收（ID 22）*0效果
+[13:18:00] [Client thread/INFO]: [CHAT] minecraft:instant_damage, minecraft:instant_health
+[13:18:01] [Server thread/INFO]: [gele178: 给予GLgele时长为30秒的瞬间伤害（ID 7）*0效果]
+[13:18:01] [Client thread/INFO]: [CHAT] 给予GLgele时长为30秒的瞬间伤害（ID 7）*0效果
+[13:18:05] [Server thread/INFO]: [gele178: 给予GLgele时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:18:05] [Client thread/INFO]: [CHAT] 给予GLgele时长为1秒的瞬间伤害（ID 7）*1效果
+[13:18:15] [Server thread/INFO]: [GLgele: 已将GLgele传送至gele178]
+[13:18:15] [Client thread/INFO]: [CHAT] [GLgele: 已将GLgele传送至gele178]
+[13:18:25] [Server thread/INFO]: [gele178: 给予gele178时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:18:25] [Client thread/INFO]: [CHAT] 给予gele178时长为1秒的瞬间伤害（ID 7）*1效果
+[13:18:33] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:18:33] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:18:49] [Server thread/INFO]: [gele178: 给予gele178时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:18:49] [Client thread/INFO]: [CHAT] 给予gele178时长为1秒的瞬间伤害（ID 7）*1效果
+[13:19:04] [Server thread/INFO]: [gele178: 给予gele178时长为1秒的瞬间伤害（ID 7）*2效果]
+[13:19:04] [Client thread/INFO]: [CHAT] 给予gele178时长为1秒的瞬间伤害（ID 7）*2效果
+[13:19:09] [Server thread/INFO]: [gele178: 给予gele178时长为2秒的瞬间伤害（ID 7）*1效果]
+[13:19:09] [Client thread/INFO]: [CHAT] 给予gele178时长为2秒的瞬间伤害（ID 7）*1效果
+[13:19:16] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:19:17] [Server thread/INFO]: [gele178: 给予GLgele时长为2秒的瞬间伤害（ID 7）*1效果]
+[13:19:17] [Client thread/INFO]: [CHAT] 给予GLgele时长为2秒的瞬间伤害（ID 7）*1效果
+[13:19:23] [Server thread/INFO]: [gele178: 给予GLgele时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:19:23] [Server thread/INFO]: GLgele被魔法杀死了
+[13:19:23] [Client thread/INFO]: [CHAT] 给予GLgele时长为1秒的瞬间伤害（ID 7）*1效果
+[13:19:23] [Client thread/INFO]: [CHAT] GLgele被魔法杀死了
+[13:19:37] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:19:37] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:19:39] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为创造模式 ]
+[13:19:39] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为创造模式 ]
+[13:19:42] [Server thread/INFO]: [@: 已重置玩家GLgele的death的分数]
+[13:19:42] [Server thread/INFO]: [@: 已重置玩家gele178的death的分数]
+[13:19:42] [Server thread/INFO]: [@: 已重置玩家GLgele的score的分数]
+[13:19:42] [Server thread/INFO]: [@: 已重置玩家gele178的score的分数]
+[13:19:44] [Server thread/INFO]: [GLgele: 已将GLgele传送至gele178]
+[13:19:44] [Client thread/INFO]: [CHAT] [GLgele: 已将GLgele传送至gele178]
+[13:19:50] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:19:50] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:20:01] [Server thread/INFO]: [gele178: 给予GLgele时长为1秒的瞬间伤害（ID 7）*1效果]
+[13:20:01] [Client thread/INFO]: [CHAT] 给予GLgele时长为1秒的瞬间伤害（ID 7）*1效果
+[13:20:32] [Client thread/INFO]: [CHAT] 没有ID为minecraft:的生物状态效果
+[13:20:36] [Client thread/INFO]: [CHAT] minecraft:absorption, minecraft:blindness, minecraft:fire_resistance, minecraft:glowing, minecraft:haste, minecraft:health_boost, minecraft:hunger, minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility, minecraft:jump_boost, minecraft:levitation, minecraft:luck, minecraft:mining_fatigue, minecraft:nausea, minecraft:night_vision, minecraft:poison, minecraft:regeneration, minecraft:resistance, minecraft:saturation, minecraft:slowness, minecraft:speed, minecraft:strength, minecraft:unluck, minecraft:water_breathing, minecraft:weakness, minecraft:wither
+[13:20:38] [Client thread/INFO]: [CHAT] minecraft:absorption, minecraft:blindness, minecraft:fire_resistance, minecraft:glowing, minecraft:haste, minecraft:health_boost, minecraft:hunger, minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility, minecraft:jump_boost, minecraft:levitation, minecraft:luck, minecraft:mining_fatigue, minecraft:nausea, minecraft:night_vision, minecraft:poison, minecraft:regeneration, minecraft:resistance, minecraft:saturation, minecraft:slowness, minecraft:speed, minecraft:strength, minecraft:unluck, minecraft:water_breathing, minecraft:weakness, minecraft:wither
+[13:20:38] [Client thread/INFO]: [CHAT] minecraft:absorption, minecraft:blindness, minecraft:fire_resistance, minecraft:glowing, minecraft:haste, minecraft:health_boost, minecraft:hunger, minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility, minecraft:jump_boost, minecraft:levitation, minecraft:luck, minecraft:mining_fatigue, minecraft:nausea, minecraft:night_vision, minecraft:poison, minecraft:regeneration, minecraft:resistance, minecraft:saturation, minecraft:slowness, minecraft:speed, minecraft:strength, minecraft:unluck, minecraft:water_breathing, minecraft:weakness, minecraft:wither
+[13:20:39] [Client thread/INFO]: [CHAT] minecraft:absorption, minecraft:blindness, minecraft:fire_resistance, minecraft:glowing, minecraft:haste, minecraft:health_boost, minecraft:hunger, minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility, minecraft:jump_boost, minecraft:levitation, minecraft:luck, minecraft:mining_fatigue, minecraft:nausea, minecraft:night_vision, minecraft:poison, minecraft:regeneration, minecraft:resistance, minecraft:saturation, minecraft:slowness, minecraft:speed, minecraft:strength, minecraft:unluck, minecraft:water_breathing, minecraft:weakness, minecraft:wither
+[13:20:40] [Client thread/INFO]: [CHAT] minecraft:absorption, minecraft:blindness, minecraft:fire_resistance, minecraft:glowing, minecraft:haste, minecraft:health_boost, minecraft:hunger, minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility, minecraft:jump_boost, minecraft:levitation, minecraft:luck, minecraft:mining_fatigue, minecraft:nausea, minecraft:night_vision, minecraft:poison, minecraft:regeneration, minecraft:resistance, minecraft:saturation, minecraft:slowness, minecraft:speed, minecraft:strength, minecraft:unluck, minecraft:water_breathing, minecraft:weakness, minecraft:wither
+[13:20:40] [Server thread/INFO]: [gele178: 给予GLgele时长为30秒的急迫（ID 3）*0效果]
+[13:20:40] [Client thread/INFO]: [CHAT] 给予GLgele时长为30秒的急迫（ID 3）*0效果
+[13:21:01] [Server thread/INFO]: [gele178: 给予GLgele时长为30秒的抗性提升（ID 11）*0效果]
+[13:21:01] [Client thread/INFO]: [CHAT] 给予GLgele时长为30秒的抗性提升（ID 11）*0效果
+[13:21:06] [Client thread/INFO]: [CHAT] 没有ID为minecraft:reg的生物状态效果
+[13:21:08] [Server thread/INFO]: [gele178: 给予GLgele时长为30秒的生命恢复（ID 10）*0效果]
+[13:21:08] [Client thread/INFO]: [CHAT] 给予GLgele时长为30秒的生命恢复（ID 10）*0效果
+[13:21:17] [Server thread/INFO]: [gele178: 已将GLgele身上的全部效果移除]
+[13:21:17] [Client thread/INFO]: [CHAT] 已将GLgele身上的全部效果移除
+[13:21:36] [Server thread/INFO]: [gele178: 给予GLgele时长为30秒的中毒（ID 19）*0效果]
+[13:21:36] [Client thread/INFO]: [CHAT] 给予GLgele时长为30秒的中毒（ID 19）*0效果
+[13:21:42] [Server thread/INFO]: [gele178: 已将GLgele身上的全部效果移除]
+[13:21:42] [Client thread/INFO]: [CHAT] 已将GLgele身上的全部效果移除
+[13:21:47] [Server thread/INFO]: [gele178: 给予GLgele时长为1秒的中毒（ID 19）*1效果]
+[13:21:47] [Client thread/INFO]: [CHAT] 给予GLgele时长为1秒的中毒（ID 19）*1效果
+[13:21:50] [Server thread/INFO]: [gele178: 给予GLgele时长为1秒的中毒（ID 19）*3效果]
+[13:21:50] [Client thread/INFO]: [CHAT] 给予GLgele时长为1秒的中毒（ID 19）*3效果
+[13:22:02] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*1效果]
+[13:22:02] [Client thread/INFO]: [CHAT] 给予GLgele时长为3秒的中毒（ID 19）*1效果
+[13:22:13] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*2效果]
+[13:22:13] [Client thread/INFO]: [CHAT] 给予GLgele时长为3秒的中毒（ID 19）*2效果
+[13:22:18] [Server thread/INFO]: [gele178: 给予GLgele时长为2秒的中毒（ID 19）*1效果]
+[13:22:18] [Client thread/INFO]: [CHAT] 给予GLgele时长为2秒的中毒（ID 19）*1效果
+[13:22:25] [Client thread/INFO]: [CHAT] 无法从GLgele身上移除任何效果，因为他们身上什么效果都没有
+[13:22:30] [Server thread/INFO]: GLgele被gele178杀死了
+[13:22:30] [Client thread/INFO]: [CHAT] GLgele被gele178杀死了
+[13:22:40] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:22:40] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:22:41] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为创造模式 ]
+[13:22:41] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为创造模式 ]
+[13:22:43] [Server thread/INFO]: [@: 已重置玩家GLgele的death的分数]
+[13:22:43] [Server thread/INFO]: [@: 已重置玩家gele178的death的分数]
+[13:22:43] [Server thread/INFO]: [@: 已重置玩家GLgele的score的分数]
+[13:22:43] [Server thread/INFO]: [@: 已重置玩家gele178的score的分数]
+[13:22:45] [Server thread/INFO]: [GLgele: 已将GLgele传送至gele178]
+[13:22:45] [Client thread/INFO]: [CHAT] [GLgele: 已将GLgele传送至gele178]
+[13:22:57] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:22:57] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:23:02] [Server thread/INFO]: [gele178: 给予GLgele时长为2秒的中毒（ID 19）*1效果]
+[13:23:02] [Client thread/INFO]: [CHAT] 给予GLgele时长为2秒的中毒（ID 19）*1效果
+[13:23:08] [Server thread/INFO]: [gele178: 给予GLgele时长为2秒的中毒（ID 19）*2效果]
+[13:23:08] [Client thread/INFO]: [CHAT] 给予GLgele时长为2秒的中毒（ID 19）*2效果
+[13:23:15] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:23:15] [Client thread/INFO]: [CHAT] 给予GLgele时长为3秒的中毒（ID 19）*5效果
+[13:23:23] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:23:26] [Client thread/INFO]: [CHAT] minecraft:absorption, minecraft:blindness, minecraft:fire_resistance, minecraft:glowing, minecraft:haste, minecraft:health_boost, minecraft:hunger, minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility, minecraft:jump_boost, minecraft:levitation, minecraft:luck, minecraft:mining_fatigue, minecraft:nausea, minecraft:night_vision, minecraft:poison, minecraft:regeneration, minecraft:resistance, minecraft:saturation, minecraft:slowness, minecraft:speed, minecraft:strength, minecraft:unluck, minecraft:water_breathing, minecraft:weakness, minecraft:wither
+[13:23:29] [Client thread/INFO]: [CHAT] minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility
+[13:23:30] [Client thread/INFO]: [CHAT] minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility
+[13:24:52] [Server thread/INFO]: [gele178: 给予GLgele时长为1秒的瞬间治疗（ID 6）*128效果]
+[13:24:52] [Client thread/INFO]: [CHAT] 给予GLgele时长为1秒的瞬间治疗（ID 6）*128效果
+[13:24:55] [Server thread/INFO]: [gele178: 给予GLgele时长为1秒的瞬间治疗（ID 6）*128效果]
+[13:24:55] [Client thread/INFO]: [CHAT] 给予GLgele时长为1秒的瞬间治疗（ID 6）*128效果
+[13:24:58] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:24:58] [Client thread/INFO]: [CHAT] 给予GLgele时长为3秒的中毒（ID 19）*5效果
+[13:25:34] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[r=5,tag!=kill_area] minecraft:poison 3 5
+[13:25:54] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[r=5,tag!=kill_area] minecraft:poison 3 5
+[13:25:56] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[r=5,tag!=kill_area] minecraft:poison 3 5
+[13:25:57] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[r=5,tag!=kill_area] minecraft:poison 3 5
+[13:25:58] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[r=5,tag!=kill_area] minecraft:poison 3 5
+[13:26:00] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[r=5,tag!=kill_area] minecraft:poison 3 5
+[13:26:07] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=time_stop] ~ ~ ~ scoreboard players tag @p remove time_stop
+[13:26:29] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ scoreboard players tag @p remove kill_area
+[13:26:33] [Client thread/INFO]: [CHAT] 成功设置：kill @e[type=bat,name=time_stop]
+[13:26:44] [Client thread/INFO]: [CHAT] 成功设置：kill @e[type=bat,name=kill_area]
+[13:26:46] [Client thread/INFO]: [CHAT] 成功设置：kill @e[type=bat,name=time_stop]
+[13:26:47] [Client thread/INFO]: [CHAT] 成功设置：kill @e[type=bat,name=time_stop]
+[13:26:52] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:26:52] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:26:55] [Server thread/INFO]: GLgele掉出了这个世界
+[13:26:55] [Client thread/INFO]: [CHAT] GLgele掉出了这个世界
+[13:26:57] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:26:57] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:26:59] [Client thread/INFO]: [CHAT] [调试]： 区块边界：隐藏
+[13:27:04] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:27:04] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为旁观模式 ]
+[13:27:06] [Server thread/INFO]: [GLgele: 已将GLgele传送至GLgele]
+[13:27:06] [Client thread/INFO]: [CHAT] [GLgele: 已将GLgele传送至GLgele]
+[13:27:08] [Server thread/INFO]: [GLgele: 已将GLgele传送至gele178]
+[13:27:08] [Client thread/INFO]: [CHAT] [GLgele: 已将GLgele传送至gele178]
+[13:27:32] [Server thread/INFO]: [@: 已重置玩家gele178的death的分数]
+[13:27:32] [Server thread/INFO]: [@: 已重置玩家GLgele的death的分数]
+[13:27:32] [Server thread/INFO]: [@: 已重置玩家gele178的score的分数]
+[13:27:32] [Server thread/INFO]: [@: 已重置玩家GLgele的score的分数]
+[13:27:36] [Client thread/INFO]: [CHAT] 无法找到实体’~‘
+[13:27:38] [Server thread/INFO]: [gele178: 将gele178传送到 -18.35940993604337，100.0，33.19210933179147]
+[13:27:38] [Client thread/INFO]: [CHAT] 将gele178传送到 -18.35940993604337，100.0，33.19210933179147
+[13:32:57] [Client thread/INFO]: [CHAT] 成功设置：/summon minecraft:villager -3 102 30 {Offers:{Recipes:[{maxUses:9999999,buy:{id:paper,Count:5},sell:{id:spawn_egg,Count:1,tag:{display:{Name:"time_stop"},EntityTag:{id:"minecraft:bat"}}}},{maxUses:9999999,buy:{id:paper,Count:5},sell:{id:spawn_egg,Count:1,tag:{display:{name:"kill_area"},EntityTag:{id:"minecraft:bat"}}}}]}}
+[13:32:58] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:32:58] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:32:59] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:32:59] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:33:00] [Server thread/INFO]: [@: 成功地召唤了实体]
+[13:33:05] [Server thread/INFO]: [@: 已清除村民]
+[13:33:07] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:33:07] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:33:07] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:33:07] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:33:25] [Client thread/INFO]: [CHAT] 成功设置：/summon minecraft:villager -3 102 30 {Offers:{Recipes:[{maxUses:9999999,buy:{id:paper,Count:5},sell:{id:spawn_egg,Count:1,tag:{display:{Name:"time_stop"},EntityTag:{id:"minecraft:bat"}}}},{maxUses:9999999,buy:{id:paper,Count:5},sell:{id:spawn_egg,Count:1,tag:{display:{Name:"kill_area"},EntityTag:{id:"minecraft:bat"}}}}]}}
+[13:33:27] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:33:27] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:33:28] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:33:28] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:33:30] [Server thread/INFO]: [@: 成功地召唤了实体]
+[13:33:37] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:37] [Server thread/INFO]: [@: 给予gele178时长为3秒的缓慢（ID 2）*255效果]
+[13:33:37] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:37] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:41] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:41] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:41] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:41] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:49] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:49] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:49] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:49] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:49] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:49] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:49] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:49] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:50] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:50] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:50] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:50] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:51] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:51] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:51] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:51] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:52] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:52] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:52] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:52] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:53] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:53] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:53] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:53] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:53] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:53] [Server thread/INFO]: [@: 给予gele178时长为3秒的缓慢（ID 2）*255效果]
+[13:33:53] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:53] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:54] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:54] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:54] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:54] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:57] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:57] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:57] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:57] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:58] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:58] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:58] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:58] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:58] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:58] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:58] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:59] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:59] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:59] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:59] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:59] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:59] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:59] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:59] [Server thread/INFO]: [@: 已清除time_stop]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:33:59] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:33:59] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:33:59] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:00] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:00] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:00] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:00] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:00] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:00] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:00] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:00] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:00] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:00] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:00] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:00] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:01] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:01] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:01] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:01] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:01] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:01] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:01] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:01] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:01] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:01] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:01] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:01] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:01] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:01] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:01] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:01] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:02] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:02] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:02] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:02] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:02] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:02] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:02] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:02] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:02] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:02] [Server thread/INFO]: [@: 给予gele178时长为3秒的缓慢（ID 2）*255效果]
+[13:34:02] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:02] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:02] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:02] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:02] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:02] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:03] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:34:03] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:34:03] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:34:03] [Server thread/INFO]: [@: 已清除time_stop]
+[13:34:10] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:10] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:10] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:14] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:34:14] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:34:23] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:23] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:23] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:25] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:25] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:25] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:31] [Server thread/INFO]: [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:34:31] [Client thread/INFO]: [CHAT] [GLgele: 您的游戏模式已被设置为冒险模式 ]
+[13:34:38] [Server thread/INFO]: [@: 已清除制箭师]
+[13:34:46] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:46] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:46] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:47] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:47] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:47] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:47] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:47] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:47] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:48] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:48] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:48] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:48] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:48] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:48] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:49] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:34:49] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:34:51] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:34:51] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:34:52] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:52] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:52] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:52] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:52] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:52] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:56] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ scoreboard players tag @p add kill_area
+[13:34:56] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:56] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:56] [Server thread/INFO]: [@: 已清除kill_area]
+[13:34:58] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ scoreboard players tag @p add kill_area
+[13:34:59] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:34:59] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:34:59] [Server thread/INFO]: [@: 已清除kill_area]
+[13:35:01] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ scoreboard players tag @p add kill_area
+[13:35:37] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ effect @a[r=5,tag!=kill_area] minecraft:poison 3 5
+[13:35:38] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:35:38] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:35:38] [Server thread/INFO]: [@: 已清除kill_area]
+[13:35:47] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ effect @a[r=5,tag!=kill_area] minecraft:poison 3 5
+[13:35:51] [Client thread/INFO]: [CHAT] 成功设置：effect @a[tag=!time_stop] minecraft:slowness 3 255
+[13:36:02] [Client thread/INFO]: [CHAT] 成功设置：effect @a[tag!=kill_area] minecraft:poison 3 5
+[13:36:03] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:03] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:03] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:29] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[tag=!kill_area] minecraft:poison 3 5
+[13:36:31] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:31] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:36:31] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:31] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:32] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[tag=!kill_area] minecraft:poison 3 5
+[13:36:33] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:33] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:36:33] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:33] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:33] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:33] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:36:33] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:33] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:34] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:34] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:36:34] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:34] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:34] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:34] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:36:34] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:34] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:37] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[tag=!kill_area] minecraft:poison 3 5
+[13:36:39] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[tag=!kill_area] minecraft:poison 3 5
+[13:36:40] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[tag=!kill_area] minecraft:poison 3 5
+[13:36:41] [Client thread/INFO]: [CHAT] 成功设置：execute @e[type=bat,name=kill_area] ~ ~ ~ scoreboard players tag @p add kill_area
+[13:36:44] [Client thread/INFO]: [CHAT] 成功设置：execute @a[tag=kill_area] ~ ~ ~ effect @a[tag=!kill_area] minecraft:poison 3 5
+[13:36:44] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:36:44] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:36:48] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:36:48] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:36:50] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:50] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:36:50] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:50] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:53] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:53] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:36:53] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:53] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:56] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:56] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:36:56] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:56] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:56] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:56] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:36:56] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:56] [Server thread/INFO]: [@: 已清除kill_area]
+[13:36:59] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:36:59] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:36:59] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:36:59] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:00] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:00] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:00] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:00] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:01] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:01] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:01] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:01] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:01] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:01] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:01] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:01] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:01] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:01] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:01] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:02] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:02] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:02] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:02] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:02] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:02] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:02] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:02] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:02] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:02] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:02] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:03] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:03] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:03] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:03] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:03] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:03] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:03] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:03] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:03] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:03] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:03] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:04] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:04] [Server thread/INFO]: [GLgele: 给予gele178时长为3秒的中毒（ID 19）*5效果]
+[13:37:04] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:04] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:04] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:04] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:37:04] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:04] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:05] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:05] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:37:05] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:05] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:06] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:06] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:37:06] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:06] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:06] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:06] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:37:06] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:06] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:08] [Server thread/INFO]: [kill_area: 标签kill_area已添加]
+[13:37:08] [Server thread/INFO]: [gele178: 给予GLgele时长为3秒的中毒（ID 19）*5效果]
+[13:37:08] [Server thread/INFO]: [kill_area: 标签kill_area已删除]
+[13:37:08] [Server thread/INFO]: [@: 已清除kill_area]
+[13:37:21] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:37:21] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:37:22] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:37:22] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:37:45] [Client thread/INFO]: [CHAT] GLgele, gele178
+[13:37:49] [Client thread/INFO]: [CHAT] 无法从gele178身上移除任何效果，因为他们身上什么效果都没有
+[13:37:49] [Client thread/INFO]: [CHAT] 无法从GLgele身上移除任何效果，因为他们身上什么效果都没有
+[13:38:15] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:38:15] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:38:16] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:38:16] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:38:16] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:38:16] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:38:17] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:38:17] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:38:19] [Server thread/INFO]: [@: 成功地召唤了实体]
+[13:38:50] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:38:50] [Server thread/INFO]: [@: 给予GLgele时长为3秒的缓慢（ID 2）*255效果]
+[13:38:50] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:38:50] [Server thread/INFO]: [@: 已清除time_stop]
+[13:38:53] [Server thread/INFO]: gele178 lost connection: 连接中止
+[13:38:53] [Server thread/INFO]: gele178退出了游戏
+[13:38:53] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:38:53] [Server thread/INFO]: Stopping server
+[13:38:53] [Server thread/INFO]: Saving players
+[13:38:53] [Server thread/INFO]: Saving worlds
+[13:38:53] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:38:53] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:38:53] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:38:54] [Client thread/INFO]: Stopping!
+[13:38:54] [Client thread/INFO]: SoundSystem shutting down...
+[13:38:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

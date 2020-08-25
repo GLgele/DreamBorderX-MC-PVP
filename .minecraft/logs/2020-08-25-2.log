@@ -1,0 +1,136 @@
+[13:08:56] [Client thread/INFO]: Setting user: gele178
+[13:08:57] [Client thread/WARN]: Skipping bad option: lastServer:
+[13:08:57] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:08:57] [Client thread/INFO]: Reloading ResourceManager: Default, Minecraft-Mod-Language-Modpack.zip
+[13:08:58] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:08:58] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[13:08:58] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:08:59] [Thread-4/INFO]: OpenAL initialized.
+[13:08:59] [Sound Library Loader/INFO]: Sound engine started
+[13:09:01] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[13:09:02] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[13:09:04] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:09:08] [Client thread/INFO]: Realms library version == 1.10.22
+[13:09:09] [MCO Compatability Checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:09:09] [MCO Compatability Checker #1/ERROR]: Couldn't connect to realms: 
+[13:09:14] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[13:09:14] [Server thread/INFO]: Generating keypair
+[13:09:14] [Server thread/INFO]: Loaded 488 advancements
+[13:09:14] [Server thread/INFO]: Preparing start region for level 0
+[13:09:14] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:09:15] [Server thread/INFO]: gele178[local:E:38051206] logged in with entity id 29 at (19.48285800657707, 111.0, 29.88958816387055)
+[13:09:15] [Server thread/INFO]: gele178加入了游戏
+[13:09:16] [Server thread/INFO]: Saving and pausing game...
+[13:09:16] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:09:16] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:09:16] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:09:16] [Client thread/INFO]: Loaded 41 advancements
+[13:09:22] [Server thread/INFO]: Saving and pausing game...
+[13:09:22] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:09:22] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:09:22] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:09:29] [Client thread/INFO]: [CHAT] 已将截图保存为2020-08-25_13.09.29.png
+[13:09:32] [Client thread/INFO]: [CHAT] [调试]： 碰撞体积：显示
+[13:09:33] [Client thread/INFO]: [CHAT] [调试]： 碰撞体积：隐藏
+[13:09:34] [Client thread/INFO]: [CHAT] [调试]： 碰撞体积：显示
+[13:09:35] [Client thread/INFO]: [CHAT] [调试]： 碰撞体积：隐藏
+[13:09:38] [Client thread/INFO]: [CHAT] [调试]： 按键设置：
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + A = 重新加载区块
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + B = 显示碰撞体积
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + D = 清空聊天记录
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + F = 在渲染距离间循环（按Shift来反向循环）
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + G = 显示区块边界
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + H = 显示高级提示框
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + N = 在创造和旁观模式间切换
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + P = 失去焦点时暂停
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + Q = 显示此列表
+[13:09:38] [Client thread/INFO]: [CHAT] F3 + T = 重新加载资源包
+[13:09:42] [Client thread/INFO]: [CHAT] [调试]： 按键设置：
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + A = 重新加载区块
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + B = 显示碰撞体积
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + D = 清空聊天记录
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + F = 在渲染距离间循环（按Shift来反向循环）
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + G = 显示区块边界
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + H = 显示高级提示框
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + N = 在创造和旁观模式间切换
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + P = 失去焦点时暂停
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + Q = 显示此列表
+[13:09:42] [Client thread/INFO]: [CHAT] F3 + T = 重新加载资源包
+[13:09:46] [Client thread/INFO]: [CHAT] [调试]： 区块边界：显示
+[13:10:08] [Server thread/INFO]: Saving and pausing game...
+[13:10:08] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:10:08] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:10:08] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:10:17] [Server thread/INFO]: Saving and pausing game...
+[13:10:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:10:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:10:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:10:19] [Server thread/INFO]: Saving and pausing game...
+[13:10:19] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:10:19] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:10:19] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:10:21] [Server thread/INFO]: Saving and pausing game...
+[13:10:21] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:10:21] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:10:21] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:10:23] [Server thread/INFO]: Saving and pausing game...
+[13:10:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:10:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:10:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:10:26] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:10:26] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:10:33] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:10:33] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:10:35] [Server thread/INFO]: [@: 成功地召唤了实体]
+[13:10:36] [Server thread/INFO]: Saving and pausing game...
+[13:10:36] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:10:36] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:10:36] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:10:48] [Server thread/INFO]: [@: 已清除牧羊人]
+[13:10:54] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:10:54] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:10:54] [Server thread/INFO]: [@: 已清除time_stop]
+[13:10:56] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[13:10:56] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[13:10:59] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[13:10:59] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[13:11:01] [Server thread/INFO]: Saving and pausing game...
+[13:11:01] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:11:01] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:11:01] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:11:02] [Server thread/INFO]: Saving and pausing game...
+[13:11:02] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:11:02] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:11:02] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:11:04] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:04] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:04] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:04] [Server thread/INFO]: Saving and pausing game...
+[13:11:04] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:11:04] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:11:04] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:11:07] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:07] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:07] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:08] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:08] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:08] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:08] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:08] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:08] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:08] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:08] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:08] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:09] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:09] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:09] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:10] [Server thread/INFO]: [time_stop: 标签time_stop已添加]
+[13:11:10] [Server thread/INFO]: [time_stop: 标签time_stop已删除]
+[13:11:10] [Server thread/INFO]: [@: 已清除time_stop]
+[13:11:12] [Server thread/INFO]: Saving and pausing game...
+[13:11:12] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[13:11:12] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[13:11:12] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[13:11:18] [Client thread/INFO]: Using default channel type
+[13:11:18] [Client thread/INFO]: Started on 51096
+[13:11:18] [Client thread/INFO]: [CHAT] 本地游戏已在端口51096上开启
