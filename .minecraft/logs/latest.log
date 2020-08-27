@@ -1,149 +1,355 @@
-[19:21:06] [Client thread/WARN]: Skipping bad option: lastServer:
-[19:21:06] [Client thread/INFO]: LWJGL Version: 2.9.4
-[19:21:09] [Client thread/INFO]: Reloading ResourceManager: Default, Minecraft-Mod-Language-Modpack.zip
-[19:21:10] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[19:21:11] [Thread-4/INFO]: Initializing LWJGL OpenAL
-[19:21:11] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[19:21:14] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[19:21:15] [Client thread/INFO]: Narrator library for x64 successfully loaded
-[19:21:16] [Thread-4/INFO]: OpenAL initialized.
-[19:21:16] [Sound Library Loader/INFO]: Sound engine started
-[19:21:19] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[19:21:22] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
-[19:21:22] [Server thread/INFO]: Generating keypair
-[19:21:22] [Server thread/INFO]: Loaded 488 advancements
-[19:21:22] [Server thread/INFO]: Preparing start region for level 0
-[19:21:23] [Server thread/INFO]: Changing view distance to 12, from 10
-[19:21:24] [Server thread/INFO]: gele178[local:E:b01c18d3] logged in with entity id 30 at (-0.32893934175415107, 102.0, 28.578636283478914)
-[19:21:24] [Server thread/INFO]: gele178加入了游戏
-[19:21:25] [Server thread/INFO]: Saving and pausing game...
-[19:21:25] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:21:25] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:21:25] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:21:25] [Client thread/INFO]: Loaded 41 advancements
-[19:21:34] [Server thread/INFO]: [@: 已清除渔夫]
-[19:21:35] [Server thread/INFO]: [@: 标题命令执行成功]
-[19:21:35] [Server thread/INFO]: [@: 将gele178传送到 -2.5，4.0，21.5]
-[19:21:35] [Server thread/INFO]: [@: 标题命令执行成功]
-[19:21:39] [Server thread/INFO]: [@: 将gele178传送到 4.5，102.0，26.5]
-[19:21:39] [Server thread/INFO]: [@: 标题命令执行成功]
-[19:21:39] [Server thread/INFO]: [@: 标题命令执行成功]
-[19:21:39] [Server thread/INFO]: [@: 标题命令执行成功]
-[19:21:43] [Server thread/INFO]: [@: 标题命令执行成功]
-[19:21:43] [Server thread/INFO]: [@: 将gele178传送到 -2.5，4.0，21.5]
-[19:21:43] [Server thread/INFO]: [@: 标题命令执行成功]
-[19:22:14] [Server thread/INFO]: [gele178: 成功地召唤了实体]
-[19:22:14] [Client thread/INFO]: [CHAT] 成功地召唤了实体
-[19:22:32] [Server thread/INFO]: [gele178: 成功地召唤了实体]
-[19:22:32] [Client thread/INFO]: [CHAT] 成功地召唤了实体
-[19:25:42] [Client thread/INFO]: [CHAT] 数据标签分析失败：Missing termination quote at: ...stomName:\\\\\\\"\\u00a73地图大小：小\\\\<--[HERE]
-[19:25:48] [Server thread/INFO]: Saving and pausing game...
-[19:25:48] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:25:48] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:25:48] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:25:49] [Server thread/INFO]: [@: 成功将[告示牌]*1给予gele178]
-[19:25:49] [Client thread/INFO]: [CHAT] 成功设置：/give @p minecraft:sign 1 0 {BlockEntityTag:{Text1:"{\"text\":\"右键戳我\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/setblock ~ ~ ~ minecraft:command_block 0 replace {Command:\\\"/summon minecraft:bat ~ ~1 ~ {CustomName:\\\\\\\"\\u00a73地图大小：小\\\\\\\",CustomNameVisible:1b,Invulnerable:1b,NoAI:1b,Silent:1b,NoGravity:1b,PersistenceRequired:1b}\\\"}\"}}",Text3:"{\"text\":\"GMCT - 甘小蔗\"}"}}
-[19:25:51] [Server thread/INFO]: Saving and pausing game...
-[19:25:51] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:25:51] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:25:51] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:25:54] [Server thread/INFO]: Saving and pausing game...
-[19:25:54] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:25:54] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:25:54] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:26:00] [Server thread/INFO]: [gele178: 方块已放置]
-[19:26:00] [Server thread/INFO]: Saving and pausing game...
-[19:26:00] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:26:00] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:26:00] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:26:01] [Server thread/INFO]: [@: 成功地召唤了实体]
-[19:26:01] [Client thread/INFO]: [CHAT] 成功设置：/summon minecraft:bat ~ ~1 ~ {CustomName:"§3地图大小：小",CustomNameVisible:1b,Invulnerable:1b,NoAI:1b,Silent:1b,NoGravity:1b,PersistenceRequired:1b}
-[19:27:46] [Server thread/INFO]: Saving and pausing game...
-[19:27:46] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:27:46] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:27:46] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:27:47] [Server thread/INFO]: [@: 成功将[告示牌]*1给予gele178]
-[19:27:47] [Client thread/INFO]: [CHAT] 成功设置：/give @p minecraft:sign 1 0 {BlockEntityTag:{Text1:"{\"text\":\"右键戳我\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/setblock ~ ~ ~ minecraft:command_block 0 replace {Command:\\\"/summon minecraft:bat ~ ~1 ~ {CustomName:\\\\\\\"\\u00a73地图大小：小\\\\\\\",CustomNameVisible:1b,Invulnerable:1b,NoAI:1b,Silent:1b,NoGravity:1b,PersistenceRequired:1b,ActiveEffects:[{Id:14b,Duration:20000000,Amplifier:255b,Ambient:0b,ShowParticles:0b}]}\\\"}\"}}",Text3:"{\"text\":\"GMCT - 甘小蔗\"}"}}
-[19:27:52] [Server thread/INFO]: [gele178: 方块已放置]
-[19:27:52] [Server thread/INFO]: Saving and pausing game...
-[19:27:52] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:27:52] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:27:52] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:27:53] [Server thread/INFO]: [@: 成功地召唤了实体]
-[19:27:53] [Client thread/INFO]: [CHAT] 成功设置：/summon minecraft:bat ~ ~1 ~ {CustomName:"§3地图大小：小",CustomNameVisible:1b,Invulnerable:1b,NoAI:1b,Silent:1b,NoGravity:1b,PersistenceRequired:1b,ActiveEffects:[{Id:14b,Duration:20000000,Amplifier:255b,Ambient:0b,ShowParticles:0b}]}
-[19:27:58] [Server thread/INFO]: [gele178: 方块已放置]
-[19:27:58] [Server thread/INFO]: Saving and pausing game...
-[19:27:58] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:27:58] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:27:58] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:28:00] [Server thread/INFO]: [@: 成功地召唤了实体]
-[19:28:00] [Client thread/INFO]: [CHAT] 成功设置：/summon minecraft:bat ~ ~1 ~ {CustomName:"§3地图大小：小",CustomNameVisible:1b,Invulnerable:1b,NoAI:1b,Silent:1b,NoGravity:1b,PersistenceRequired:1b,ActiveEffects:[{Id:14b,Duration:20000000,Amplifier:255b,Ambient:0b,ShowParticles:0b}]}
-[19:28:04] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
-[19:28:04] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
-[19:28:06] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
-[19:28:06] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[19:28:07] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
-[19:28:07] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
-[19:28:09] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
-[19:28:09] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[19:28:10] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
-[19:28:10] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
-[19:28:16] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
-[19:28:16] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[19:28:19] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
-[19:28:19] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
-[19:28:24] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
-[19:28:24] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[19:28:27] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
-[19:28:27] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
-[19:28:28] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
-[19:28:28] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[19:28:30] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
-[19:28:30] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
-[19:28:31] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
-[19:28:31] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
-[19:28:40] [Server thread/INFO]: Saving and pausing game...
-[19:28:40] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:28:40] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:28:40] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:28:48] [Server thread/INFO]: Saving and pausing game...
-[19:28:48] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:28:48] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:28:48] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:28:58] [Server thread/INFO]: Saving and pausing game...
-[19:28:58] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:28:58] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:28:58] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:29:08] [Server thread/INFO]: Saving and pausing game...
-[19:29:08] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:29:08] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:29:08] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:29:17] [Server thread/INFO]: Saving and pausing game...
-[19:29:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:29:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:29:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:29:29] [Client thread/INFO]: [CHAT] /tell, /tellraw
-[19:29:29] [Client thread/INFO]: [CHAT] /tell, /tellraw
-[19:30:01] [Client thread/INFO]: [CHAT] 无效的json：malformed JSON at line 1 column 3 path $.
-[19:30:14] [Client thread/INFO]: [CHAT] 无效的json：malformed JSON at line 1 column 3 path $.
-[19:30:23] [Client thread/INFO]: [CHAT] aaa
-[19:30:29] [Client thread/INFO]: [CHAT] 无效的json：malformed JSON at line 1 column 3 path $.
-[19:30:37] [Client thread/INFO]: [CHAT] aaabbb
-[19:30:45] [Client thread/INFO]: [CHAT] aaa  bbb
-[19:31:05] [Client thread/INFO]: [CHAT] 无效的json：malformed JSON at line 1 column 33 path $[0].color
-[19:31:11] [Server thread/INFO]: Saving and pausing game...
-[19:31:11] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:31:11] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:31:11] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:31:11] [Server thread/INFO]: Stopping server
-[19:31:11] [Server thread/INFO]: Saving players
-[19:31:11] [Server thread/INFO]: gele178 lost connection: 连接中止
-[19:31:11] [Server thread/INFO]: gele178退出了游戏
-[19:31:12] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[19:31:12] [Server thread/INFO]: Saving worlds
-[19:31:12] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
-[19:31:12] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
-[19:31:12] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
-[19:31:12] [Client thread/INFO]: Stopping!
-[19:31:12] [Client thread/INFO]: SoundSystem shutting down...
-[19:31:12] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:35:05] [Client thread/INFO]: Setting user: gele178
+[19:35:06] [Client thread/WARN]: Skipping bad option: lastServer:
+[19:35:06] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:35:07] [Client thread/INFO]: Reloading ResourceManager: Default, Minecraft-Mod-Language-Modpack.zip
+[19:35:08] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:35:08] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[19:35:08] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:35:08] [Thread-4/INFO]: OpenAL initialized.
+[19:35:08] [Sound Library Loader/INFO]: Sound engine started
+[19:35:11] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[19:35:12] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[19:35:14] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:35:29] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[19:35:29] [Server thread/INFO]: Generating keypair
+[19:35:29] [Server thread/INFO]: Loaded 488 advancements
+[19:35:29] [Server thread/INFO]: Preparing start region for level 0
+[19:35:29] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:35:30] [Server thread/INFO]: gele178[local:E:88089c63] logged in with entity id 29 at (-4.840019328934986, 4.0, 19.710521271710856)
+[19:35:30] [Server thread/INFO]: gele178加入了游戏
+[19:35:31] [Server thread/INFO]: Saving and pausing game...
+[19:35:31] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:35:31] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:35:31] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:35:31] [Client thread/INFO]: Loaded 41 advancements
+[19:35:33] [Client thread/INFO]: [CHAT] [text]
+[19:35:36] [Server thread/INFO]: [gele178] aaa
+[19:35:36] [Client thread/INFO]: [CHAT] [gele178] aaa
+[19:35:36] [Server thread/INFO]: [gele178] aaa
+[19:35:36] [Client thread/INFO]: [CHAT] [gele178] aaa
+[19:35:37] [Server thread/INFO]: [gele178] aaa
+[19:35:37] [Client thread/INFO]: [CHAT] [gele178] aaa
+[19:35:44] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:35:44] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:35:44] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:35:44] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:35:46] [Server thread/INFO]: Saving and pausing game...
+[19:35:46] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:35:46] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:35:46] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:35:48] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:35:48] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:35:50] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:35:50] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:35:51] [Server thread/INFO]: [@: 将gele178传送到 -213.5，8.0，8.5]
+[19:35:51] [Server thread/INFO]: [@] 设置地图完毕
+[19:35:51] [Server thread/INFO]: [@] 开始游戏
+[19:35:51] [Server thread/INFO]: [@] gele178 进入战场
+[19:35:51] [Server thread/INFO]: [@: 标题命令执行成功]
+[19:35:51] [Server thread/INFO]: [@: 向gele178播放声音'minecraft:entity.wither.death']
+[19:35:51] [Client thread/INFO]: [CHAT] [@] 设置地图完毕
+[19:35:51] [Client thread/INFO]: [CHAT] [@] 开始游戏
+[19:35:51] [Client thread/INFO]: [CHAT] [@] gele178 进入战场
+[19:36:51] [Server thread/INFO]: [@: 方块已放置]
+[19:36:53] [Server thread/INFO]: [@: 将gele178传送到 -213.5，7.0，8.5]
+[19:36:53] [Server thread/INFO]: [@: 方块已放置]
+[19:37:02] [Server thread/INFO]: [@: 将玩家gele178的score分数设置为1]
+[19:37:02] [Server thread/INFO]: [@: 成功将[纸]*1给予gele178]
+[19:37:02] [Server thread/INFO]: [@: 将gele178传送到 -1.5，4.0，20.5]
+[19:37:02] [Server thread/INFO]: [@: 将slot.container.0号物品栏的物品替换为了[纸]*1]
+[19:37:02] [Server thread/INFO]: [@: 将slot.container.0号物品栏的物品替换为了[纸]*1]
+[19:37:09] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:37:09] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:37:10] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:37:10] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:37:14] [Server thread/INFO]: [@: 已重置玩家gele178的death的分数]
+[19:37:14] [Server thread/INFO]: [@: 已重置玩家gele178的score的分数]
+[19:37:15] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:37:15] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:37:21] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:37:21] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:37:27] [Server thread/INFO]: [@: 标题命令执行成功]
+[19:37:27] [Server thread/INFO]: [@: 标题命令执行成功]
+[19:37:27] [Server thread/INFO]: [@: 向gele178播放声音'minecraft:block.anvil.use']
+[19:37:27] [Server thread/INFO]: [@: 向gele178播放声音'minecraft:block.anvil.use']
+[19:37:27] [Server thread/INFO]: [@: 向gele178播放声音'minecraft:block.anvil.use']
+[19:37:27] [Server thread/INFO]: gele178掉出了这个世界
+[19:37:27] [Server thread/INFO]: [@: 已清除gele178]
+[19:37:27] [Client thread/INFO]: [CHAT] 注意事项：
+[19:37:27] [Client thread/INFO]: [CHAT] 1、冒险模式
+[19:37:27] [Client thread/INFO]: [CHAT] 2、难度和平
+[19:37:27] [Client thread/INFO]: [CHAT] 3、保持白天
+[19:37:27] [Client thread/INFO]: [CHAT] 4、天气保持晴天
+[19:37:27] [Client thread/INFO]: [CHAT] 5、死亡不掉落
+[19:37:27] [Client thread/INFO]: [CHAT] 这张地图的制作花了好几年（2017年开始做的）
+[19:37:27] [Client thread/INFO]: [CHAT] 所以...尽情游玩吧！
+[19:37:27] [Client thread/INFO]: [CHAT] 对了！死亡次数在侧边栏，而分数按TAB（你的玩家列表）键查看哦！
+[19:37:27] [Client thread/INFO]: [CHAT] gele178掉出了这个世界
+[19:37:30] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:37:30] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:37:32] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:37:32] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:37:34] [Server thread/INFO]: Saving and pausing game...
+[19:37:34] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:37:34] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:37:34] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:37:36] [Server thread/INFO]: [@: 已重置玩家gele178的death的分数]
+[19:37:36] [Server thread/INFO]: [@: 已重置玩家gele178的score的分数]
+[19:37:37] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:37:37] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:37:39] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:37:39] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:37:47] [Server thread/INFO]: [@: 将gele178的游戏模式改为冒险模式]
+[19:37:47] [Server thread/INFO]: [@: 将游戏难度设置为和平]
+[19:37:47] [Server thread/INFO]: [@: 更换到无天气]
+[19:37:47] [Server thread/INFO]: [@: 将时间设为1000]
+[19:37:47] [Server thread/INFO]: [@: 游戏规则keepinventory已经更新为 true]
+[19:37:47] [Server thread/INFO]: [@: 游戏规则doDaylightCycle已经更新为 false]
+[19:37:47] [Server thread/INFO]: [@: 已将gele178的出生点设置为（-3，4，18）]
+[19:37:47] [Server thread/INFO]: [@: 游戏规则doWeatherCycle已经更新为 false]
+[19:37:47] [Server thread/INFO]: [@: 标题命令执行成功]
+[19:37:47] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[19:37:47] [Client thread/INFO]: [CHAT] 提示：如果没有领到初始的一张纸，请自行补上。在商店购买装备。
+[19:37:47] [Client thread/INFO]: [CHAT] 提示：每个地图的箱子里都有纸，请自己找。(包括潜影盒)
+[19:37:49] [Client thread/INFO]: [CHAT] /gamemode, /gamerule, /give
+[19:37:49] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:37:49] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:37:57] [Server thread/INFO]: [@: 将gele178传送到 2.5，11.0，-189.5]
+[19:37:57] [Server thread/INFO]: [@] 设置地图完毕
+[19:37:57] [Server thread/INFO]: [@] 开始游戏
+[19:37:57] [Server thread/INFO]: [@] gele178 进入战场
+[19:37:57] [Server thread/INFO]: [@: 给予gele178时长为10秒的防火（ID 12）*255效果]
+[19:37:57] [Server thread/INFO]: [@: 标题命令执行成功]
+[19:37:57] [Server thread/INFO]: [@: 向gele178播放声音'minecraft:entity.wither.death']
+[19:37:57] [Client thread/INFO]: [CHAT] [@] 设置地图完毕
+[19:37:57] [Client thread/INFO]: [CHAT] [@] 开始游戏
+[19:37:57] [Client thread/INFO]: [CHAT] [@] gele178 进入战场
+[19:38:24] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:38:24] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:38:42] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:38:42] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:39:00] [Server thread/INFO]: [gele178: 将gele178传送到 -11.5，8.0，164.5]
+[19:39:05] [Server thread/INFO]: [gele178: 将gele178传送到 -11.5，8.0，164.5]
+[19:39:07] [Server thread/INFO]: [gele178: 将gele178传送到 -11.5，8.0，164.5]
+[19:39:10] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:39:10] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:39:33] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:39:33] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:39:34] [Server thread/INFO]: [@: 将gele178传送到 235.5，11.0，-12.5]
+[19:39:34] [Server thread/INFO]: [@] 地图设置完毕
+[19:39:34] [Server thread/INFO]: [@] 开始游戏
+[19:39:34] [Server thread/INFO]: [@] gele178 进入战场
+[19:39:34] [Server thread/INFO]: [@: 标题命令执行成功]
+[19:39:34] [Server thread/INFO]: [@: 向gele178播放声音'minecraft:entity.wither.death']
+[19:39:34] [Client thread/INFO]: [CHAT] [@] 地图设置完毕
+[19:39:34] [Client thread/INFO]: [CHAT] [@] 开始游戏
+[19:39:34] [Client thread/INFO]: [CHAT] [@] gele178 进入战场
+[19:39:48] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:39:48] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:39:50] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:39:50] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:39:50] [Server thread/INFO]: Saving and pausing game...
+[19:39:50] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:39:50] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:39:50] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:39:52] [Server thread/INFO]: Saving and pausing game...
+[19:39:52] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:39:52] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:39:52] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:39:53] [Server thread/INFO]: Saving and pausing game...
+[19:39:53] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:39:53] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:39:53] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:39:55] [Server thread/INFO]: Saving and pausing game...
+[19:39:55] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:39:55] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:39:55] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:39:56] [Server thread/INFO]: Saving and pausing game...
+[19:39:56] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:39:56] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:39:56] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:40:00] [Client thread/INFO]: [CHAT] 成功设置：/replaceitem block 235 11 -15 slot.container.0 minecraft:minecart 1
+[19:40:00] [Server thread/INFO]: Saving and pausing game...
+[19:40:00] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:40:00] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:40:00] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:40:01] [Client thread/INFO]: [CHAT] 成功设置：/tp @p -2 4 20
+[19:40:01] [Server thread/INFO]: Saving and pausing game...
+[19:40:01] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:40:01] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:40:01] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:40:02] [Client thread/INFO]: [CHAT] 成功设置：/give @p minecraft:paper 1 0
+[19:40:03] [Server thread/INFO]: Saving and pausing game...
+[19:40:03] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:40:03] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:40:03] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:40:03] [Client thread/INFO]: [CHAT] 成功设置：/scoreboard players add @p score 1
+[19:40:04] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:40:04] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:40:05] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:40:05] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:40:07] [Server thread/INFO]: [@: 将玩家gele178的score分数设置为1]
+[19:40:07] [Server thread/INFO]: [@: 成功将[纸]*1给予gele178]
+[19:40:07] [Server thread/INFO]: [@: 将gele178传送到 -1.5，4.0，20.5]
+[19:40:07] [Server thread/INFO]: [@: 将slot.container.0号物品栏的物品替换为了[矿车]*1]
+[19:40:10] [Server thread/INFO]: [@: 将gele178传送到 -15.5，6.0，168.5]
+[19:40:10] [Server thread/INFO]: [@] 地图设置完毕
+[19:40:10] [Server thread/INFO]: [@] 开始游戏
+[19:40:10] [Server thread/INFO]: [@] gele178 进入战场
+[19:40:10] [Server thread/INFO]: [@: 标题命令执行成功]
+[19:40:10] [Server thread/INFO]: [@: 向gele178播放声音'minecraft:entity.wither.death']
+[19:40:10] [Client thread/INFO]: [CHAT] [@] 地图设置完毕
+[19:40:10] [Client thread/INFO]: [CHAT] [@] 开始游戏
+[19:40:10] [Client thread/INFO]: [CHAT] [@] gele178 进入战场
+[19:40:12] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:40:12] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:40:23] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:40:23] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:40:25] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:27] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:28] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:30] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:31] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:32] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:32] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:33] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:33] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:34] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:40:45] [Client thread/INFO]: [CHAT] maxCommandChainLength, maxEntityCramming
+[19:40:45] [Client thread/INFO]: [CHAT] maxCommandChainLength = 65536
+[19:40:51] [Client thread/INFO]: [CHAT] announceAdvancements, commandBlockOutput, disableElytraMovementCheck, doDaylightCycle, doEntityDrops, doFireTick, doLimitedCrafting, doMobLoot, doMobSpawning, doTileDrops, doWeatherCycle, gameLoopFunction, keepInventory, keepinventory, logAdminCommands, maxCommandChainLength, maxEntityCramming, mobGriefing, naturalRegeneration, randomTickSpeed, reducedDebugInfo, sendCommandFeedback, showDeathMessages, spawnRadius, spectatorsGenerateChunks
+[19:41:05] [Server thread/INFO]: [@: 将gele178传送到 235.5，11.0，-12.5]
+[19:41:05] [Server thread/INFO]: [@] 地图设置完毕
+[19:41:05] [Server thread/INFO]: [@] 开始游戏
+[19:41:05] [Server thread/INFO]: [@] gele178 进入战场
+[19:41:05] [Server thread/INFO]: [@: 标题命令执行成功]
+[19:41:05] [Server thread/INFO]: [@: 向gele178播放声音'minecraft:entity.wither.death']
+[19:41:05] [Client thread/INFO]: [CHAT] [@] 地图设置完毕
+[19:41:05] [Client thread/INFO]: [CHAT] [@] 开始游戏
+[19:41:05] [Client thread/INFO]: [CHAT] [@] gele178 进入战场
+[19:41:15] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:41:15] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:41:16] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:41:16] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:41:17] [Server thread/INFO]: Saving and pausing game...
+[19:41:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:41:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:41:17] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:41:23] [Client thread/INFO]: [CHAT] 成功设置：/replaceitem block 235 11 -15 slot.container.0 minecraft:minecart 64
+[19:41:23] [Server thread/INFO]: Saving and pausing game...
+[19:41:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:41:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:41:23] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:41:24] [Client thread/INFO]: [CHAT] 成功设置：/replaceitem block 235 11 -15 slot.container.0 minecraft:minecart 64
+[19:41:24] [Server thread/INFO]: Saving and pausing game...
+[19:41:24] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:41:24] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:41:24] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:41:26] [Client thread/INFO]: [CHAT] 成功设置：/replaceitem block 235 11 -15 slot.container.0 minecraft:minecart 64
+[19:41:26] [Server thread/INFO]: Saving and pausing game...
+[19:41:26] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:41:26] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:41:26] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:41:27] [Client thread/INFO]: [CHAT] 成功设置：/replaceitem block 235 11 -15 slot.container.0 minecraft:minecart 64
+[19:41:28] [Server thread/INFO]: Saving and pausing game...
+[19:41:28] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:41:28] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:41:28] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:41:29] [Client thread/INFO]: [CHAT] 成功设置：/replaceitem block 235 11 -15 slot.container.0 minecraft:minecart 64
+[19:41:29] [Server thread/INFO]: Saving and pausing game...
+[19:41:29] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:41:29] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:41:29] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:41:30] [Client thread/INFO]: [CHAT] 成功设置：/replaceitem block 235 11 -15 slot.container.0 minecraft:minecart 64
+[19:41:30] [Server thread/INFO]: Saving and pausing game...
+[19:41:30] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:41:30] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:41:30] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:41:32] [Client thread/INFO]: [CHAT] 成功设置：/replaceitem block 235 11 -15 slot.container.0 minecraft:minecart 1
+[19:41:34] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:41:34] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:41:36] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:41:36] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:41:41] [Client thread/INFO]: [CHAT] block, entity
+[19:41:44] [Client thread/INFO]: [CHAT] slot.armor.chest, slot.armor.feet, slot.armor.head, slot.armor.legs, slot.container.0, slot.container.1, slot.container.10, slot.container.11, slot.container.12, slot.container.13, slot.container.14, slot.container.15, slot.container.16, slot.container.17, slot.container.18, slot.container.19, slot.container.2, slot.container.20, slot.container.21, slot.container.22, slot.container.23, slot.container.24, slot.container.25, slot.container.26, slot.container.27, slot.container.28, slot.container.29, slot.container.3, slot.container.30, slot.container.31, slot.container.32, slot.container.33, slot.container.34, slot.container.35, slot.container.36, slot.container.37, slot.container.38, slot.container.39, slot.container.4, slot.container.40, slot.container.41, slot.container.42, slot.container.43, slot.container.44, slot.container.45, slot.container.46, slot.container.47, slot.container.48, slot.container.49, slot.container.5, slot.container.50, slot.container.51, slot.container.52, slot.container.53, slot.container.6, slot.container.7, slot.container.8, slot.container.9, slot.enderchest.0, slot.enderchest.1, slot.enderchest.10, slot.enderchest.11, slot.enderchest.12, slot.enderchest.13, slot.enderchest.14, slot.enderchest.15, slot.enderchest.16, slot.enderchest.17, slot.enderchest.18, slot.enderchest.19, slot.enderchest.2, slot.enderchest.20, slot.enderchest.21, slot.enderchest.22, slot.enderchest.23, slot.enderchest.24, slot.enderchest.25, slot.enderchest.26, slot.enderchest.3, slot.enderchest.4, slot.enderchest.5, slot.enderchest.6, slot.enderchest.7, slot.enderchest.8, slot.enderchest.9, slot.horse.0, slot.horse.1, slot.horse.10, slot.horse.11, slot.horse.12, slot.horse.13, slot.horse.14, slot.horse.2, slot.horse.3, slot.horse.4, slot.horse.5, slot.horse.6, slot.horse.7, slot.horse.8, slot.horse.9, slot.horse.armor, slot.horse.chest, slot.horse.saddle, slot.hotbar.0, slot.hotbar.1, slot.hotbar.2, slot.hotbar.3, slot.hotbar.4, slot.hotbar.5, slot.hotbar.6, slot.hotbar.7, slot.hotbar.8, slot.inventory.0, slot.inventory.1, slot.inventory.10, slot.inventory.11, slot.inventory.12, slot.inventory.13, slot.inventory.14, slot.inventory.15, slot.inventory.16, slot.inventory.17, slot.inventory.18, slot.inventory.19, slot.inventory.2, slot.inventory.20, slot.inventory.21, slot.inventory.22, slot.inventory.23, slot.inventory.24, slot.inventory.25, slot.inventory.26, slot.inventory.3, slot.inventory.4, slot.inventory.5, slot.inventory.6, slot.inventory.7, slot.inventory.8, slot.inventory.9, slot.villager.0, slot.villager.1, slot.villager.2, slot.villager.3, slot.villager.4, slot.villager.5, slot.villager.6, slot.villager.7, slot.weapon, slot.weapon.mainhand, slot.weapon.offhand
+[19:41:45] [Client thread/INFO]: [CHAT] slot.armor.chest, slot.armor.feet, slot.armor.head, slot.armor.legs, slot.container.0, slot.container.1, slot.container.10, slot.container.11, slot.container.12, slot.container.13, slot.container.14, slot.container.15, slot.container.16, slot.container.17, slot.container.18, slot.container.19, slot.container.2, slot.container.20, slot.container.21, slot.container.22, slot.container.23, slot.container.24, slot.container.25, slot.container.26, slot.container.27, slot.container.28, slot.container.29, slot.container.3, slot.container.30, slot.container.31, slot.container.32, slot.container.33, slot.container.34, slot.container.35, slot.container.36, slot.container.37, slot.container.38, slot.container.39, slot.container.4, slot.container.40, slot.container.41, slot.container.42, slot.container.43, slot.container.44, slot.container.45, slot.container.46, slot.container.47, slot.container.48, slot.container.49, slot.container.5, slot.container.50, slot.container.51, slot.container.52, slot.container.53, slot.container.6, slot.container.7, slot.container.8, slot.container.9, slot.enderchest.0, slot.enderchest.1, slot.enderchest.10, slot.enderchest.11, slot.enderchest.12, slot.enderchest.13, slot.enderchest.14, slot.enderchest.15, slot.enderchest.16, slot.enderchest.17, slot.enderchest.18, slot.enderchest.19, slot.enderchest.2, slot.enderchest.20, slot.enderchest.21, slot.enderchest.22, slot.enderchest.23, slot.enderchest.24, slot.enderchest.25, slot.enderchest.26, slot.enderchest.3, slot.enderchest.4, slot.enderchest.5, slot.enderchest.6, slot.enderchest.7, slot.enderchest.8, slot.enderchest.9, slot.horse.0, slot.horse.1, slot.horse.10, slot.horse.11, slot.horse.12, slot.horse.13, slot.horse.14, slot.horse.2, slot.horse.3, slot.horse.4, slot.horse.5, slot.horse.6, slot.horse.7, slot.horse.8, slot.horse.9, slot.horse.armor, slot.horse.chest, slot.horse.saddle, slot.hotbar.0, slot.hotbar.1, slot.hotbar.2, slot.hotbar.3, slot.hotbar.4, slot.hotbar.5, slot.hotbar.6, slot.hotbar.7, slot.hotbar.8, slot.inventory.0, slot.inventory.1, slot.inventory.10, slot.inventory.11, slot.inventory.12, slot.inventory.13, slot.inventory.14, slot.inventory.15, slot.inventory.16, slot.inventory.17, slot.inventory.18, slot.inventory.19, slot.inventory.2, slot.inventory.20, slot.inventory.21, slot.inventory.22, slot.inventory.23, slot.inventory.24, slot.inventory.25, slot.inventory.26, slot.inventory.3, slot.inventory.4, slot.inventory.5, slot.inventory.6, slot.inventory.7, slot.inventory.8, slot.inventory.9, slot.villager.0, slot.villager.1, slot.villager.2, slot.villager.3, slot.villager.4, slot.villager.5, slot.villager.6, slot.villager.7, slot.weapon, slot.weapon.mainhand, slot.weapon.offhand
+[19:41:48] [Client thread/INFO]: [CHAT] slot.armor.chest, slot.armor.feet, slot.armor.head, slot.armor.legs, slot.container.0, slot.container.1, slot.container.10, slot.container.11, slot.container.12, slot.container.13, slot.container.14, slot.container.15, slot.container.16, slot.container.17, slot.container.18, slot.container.19, slot.container.2, slot.container.20, slot.container.21, slot.container.22, slot.container.23, slot.container.24, slot.container.25, slot.container.26, slot.container.27, slot.container.28, slot.container.29, slot.container.3, slot.container.30, slot.container.31, slot.container.32, slot.container.33, slot.container.34, slot.container.35, slot.container.36, slot.container.37, slot.container.38, slot.container.39, slot.container.4, slot.container.40, slot.container.41, slot.container.42, slot.container.43, slot.container.44, slot.container.45, slot.container.46, slot.container.47, slot.container.48, slot.container.49, slot.container.5, slot.container.50, slot.container.51, slot.container.52, slot.container.53, slot.container.6, slot.container.7, slot.container.8, slot.container.9, slot.enderchest.0, slot.enderchest.1, slot.enderchest.10, slot.enderchest.11, slot.enderchest.12, slot.enderchest.13, slot.enderchest.14, slot.enderchest.15, slot.enderchest.16, slot.enderchest.17, slot.enderchest.18, slot.enderchest.19, slot.enderchest.2, slot.enderchest.20, slot.enderchest.21, slot.enderchest.22, slot.enderchest.23, slot.enderchest.24, slot.enderchest.25, slot.enderchest.26, slot.enderchest.3, slot.enderchest.4, slot.enderchest.5, slot.enderchest.6, slot.enderchest.7, slot.enderchest.8, slot.enderchest.9, slot.horse.0, slot.horse.1, slot.horse.10, slot.horse.11, slot.horse.12, slot.horse.13, slot.horse.14, slot.horse.2, slot.horse.3, slot.horse.4, slot.horse.5, slot.horse.6, slot.horse.7, slot.horse.8, slot.horse.9, slot.horse.armor, slot.horse.chest, slot.horse.saddle, slot.hotbar.0, slot.hotbar.1, slot.hotbar.2, slot.hotbar.3, slot.hotbar.4, slot.hotbar.5, slot.hotbar.6, slot.hotbar.7, slot.hotbar.8, slot.inventory.0, slot.inventory.1, slot.inventory.10, slot.inventory.11, slot.inventory.12, slot.inventory.13, slot.inventory.14, slot.inventory.15, slot.inventory.16, slot.inventory.17, slot.inventory.18, slot.inventory.19, slot.inventory.2, slot.inventory.20, slot.inventory.21, slot.inventory.22, slot.inventory.23, slot.inventory.24, slot.inventory.25, slot.inventory.26, slot.inventory.3, slot.inventory.4, slot.inventory.5, slot.inventory.6, slot.inventory.7, slot.inventory.8, slot.inventory.9, slot.villager.0, slot.villager.1, slot.villager.2, slot.villager.3, slot.villager.4, slot.villager.5, slot.villager.6, slot.villager.7, slot.weapon, slot.weapon.mainhand, slot.weapon.offhand
+[19:41:51] [Client thread/INFO]: [CHAT] 用法：/replaceitem block <x> <y> <z> <物品栏> <物品> [数量] [数据] [数据标签]
+[19:41:52] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:41:52] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:41:52] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:41:52] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:41:54] [Server thread/INFO]: Saving and pausing game...
+[19:41:54] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:41:54] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:41:54] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:41:56] [Client thread/INFO]: [CHAT] [调试]： 碰撞体积：显示
+[19:41:56] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:41:56] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:41:58] [Client thread/INFO]: [CHAT] [调试]： 碰撞体积：隐藏
+[19:42:00] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:42:00] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:42:05] [Client thread/INFO]: [CHAT] slot.container.0, slot.container.1, slot.container.10, slot.container.11, slot.container.12, slot.container.13, slot.container.14, slot.container.15, slot.container.16, slot.container.17, slot.container.18, slot.container.19, slot.container.2, slot.container.20, slot.container.21, slot.container.22, slot.container.23, slot.container.24, slot.container.25, slot.container.26, slot.container.27, slot.container.28, slot.container.29, slot.container.3, slot.container.30, slot.container.31, slot.container.32, slot.container.33, slot.container.34, slot.container.35, slot.container.36, slot.container.37, slot.container.38, slot.container.39, slot.container.4, slot.container.40, slot.container.41, slot.container.42, slot.container.43, slot.container.44, slot.container.45, slot.container.46, slot.container.47, slot.container.48, slot.container.49, slot.container.5, slot.container.50, slot.container.51, slot.container.52, slot.container.53, slot.container.6, slot.container.7, slot.container.8, slot.container.9
+[19:42:08] [Client thread/INFO]: [CHAT] minecraft:packed_ice, minecraft:painting, minecraft:paper, minecraft:pink_glazed_terracotta, minecraft:pink_shulker_box, minecraft:piston, minecraft:planks, minecraft:poisonous_potato, minecraft:porkchop, minecraft:potato, minecraft:potion, minecraft:prismarine, minecraft:prismarine_crystals, minecraft:prismarine_shard, minecraft:pumpkin, minecraft:pumpkin_pie, minecraft:pumpkin_seeds, minecraft:purple_glazed_terracotta, minecraft:purple_shulker_box, minecraft:purpur_block, minecraft:purpur_pillar, minecraft:purpur_slab, minecraft:purpur_stairs
+[19:42:13] [Server thread/INFO]: [gele178: 将slot.container.0号物品栏的物品替换为了[纸]*1]
+[19:42:13] [Client thread/INFO]: [CHAT] 将slot.container.0号物品栏的物品替换为了[纸]*1
+[19:42:16] [Server thread/INFO]: [gele178: 将slot.container.0号物品栏的物品替换为了[纸]*1]
+[19:42:16] [Client thread/INFO]: [CHAT] 将slot.container.0号物品栏的物品替换为了[纸]*1
+[19:42:17] [Server thread/INFO]: [gele178: 将slot.container.0号物品栏的物品替换为了[纸]*1]
+[19:42:17] [Client thread/INFO]: [CHAT] 将slot.container.0号物品栏的物品替换为了[纸]*1
+[19:42:19] [Server thread/INFO]: [gele178: 将slot.container.0号物品栏的物品替换为了[纸]*1]
+[19:42:19] [Client thread/INFO]: [CHAT] 将slot.container.0号物品栏的物品替换为了[纸]*1
+[19:42:22] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:42:22] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:42:24] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:42:24] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:42:27] [Server thread/INFO]: Saving and pausing game...
+[19:42:27] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:42:27] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:42:27] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:42:28] [Client thread/INFO]: [CHAT] 成功设置：/replaceitem block 235 11 -16 slot.container.0 minecraft:paper 1 0
+[19:42:30] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:42:30] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:42:31] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:42:31] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:42:34] [Server thread/INFO]: [@: 将玩家gele178的score分数设置为2]
+[19:42:34] [Server thread/INFO]: [@: 成功将[纸]*1给予gele178]
+[19:42:34] [Server thread/INFO]: [@: 将gele178传送到 -1.5，4.0，20.5]
+[19:42:34] [Server thread/INFO]: [@: 将slot.container.0号物品栏的物品替换为了[矿车]*1]
+[19:42:34] [Server thread/INFO]: [@: 将slot.container.0号物品栏的物品替换为了[纸]*1]
+[19:42:36] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:42:36] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:42:37] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:42:37] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:42:37] [Server thread/INFO]: [@: 已重置玩家gele178的death的分数]
+[19:42:37] [Server thread/INFO]: [@: 已重置玩家gele178的score的分数]
+[19:42:37] [Server thread/INFO]: Saving and pausing game...
+[19:42:37] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:42:37] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:42:37] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:42:39] [Server thread/INFO]: Saving and pausing game...
+[19:42:39] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:42:39] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:42:39] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:42:41] [Server thread/INFO]: [@: 已重置玩家gele178的death的分数]
+[19:42:41] [Server thread/INFO]: [@: 已重置玩家gele178的score的分数]
+[19:42:41] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为旁观模式 ]
+[19:42:41] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为旁观模式
+[19:42:43] [Server thread/INFO]: [gele178: 您的游戏模式已被设置为创造模式 ]
+[19:42:43] [Client thread/INFO]: [CHAT] 你的游戏模式已被更新为创造模式
+[19:42:47] [Server thread/INFO]: Saving and pausing game...
+[19:42:47] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:42:47] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:42:47] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:42:48] [Server thread/INFO]: Stopping server
+[19:42:48] [Server thread/INFO]: Saving players
+[19:42:48] [Server thread/INFO]: gele178 lost connection: 连接中止
+[19:42:48] [Server thread/INFO]: gele178退出了游戏
+[19:42:48] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[19:42:48] [Server thread/INFO]: Saving worlds
+[19:42:48] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/overworld
+[19:42:48] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_nether
+[19:42:48] [Server thread/INFO]: Saving chunks for level '超多PVP 0.1Beta'/the_end
+[19:42:48] [Client thread/INFO]: Stopping!
+[19:42:48] [Client thread/INFO]: SoundSystem shutting down...
+[19:42:48] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
