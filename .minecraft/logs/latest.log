@@ -1,130 +1,290 @@
-[12:13:41] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:57251/https/api.mojang.com', sessionHost='http://127.0.0.1:57251/https/sessionserver.mojang.com', name='PROD'
-[12:13:41] [Render thread/INFO]: Setting user: gele178
-[12:13:42] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
-[12:13:44] [Render thread/INFO]: Narrator library for x64 successfully loaded
-[12:13:44] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art
-[12:13:48] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[12:13:49] [Render thread/INFO]: OpenAL initialized.
-[12:13:49] [Render thread/INFO]: Sound engine started
-[12:13:50] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
-[12:13:50] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[12:13:50] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[12:13:50] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[12:13:50] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[12:13:50] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[12:13:50] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[12:13:51] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[12:13:51] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[12:13:51] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[12:13:59] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:13:59] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:13:59] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:13:59] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:13:59] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:13:59] [Render thread/INFO]: Reloading ResourceManager: Default, test.zip
-[12:14:00] [Render thread/INFO]: Loaded 7 recipes
-[12:14:00] [Render thread/INFO]: Loaded 927 advancements
-[12:14:00] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:57251/https/api.mojang.com', sessionHost='http://127.0.0.1:57251/https/sessionserver.mojang.com', name='PROD'
-[12:14:00] [Server thread/INFO]: Starting integrated minecraft server version 1.16.2
-[12:14:00] [Server thread/INFO]: Generating keypair
-[12:14:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:14:01] [Render thread/INFO]: 准备生成区域中：0%
-[12:14:01] [Render thread/INFO]: Time elapsed: 366 ms
-[12:14:01] [Server thread/INFO]: Changing view distance to 11, from 10
-[12:14:03] [Server thread/INFO]: gele178[local:E:72269aa4] logged in with entity id 6 at (-5.300000011920929, 5.0, -8.300000011920929)
-[12:14:03] [Server thread/INFO]: gele178加入了游戏
-[12:14:03] [Server thread/INFO]: Saving and pausing game...
-[12:14:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:14:03] [Render thread/INFO]: Loaded 927 advancements
-[12:14:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:14:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:14:15] [Render thread/INFO]: [CHAT] [调试]： 服务端实体数据已复制到剪贴板
-[12:14:21] [Render thread/INFO]: [CHAT] 需要':'
-[12:14:21] [Render thread/INFO]: [CHAT] ...rptionAmou<--[此处]
-[12:14:26] [Server thread/INFO]: Saving and pausing game...
-[12:14:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:14:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:14:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:14:27] [Render thread/INFO]: [CHAT] 成功设置：/summon minecraft:armor_stand -7.50 4.00 -8.50 {Brain: {memories: {}}, HurtByTimestamp: 0, Attributes: [{Base: 0.699999988079071d, Name: "minecraft:generic.movement_speed"}], Invulnerable: 1b, FallFlying: 0b, ShowArms: 1b, PortalCooldown: 0, AbsorptionAmount: 0.0f, FallDistance: 0.0f, DisabledSlots: 0, DeathTime: 0s, Pose: {RightArm: [0.0f, 0.0f, 0.0f], LeftLeg: [0.0f, 0.0f, 0.0f], LeftArm: [0.0f, 0.0f, 0.0f], RightLeg: [0.0f, 0.0f, 0.0f]}, Invisible: 0b, Motion: [0.0d, -0.0784000015258789d, 0.0d], Small: 0b, Health: 20.0f, Silent: 1b, Air: 300s, OnGround: 1b, Rotation: [0.0f, 0.0f], HandItems: [{}, {}], CustomName: '{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"工具人"}', Fire: -1s, ArmorItems: [{}, {}, {}, {}], NoBasePlate: 0b, HurtTime: 0s, CustomNameVisible: 1b}
-[12:14:28] [Server thread/INFO]: Saving and pausing game...
-[12:14:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:14:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:14:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:14:29] [Render thread/INFO]: [CHAT] 成功设置：/summon minecraft:armor_stand -7.50 4.00 -8.50 {Brain: {memories: {}}, HurtByTimestamp: 0, Attributes: [{Base: 0.699999988079071d, Name: "minecraft:generic.movement_speed"}], Invulnerable: 1b, FallFlying: 0b, ShowArms: 1b, PortalCooldown: 0, AbsorptionAmount: 0.0f, FallDistance: 0.0f, DisabledSlots: 0, DeathTime: 0s, Pose: {RightArm: [0.0f, 0.0f, 0.0f], LeftLeg: [0.0f, 0.0f, 0.0f], LeftArm: [0.0f, 0.0f, 0.0f], RightLeg: [0.0f, 0.0f, 0.0f]}, Invisible: 0b, Motion: [0.0d, -0.0784000015258789d, 0.0d], Small: 0b, Health: 20.0f, Silent: 1b, Air: 300s, OnGround: 1b, Rotation: [0.0f, 0.0f], HandItems: [{}, {}], CustomName: '{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"工具人"}', Fire: -1s, ArmorItems: [{}, {}, {}, {}], NoBasePlate: 0b, HurtTime: 0s, CustomNameVisible: 1b}
-[12:14:34] [Server thread/INFO]: Saving and pausing game...
-[12:14:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:14:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:14:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:14:40] [Render thread/INFO]: [CHAT] 成功设置：/summon minecraft:armor_stand ~ ~ ~ {Brain: {memories: {}}, HurtByTimestamp: 0, Attributes: [{Base: 0.699999988079071d, Name: "minecraft:generic.movement_speed"}], Invulnerable: 1b, FallFlying: 0b, ShowArms: 1b, PortalCooldown: 0, AbsorptionAmount: 0.0f, FallDistance: 0.0f, DisabledSlots: 0, DeathTime: 0s, Pose: {RightArm: [0.0f, 0.0f, 0.0f], LeftLeg: [0.0f, 0.0f, 0.0f], LeftArm: [0.0f, 0.0f, 0.0f], RightLeg: [0.0f, 0.0f, 0.0f]}, Invisible: 0b, Motion: [0.0d, -0.0784000015258789d, 0.0d], Small: 0b, Health: 20.0f, Silent: 1b, Air: 300s, OnGround: 1b, Rotation: [0.0f, 0.0f], HandItems: [{}, {}], CustomName: '{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"工具人"}', Fire: -1s, ArmorItems: [{}, {}, {}, {}], NoBasePlate: 0b, HurtTime: 0s, CustomNameVisible: 1b}
-[12:14:42] [Server thread/INFO]: Saving and pausing game...
-[12:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:14:43] [Server thread/INFO]: Saving and pausing game...
-[12:14:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:14:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:14:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:14:44] [Render thread/INFO]: [CHAT] 成功设置：/summon minecraft:armor_stand ~ ~ ~ {Brain: {memories: {}}, HurtByTimestamp: 0, Attributes: [{Base: 0.699999988079071d, Name: "minecraft:generic.movement_speed"}], Invulnerable: 1b, FallFlying: 0b, ShowArms: 1b, PortalCooldown: 0, AbsorptionAmount: 0.0f, FallDistance: 0.0f, DisabledSlots: 0, DeathTime: 0s, Pose: {RightArm: [0.0f, 0.0f, 0.0f], LeftLeg: [0.0f, 0.0f, 0.0f], LeftArm: [0.0f, 0.0f, 0.0f], RightLeg: [0.0f, 0.0f, 0.0f]}, Invisible: 0b, Motion: [0.0d, -0.0784000015258789d, 0.0d], Small: 0b, Health: 20.0f, Silent: 1b, Air: 300s, OnGround: 1b, Rotation: [0.0f, 0.0f], HandItems: [{}, {}], CustomName: '{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"工具人"}', Fire: -1s, ArmorItems: [{}, {}, {}, {}], NoBasePlate: 0b, HurtTime: 0s, CustomNameVisible: 1b}
-[12:14:44] [Server thread/INFO]: Saving and pausing game...
-[12:14:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:14:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:14:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:14:45] [Render thread/INFO]: [CHAT] 成功设置：/summon minecraft:armor_stand ~ ~ ~ {Brain: {memories: {}}, HurtByTimestamp: 0, Attributes: [{Base: 0.699999988079071d, Name: "minecraft:generic.movement_speed"}], Invulnerable: 1b, FallFlying: 0b, ShowArms: 1b, PortalCooldown: 0, AbsorptionAmount: 0.0f, FallDistance: 0.0f, DisabledSlots: 0, DeathTime: 0s, Pose: {RightArm: [0.0f, 0.0f, 0.0f], LeftLeg: [0.0f, 0.0f, 0.0f], LeftArm: [0.0f, 0.0f, 0.0f], RightLeg: [0.0f, 0.0f, 0.0f]}, Invisible: 0b, Motion: [0.0d, -0.0784000015258789d, 0.0d], Small: 0b, Health: 20.0f, Silent: 1b, Air: 300s, OnGround: 1b, Rotation: [0.0f, 0.0f], HandItems: [{}, {}], CustomName: '{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"text":"工具人"}', Fire: -1s, ArmorItems: [{}, {}, {}, {}], NoBasePlate: 0b, HurtTime: 0s, CustomNameVisible: 1b}
-[12:15:17] [Render thread/INFO]: [CHAT] 清空了显示位置sidebar的所有记分项
-[12:15:38] [Render thread/INFO]: [CHAT] 已将1个[结构空位]给予gele178
-[12:15:41] [Server thread/INFO]: Saving and pausing game...
-[12:15:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:15:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:15:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:15:42] [Server thread/INFO]: Saving and pausing game...
-[12:15:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:15:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:15:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:16:01] [Server thread/INFO]: Saving and pausing game...
-[12:16:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:16:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:16:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:16:14] [Server thread/INFO]: Saving and pausing game...
-[12:16:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:16:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:16:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:16:27] [Render thread/INFO]: [CHAT] 更改了位于-5, 3, -9的方块
-[12:16:32] [Render thread/INFO]: [CHAT] 更改了位于-5, 3, -9的方块
-[12:16:35] [Server thread/INFO]: Saving and pausing game...
-[12:16:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:16:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:16:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:16:37] [Render thread/INFO]: [CHAT] 成功设置：/setblock -5 3 -9 minecraft:redstone_block
-[12:16:39] [Server thread/INFO]: Saving and pausing game...
-[12:16:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:16:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:16:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:16:51] [Server thread/INFO]: Saving and pausing game...
-[12:16:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:16:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:16:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:16:55] [Server thread/INFO]: Saving and pausing game...
-[12:16:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:16:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:16:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:19:10] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~ ~ minecraft:sea_lantern run title @s actionbar {"text":"当前为普通模式，快去选队吧！","color":"green"}
-[12:19:11] [Server thread/INFO]: Saving and pausing game...
-[12:19:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:19:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:19:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:19:11] [Server thread/INFO]: gele178 lost connection: 连接中止
-[12:19:11] [Server thread/INFO]: gele178退出了游戏
-[12:19:11] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[12:19:11] [Server thread/INFO]: Stopping server
-[12:19:11] [Server thread/INFO]: Saving players
-[12:19:11] [Server thread/INFO]: Saving worlds
-[12:19:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:19:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
-[12:19:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:19:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:19:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:19:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:19:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
-[12:19:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:19:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:19:12] [Render thread/INFO]: Stopping!
+[17:39:25] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:49338/https/api.mojang.com', sessionHost='http://127.0.0.1:49338/https/sessionserver.mojang.com', name='PROD'
+[17:39:26] [Render thread/INFO]: Setting user: gele178
+[17:39:26] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[17:39:30] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[17:39:30] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[17:39:35] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[17:39:39] [Render thread/INFO]: OpenAL initialized.
+[17:39:39] [Render thread/INFO]: Sound engine started
+[17:39:40] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[17:39:40] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[17:39:40] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[17:39:40] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[17:39:40] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[17:39:40] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[17:39:40] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[17:39:41] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[17:39:41] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[17:39:41] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[17:39:55] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:39:55] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:39:55] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:39:55] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:39:55] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:39:55] [Render thread/INFO]: Reloading ResourceManager: Default, test.zip
+[17:39:56] [Render thread/INFO]: Loaded 7 recipes
+[17:39:56] [Render thread/INFO]: Loaded 927 advancements
+[17:39:56] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:49338/https/api.mojang.com', sessionHost='http://127.0.0.1:49338/https/sessionserver.mojang.com', name='PROD'
+[17:39:57] [Server thread/INFO]: Starting integrated minecraft server version 1.16.2
+[17:39:57] [Server thread/INFO]: Generating keypair
+[17:39:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:39:57] [Render thread/INFO]: 准备生成区域中：0%
+[17:39:57] [Render thread/INFO]: Time elapsed: 431 ms
+[17:39:57] [Server thread/INFO]: Changing view distance to 11, from 10
+[17:40:00] [Server thread/INFO]: gele178[local:E:82291ef3] logged in with entity id 7 at (-4.985534962992427, 3.3221352928100094, -12.414427099245922)
+[17:40:00] [Server thread/INFO]: gele178加入了游戏
+[17:40:00] [Server thread/INFO]: Saving and pausing game...
+[17:40:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:40:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:40:00] [Render thread/INFO]: Loaded 927 advancements
+[17:40:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:40:10] [Server thread/INFO]: Saving and pausing game...
+[17:40:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:40:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:40:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:40:12] [Server thread/INFO]: Saving and pausing game...
+[17:40:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:40:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:40:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:15] [Render thread/INFO]: [CHAT] 更改了位于-3, 3, -9的方块
+[17:41:18] [Render thread/INFO]: [CHAT] 无法放置方块
+[17:41:20] [Server thread/INFO]: Saving and pausing game...
+[17:41:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:26] [Render thread/INFO]: [CHAT] 成功设置：setblock -3 3 -9 minecraft:air
+[17:41:28] [Server thread/INFO]: Saving and pausing game...
+[17:41:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:32] [Server thread/INFO]: Saving and pausing game...
+[17:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:33] [Server thread/INFO]: Saving and pausing game...
+[17:41:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:41] [Render thread/INFO]: [CHAT] 更改了位于-1, 3, -9的方块
+[17:41:43] [Render thread/INFO]: [CHAT] 无法放置方块
+[17:41:44] [Server thread/INFO]: Saving and pausing game...
+[17:41:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:46] [Server thread/INFO]: Saving and pausing game...
+[17:41:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:49] [Render thread/INFO]: [CHAT] 成功设置：setblock -1 3 -9 minecraft:air
+[17:41:50] [Server thread/INFO]: Saving and pausing game...
+[17:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:51] [Render thread/INFO]: [CHAT] 成功设置：setblock -1 3 -9 minecraft:air
+[17:41:52] [Server thread/INFO]: Saving and pausing game...
+[17:41:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:53] [Render thread/INFO]: [CHAT] 成功设置：setblock -1 3 -9 minecraft:air
+[17:41:53] [Server thread/INFO]: Saving and pausing game...
+[17:41:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:54] [Render thread/INFO]: [CHAT] 成功设置：setblock -1 3 -9 minecraft:air
+[17:41:54] [Server thread/INFO]: Saving and pausing game...
+[17:41:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:41:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:41:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:41:55] [Render thread/INFO]: [CHAT] 成功设置：setblock -3 3 -9 minecraft:air
+[17:41:59] [Server thread/INFO]: Saving and pausing game...
+[17:42:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:42:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:42:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:42:01] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~ ~ minecraft:sea_lantern run title @s actionbar {"text":"当前为普通模式，快去选队吧！","color":"green"}
+[17:42:01] [Server thread/INFO]: Saving and pausing game...
+[17:42:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:42:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:42:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:42:29] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~ ~ minecraft:sea_lantern run title @s actionbar {"text":"当前为1v1模式，存活下去吧！","color":"green"}
+[17:42:30] [Server thread/INFO]: Saving and pausing game...
+[17:42:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:42:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:42:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:42:59] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~ ~ minecraft:sea_lantern run title @s actionbar {"text":"当前为杀手模式，加油吧！","color":"green"}
+[17:43:01] [Server thread/INFO]: Saving and pausing game...
+[17:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:01] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~ ~ minecraft:sea_lantern run title @s actionbar {"text":"当前为杀手模式，加油吧！","color":"green"}
+[17:43:04] [Server thread/INFO]: Saving and pausing game...
+[17:43:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:05] [Render thread/INFO]: [CHAT] 成功设置：scoreboard players set 工具人 temps 2
+[17:43:06] [Server thread/INFO]: Saving and pausing game...
+[17:43:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:07] [Server thread/INFO]: Saving and pausing game...
+[17:43:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:09] [Render thread/INFO]: [CHAT] 成功设置：setblock -3 3 -9 minecraft:air
+[17:43:11] [Server thread/INFO]: Saving and pausing game...
+[17:43:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:16] [Render thread/INFO]: [CHAT] 成功设置：setblock -3 3 -9 minecraft:redstone_block
+[17:43:18] [Server thread/INFO]: Saving and pausing game...
+[17:43:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:20] [Render thread/INFO]: [CHAT] 成功设置：/setblock -5 3 -9 minecraft:redstone_block
+[17:43:20] [Server thread/INFO]: Saving and pausing game...
+[17:43:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:27] [Render thread/INFO]: [CHAT] 成功设置：setblock -5 3 -9 minecraft:air
+[17:43:28] [Server thread/INFO]: Saving and pausing game...
+[17:43:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:30] [Render thread/INFO]: [CHAT] 成功设置：setblock -5 3 -9 minecraft:redstone_block
+[17:43:31] [Server thread/INFO]: Saving and pausing game...
+[17:43:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:31] [Render thread/INFO]: [CHAT] 成功设置：setblock -3 3 -9 minecraft:air
+[17:43:32] [Server thread/INFO]: Saving and pausing game...
+[17:43:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:32] [Render thread/INFO]: [CHAT] 成功设置：setblock -1 3 -9 minecraft:air
+[17:43:35] [Server thread/INFO]: Saving and pausing game...
+[17:43:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:36] [Render thread/INFO]: [CHAT] 成功设置：setblock -1 3 -9 minecraft:air
+[17:43:36] [Server thread/INFO]: Saving and pausing game...
+[17:43:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:37] [Render thread/INFO]: [CHAT] 成功设置：setblock -1 3 -9 minecraft:air
+[17:43:41] [Server thread/INFO]: Saving and pausing game...
+[17:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:45] [Render thread/INFO]: [CHAT] 成功设置：setblock -1 3 -9 minecraft:redstone_block
+[17:43:49] [Server thread/INFO]: Saving and pausing game...
+[17:43:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:50] [Render thread/INFO]: [CHAT] 成功设置：setblock -5 3 -9 minecraft:redstone_block
+[17:43:51] [Server thread/INFO]: Saving and pausing game...
+[17:43:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:52] [Render thread/INFO]: [CHAT] 成功设置：setblock -5 3 -9 minecraft:redstone_block
+[17:43:53] [Server thread/INFO]: Saving and pausing game...
+[17:43:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:55] [Server thread/INFO]: Saving and pausing game...
+[17:43:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:57] [Server thread/INFO]: Saving and pausing game...
+[17:43:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:43:58] [Server thread/INFO]: Saving and pausing game...
+[17:43:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:43:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:43:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:01] [Server thread/INFO]: Saving and pausing game...
+[17:44:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:44:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:44:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:03] [Server thread/INFO]: Saving and pausing game...
+[17:44:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:44:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:44:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:04] [Server thread/INFO]: Saving and pausing game...
+[17:44:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:44:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:44:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:05] [Server thread/INFO]: Saving and pausing game...
+[17:44:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:44:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:44:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:06] [Render thread/INFO]: [CHAT] 成功设置：setblock -3 3 -9 minecraft:air
+[17:44:08] [Server thread/INFO]: Saving and pausing game...
+[17:44:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:44:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:44:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:09] [Render thread/INFO]: [CHAT] 成功设置：setblock -3 3 -9 minecraft:air
+[17:44:13] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:44:13] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:44:18] [Server thread/INFO]: Saving and pausing game...
+[17:44:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:44:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:44:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:27] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:44:31] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:44:32] [Server thread/INFO]: Saving and pausing game...
+[17:44:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:44:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:44:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:38] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~-1 ~ minecraft:sea_lantern run title @s actionbar {"text":"当前为普通模式，快去选队吧！","color":"green"}
+[17:44:39] [Server thread/INFO]: Saving and pausing game...
+[17:44:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:44:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:44:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:43] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~-1 ~ minecraft:sea_lantern run title @s actionbar {"text":"当前为1v1模式，存活下去吧！","color":"green"}
+[17:44:44] [Server thread/INFO]: Saving and pausing game...
+[17:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:44:49] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~-1 ~ minecraft:sea_lantern run title @s actionbar {"text":"当前为杀手模式，加油吧！","color":"green"}
+[17:44:50] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:44:53] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:45:16] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:45:17] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:45:18] [Server thread/INFO]: Saving and pausing game...
+[17:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:45:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:45:23] [Server thread/INFO]: Saving and pausing game...
+[17:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:45:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:45:24] [Server thread/INFO]: Saving and pausing game...
+[17:45:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:45:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:45:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:45:25] [Server thread/INFO]: Saving and pausing game...
+[17:45:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:45:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:45:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:45:29] [Render thread/INFO]: [CHAT] 成功设置：setblock -5 3 -9 minecraft:air
+[17:45:30] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:45:31] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:45:40] [Server thread/INFO]: Saving and pausing game...
+[17:45:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:45:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:45:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:45:40] [Server thread/INFO]: gele178 lost connection: 连接中止
+[17:45:40] [Server thread/INFO]: gele178退出了游戏
+[17:45:40] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:45:40] [Server thread/INFO]: Stopping server
+[17:45:40] [Server thread/INFO]: Saving players
+[17:45:40] [Server thread/INFO]: Saving worlds
+[17:45:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:45:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[17:45:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:45:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:45:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:45:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:45:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[17:45:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:45:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
