@@ -288,3 +288,1291 @@
 [17:45:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
 [17:45:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
 [17:45:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:45:55] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:45:55] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:45:55] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:45:55] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:45:55] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:45:55] [Render thread/INFO]: Reloading ResourceManager: Default, test.zip
+[17:45:55] [Render thread/INFO]: Loaded 7 recipes
+[17:45:55] [Render thread/INFO]: Loaded 927 advancements
+[17:45:56] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:49338/https/api.mojang.com', sessionHost='http://127.0.0.1:49338/https/sessionserver.mojang.com', name='PROD'
+[17:45:56] [Server thread/INFO]: Starting integrated minecraft server version 1.16.2
+[17:45:56] [Server thread/INFO]: Generating keypair
+[17:45:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:45:56] [Render thread/INFO]: 准备生成区域中：0%
+[17:45:56] [Render thread/INFO]: Time elapsed: 147 ms
+[17:45:56] [Server thread/INFO]: Changing view distance to 11, from 10
+[17:45:56] [Server thread/INFO]: gele178[local:E:012e37b1] logged in with entity id 21 at (-3.1517250563248607, 4.0, 1.128239713450312)
+[17:45:56] [Server thread/INFO]: gele178加入了游戏
+[17:45:56] [Server thread/INFO]: Saving and pausing game...
+[17:45:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:45:56] [Render thread/INFO]: Loaded 927 advancements
+[17:45:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:45:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:46:02] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:46:03] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:46:08] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:46:13] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:46:20] [Server thread/INFO]: Saving and pausing game...
+[17:46:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:46:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:46:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:46:28] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:46:29] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:48:29] [Server thread/INFO]: Saving and pausing game...
+[17:48:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:48:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:48:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:48:33] [Render thread/INFO]: [CHAT] 成功设置：tellraw @p [{"text":"[是]","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"function test:start_game"},"hoverEvent":{"action":"show_text","value":"开始游戏"}},{"text":" ","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"text":"[否]","color":"red","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+[17:48:33] [Server thread/INFO]: Saving and pausing game...
+[17:48:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:48:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:48:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:48:39] [Render thread/INFO]: [CHAT] 成功设置：tellraw @a [{"text":"[是]","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"function test:start_game"},"hoverEvent":{"action":"show_text","value":"开始游戏"}},{"text":" ","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"text":"[否]","color":"red","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+[17:48:42] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:48:42] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:48:45] [Render thread/INFO]: [CHAT] [是] [否]
+[17:48:47] [Server thread/INFO]: <gele178> function test:start_game
+[17:48:47] [Render thread/INFO]: [CHAT] <gele178> function test:start_game
+[17:48:49] [Server thread/INFO]: <gele178> function test:start_game
+[17:48:49] [Render thread/INFO]: [CHAT] <gele178> function test:start_game
+[17:49:07] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:49:07] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:49:08] [Server thread/INFO]: Saving and pausing game...
+[17:49:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:49:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:49:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:49:14] [Render thread/INFO]: [CHAT] 成功设置：tellraw @a [{"text":"[是]","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"/function test:start_game"},"hoverEvent":{"action":"show_text","value":"开始游戏"}},{"text":" ","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"text":"[否]","color":"red","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+[17:49:15] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:49:15] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:49:17] [Render thread/INFO]: [CHAT] [是] [否]
+[17:49:21] [Render thread/INFO]: [CHAT] 未知的函数test:start_game
+[17:49:22] [Server thread/INFO]: Saving and pausing game...
+[17:49:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:49:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:49:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:49:53] [Server thread/INFO]: gele178 lost connection: 连接中止
+[17:49:53] [Server thread/INFO]: gele178退出了游戏
+[17:49:53] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:49:53] [Server thread/INFO]: Stopping server
+[17:49:53] [Server thread/INFO]: Saving players
+[17:49:53] [Server thread/INFO]: Saving worlds
+[17:49:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:49:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[17:49:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:49:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:49:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:49:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:49:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[17:49:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:49:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:50:03] [Render thread/WARN]: Missing data pack file/test.zip
+[17:50:03] [Render thread/INFO]: Found new data pack file/test, loading it automatically
+[17:50:03] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:50:03] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:50:03] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:50:03] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:50:03] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:50:03] [Render thread/INFO]: Reloading ResourceManager: Default, test
+[17:50:03] [Render thread/INFO]: Loaded 7 recipes
+[17:50:03] [Render thread/INFO]: Loaded 927 advancements
+[17:50:03] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:49338/https/api.mojang.com', sessionHost='http://127.0.0.1:49338/https/sessionserver.mojang.com', name='PROD'
+[17:50:03] [Server thread/INFO]: Starting integrated minecraft server version 1.16.2
+[17:50:03] [Server thread/INFO]: Generating keypair
+[17:50:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:50:03] [Render thread/INFO]: 准备生成区域中：0%
+[17:50:03] [Server thread/INFO]: Changing view distance to 11, from 10
+[17:50:03] [Render thread/INFO]: Time elapsed: 124 ms
+[17:50:04] [Server thread/INFO]: gele178[local:E:4ed2deec] logged in with entity id 35 at (1.2228417819755306, 4.0, -3.8713531515320865)
+[17:50:04] [Server thread/INFO]: gele178加入了游戏
+[17:50:04] [Render thread/INFO]: Loaded 927 advancements
+[17:50:04] [Server thread/INFO]: Saving and pausing game...
+[17:50:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:50:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:50:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:50:06] [Render thread/INFO]: [CHAT] [是] [否]
+[17:50:09] [Render thread/INFO]: [CHAT] 未知的函数test:start_game
+[17:50:11] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:50:11] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:50:13] [Server thread/INFO]: Saving and pausing game...
+[17:50:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:50:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:50:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:50:16] [Server thread/INFO]: Saving and pausing game...
+[17:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:50:18] [Server thread/INFO]: Saving and pausing game...
+[17:50:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:50:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:50:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:50:18] [Render thread/INFO]: [CHAT] 成功设置：tellraw @a [{"text":"[是]","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"/function test:start_game"},"hoverEvent":{"action":"show_text","value":"开始游戏"}},{"text":" ","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"text":"[否]","color":"red","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+[17:50:19] [Server thread/INFO]: Saving and pausing game...
+[17:50:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:50:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:50:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:50:48] [Render thread/INFO]: [CHAT] 成功设置：tellraw @a {"text":"游戏即将开始？","color":"dark_red"}
+[17:50:50] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:50:51] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:50:52] [Render thread/INFO]: [CHAT] 游戏即将开始？
+[17:50:52] [Render thread/INFO]: [CHAT] [是] [否]
+[17:51:18] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:51:18] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:51:29] [Render thread/INFO]: [CHAT] [调试]： 碰撞体积：显示
+[17:51:30] [Render thread/INFO]: [CHAT] [调试]： 碰撞体积：隐藏
+[17:51:30] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:51:31] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:51:41] [Render thread/INFO]: [CHAT] 重新加载中！
+[17:51:41] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:51:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:51:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:51:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:51:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:51:41] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[17:51:41] [Server thread/INFO]: Loaded 7 recipes
+[17:51:41] [Server thread/INFO]: Loaded 927 advancements
+[17:51:42] [Render thread/INFO]: Loaded 927 advancements
+[17:51:45] [Render thread/INFO]: [CHAT] 已启用2个数据包：[vanilla（内置）], [file/test（世界）]
+[17:51:45] [Render thread/INFO]: [CHAT] 已无更多可用的数据包
+[17:52:41] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:52:51] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:52:57] [Render thread/INFO]: [CHAT] 将gele178传送到 100.5，7.922930312624584，100.5
+[17:53:05] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:53:12] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:53:33] [Render thread/INFO]: [CHAT] 该位置尚未被加载
+[17:53:40] [Render thread/INFO]: [CHAT] 将gele178传送到 10000.5，4.0，10000.5
+[17:53:48] [Render thread/INFO]: [CHAT] 将gele178传送到 0.5，7.92178751528408，0.5
+[17:53:53] [Render thread/INFO]: [CHAT] 该位置尚未被加载
+[17:53:55] [Render thread/INFO]: [CHAT] 将gele178传送到 0.5，4.0，0.5
+[17:54:02] [Render thread/INFO]: [CHAT] 将gele178传送到 0.5，4.0，0.5
+[17:54:03] [Render thread/INFO]: [CHAT] 将gele178传送到 10000.5，4.0，10000.5
+[17:54:10] [Render thread/INFO]: [CHAT] 更改了位于10000, 4, 10000的方块
+[17:55:42] [Render thread/INFO]: [CHAT] 将gele178传送到 10000.5，5.0，10000.5
+[17:56:23] [Render thread/INFO]: [CHAT] 重新加载中！
+[17:56:23] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:56:23] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:23] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:23] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:56:23] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:23] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[17:56:23] [Server thread/INFO]: Loaded 7 recipes
+[17:56:23] [Server thread/INFO]: Loaded 927 advancements
+[17:56:23] [Render thread/INFO]: Loaded 927 advancements
+[17:56:27] [Render thread/INFO]: [CHAT] 已执行函数test:start_game中的2条命令
+[17:56:34] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:56:36] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:57:13] [Render thread/INFO]: [CHAT] 错误的命令参数
+[17:57:13] [Render thread/INFO]: [CHAT] ...temps run sat a<--[此处]
+[17:57:15] [Server thread/INFO]: [gele178] a
+[17:57:15] [Render thread/INFO]: [CHAT] [gele178] a
+[17:57:27] [Render thread/INFO]: [CHAT] 已将gele178传送至gele178
+[17:58:26] [Render thread/INFO]: [CHAT] [调试]： 按键设置：
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + A = 重新加载区块
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + B = 显示碰撞体积
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + C = 用/tp命令的形式复制你的位置，按住F3 + C使游戏崩溃
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + D = 清空聊天记录
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + F = 在渲染距离间循环（按Shift来反向循环）
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + G = 显示区块边界
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + H = 显示高级提示框
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + I = 将实体或方块的数据复制到剪贴板
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + N = 在上一个模式和旁观模式间切换
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + P = 失去焦点时暂停
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + Q = 显示此列表
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + T = 重新加载资源包
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + Esc = 暂停但不显示菜单（如果可以暂停的话）
+[17:58:26] [Render thread/INFO]: [CHAT] F3 + F4 = 打开游戏模式切换器
+[17:58:39] [Render thread/INFO]: [CHAT] [调试]： 坐标已复制到剪贴板
+[17:58:44] [Render thread/INFO]: [CHAT] 将gele178传送到 10001.32，10.0，9999.12
+[17:58:51] [Render thread/INFO]: [CHAT] 将gele178传送到 10000.5，10.0，10000.5
+[17:59:07] [Render thread/INFO]: [CHAT] 将gele178传送到 10000.5，10.0，10000.5
+[18:00:15] [Server thread/INFO]: Saving and pausing game...
+[18:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:00:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:00:18] [Render thread/INFO]: [CHAT] 已执行函数test:start_game中的2条命令
+[18:00:26] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:00:26] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:00:26] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:00:26] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:00:26] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:00:26] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:00:26] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:00:26] [Server thread/INFO]: Loaded 7 recipes
+[18:00:26] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:00:26] [Server thread/INFO]: Loaded 927 advancements
+[18:00:27] [Render thread/INFO]: Loaded 927 advancements
+[18:00:28] [Render thread/INFO]: [CHAT] 未知的函数test:start_game
+[18:00:40] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:00:41] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:00:47] [Server thread/INFO]: [gele178] helloworld
+[18:00:47] [Render thread/INFO]: [CHAT] [gele178] helloworld
+[18:00:47] [Render thread/INFO]: [CHAT] 已执行函数test:test中的1条命令
+[18:00:57] [Render thread/INFO]: [CHAT] 将gele178传送到 10000.5，10.0，10000.5
+[18:01:20] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:01:20] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:20] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:20] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:20] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:20] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:20] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:01:20] [Server thread/INFO]: Loaded 7 recipes
+[18:01:21] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:01:21] [Server thread/INFO]: Loaded 927 advancements
+[18:01:21] [Render thread/INFO]: Loaded 927 advancements
+[18:01:28] [Server thread/INFO]: Saving and pausing game...
+[18:01:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:01:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:01:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:01:44] [Render thread/INFO]: [CHAT] 未知的函数minecraft:/reload
+[18:01:46] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:01:46] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:46] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:46] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:46] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:46] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:46] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:01:46] [Server thread/INFO]: Loaded 7 recipes
+[18:01:46] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:01:46] [Server thread/INFO]: Loaded 927 advancements
+[18:01:47] [Render thread/INFO]: Loaded 927 advancements
+[18:01:50] [Server thread/INFO]: Saving and pausing game...
+[18:01:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:01:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:01:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:01:50] [Server thread/INFO]: gele178 lost connection: 连接中止
+[18:01:50] [Server thread/INFO]: gele178退出了游戏
+[18:01:50] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:01:50] [Server thread/INFO]: Stopping server
+[18:01:50] [Server thread/INFO]: Saving players
+[18:01:50] [Server thread/INFO]: Saving worlds
+[18:01:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:01:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[18:01:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:01:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:01:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:01:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:01:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[18:01:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:01:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:01:59] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:59] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:59] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:59] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:59] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:59] [Render thread/INFO]: Reloading ResourceManager: Default, test
+[18:01:59] [Render thread/INFO]: Loaded 7 recipes
+[18:01:59] [Render thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:01:59] [Render thread/INFO]: Loaded 927 advancements
+[18:02:00] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:49338/https/api.mojang.com', sessionHost='http://127.0.0.1:49338/https/sessionserver.mojang.com', name='PROD'
+[18:02:00] [Server thread/INFO]: Starting integrated minecraft server version 1.16.2
+[18:02:00] [Server thread/INFO]: Generating keypair
+[18:02:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:02:00] [Render thread/INFO]: 准备生成区域中：0%
+[18:02:00] [Render thread/INFO]: Time elapsed: 80 ms
+[18:02:00] [Server thread/INFO]: Changing view distance to 11, from 10
+[18:02:00] [Server thread/INFO]: gele178[local:E:c0c17ab5] logged in with entity id 55 at (10000.5, 16.093774342481534, 10000.5)
+[18:02:00] [Server thread/INFO]: gele178加入了游戏
+[18:02:00] [Render thread/INFO]: Loaded 927 advancements
+[18:02:00] [Server thread/INFO]: Saving and pausing game...
+[18:02:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:02:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:02:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:02:08] [Server thread/INFO]: Saving and pausing game...
+[18:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:02:30] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:02:30] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:02:30] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:02:30] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:02:30] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:02:30] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:02:30] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:02:30] [Server thread/INFO]: Loaded 7 recipes
+[18:02:30] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:02:30] [Server thread/INFO]: Loaded 927 advancements
+[18:02:31] [Render thread/INFO]: Loaded 927 advancements
+[18:02:44] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:02:44] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:02:44] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:02:44] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:02:44] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:02:44] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:02:44] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:02:44] [Server thread/INFO]: Loaded 7 recipes
+[18:02:44] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:02:44] [Server thread/INFO]: Loaded 927 advancements
+[18:02:44] [Render thread/INFO]: Loaded 927 advancements
+[18:02:55] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:02:55] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:02:55] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:02:55] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:02:55] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:02:55] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:02:55] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:02:55] [Server thread/INFO]: Loaded 7 recipes
+[18:02:55] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:02:55] [Server thread/INFO]: Loaded 927 advancements
+[18:02:56] [Render thread/INFO]: Loaded 927 advancements
+[18:02:58] [Render thread/INFO]: [CHAT] 已执行函数test:reset中的1条命令
+[18:03:00] [Server thread/INFO]: Saving and pausing game...
+[18:03:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:03:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:03:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:03:01] [Server thread/INFO]: gele178 lost connection: 连接中止
+[18:03:01] [Server thread/INFO]: gele178退出了游戏
+[18:03:01] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:03:01] [Server thread/INFO]: Stopping server
+[18:03:01] [Server thread/INFO]: Saving players
+[18:03:01] [Server thread/INFO]: Saving worlds
+[18:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[18:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:03:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[18:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:03:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:03:02] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:02] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:02] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:02] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:02] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:02] [Render thread/INFO]: Reloading ResourceManager: Default, test
+[18:03:02] [Render thread/INFO]: Loaded 7 recipes
+[18:03:02] [Render thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:03:02] [Render thread/INFO]: Loaded 927 advancements
+[18:03:02] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:49338/https/api.mojang.com', sessionHost='http://127.0.0.1:49338/https/sessionserver.mojang.com', name='PROD'
+[18:03:02] [Server thread/INFO]: Starting integrated minecraft server version 1.16.2
+[18:03:02] [Server thread/INFO]: Generating keypair
+[18:03:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:03:03] [Render thread/INFO]: 准备生成区域中：0%
+[18:03:03] [Server thread/INFO]: Changing view distance to 11, from 10
+[18:03:03] [Render thread/INFO]: Time elapsed: 116 ms
+[18:03:03] [Server thread/INFO]: gele178[local:E:fd2c15a0] logged in with entity id 63 at (10000.5, 16.093774342481534, 10000.5)
+[18:03:03] [Server thread/INFO]: gele178加入了游戏
+[18:03:03] [Render thread/INFO]: Loaded 927 advancements
+[18:03:15] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:03:15] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:15] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:15] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:15] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:15] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:15] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:03:15] [Server thread/INFO]: Loaded 7 recipes
+[18:03:15] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:03:15] [Server thread/INFO]: Loaded 927 advancements
+[18:03:16] [Render thread/INFO]: Loaded 927 advancements
+[18:03:28] [Render thread/INFO]: [CHAT] 正在禁用数据包[file/test（世界）]
+[18:03:28] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:28] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:28] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:28] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:28] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:03:28] [Server thread/INFO]: Loaded 7 recipes
+[18:03:28] [Server thread/INFO]: Loaded 927 advancements
+[18:03:28] [Render thread/INFO]: Loaded 927 advancements
+[18:03:32] [Render thread/INFO]: [CHAT] 正在启用数据包[file/test（世界）]
+[18:03:32] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:32] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:03:32] [Server thread/INFO]: Loaded 7 recipes
+[18:03:32] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:03:32] [Server thread/INFO]: Loaded 927 advancements
+[18:03:33] [Render thread/INFO]: Loaded 927 advancements
+[18:03:34] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:03:34] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:34] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:34] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:34] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:34] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:34] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:03:34] [Server thread/INFO]: Loaded 7 recipes
+[18:03:34] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: 未知或不完整的命令，错误见下 at position 0: <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:03:34] [Server thread/INFO]: Loaded 927 advancements
+[18:03:34] [Render thread/INFO]: Loaded 927 advancements
+[18:03:57] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:03:57] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:57] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:57] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:57] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:57] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:57] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:03:57] [Server thread/INFO]: Loaded 7 recipes
+[18:03:57] [Server thread/INFO]: Loaded 927 advancements
+[18:03:58] [Render thread/INFO]: Loaded 927 advancements
+[18:04:10] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:04:10] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:10] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:04:10] [Server thread/INFO]: Loaded 7 recipes
+[18:04:10] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:04:10] [Server thread/INFO]: Loaded 927 advancements
+[18:04:11] [Render thread/INFO]: Loaded 927 advancements
+[18:04:14] [Server thread/INFO]: gele178掉出了这个世界
+[18:04:14] [Render thread/INFO]: [CHAT] gele178掉出了这个世界
+[18:04:14] [Render thread/INFO]: [CHAT] 已清除gele178
+[18:04:17] [Render thread/INFO]: [CHAT] 游戏即将开始？
+[18:04:17] [Render thread/INFO]: [CHAT] [是] [否]
+[18:04:20] [Render thread/INFO]: [CHAT] 未知的函数test:start_game
+[18:04:21] [Render thread/INFO]: [CHAT] 未知的函数test:start_game
+[18:04:32] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:04:32] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:32] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:04:32] [Server thread/INFO]: Loaded 7 recipes
+[18:04:32] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:04:32] [Server thread/INFO]: Loaded 927 advancements
+[18:04:33] [Render thread/INFO]: Loaded 927 advancements
+[18:04:43] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:04:43] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:43] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:43] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:43] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:43] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:43] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:04:43] [Server thread/INFO]: Loaded 7 recipes
+[18:04:43] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:04:43] [Server thread/INFO]: Loaded 927 advancements
+[18:04:43] [Render thread/INFO]: Loaded 927 advancements
+[18:04:48] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:04:48] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:48] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:48] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:48] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:48] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:48] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:04:49] [Server thread/INFO]: Loaded 7 recipes
+[18:04:49] [Server thread/ERROR]: Failed to load function test:start_game
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692) ~[?:1.8.0_251]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157) ~[?:1.8.0_251]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 4: 错误的命令参数 at position 7: effect <--[HERE]
+	at cy.a(SourceFile:62) ~[1.16.2.jar:?]
+	at vw.a(SourceFile:86) ~[1.16.2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604) ~[?:1.8.0_251]
+	... 5 more
+[18:04:49] [Server thread/INFO]: Loaded 927 advancements
+[18:04:49] [Render thread/INFO]: Loaded 927 advancements
+[18:04:59] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:04:59] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:59] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:59] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:59] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:04:59] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:04:59] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:04:59] [Server thread/INFO]: Loaded 7 recipes
+[18:04:59] [Server thread/INFO]: Loaded 927 advancements
+[18:05:00] [Render thread/INFO]: Loaded 927 advancements
+[18:05:03] [Render thread/INFO]: [CHAT] 已执行函数test:start_game中的2条命令
+[18:05:06] [Server thread/INFO]: Saving and pausing game...
+[18:05:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:05:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:05:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:05:16] [Render thread/INFO]: [CHAT] 错误的命令参数
+[18:05:16] [Render thread/INFO]: [CHAT] /effect @a invisibility 20 127 true<--[此处]
+[18:22:28] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[18:22:28] [Render thread/INFO]: [CHAT] /effect<--[此处]
+[18:22:41] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:22:41] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:22:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:22:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:22:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:22:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:22:41] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:22:41] [Server thread/INFO]: Loaded 7 recipes
+[18:22:41] [Server thread/INFO]: Loaded 927 advancements
+[18:22:42] [Render thread/INFO]: Loaded 927 advancements
+[18:22:45] [Render thread/INFO]: [CHAT] 已执行函数test:start_game中的4条命令
+[18:23:16] [Render thread/INFO]: [CHAT] 已执行函数test:start_game中的4条命令
+[18:24:10] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:24:10] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:24:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:24:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:24:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:24:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:24:10] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:24:10] [Server thread/INFO]: Loaded 7 recipes
+[18:24:10] [Server thread/INFO]: Loaded 927 advancements
+[18:24:10] [Render thread/INFO]: Loaded 927 advancements
+[18:24:11] [Render thread/INFO]: [CHAT] 已执行函数test:start_game中的5条命令
+[18:24:32] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:24:56] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:25:11] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[18:25:11] [Render thread/INFO]: [CHAT] /trigger<--[此处]
+[18:25:33] [Render thread/INFO]: [CHAT] 创建了新的记分项[trig]
+[18:25:37] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[18:25:37] [Render thread/INFO]: [CHAT] /trigger<--[此处]
+[18:25:40] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[18:25:40] [Render thread/INFO]: [CHAT] /trigger<--[此处]
+[18:25:45] [Render thread/INFO]: [CHAT] /trigger <objective> [add|set]
+[18:25:54] [Render thread/INFO]: [CHAT] 你尚无法触发这个记分项
+[18:25:56] [Render thread/INFO]: [CHAT] 你尚无法触发这个记分项
+[18:26:16] [Render thread/INFO]: [CHAT] 你尚无法触发这个记分项
+[18:26:19] [Render thread/INFO]: [CHAT] 你尚无法触发这个记分项
+[18:26:58] [Render thread/INFO]: [CHAT] 你尚无法触发这个记分项
+[18:27:00] [Render thread/INFO]: [CHAT] 你尚无法触发这个记分项
+[18:28:56] [Server thread/INFO]: gele178掉出了这个世界
+[18:28:56] [Render thread/INFO]: [CHAT] gele178掉出了这个世界
+[18:28:56] [Render thread/INFO]: [CHAT] 已清除gele178
+[18:29:03] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:29:04] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:29:05] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:29:17] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:29:23] [Server thread/INFO]: Saving and pausing game...
+[18:29:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:29:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:29:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:29:33] [Render thread/INFO]: [CHAT] 成功设置：scoreboard players enable @a trig
+[18:29:40] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为3）
+[18:29:46] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:29:48] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:30:47] [Render thread/INFO]: [CHAT] 错误的命令参数
+[18:30:47] [Render thread/INFO]: [CHAT] /gamemode 2<--[此处]
+[18:30:50] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为冒险模式 
+[18:30:56] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:31:00] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:31:01] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:31:04] [Server thread/INFO]: Saving and pausing game...
+[18:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:31:29] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~-1 ~ minecraft:beacon run gamemode adventure
+[18:31:34] [Server thread/INFO]: Saving and pausing game...
+[18:31:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:31:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:31:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:31:37] [Server thread/INFO]: Saving and pausing game...
+[18:31:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:31:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:31:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:31:49] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s
+[18:31:50] [Server thread/INFO]: Saving and pausing game...
+[18:31:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:31:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:31:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:31:53] [Server thread/INFO]: Saving and pausing game...
+[18:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:31:54] [Server thread/INFO]: Saving and pausing game...
+[18:31:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:31:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:31:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:31:58] [Server thread/INFO]: Saving and pausing game...
+[18:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:32:12] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~-1 ~ minecraft:beacon run gamemode adventure
+[18:32:16] [Server thread/INFO]: Saving and pausing game...
+[18:32:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:32:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:32:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:32:17] [Server thread/INFO]: Saving and pausing game...
+[18:32:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:32:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:32:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:32:19] [Server thread/INFO]: Saving and pausing game...
+[18:32:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:32:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:32:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:32:25] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~-1 ~ minecraft:beacon run function 
+[18:32:26] [Server thread/INFO]: Saving and pausing game...
+[18:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:33:09] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:33:09] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:33:09] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:33:09] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:33:09] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:33:09] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:33:09] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:33:09] [Server thread/INFO]: Loaded 7 recipes
+[18:33:09] [Server thread/INFO]: Loaded 927 advancements
+[18:33:09] [Render thread/INFO]: Loaded 927 advancements
+[18:33:09] [Server thread/INFO]: Saving and pausing game...
+[18:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:33:11] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if block ~ ~-1 ~ minecraft:beacon run function test:helper
+[18:33:13] [Server thread/INFO]: Saving and pausing game...
+[18:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:33:14] [Server thread/INFO]: Saving and pausing game...
+[18:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:33:23] [Server thread/INFO]: Saving and pausing game...
+[18:33:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:33:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:33:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:33:25] [Server thread/INFO]: Saving and pausing game...
+[18:33:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:33:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:33:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:33:30] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:33:30] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:33:42] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:33:43] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:33:43] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:34:05] [Server thread/INFO]: Saving and pausing game...
+[18:34:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:34:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:34:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:34:07] [Server thread/INFO]: Saving and pausing game...
+[18:34:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:34:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:34:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:34:38] [Server thread/INFO]: Saving and pausing game...
+[18:34:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:34:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:34:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:35:55] [Render thread/INFO]: [CHAT] 无效的聊天文本： Unterminated object at line 1 column 67 path $.text
+[18:35:55] [Render thread/INFO]: [CHAT] ...ellraw @s {"text":"输入/trigger trig set 3来进入旁观模式，/trigger trig set 2来返回冒险模式"，"color"："yellow"}<--[此处]
+[18:36:18] [Render thread/INFO]: [CHAT] 无效的聊天文本： Unterminated object at line 1 column 61 path $.text
+[18:36:18] [Render thread/INFO]: [CHAT] ...ellraw @s {"text":"输入/triggertrigset3来进入旁观模式,/triggertrigset2来返回冒险模式"，"color"："yellow"}<--[此处]
+[18:37:14] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:37:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:37:37] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:37:37] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:37:37] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:37:37] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:37:37] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:37:37] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:37:37] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:37:37] [Server thread/INFO]: Loaded 7 recipes
+[18:37:37] [Server thread/INFO]: Loaded 927 advancements
+[18:37:37] [Render thread/INFO]: Loaded 927 advancements
+[18:37:39] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:37:39] [Render thread/INFO]: [CHAT] 已执行函数test:helper中的2条命令
+[18:37:42] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:37:42] [Render thread/INFO]: [CHAT] 已执行函数test:helper中的2条命令
+[18:37:45] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:38:07] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为冒险模式 
+[18:38:08] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:38:08] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:08] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:08] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:08] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:08] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:08] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:08] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:11] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:11] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:14] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:38:15] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:15] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:15] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:16] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:16] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:16] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:16] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:17] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:19] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:22] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:23] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:24] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:25] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:25] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:25] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:26] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:27] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:27] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:27] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:27] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:27] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:28] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:28] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:28] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:28] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:28] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:28] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:29] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:29] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:29] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:29] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:38:31] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:38:32] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:38:33] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:38:35] [Server thread/INFO]: Saving and pausing game...
+[18:38:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:38:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:38:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:38:38] [Server thread/INFO]: Saving and pausing game...
+[18:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:39:57] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:39:57] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:39:57] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:39:57] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:39:57] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:39:57] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:39:57] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:39:58] [Server thread/INFO]: Loaded 7 recipes
+[18:39:58] [Server thread/INFO]: Loaded 927 advancements
+[18:39:58] [Render thread/INFO]: Loaded 927 advancements
+[18:40:01] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:40:02] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:40:02] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:40:02] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:40:03] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:40:03] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:06] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:06] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:07] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:40:08] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为冒险模式 
+[18:40:08] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:40:10] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:40:12] [Server thread/INFO]: Saving and pausing game...
+[18:40:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:40:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:40:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:40:13] [Server thread/INFO]: Saving and pausing game...
+[18:40:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:40:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:40:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:40:15] [Server thread/INFO]: Saving and pausing game...
+[18:40:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:40:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:40:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:40:17] [Server thread/INFO]: Saving and pausing game...
+[18:40:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:40:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:40:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:40:29] [Render thread/INFO]: [CHAT] 成功设置：execute as @a[tag=!lobby] at @s if block ~ ~-1 ~ minecraft:beacon run function test:helper
+[18:40:34] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:40:34] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:40:34] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:40:34] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:40:34] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:40:34] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:40:34] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:40:34] [Server thread/INFO]: Loaded 7 recipes
+[18:40:34] [Server thread/INFO]: Loaded 927 advancements
+[18:40:35] [Render thread/INFO]: Loaded 927 advancements
+[18:40:35] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:40:36] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:40:44] [Render thread/INFO]: [CHAT] 已移除gele178的标签'lobby'
+[18:40:44] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:40:49] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:40:53] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:40:55] [Server thread/INFO]: Saving and pausing game...
+[18:40:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:40:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:40:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:41:00] [Server thread/INFO]: Saving and pausing game...
+[18:41:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:41:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:41:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:41:41] [Render thread/INFO]: [CHAT] 成功设置：execute as @a[tag=lobby] at @s if block ~ ~-1 ~ minecraft:sea_lantern run tag @s remove lobby
+[18:41:43] [Server thread/INFO]: Saving and pausing game...
+[18:41:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:41:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:41:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:41:46] [Server thread/INFO]: Saving and pausing game...
+[18:41:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:41:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:41:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:41:48] [Server thread/INFO]: Saving and pausing game...
+[18:41:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:41:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:41:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:41:52] [Server thread/INFO]: Saving and pausing game...
+[18:41:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:41:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:41:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:41:55] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:41:56] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:41:57] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:41:59] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:42:00] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:42:05] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:42:10] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:42:11] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:42:15] [Server thread/INFO]: Saving and pausing game...
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:42:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:42:43] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if score @s trig = t2 temps run gamemode adventure
+[18:43:50] [Server thread/INFO]: Saving and pausing game...
+[18:43:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:43:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:43:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:43:54] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if score @s trig = t2 temps run gamemode adventure
+[18:43:54] [Server thread/INFO]: Saving and pausing game...
+[18:43:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:43:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:43:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:43:55] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if score @s trig = t2 temps run gamemode adventure
+[18:43:55] [Server thread/INFO]: Saving and pausing game...
+[18:43:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:43:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:43:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:43:56] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if score @s trig = t2 temps run gamemode adventure
+[18:43:58] [Server thread/INFO]: Saving and pausing game...
+[18:43:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:43:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:43:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:44:21] [Render thread/INFO]: [CHAT] 成功设置：execute as @a at @s if score @s trig = t3 temps run gamemode spectator
+[18:44:31] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为2）
+[18:44:32] [Render thread/INFO]: [CHAT] 错误的命令参数
+[18:44:32] [Render thread/INFO]: [CHAT] /gamemode 1<--[此处]
+[18:44:34] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:44:36] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:44:36] [Server thread/INFO]: gele178掉出了这个世界
+[18:44:36] [Render thread/INFO]: [CHAT] gele178掉出了这个世界
+[18:44:38] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:44:43] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:44:45] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:44:46] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:44:55] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为1）
+[18:44:58] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:45:00] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:45:03] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:45:08] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:45:09] [Server thread/INFO]: gele178掉出了这个世界
+[18:45:09] [Render thread/INFO]: [CHAT] gele178掉出了这个世界
+[18:45:11] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[18:45:13] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:45:18] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:46:03] [Render thread/INFO]: [CHAT] 重新加载中！
+[18:46:03] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:46:03] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:46:03] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:46:03] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:46:03] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:46:03] [Server thread/INFO]: Reloading ResourceManager: Default, test
+[18:46:03] [Server thread/INFO]: Loaded 7 recipes
+[18:46:03] [Server thread/INFO]: Loaded 927 advancements
+[18:46:04] [Render thread/INFO]: Loaded 927 advancements
+[18:46:05] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:46:06] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:46:07] [Server thread/INFO]: Saving and pausing game...
+[18:46:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:46:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:46:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:46:18] [Render thread/INFO]: [CHAT] 成功设置：execute as @a[tag=!playing] at @s if score @s trig = t2 temps run gamemode adventure
+[18:46:19] [Server thread/INFO]: Saving and pausing game...
+[18:46:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:46:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:46:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:46:31] [Server thread/INFO]: Saving and pausing game...
+[18:46:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:46:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:46:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:46:37] [Server thread/INFO]: Saving and pausing game...
+[18:46:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:46:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:46:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:46:57] [Server thread/INFO]: Saving and pausing game...
+[18:46:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:46:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:46:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:47:12] [Render thread/INFO]: [CHAT] 成功设置：execute as @a[tag=!playing] at @s if score @s trig = t3 temps run gamemode spectator
+[18:47:13] [Server thread/INFO]: Saving and pausing game...
+[18:47:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:47:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:47:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:48:13] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[18:48:14] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[18:48:17] [Render thread/INFO]: [CHAT] 游戏即将开始？
+[18:48:17] [Render thread/INFO]: [CHAT] [是] [否]
+[18:48:18] [Render thread/INFO]: [CHAT] 已执行函数test:start_game中的6条命令
+[18:51:50] [Server thread/INFO]: Saving and pausing game...
+[18:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:51:50] [Server thread/INFO]: gele178 lost connection: 连接中止
+[18:51:50] [Server thread/INFO]: gele178退出了游戏
+[18:51:50] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:51:50] [Server thread/INFO]: Stopping server
+[18:51:50] [Server thread/INFO]: Saving players
+[18:51:50] [Server thread/INFO]: Saving worlds
+[18:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[18:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[18:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[18:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[18:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[18:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:51:51] [Render thread/INFO]: Stopping!
