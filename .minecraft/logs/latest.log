@@ -1,120 +1,126 @@
-[17:17:54] [Render thread/INFO]: Setting user: gele178
-[17:17:55] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
-[17:17:59] [Render thread/INFO]: Narrator library for x64 successfully loaded
-[17:17:59] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art
-[17:18:03] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[17:18:09] [Render thread/INFO]: OpenAL initialized.
-[17:18:09] [Render thread/INFO]: Sound engine started
-[17:18:10] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
-[17:18:10] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[17:18:10] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[17:18:10] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[17:18:10] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[17:18:10] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[17:18:10] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[17:18:11] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[17:18:11] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[17:18:11] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[17:19:09] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:19:09] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:19:09] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:19:09] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:19:09] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:19:09] [Render thread/INFO]: Reloading ResourceManager: Default, test
-[17:19:09] [Render thread/INFO]: Loaded 7 recipes
-[17:19:09] [Render thread/INFO]: Loaded 927 advancements
-[17:19:10] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:51975/https/api.mojang.com', sessionHost='http://127.0.0.1:51975/https/sessionserver.mojang.com', name='PROD'
-[17:19:10] [Server thread/INFO]: Starting integrated minecraft server version 1.16.2
-[17:19:10] [Server thread/INFO]: Generating keypair
-[17:19:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:19:10] [Render thread/INFO]: 准备生成区域中：0%
-[17:19:10] [Render thread/INFO]: Time elapsed: 465 ms
-[17:19:10] [Server thread/INFO]: Changing view distance to 11, from 10
-[17:19:12] [Server thread/INFO]: gele178[local:E:b03a40be] logged in with entity id 7 at (10001.097149599205, 10.0, 10000.06155920488)
-[17:19:12] [Server thread/INFO]: gele178加入了游戏
-[17:19:12] [Server thread/INFO]: Saving and pausing game...
-[17:19:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[17:19:12] [Render thread/INFO]: Loaded 927 advancements
-[17:19:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[17:19:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[17:19:21] [Render thread/INFO]: [CHAT] 已执行函数test:start_game中的6条命令
-[17:19:28] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[17:19:28] [Render thread/INFO]: [CHAT] 已执行函数test:helper中的3条命令
-[17:19:32] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:19:40] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为3）
-[17:19:47] [Server thread/INFO]: gele178掉出了这个世界
-[17:19:47] [Render thread/INFO]: [CHAT] gele178掉出了这个世界
-[17:19:47] [Render thread/INFO]: [CHAT] 已清除gele178
-[17:19:52] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[17:20:03] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为3）
-[17:20:07] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[17:20:09] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为2）
-[17:20:13] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:20:14] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[17:20:16] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:20:25] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[17:20:30] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:20:31] [Server thread/INFO]: Saving and pausing game...
-[17:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[17:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[17:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[17:20:33] [Server thread/INFO]: Saving and pausing game...
-[17:20:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[17:20:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[17:20:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[17:20:34] [Server thread/INFO]: Saving and pausing game...
-[17:20:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[17:20:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[17:20:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[17:20:37] [Server thread/INFO]: Saving and pausing game...
-[17:20:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[17:20:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[17:20:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[17:20:38] [Server thread/INFO]: Saving and pausing game...
-[17:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[17:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[17:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[17:20:48] [Render thread/INFO]: [CHAT] gele178拥有1个标签：playing
-[17:21:32] [Render thread/INFO]: [CHAT] 重新加载中！
-[17:21:32] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:21:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:21:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:21:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:21:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:21:32] [Server thread/INFO]: Reloading ResourceManager: Default, test
-[17:21:32] [Server thread/INFO]: Loaded 7 recipes
-[17:21:32] [Server thread/INFO]: Loaded 927 advancements
-[17:21:33] [Render thread/INFO]: Loaded 927 advancements
-[17:21:40] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[17:21:40] [Render thread/INFO]: [CHAT] 已执行函数test:helper中的4条命令
-[17:21:43] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:21:46] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为2）
-[17:21:48] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为3）
-[17:21:51] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:21:58] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为2）
-[17:22:00] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[17:22:04] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:22:07] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为1）
-[17:22:08] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:22:12] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[17:22:15] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:22:23] [Server thread/INFO]: Saving and pausing game...
-[17:22:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[17:22:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[17:22:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[17:22:23] [Server thread/INFO]: gele178 lost connection: 连接中止
-[17:22:23] [Server thread/INFO]: gele178退出了游戏
-[17:22:23] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[17:22:23] [Server thread/INFO]: Stopping server
-[17:22:23] [Server thread/INFO]: Saving players
-[17:22:23] [Server thread/INFO]: Saving worlds
-[17:22:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[17:22:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
-[17:22:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[17:22:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:22:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[17:22:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:22:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
-[17:22:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:22:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:22:24] [Render thread/INFO]: Stopping!
+[17:25:22] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:52518/https/api.mojang.com', sessionHost='http://127.0.0.1:52518/https/sessionserver.mojang.com', name='PROD'
+[17:25:22] [Render thread/INFO]: Setting user: gele178
+[17:25:22] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[17:25:26] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[17:25:27] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[17:25:30] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[17:25:33] [Render thread/INFO]: OpenAL initialized.
+[17:25:33] [Render thread/INFO]: Sound engine started
+[17:25:34] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[17:25:34] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[17:25:34] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[17:25:34] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[17:25:34] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[17:25:34] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[17:25:34] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[17:25:35] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[17:25:35] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[17:25:35] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[17:25:43] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:25:43] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:25:43] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:25:43] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:25:43] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:25:43] [Render thread/INFO]: Reloading ResourceManager: Default, test
+[17:25:43] [Render thread/INFO]: Loaded 7 recipes
+[17:25:44] [Render thread/INFO]: Loaded 927 advancements
+[17:25:44] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:52518/https/api.mojang.com', sessionHost='http://127.0.0.1:52518/https/sessionserver.mojang.com', name='PROD'
+[17:25:44] [Server thread/INFO]: Starting integrated minecraft server version 1.16.2
+[17:25:44] [Server thread/INFO]: Generating keypair
+[17:25:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:25:45] [Render thread/INFO]: 准备生成区域中：0%
+[17:25:45] [Render thread/INFO]: Time elapsed: 408 ms
+[17:25:45] [Server thread/INFO]: Changing view distance to 11, from 10
+[17:25:46] [Server thread/INFO]: gele178[local:E:f86dd9fb] logged in with entity id 7 at (-3.084202051723437, 4.0, -2.250284904260121)
+[17:25:46] [Server thread/INFO]: gele178加入了游戏
+[17:25:46] [Server thread/INFO]: Saving and pausing game...
+[17:25:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:25:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:25:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:25:47] [Render thread/INFO]: Loaded 927 advancements
+[17:25:53] [Render thread/INFO]: [CHAT] 选项的方括号不成对
+[17:25:53] [Render thread/INFO]: [CHAT] ...ribute @a[<--[此处]
+[17:26:01] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[17:26:01] [Render thread/INFO]: [CHAT] ..._toughness<--[此处]
+[17:26:04] [Render thread/INFO]: [CHAT] 实体gele178的属性盔甲韧性的值为0.0
+[17:26:14] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的值为4.0
+[17:26:25] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[17:26:25] [Render thread/INFO]: [CHAT] ... value get<--[此处]
+[17:26:27] [Render thread/INFO]: [CHAT] UUID无效
+[17:26:33] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[17:26:33] [Render thread/INFO]: [CHAT] ...difier add<--[此处]
+[17:26:35] [Render thread/INFO]: [CHAT] UUID无效
+[17:26:46] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为0.0
+[17:26:56] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为1.0
+[17:27:08] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为4.0
+[17:27:15] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为0.0
+[17:27:27] [Render thread/INFO]: [CHAT] 召唤了新的僵尸
+[17:27:35] [Render thread/INFO]: [CHAT] 召唤了新的牛
+[17:27:50] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[17:27:55] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[17:28:09] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为1.0
+[17:28:17] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为0.0
+[17:28:27] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:28:29] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为1.0
+[17:28:37] [Render thread/INFO]: [CHAT] 只允许一个实体，但提供的选择器允许多个实体
+[17:28:37] [Render thread/INFO]: [CHAT] /attribute @a minecraft:generic.attack_speed base set 1<--[此处]
+[17:28:55] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为1.0
+[17:28:58] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:28:59] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:29:02] [Server thread/INFO]: Saving and pausing game...
+[17:29:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:29:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:29:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:29:06] [Render thread/INFO]: [CHAT] 成功设置：/execute as @a at @s run attribute @s minecraft:generic.attack_speed base set 1
+[17:29:07] [Server thread/INFO]: Saving and pausing game...
+[17:29:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:29:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:29:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:29:08] [Render thread/INFO]: [CHAT] 成功设置：/execute as @a at @s run attribute @s minecraft:generic.attack_speed base set 1
+[17:29:15] [Server thread/INFO]: Saving and pausing game...
+[17:29:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:29:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:29:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:29:17] [Render thread/INFO]: [CHAT] 成功设置：/execute as @a at @s run attribute @s minecraft:generic.attack_speed base set 10
+[17:29:24] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:29:25] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:29:28] [Render thread/INFO]: [CHAT] 召唤了新的牛
+[17:29:31] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[17:29:42] [Render thread/INFO]: [CHAT] 召唤了新的牛
+[17:29:45] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为1.0
+[17:30:14] [Render thread/INFO]: [CHAT] 实体gele178的属性攻击速度的基值已设置为1.0
+[17:30:15] [Render thread/INFO]: [CHAT] 召唤了新的牛
+[17:30:30] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:30:40] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:30:42] [Server thread/INFO]: Saving and pausing game...
+[17:30:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:30:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:30:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:30:44] [Render thread/INFO]: [CHAT] 成功设置：/execute as @a at @s run attribute @s minecraft:generic.attack_speed base set 100
+[17:30:47] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[17:30:49] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:30:52] [Render thread/INFO]: [CHAT] 召唤了新的猫
+[17:31:04] [Render thread/INFO]: [CHAT] 召唤了新的牛
+[17:31:08] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[17:31:09] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[17:31:19] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[17:31:26] [Server thread/INFO]: Saving and pausing game...
+[17:31:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:31:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:31:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:31:27] [Server thread/INFO]: gele178 lost connection: 连接中止
+[17:31:27] [Server thread/INFO]: gele178退出了游戏
+[17:31:27] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:31:27] [Server thread/INFO]: Stopping server
+[17:31:27] [Server thread/INFO]: Saving players
+[17:31:27] [Server thread/INFO]: Saving worlds
+[17:31:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[17:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[17:31:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[17:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:31:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[17:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[17:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:31:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:31:27] [Render thread/INFO]: Stopping!
