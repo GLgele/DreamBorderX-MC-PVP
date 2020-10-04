@@ -1,0 +1,10 @@
+execute if score WanLiu talent_wanliu matches 2.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4
+execute if score WanLiu talent_wanliu matches 4.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4
+execute if score WanLiu talent_wanliu matches 4.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4
+execute if score WanLiu talent_wanliu matches 5.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4
+execute if score WanLiu talent_wanliu matches 6.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4
+execute if score WanLiu talent_wanliu matches 7.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4
+execute if score WanLiu talent_wanliu matches 8.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4
+execute if score WanLiu talent_wanliu matches 9.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4
+execute if score WanLiu talent_wanliu matches 10.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4
+execute if score WanLiu talent_wanliu matches 11.. as @s[tag=!cadao] at @s run scoreboard players remove @s cmzy_timer2 4

@@ -1,0 +1,1 @@
+setblock -46 35 36 minecraft:diamond_block

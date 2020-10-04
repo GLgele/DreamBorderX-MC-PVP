@@ -1,0 +1,2 @@
+execute as @e[type=falling_block,tag=rope_down] at @s unless block ~ ~-1.2 ~ air run kill @s
+execute if entity @e[type=falling_block,tag=rope_down] run schedule function cmzy:map/maps/killer_wrench/map3/rope_tick 1t

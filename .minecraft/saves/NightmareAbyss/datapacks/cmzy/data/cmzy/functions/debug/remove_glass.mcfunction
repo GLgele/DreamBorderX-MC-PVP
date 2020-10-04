@@ -1,0 +1,2 @@
+execute if score sanglass cmzy_count matches 1.. if score game cmzy_count matches 4 run scoreboard players remove sanglass cmzy_count 1
+execute if score game cmzy_count matches 4 run schedule function cmzy:debug/remove_glass 3s
