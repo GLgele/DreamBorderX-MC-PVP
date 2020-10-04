@@ -1,1 +1,0 @@
-effect give @s glowing 10 0 true

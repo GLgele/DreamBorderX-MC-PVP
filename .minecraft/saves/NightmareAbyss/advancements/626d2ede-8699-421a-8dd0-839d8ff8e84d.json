@@ -1,0 +1,21 @@
+{
+  "cmzy:cmzy/root": {
+    "criteria": {
+      "nope": "2020-10-04 21:53:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-10-04 21:53:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2020-10-04 21:53:42 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2580
+}

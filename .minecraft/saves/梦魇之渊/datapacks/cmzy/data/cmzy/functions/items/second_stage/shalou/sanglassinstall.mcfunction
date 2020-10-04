@@ -1,2 +1,0 @@
-#检测梦境沙漏齿轮放到梦境沙漏里
-execute at @e[type=item,nbt={Item:{id:"minecraft:blue_dye"}}] as @a[tag=normal,distance=..2,limit=1] if entity @e[tag=shalou,type=armor_stand,tag=!killer,distance=..2] run function cmzy:items/second_stage/shalou/normalinstall

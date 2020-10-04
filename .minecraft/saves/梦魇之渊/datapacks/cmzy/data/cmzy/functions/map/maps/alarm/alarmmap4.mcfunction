@@ -1,9 +1,0 @@
-summon armor_stand 1097 129 1019 {Silent:1b,NoGravity:1b,Invisible:1b,Tags:["alarm"]}
-summon armor_stand 1111 131 1013 {Silent:1b,NoGravity:1b,Invisible:1b,Tags:["alarm"]}
-summon armor_stand 1088 135 1025 {Silent:1b,NoGravity:1b,Invisible:1b,Tags:["alarm"]}
-summon armor_stand 1088 144 989 {Silent:1b,NoGravity:1b,Invisible:1b,Tags:["alarm"]}
-summon armor_stand 1066 128 1002 {Silent:1b,NoGravity:1b,Invisible:1b,Tags:["alarm"]}
-summon armor_stand 1051 138 1022 {Silent:1b,NoGravity:1b,Invisible:1b,Tags:["alarm"]}
-summon armor_stand 1051 138 1022 {Silent:1b,NoGravity:1b,Invisible:1b,Tags:["alarm"]}
-summon armor_stand 1056 138 1008 {Silent:1b,NoGravity:1b,Invisible:1b,Tags:["alarm"]}
-summon armor_stand 1051 148 1004 {Silent:1b,NoGravity:1b,Invisible:1b,Tags:["alarm"]}

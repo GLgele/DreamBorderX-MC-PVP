@@ -1,8 +1,0 @@
-bossbar set gongjuren_1 players @a[scores={cmzy_wrench=1}]
-bossbar set gongjuren_2 players @a[scores={cmzy_wrench=2}]
-bossbar set gongjuren_3 players @a[scores={cmzy_wrench=3}]
-bossbar set gongjuren_4 players @a[scores={cmzy_wrench=4}]
-bossbar set gongjuren_5 players @a[scores={cmzy_wrench=5}]
-bossbar set gongjuren_6 players @a[scores={cmzy_wrench=6}]
-bossbar set gongjuren_7 players @a[scores={cmzy_wrench=7}]
-bossbar set gongjuren_8 players @a[scores={cmzy_wrench=8}]

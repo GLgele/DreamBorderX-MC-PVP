@@ -1,1 +1,0 @@
-scoreboard players set @s cmzy_watch 500
