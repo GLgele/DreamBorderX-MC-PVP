@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","programer_art"]
+resourcePacks:["vanilla","programer_art","file/Dream-HELL"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
