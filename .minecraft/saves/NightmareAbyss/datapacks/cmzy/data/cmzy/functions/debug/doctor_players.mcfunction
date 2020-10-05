@@ -1,0 +1,8 @@
+bossbar set doctor_1 players @a[scores={cmzy_doctor=1}]
+bossbar set doctor_2 players @a[scores={cmzy_doctor=2}]
+bossbar set doctor_3 players @a[scores={cmzy_doctor=3}]
+bossbar set doctor_4 players @a[scores={cmzy_doctor=4}]
+bossbar set doctor_5 players @a[scores={cmzy_doctor=5}]
+bossbar set doctor_6 players @a[scores={cmzy_doctor=6}]
+bossbar set doctor_7 players @a[scores={cmzy_doctor=7}]
+bossbar set doctor_8 players @a[scores={cmzy_doctor=8}]
