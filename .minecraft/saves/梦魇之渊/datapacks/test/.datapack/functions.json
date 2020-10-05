@@ -1,1 +1,1 @@
-{"test":{"$func":["killer","start_game","killer_attack","time_stop","helper","help","speed"]}}
+{"test":{"$func":["killer","start_game","killer_attack","time_stop","helper","help","speed","reset","shop"]}}

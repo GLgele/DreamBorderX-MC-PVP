@@ -35,7 +35,7 @@ biomeBlendRadius:2
 renderClouds:true
 resourcePacks:["vanilla","programer_art","file/Dream-HELL"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:localhost：50121
 lang:zh_cn
 chatVisibility:0
 chatOpacity:1.0

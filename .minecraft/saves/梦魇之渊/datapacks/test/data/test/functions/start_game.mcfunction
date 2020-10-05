@@ -10,3 +10,4 @@ execute as @a at @s if score 工具人 temps = t3 temps run team leave @s
 execute as @a at @s if score 工具人 temps = t3 temps run tag @r add killer
 execute as @a[tag=killer] at @s run team join killer
 execute as @a[tag=killer] at @s run function test:killer
+execute as @a[tag=!killer] at @s run team join normal @s
