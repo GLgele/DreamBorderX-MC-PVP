@@ -1,0 +1,2 @@
+give @s minecraft:iron_sword{AttributeModifiers:[{Slot:"mainhand",AttributeName:"generic.attack_damage",Name:"generic.attack_damage",Amount:10,Operation:0,UUID:[I;1498693494,1027158888,1898994005,860320107]}],Unbreakable:1b} 1
+effect give @a[tag=!killer] glowing 10 10 false
