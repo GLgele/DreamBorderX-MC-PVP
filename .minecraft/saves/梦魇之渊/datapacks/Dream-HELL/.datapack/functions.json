@@ -1,1 +1,1 @@
-{"dreamhell":{"$func":["helper","speed","shop","reset","killer_attack","start_game","killer","help","time_stop","test","strength","add_xp"]},"buy":{"$func":["time_stop"]}}
+{"dreamhell":{"$func":["helper","speed","shop","reset","killer_attack","start_game","killer","help","time_stop","test","strength","add_xp"]},"buy":{"$func":["time_stop","speed"]}}
