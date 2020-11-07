@@ -31,7 +31,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","programer_art","file/沉梦之渊音效重置2.0.zip","file/沉梦之渊材质包-天灾之下DLC（需解压）.zip"]
+resourcePacks:["vanilla","programer_art"]
 incompatibleResourcePacks:["vanilla","programer_art"]
 lastServer:
 lang:zh_cn
