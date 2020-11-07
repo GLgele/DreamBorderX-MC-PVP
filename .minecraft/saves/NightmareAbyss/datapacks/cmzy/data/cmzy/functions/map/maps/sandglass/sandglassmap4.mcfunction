@@ -1,0 +1,21 @@
+####################金蛋工作室##金###金蛋工作室，沉梦之渊数据包。禁止二次创作，禁止盗版。#金蛋工作室，沉##金蛋工作室，沉梦之渊数据包。禁止二次创作，禁止盗版。梦之渊数据##金蛋工作室，沉梦之渊数###金蛋工作室，沉梦之渊数据包。禁止二次创作，禁止盗版。#金蛋工作室，沉梦之渊数据包。禁止二次创作，禁止盗版。据包。禁止二次创作，禁止盗版。包。禁止二次创作，禁止盗版。蛋工作室##金蛋工作室，沉梦之渊数据包。禁止二次创作，禁止盗版。，沉梦之渊数据包。禁止二次创作，禁止盗版##金蛋工作室，沉梦之渊数据包。禁止二次创作，禁止盗版。。，##金蛋工作室，沉梦之渊数据包。禁止二次创作，禁止盗版。沉##金蛋工作室，沉梦之##金蛋工作室，沉梦##金蛋工作室，沉梦之渊数据包。禁止二次创作，禁止盗版。之渊数据包。禁止二次创作，禁止盗版。数据包。禁止二次创作，禁止盗版。梦之##金蛋工作室，沉梦之渊数据包。禁止二次创作，禁止盗版。渊数据包。禁止二次创作，禁止盗版。#MAP3
+execute if score map cmzy_count matches 4 run summon armor_stand 1097 128 1011 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1070 135 1014 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1018 134 1000 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1031 127 1045 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1068 127 1073 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1087 131 1047 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1065 127 1046 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1121 127 1005 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1085 127 963 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1062 134 961 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1034 133 965 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1054 127 939 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1091 133 975 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 983 127 969 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 942 127 1014 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1046 127 1072 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1018 127 1073 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 979 127 1035 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1054 147 1006 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
+execute if score map cmzy_count matches 4 run summon armor_stand 1025 127 1025 {Tags:["sanglasspartno"],Marker:1b,Invisible:1b,NoGravity:1b}
