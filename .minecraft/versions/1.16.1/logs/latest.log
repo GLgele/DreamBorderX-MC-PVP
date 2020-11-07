@@ -1,19 +1,1373 @@
-[18:00:22] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:49492/https/api.mojang.com', sessionHost='http://127.0.0.1:49492/https/sessionserver.mojang.com', name='PROD'
-[18:00:22] [Render thread/INFO]: Setting user: GLgele
-[18:00:23] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
-[18:00:27] [Render thread/INFO]: Narrator library for x64 successfully loaded
-[18:00:27] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art
-[18:00:36] [Render thread/INFO]: OpenAL initialized.
-[18:00:36] [Render thread/INFO]: Sound engine started
-[18:00:37] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
-[18:00:37] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[18:00:37] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[18:00:37] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[18:00:37] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[18:00:37] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[18:00:37] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[18:00:38] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[18:00:38] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[18:00:38] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[18:00:38] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[18:01:34] [Render thread/INFO]: Stopping!
+[19:18:46] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:50928/https/api.mojang.com', sessionHost='http://127.0.0.1:50928/https/sessionserver.mojang.com', name='PROD'
+[19:18:46] [Render thread/INFO]: Setting user: GLgele
+[19:18:46] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[19:18:51] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[19:18:51] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[19:18:58] [Render thread/INFO]: OpenAL initialized.
+[19:18:58] [Render thread/INFO]: Sound engine started
+[19:18:58] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[19:18:59] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[19:18:59] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:18:59] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:18:59] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:18:59] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:18:59] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:18:59] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:19:00] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:19:00] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:19:00] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:21:23] [Render thread/INFO]: Connecting to 103.205.254.39, 40385
+[19:21:30] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:50928/https/api.mojang.com', sessionHost='http://127.0.0.1:50928/https/sessionserver.mojang.com', name='PROD'
+[19:21:30] [Render thread/WARN]: Unknown custom packed identifier: minecraft:register
+[19:21:31] [Render thread/INFO]: [CHAT] GLgele joined the game
+[19:21:31] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:21:31] [Render thread/INFO]: Loaded 9 advancements
+[19:21:37] [Render thread/INFO]: [CHAT] sjy33443 left the game
+[19:21:37] [Render thread/INFO]: [CHAT] [通告] 玩家sjy33443被管理员giovors踢出服务器，原因:nmd
+[19:21:39] [Render thread/INFO]: [CHAT] sjy33443 joined the game
+[19:21:39] [Render thread/INFO]: [CHAT] sjy33443完成了挑战[§6§l登峰造极]
+[19:21:43] [Render thread/INFO]: [CHAT] <xueying_f> cao
+[19:21:45] [Render thread/INFO]: [CHAT] <sjy33443> 靠我点笑了
+[19:21:47] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, 沉梦之渊音效重置2.0.zip, 沉梦之渊材质包-天灾之下DLC（需解压）.zip
+[19:21:47] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊音效重置2.0.zip
+[19:21:47] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊材质包-天灾之下DLC（需解压）.zip
+[19:21:48] [Worker-Main-19/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
+[19:21:48] [Worker-Main-19/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
+[19:21:48] [Worker-Main-19/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
+[19:21:48] [Worker-Main-19/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
+[19:21:48] [Worker-Main-16/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car1
+[19:21:48] [Worker-Main-16/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car2
+[19:21:48] [Worker-Main-15/ERROR]: Using missing texture, unable to load minecraft:textures/item/zhihe_electric_shock_stick.png : java.io.FileNotFoundException: minecraft:textures/item/zhihe_electric_shock_stick.png
+[19:21:48] [Worker-Main-22/ERROR]: Using missing texture, unable to load minecraft:textures/block/sword_tang.png : java.io.FileNotFoundException: minecraft:textures/block/sword_tang.png
+[19:21:49] [Worker-Main-19/ERROR]: Using missing texture, unable to load minecraft:textures/block/green_cmd_block.png : java.io.FileNotFoundException: minecraft:textures/block/green_cmd_block.png
+[19:21:49] [Worker-Main-16/WARN]: Texture minecraft:item/zi with size 265x141 limits mip level from 4 to 0
+[19:21:49] [Worker-Main-16/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[19:21:49] [Render thread/INFO]: OpenAL initialized.
+[19:21:49] [Render thread/INFO]: Sound engine started
+[19:21:49] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/blocks.png-atlas
+[19:21:49] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[19:21:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[19:21:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[19:21:49] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[19:21:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[19:21:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19:21:49] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[19:21:49] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19:21:49] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/mob_effects.png-atlas
+[19:21:52] [Render thread/INFO]: [CHAT] <Xbiaz> 装个材质吧ouo
+[19:22:39] [Render thread/INFO]: Loaded 16 advancements
+[19:23:34] [Render thread/INFO]: [CHAT] <Xbiaz> 刚回来就被谋权篡位了
+[19:23:38] [Render thread/INFO]: [CHAT] <Xbiaz> ;w;
+[19:23:40] [Render thread/INFO]: [CHAT] <giovors> ouo
+[19:24:15] [Render thread/INFO]: Loaded 17 advancements
+[19:24:28] [Render thread/INFO]: [CHAT] [SkinsRestorer] Error: You can't update custom url skins! 
+[19:24:28] [Render thread/INFO]: [CHAT] Request again using /skin url
+[19:25:06] [Render thread/INFO]: [CHAT] Usage: {command} {syntax}
+[19:25:06] [Render thread/INFO]: [CHAT] Usage: /skin url  <url>
+[19:25:08] [Render thread/INFO]: [CHAT] <giovors> 草了人呢
+[19:25:46] [Render thread/INFO]: [CHAT] <giovors> 你妈了个比谁给的隐身
+[19:25:46] [Render thread/INFO]: [CHAT] [SkinsRestorer] Uploading skin, please wait...(This may take up some time)
+[19:26:06] [Render thread/INFO]: [CHAT] xueying_f沉睡
+[19:26:06] [Render thread/INFO]: Loaded 18 advancements
+[19:26:06] [Render thread/INFO]: [CHAT] [梦境裂隙]已刷新！
+[19:26:09] [Render thread/INFO]: [CHAT] [SkinsRestorer] Your skin has been changed.
+[19:26:11] [Render thread/INFO]: [CHAT] <xueying_f> nmd
+[19:26:14] [Render thread/INFO]: [CHAT] <giovors> )))))))))))))))))))))))))))))
+[19:26:16] [Render thread/INFO]: [CHAT] <xueying_f> 蒸汽没用
+[19:26:32] [Render thread/INFO]: [CHAT] GLgele沉睡
+[19:26:32] [Render thread/INFO]: Loaded 33 advancements
+[19:26:33] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:26:33] [Render thread/INFO]: [CHAT] §6   ---------------------   §c§l梦境熄灭§6   ---------------------
+[19:26:33] [Render thread/INFO]: [CHAT]     睡眠：个人失败！
+[19:26:33] [Render thread/INFO]: [CHAT] 杀手胜利！giovors\n沉睡在深渊里！
+[19:26:33] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:26:35] [Render thread/INFO]: [CHAT] <giovors> ouo
+[19:26:39] [Render thread/INFO]: [CHAT] <Xbiaz> 算了认真玩不调了
+[19:26:41] [Render thread/INFO]: [CHAT] <Xbiaz> ouo
+[19:26:45] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[19:26:45] [Render thread/INFO]: [CHAT] 晚安
+[19:26:46] [Render thread/INFO]: [CHAT] <xueying_f> 直接kill吧
+[19:26:48] [Render thread/INFO]: [CHAT] 
+[19:26:48] [Render thread/INFO]: [CHAT] 
+[19:26:48] [Render thread/INFO]: [CHAT] 
+[19:26:48] [Render thread/INFO]: [CHAT] 
+[19:26:48] [Render thread/INFO]: [CHAT] 
+[19:26:48] [Render thread/INFO]: [CHAT] 
+[19:26:48] [Render thread/INFO]: [CHAT] 
+[19:26:48] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:49] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:50] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:51] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:52] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] <xueying_f> 别晚餐
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] 
+[19:26:53] [Render thread/INFO]: [CHAT] §e新手提示已开启
+[19:26:56] [Render thread/INFO]: [CHAT] 体魄：[健硕]
+[19:26:56] [Render thread/INFO]: Loaded 40 advancements
+[19:26:56] [Render thread/INFO]: [CHAT] §e[提示] ：现在是[§f§6第一阶段§e]，保持至上方倒计时进度条结束之前。
+[19:26:56] [Render thread/INFO]: [CHAT] §e[提示] ：你的身份是：[§b§l逃生者§e]，在此之前活下去是最重要的。
+[19:26:56] [Render thread/INFO]: [CHAT] §e[提示] ：当心，其他玩家中的一位会是[§c§l杀手§e]，他的目的是击败[§b§l逃生者§e]。
+[19:26:57] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[19:27:00] [Render thread/INFO]: [CHAT] <xueying_f> 贼恐怖
+[19:27:06] [Render thread/INFO]: [CHAT] sjy33443沉睡
+[19:27:07] [Render thread/INFO]: Loaded 53 advancements
+[19:27:08] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[19:27:11] [Render thread/INFO]: [CHAT] §e[提示] ：即将获得[§f§l体魄§e]信息，这关系到此局你的移动速度
+[19:27:19] [Render thread/INFO]: [CHAT] <giovors> ./kill @e[type=minecraft:wither]
+[19:27:22] [Render thread/INFO]: [CHAT] §e[提示]:现在至[§f§6第一阶段§e]结束前，打开背包选择天赋！并且查看自身的所有属性
+[19:27:24] [Render thread/INFO]: [CHAT] <giovors> sjy输
+[19:27:38] [Render thread/INFO]: [CHAT] <sjy33443> 好了
+[19:27:42] [Render thread/INFO]: [CHAT] <xueying_f> 建议在等号后加个!
+[19:27:47] [Render thread/INFO]: [CHAT] <giovors> 你一看就是个指令渣
+[19:27:48] [Render thread/INFO]: [CHAT] <sjy33443> 靠
+[19:27:54] [Render thread/INFO]: [CHAT] Xbiaz沉睡
+[19:27:56] [Render thread/INFO]: [CHAT] <sjy33443> 你一看就是个指令渣
+[19:27:56] [Render thread/INFO]: [CHAT] 保护者制止了杀手
+[19:27:56] [Render thread/INFO]: [CHAT] A逃生者阵营获得10点积分A
+[19:27:57] [Render thread/INFO]: [CHAT] §e[提示] ：[§f§6第一阶段§e]结束，[§f§6第二阶段§e]即将开启。
+[19:27:57] [Render thread/INFO]: [CHAT] §e[提示] ：[§f§6第二阶段§e]将会开放[§f§l梦境沙漏§e]，[§f§l零件§e]，[§f§l天赋§e]，[§f§l商店§e]，[§f§l小门交互§e]，[§f§l大门交互§e]。
+[19:27:57] [Render thread/INFO]: [CHAT] §e[提示] ：利用好当前[§f§l积分§e]，找到[§f§l商店§e]购买道具！。
+[19:27:59] [Render thread/INFO]: [CHAT] <sjy33443> ohhhhhhhhh
+[19:28:00] [Render thread/INFO]: [CHAT] <giovors> 你一看就是个指令渣
+[19:28:04] [Render thread/INFO]: [CHAT] <Xbiaz> 离谱
+[19:28:04] [Render thread/INFO]: [CHAT] <giovors> 你连这个都不会
+[19:28:07] [Render thread/INFO]: [CHAT] §e[提示] ：[§l§6小门§e]，已通电，小门会开启，开放更多场景。
+[19:28:11] [Render thread/INFO]: [CHAT] <giovors> 我把你杀了 背刺ouo
+[19:28:28] [Render thread/INFO]: [CHAT] §e[提示] ：你需要拾取散落在各处的[§5§l零件§e]去修复充能[§6§l梦境沙漏§e]\n[§f§6大门§e]会因[§6§l梦境沙漏§e]充能完毕通电。
+[19:28:28] [Render thread/INFO]: [CHAT] §e[提示] ：[§l§6大门§e]通电后找到并开启逃出它，直至自身胜利游戏结束！。
+[19:29:03] [Render thread/INFO]: [CHAT] Xbiaz沉睡
+[19:29:07] [Render thread/INFO]: [CHAT] <giovors> ?
+[19:29:08] [Render thread/INFO]: [CHAT] <sjy33443> ob
+[19:29:12] [Render thread/INFO]: [CHAT] <Xbiaz> 攒个积分怎么就无了
+[19:29:13] [Render thread/INFO]: [CHAT] <giovors> 哦不
+[19:29:14] [Render thread/INFO]: [CHAT] <Xbiaz> ???
+[19:29:17] [Render thread/INFO]: [CHAT] <sjy33443> 哦不
+[19:29:18] [Render thread/INFO]: [CHAT] I'm behind you
+[19:29:18] [Render thread/INFO]: [CHAT] xueying_f沉睡
+[19:29:34] [Render thread/INFO]: [CHAT] <xueying_f> sjy在干嘛
+[19:29:38] [Render thread/INFO]: [CHAT] §e检测到杀手暂离游戏，游戏结束。
+[19:29:38] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:29:38] [Render thread/INFO]: [CHAT] §6   ---------------------   §c§l梦境熄灭§6   ---------------------
+[19:29:38] [Render thread/INFO]: [CHAT]     清醒：个人胜利！
+[19:29:38] [Render thread/INFO]: [CHAT] [调试]:强制结束游戏
+[19:29:38] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:29:42] [Render thread/INFO]: [CHAT] <giovors> 吓唬谁啊 还I behind you
+[19:29:45] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[19:29:49] [Render thread/INFO]: [CHAT] <giovors> 后台搞事情呢？
+[19:29:52] [Render thread/INFO]: [CHAT] yes
+[19:29:57] [Render thread/INFO]: [CHAT] <Xbiaz> hhhc
+[19:29:57] [Render thread/INFO]: [CHAT] 你创建了名叫 Home 的家
+[19:29:57] [Render thread/INFO]: [CHAT] 已设置重生点
+[19:29:57] [Render thread/INFO]: [CHAT] GLgele取得了进度[甜蜜的梦]
+[19:29:57] [Render thread/INFO]: Loaded 53 advancements
+[19:30:05] [Render thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[19:30:07] [Render thread/INFO]: [CHAT] 给你说个鬼故事
+[19:30:11] [Render thread/INFO]: [CHAT] /history <玩家> [entries=10]
+[19:30:11] [Render thread/INFO]: [CHAT] <sjy33443> 艹
+[19:30:13] [Render thread/INFO]: [CHAT] Xbiaz取得了进度[甜蜜的梦]
+[19:30:15] [Render thread/INFO]: [CHAT] giovors的历史 (数量: 10):
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [13 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被sjy33443踢出: '被我一拳打死的'
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [13 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被sjy33443踢出: '你妈我没kill'
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [25 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被Console封禁: 'A player has removed from the game,Reason:Cheating' [已失效]
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [31 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被Console警告: '[LiteBans] You Cheating' [生效中]
+[19:30:15] [Render thread/INFO]: [CHAT] 在6 天, 23 小时, 28 分钟后失效.
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [32 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被Console警告: '[LiteBans] You Cheating' [生效中]
+[19:30:15] [Render thread/INFO]: [CHAT] 在6 天, 23 小时, 27 分钟后失效.
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [3 小时, 16 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被sjy33443封禁: '观察者飞行不是挂'
+[19:30:15] [Render thread/INFO]: [CHAT] giovors被EmeraldsEgg 解除封禁.
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [3 小时, 17 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被sjy33443踢出: '我帮你'
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [3 小时, 17 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被giovors踢出: '我原地爆炸'
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [3 小时, 17 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被giovors踢出: '我是大傻逼ouo'
+[19:30:15] [Render thread/INFO]: [CHAT]  -- [3 小时, 18 分钟之前] --
+[19:30:15] [Render thread/INFO]: [CHAT]  giovors被giovors踢出: '我是傻逼 ouo'
+[19:30:16] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[19:30:16] [Render thread/INFO]: [CHAT] 晚安
+[19:30:18] [Render thread/INFO]: [CHAT] 
+[19:30:18] [Render thread/INFO]: [CHAT] 
+[19:30:18] [Render thread/INFO]: [CHAT] 
+[19:30:18] [Render thread/INFO]: [CHAT] 
+[19:30:18] [Render thread/INFO]: [CHAT] 
+[19:30:18] [Render thread/INFO]: [CHAT] 
+[19:30:18] [Render thread/INFO]: [CHAT] 
+[19:30:18] [Render thread/INFO]: [CHAT] 
+[19:30:18] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:19] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:20] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:21] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:22] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:23] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] 
+[19:30:24] [Render thread/INFO]: [CHAT] §e新手提示已开启
+[19:30:24] [Render thread/INFO]: Loaded 55 advancements
+[19:30:27] [Render thread/INFO]: [CHAT] 体魄：[羸弱]
+[19:30:27] [Render thread/INFO]: [CHAT] §e[提示] ：现在是[§f§6第一阶段§e]，保持至上方倒计时进度条结束之前。
+[19:30:27] [Render thread/INFO]: [CHAT] §e[提示] ：你的身份是：[§c§l杀手§e]，目的是击败[§b§l逃生者§e]。
+[19:30:27] [Render thread/INFO]: [CHAT] §e[提示] ：尽可能不为人知地击败他们，刺杀是你的强项也是最安全的环境。
+[19:30:28] [Render thread/INFO]: [CHAT] <xueying_f> kill sjy33443
+[19:30:37] [Render thread/INFO]: [CHAT] xueying_f沉睡
+[19:30:39] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[19:30:40] [Render thread/INFO]: [CHAT] <xueying_f> nmd
+[19:30:42] [Render thread/INFO]: [CHAT] §e[提示] ：即将获得[§f§l体魄§e]信息，这关系到此局你的移动速度
+[19:30:43] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[19:30:44] [Render thread/INFO]: [CHAT] Malagepeter joined the game
+[19:30:49] [Render thread/INFO]: [CHAT] <xueying_f> 你biss
+[19:30:51] [Render thread/INFO]: [CHAT] §e[提示]:现在至[§f§6第一阶段§e]结束前，打开背包选择天赋！并且查看自身的所有属性
+[19:30:52] [Render thread/INFO]: [CHAT] <sjy33443> 你们咋私聊
+[19:30:54] [Render thread/INFO]: [CHAT] <sjy33443> 死了
+[19:30:54] [Render thread/INFO]: [CHAT] [Server] 这就是鬼故事
+[19:31:04] [Render thread/INFO]: [CHAT] §e[提示] ：当前[§c§l杀手§e]，可以右键武器投掷出飞刀。
+[19:31:06] [Render thread/INFO]: [CHAT] <xueying_f> 有kill命令块
+[19:31:09] [Render thread/INFO]: [CHAT] §e[提示] ：场内会有一名[§5§l保护者§e]，他会找出[§c§l杀手§e]并击败他。
+[19:31:09] [Render thread/INFO]: [CHAT] §e[提示] ：[§c§l杀手§e]持武器被[§b§l逃生者§e]阵营发现，那么还会生成[§5§l保护者§e]去击败[§c§l杀手§e]。
+[19:31:12] [Render thread/INFO]: [CHAT] <xueying_f> nmbs
+[19:31:29] [Render thread/INFO]: [CHAT] §e[提示] ：拾取散落在各地的[§f§l金蛋§e]将获取积分，积分用于第二阶段的道具购买。\n拾取四枚[§f§l金蛋§e]将获取[§f§l闹钟§e]
+[19:31:29] [Render thread/INFO]: [CHAT] §e[提示] ：使用[§f§l闹钟§e]会使倒计时进度条向己方阵营进退，\n并使全场玩家除自己外发光暴露。
+[19:31:33] [Render thread/INFO]: [CHAT] <Xbiaz> 哦草原来马币加入的提示只是个tellraw
+[19:31:35] [Render thread/INFO]: [CHAT] <xueying_f> 马币呢
+[19:31:41] [Render thread/INFO]: [CHAT] <xueying_f> 才
+[19:31:45] [Render thread/INFO]: [CHAT] <xueying_f> 草
+[19:31:54] [Render thread/INFO]: Loaded 56 advancements
+[19:31:59] [Render thread/INFO]: [CHAT] <giovors> 你妈的我不能用title
+[19:32:03] [Render thread/INFO]: [CHAT] <giovors> 绿蛋你给我挑回去
+[19:32:05] [Render thread/INFO]: [CHAT] <giovors> aaaa
+[19:32:11] [Render thread/WARN]: Told to remove advancement cmzy:effect_foot/effect3 but I don't know what that is
+[19:32:11] [Render thread/INFO]: Loaded 68 advancements
+[19:32:13] [Render thread/INFO]: [CHAT] Tear_white joined the game
+[19:32:17] [Render thread/INFO]: [CHAT] 你死在了位于世界world的x:-26,y:43 z:20
+[19:32:17] [Render thread/INFO]: [CHAT] §e[提示] ：你失败了！游戏结束，你可以旁观此局游戏。
+[19:32:17] [Render thread/INFO]: [CHAT] GLgele沉睡
+[19:32:19] [Render thread/INFO]: [CHAT] 保护者制止了杀手
+[19:32:19] [Render thread/INFO]: [CHAT] A逃生者阵营获得10点积分A
+[19:32:19] [Render thread/INFO]: [CHAT] Xbiaz完成了挑战[正当防卫]
+[19:32:21] [Render thread/INFO]: [CHAT] <Xbiaz> 就这样整的
+[19:32:21] [Render thread/INFO]: [CHAT] <xueying_f> az
+[19:32:25] [Render thread/INFO]: [CHAT] <giovors> 绿蛋你给我调回去
+[19:32:25] [Render thread/INFO]: [CHAT] <giovors> 绿蛋你给我调回去
+[19:32:26] [Render thread/INFO]: [CHAT] <giovors> 绿蛋你给我调回去
+[19:32:32] [Render thread/INFO]: [CHAT] <sjy33443> 你以为吃苹果就能不死了吗
+[19:32:45] [Render thread/INFO]: [CHAT] <xueying_f> 我身上插了几根箭
+[19:32:47] [Render thread/INFO]: Loaded 74 advancements
+[19:32:48] [Render thread/INFO]: [CHAT] sjy33443取得了进度[甜蜜的梦]
+[19:32:52] [Render thread/INFO]: [CHAT] <giovors> 快点啊！！！！！！！！！！！！！！
+[19:33:02] [Render thread/INFO]: [CHAT] xueying_f取得了进度[甜蜜的梦]
+[19:33:02] [Render thread/INFO]: Loaded 74 advancements
+[19:33:16] [Render thread/INFO]: [CHAT] [LP] LOG > (Console) [G] (cmzy)
+[19:33:16] [Render thread/INFO]: [CHAT] [LP] LOG > permission set minecraft.command.title true
+[19:33:19] [Render thread/INFO]: [CHAT] [Server] ok
+[19:33:23] [Render thread/WARN]: Received passengers for unknown entity
+[19:33:25] [Render thread/INFO]: [CHAT] <giovors> 星
+[19:33:30] [Render thread/INFO]: [CHAT] <giovors> 我也来搞事情
+[19:33:36] [Render thread/INFO]: [CHAT] :)
+[19:33:55] [Render thread/INFO]: [CHAT] <xueying_f>  1
+[19:34:01] [Render thread/INFO]: [CHAT] <xueying_f>  不行
+[19:34:08] [Render thread/INFO]: [CHAT] <Xbiaz> 拼错了
+[19:34:10] [Render thread/INFO]: [CHAT] <Xbiaz> ...
+[19:34:16] [Render thread/INFO]: [CHAT] <giovors> 是哦
+[19:34:18] [Render thread/INFO]: [CHAT] <xueying_f>  用不了&
+[19:34:20] [Render thread/INFO]: [CHAT] <giovors> 等等
+[19:34:41] [Render thread/INFO]: [CHAT] sjy33443 left the game
+[19:34:49] [Render thread/INFO]: [CHAT] <xueying_f> 没颜色没内味
+[19:35:52] [Render thread/INFO]: [CHAT] <GLgele> bossbar不支持json格式文本
+[19:36:14] [Render thread/INFO]: [CHAT] TPS from last 1m, 5m, 15m: 14.64, 15.57, 15.52
+[19:36:27] [Render thread/INFO]: [CHAT] [Server] 我输掉了指令
+[19:36:53] [Render thread/INFO]: [CHAT] sjy33443 joined the game
+[19:36:55] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[19:36:55] [Render thread/INFO]: [CHAT] ...ecraft:sjy<--[此处]
+[19:37:05] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[19:37:05] [Render thread/INFO]: [CHAT] ...ft:sjy max<--[此处]
+[19:37:10] [Render thread/INFO]: [CHAT] <sjy33443> 我刚刚电脑崩了
+[19:37:13] [Render thread/INFO]: [CHAT] <giovors> 完了我把想忘记怎么拼了
+[19:37:14] [Render thread/INFO]: [CHAT] [Server] 我用的是cmi的bossbar
+[19:37:16] [Render thread/INFO]: [CHAT] <giovors> 完了我把想忘记怎么拼了
+[19:37:37] [Render thread/INFO]: [CHAT] <xueying_f> ?
+[19:37:45] [Render thread/INFO]: [CHAT] [LP] LOG > (Console) [U] (glgele)
+[19:37:45] [Render thread/INFO]: [CHAT] [LP] LOG > parent set cmzy
+[19:37:53] [Render thread/INFO]: [CHAT] [Server] sjy
+[19:37:58] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[19:38:07] [Render thread/INFO]: [CHAT] <sjy33443> 咋了
+[19:38:10] [Render thread/INFO]: [CHAT] [Server] 之后你每次给op
+[19:38:22] [Render thread/INFO]: [CHAT] <sjy33443> ？
+[19:38:48] [Render thread/INFO]: [CHAT] <giovors> ouo
+[19:38:59] [Render thread/INFO]: [CHAT] <giovors> 好活
+[19:39:01] [Render thread/INFO]: [CHAT] <sjy33443> en
+[19:39:22] [Render thread/INFO]: [CHAT] [LP] LOG > (sjy33443) [U] (giovors)
+[19:39:22] [Render thread/INFO]: [CHAT] [LP] LOG > parent set cmzy
+[19:39:25] [Render thread/INFO]: [CHAT] <sjy33443> az
+[19:39:32] [Render thread/INFO]: [CHAT] [LP] LOG > (sjy33443) [U] (sjy33443)
+[19:39:32] [Render thread/INFO]: [CHAT] [LP] LOG > parent set cmzy
+[19:39:39] [Render thread/INFO]: [CHAT] <sjy33443> az
+[19:40:08] [Render thread/INFO]: [CHAT] [LP] LOG > (sjy33443) [U] (sjy33443)
+[19:40:08] [Render thread/INFO]: [CHAT] [LP] LOG > parent remove cmzy
+[19:40:18] [Render thread/WARN]: Told to remove advancement cmzy:effect_foot/effect2 but I don't know what that is
+[19:40:18] [Render thread/INFO]: Loaded 74 advancements
+[19:40:29] [Render thread/INFO]: [CHAT] <sjy33443> az
+[19:40:30] [Render thread/INFO]: [CHAT] <giovors> 你吗
+[19:40:32] [Render thread/INFO]: [CHAT] <giovors> 没打完
+[19:40:41] [Render thread/INFO]: [CHAT] [LP] LOG > (Console) [G] (cmzy)
+[19:40:41] [Render thread/INFO]: [CHAT] [LP] LOG > permission set minecraft.command.bossbar false
+[19:40:51] [Render thread/INFO]: [CHAT] <giovors> c
+[19:41:03] [Render thread/INFO]: [CHAT] [LP] LOG > (Console) [G] (cmzy)
+[19:41:03] [Render thread/INFO]: [CHAT] [LP] LOG > permission set luckperms.* false
+[19:41:16] [Render thread/INFO]: [CHAT] <giovors> ouo
+[19:41:19] [Render thread/INFO]: [CHAT] <giovors> 完了
+[19:41:25] [Render thread/INFO]: [CHAT] 参数后应有空格分隔，但发现了紧邻的数据
+[19:41:25] [Render thread/INFO]: [CHAT] ...GLgele 100l<--[此处]
+[19:41:35] [Render thread/INFO]: [CHAT] [Server] ok
+[19:41:47] [Render thread/INFO]: [CHAT] [Server] 我限制了部分权限
+[19:41:47] [Render thread/INFO]: [CHAT] <xueying_f> az
+[19:41:53] [Render thread/INFO]: [CHAT] [Server] 比如bossbar
+[19:42:05] [Render thread/INFO]: [CHAT] [Server] bossbar关系到显示
+[19:42:30] [Render thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[19:42:35] [Render thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[19:44:14] [Render thread/INFO]: [CHAT] [Server] 现在?
+[19:44:44] [Render thread/INFO]: Loaded 75 advancements
+[19:45:20] [Render thread/INFO]: [CHAT] [Server] 按tab，有没有此地图策划:马币(在下Malagepeter)
+[19:45:27] [Render thread/INFO]: [CHAT] <sjy33443> 有
+[19:45:29] [Render thread/INFO]: [CHAT] <Xbiaz> 有
+[19:45:41] [Render thread/INFO]: [CHAT] <giovors> ?
+[19:45:48] [Render thread/INFO]: [CHAT] giovors沉睡
+[19:45:50] [Render thread/INFO]: [CHAT] [Server] 猜猜我的论坛网址
+[19:46:14] [Render thread/INFO]: [CHAT] [Server]  GLgele moved wrongly!
+[19:46:15] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:46:20] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:46:33] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[19:46:33] [Render thread/INFO]: [CHAT] ...ele remove<--[此处]
+[19:46:34] [Render thread/INFO]: [CHAT] §e检测到杀手暂离游戏，游戏结束。
+[19:46:34] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:46:34] [Render thread/INFO]: [CHAT] §6   ---------------------   §c§l梦境熄灭§6   ---------------------
+[19:46:34] [Render thread/INFO]: [CHAT]     睡眠：个人失败！
+[19:46:34] [Render thread/INFO]: [CHAT] [调试]:强制结束游戏
+[19:46:34] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:46:34] [Render thread/INFO]: [CHAT] 对象没有这个标签
+[19:46:37] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:46:39] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:46:40] [Render thread/INFO]: [CHAT] [Server]  TPS from last 1m, 5m, 15m: 11.28, 11.43, 13.31
+[19:46:42] [Render thread/INFO]: [CHAT] ohya_123 joined the game
+[19:46:42] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[19:46:42] [Render thread/INFO]: [CHAT] 晚安
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:44] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] <sjy33443> AZ
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:45] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:46] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:47] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:48] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:49] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] 
+[19:46:50] [Render thread/INFO]: [CHAT] §e新手提示已开启
+[19:46:50] [Render thread/INFO]: Loaded 75 advancements
+[19:46:53] [Render thread/INFO]: [CHAT] <giovors> 帝崎 准备好受死吧啊哈哈哈哈
+[19:46:54] [Render thread/INFO]: [CHAT] 体魄：[健硕]
+[19:46:54] [Render thread/INFO]: [CHAT] §e[提示] ：现在是[§f§6第一阶段§e]，保持至上方倒计时进度条结束之前。
+[19:46:54] [Render thread/INFO]: [CHAT] §e[提示] ：你的身份是：[§5§l保护者§e]，与[§b§l逃生者§e]是同阵营的。
+[19:46:54] [Render thread/INFO]: [CHAT] §e[提示] ：[§5§l保护者§e]，是[§c§l杀手§e]唯二拥有武器的身份，警惕的同时，找出[§c§l杀手§e]去击败他！。
+[19:47:10] [Render thread/INFO]: [CHAT] <Xbiaz> sir啊这murder概率太高了
+[19:47:12] [Render thread/INFO]: [CHAT] §e[提示] ：即将获得[§f§l体魄§e]信息，这关系到此局你的移动速度
+[19:47:24] [Render thread/INFO]: [CHAT] §e[提示]:现在至[§f§6第一阶段§e]结束前，打开背包选择天赋！并且查看自身的所有属性
+[19:47:25] [Render thread/INFO]: [CHAT] <ohya_123> 第三代我刚进来
+[19:47:33] [Render thread/INFO]: [CHAT] <ohya_123> 我处理点东西
+[19:47:39] [Render thread/INFO]: [CHAT] [Server] 你们没有deop or op权限
+[19:47:46] [Render thread/INFO]: [CHAT] <giovors> a
+[19:47:53] [Render thread/INFO]: [CHAT] [Server] 目前只有sjy33443有
+[19:47:58] [Render thread/INFO]: [CHAT] <sjy33443> 是的
+[19:48:00] [Render thread/INFO]: [CHAT] chyujue joined the game
+[19:48:02] [Render thread/INFO]: [CHAT] <ohya_123> 我没装材质包
+[19:48:07] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[19:48:08] [Render thread/INFO]: [CHAT] [Server] 自带材质包
+[19:48:08] [Render thread/INFO]: [CHAT] 你死在了位于世界world的x:-368,y:15 z:267
+[19:48:08] [Render thread/INFO]: [CHAT] §e[提示] ：你失败了！游戏结束，你可以旁观此局游戏。
+[19:48:08] [Render thread/INFO]: [CHAT] GLgele沉睡
+[19:48:14] [Render thread/INFO]: [CHAT] [Server] 只要退出游戏
+[19:48:19] [Render thread/INFO]: [CHAT] 对象没有这个标签
+[19:48:21] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:24] [Render thread/INFO]: [CHAT] [Server] 然后选择材质包允许
+[19:48:25] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:26] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:26] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:27] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:28] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:30] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:31] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:31] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:32] [Render thread/INFO]: [CHAT] [Server] 编辑材质包
+[19:48:32] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:32] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:33] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:48:43] [Render thread/INFO]: [CHAT] <xueying_f> gigi
+[19:48:44] [Render thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[19:48:46] [Render thread/INFO]: [CHAT] chyujue left the game
+[19:48:46] [Render thread/INFO]: [CHAT] xueying_f沉睡
+[19:48:52] [Render thread/INFO]: [CHAT] Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[19:48:54] [Render thread/INFO]: [CHAT] [Server] 编辑服务器
+[19:48:58] [Render thread/INFO]: [CHAT] [Server] cnm
+[19:49:01] [Render thread/INFO]: [CHAT] giovors left the game
+[19:49:04] [Render thread/INFO]: [CHAT] giovors joined the game
+[19:49:12] [Render thread/INFO]: Connecting to 103.205.254.39, 40385
+[19:49:17] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:50928/https/api.mojang.com', sessionHost='http://127.0.0.1:50928/https/sessionserver.mojang.com', name='PROD'
+[19:49:17] [Render thread/WARN]: Unknown custom packed identifier: minecraft:register
+[19:49:17] [Render thread/INFO]: [CHAT] GLgele joined the game
+[19:49:17] [Render thread/INFO]: Loaded 75 advancements
+[19:49:17] [Render thread/INFO]: [CHAT] <giovors> 保护者乱杀
+[19:49:17] [Render thread/INFO]: [CHAT] _________________/ CMI \_________________\n| 8.7.10.2 is now available! Your version: 8.7.8.0\n----------------------------------------
+[19:49:25] [Render thread/INFO]: [CHAT] TPS from last 1m, 5m, 15m: 16.54, 13.44, 13.83
+[19:49:25] [Render thread/INFO]: [CHAT] [Server] GLgele尝试重启服务器
+[19:49:25] [Render thread/INFO]: [CHAT] Malagepeter joined the game
+[19:49:33] [Render thread/INFO]: Connecting to 103.205.254.39, 40385
+[19:49:38] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:50928/https/api.mojang.com', sessionHost='http://127.0.0.1:50928/https/sessionserver.mojang.com', name='PROD'
+[19:49:38] [Render thread/WARN]: Unknown custom packed identifier: minecraft:register
+[19:49:38] [Render thread/INFO]: [CHAT] GLgele joined the game
+[19:49:38] [Render thread/INFO]: Loaded 75 advancements
+[19:49:38] [Render thread/INFO]: [CHAT] _________________/ CMI \_________________\n| 8.7.10.2 is now available! Your version: 8.7.8.0\n----------------------------------------
+[19:49:46] [Render thread/INFO]: [CHAT] <GLgele> reload = stop ?
+[19:49:50] [Render thread/INFO]: [CHAT] <Malagepeter> 为啥
+[19:49:52] [Render thread/INFO]: [CHAT] <giovors> 马币 掏你屁眼
+[19:49:53] [Render thread/INFO]: [CHAT] <giovors> 马币 掏你屁眼
+[19:49:53] [Render thread/INFO]: [CHAT] <giovors> 马币 掏你屁眼
+[19:49:53] [Render thread/INFO]: [CHAT] <giovors> 马币 掏你屁眼
+[19:49:59] [Render thread/INFO]: [CHAT] <Xbiaz> 绿蛋啊上面的服务器保存条好像有点问题
+[19:50:04] [Render thread/INFO]: [CHAT] [Server] ？
+[19:50:06] [Render thread/INFO]: [CHAT] <giovors> 马币 掏你屁眼
+[19:50:07] [Render thread/INFO]: [CHAT] <giovors> 马币 掏你屁眼
+[19:50:07] [Render thread/INFO]: [CHAT] <giovors> 马币 掏你屁眼
+[19:50:15] [Render thread/INFO]: [CHAT] <giovors> 你给老子复活咯
+[19:50:21] [Render thread/INFO]: [CHAT] <giovors> (((
+[19:50:22] [Render thread/INFO]: [CHAT] [Server] 有一个有问题
+[19:50:31] [Render thread/INFO]: [CHAT] [提示]:由于在游戏中途退出或者在游戏之后加入，暂时无法进行游戏，请耐心等待本次游戏结束
+[19:50:33] [Render thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[19:50:43] [Render thread/INFO]: [CHAT] [Server] tab
+[19:50:46] [Render thread/INFO]: [CHAT] ------ ======= CMI ======= ------\n=======[]为必填,()为选填======= ------
+[19:50:46] [Render thread/INFO]: [CHAT] /cmi ctext [cText] (玩家名/all) (文字) - 显示自定义文字
+[19:50:46] [Render thread/INFO]: [CHAT] /cmi kit [礼包名字] (玩家名) - 给予指定礼包.
+[19:50:56] [Render thread/INFO]: [CHAT] --------- Help: Index (1/4) ---------------------
+[19:50:56] [Render thread/INFO]: [CHAT] Use /help [n] to get page n of help.
+[19:50:56] [Render thread/INFO]: [CHAT] Aliases: Lists command aliases
+[19:50:56] [Render thread/INFO]: [CHAT] Bukkit: All commands for Bukkit
+[19:50:56] [Render thread/INFO]: [CHAT] CMI: All commands for CMI
+[19:50:56] [Render thread/INFO]: [CHAT] LiteBans: All commands for LiteBans
+[19:50:56] [Render thread/INFO]: [CHAT] LuckPerms: All commands for LuckPerms
+[19:50:56] [Render thread/INFO]: [CHAT] Minecraft: All commands for Minecraft
+[19:50:56] [Render thread/INFO]: [CHAT] SkinsRestorer: All commands for SkinsRestorer
+[19:50:56] [Render thread/INFO]: [CHAT] WorldEdit: All commands for WorldEdit
+[19:51:01] [Render thread/INFO]: [CHAT] <ohya_123> ???
+[19:51:03] [Render thread/INFO]: [CHAT] [Server] 马币按TAB
+[19:51:05] [Render thread/INFO]: [CHAT] <giovors> 哎呀
+[19:51:08] [Render thread/INFO]: [CHAT] Xbiaz完成了挑战[§6§l登峰造极]
+[19:51:10] [Render thread/INFO]: [CHAT] <giovors> ./kill @e[type=minecraft:ender_dragon]
+[19:51:11] [Render thread/INFO]: [CHAT] <giovors> ./kill @e[type=minecraft:ender_dragon]
+[19:51:13] [Render thread/INFO]: [CHAT] <Malagepeter> 如果不把这个龙杀掉
+[19:51:14] [Render thread/INFO]: [CHAT] No sub-command provided. Options: help, version, trace, reload, cui, tz, report
+[19:51:14] [Render thread/INFO]: [CHAT] Usage: /we <help|version|trace|reload|cui|tz|report>
+[19:51:15] [Render thread/INFO]: [CHAT] <giovors> ./kill @e[type=minecraft:ender_dragon]
+[19:51:15] [Render thread/INFO]: [CHAT] <giovors> ./kill @e[type=minecraft:ender_dragon]
+[19:51:16] [Render thread/INFO]: [CHAT] <Malagepeter> 你会死
+[19:51:17] [Render thread/INFO]: [CHAT] <ohya_123> 我没前线
+[19:51:18] [Render thread/INFO]: [CHAT] [Server] ok
+[19:51:20] [Render thread/INFO]: [CHAT] <ohya_123> 我没权限
+[19:51:22] [Render thread/INFO]: [CHAT] [Server] 保存完成
+[19:51:31] [Render thread/INFO]: [CHAT] <Malagepeter> 这个tps
+[19:51:35] [Render thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[19:51:35] [Render thread/INFO]: [CHAT] <Malagepeter> 你们
+[19:51:36] [Render thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[19:51:38] [Render thread/INFO]: [CHAT] <Xbiaz> az
+[19:51:41] [Render thread/INFO]: [CHAT] <giovors> 经历了开门战
+[19:51:42] [Render thread/INFO]: [CHAT] <giovors> 经历了开门战
+[19:51:42] [Render thread/INFO]: [CHAT] <Malagepeter> 装材质包
+[19:51:42] [Render thread/INFO]: [CHAT] <giovors> 经历了开门战
+[19:51:48] [Render thread/INFO]: [CHAT] <Malagepeter> 装材质包
+[19:51:51] [Render thread/INFO]: [CHAT] <Malagepeter> 装材质包
+[19:52:09] [Render thread/INFO]: [CHAT] <Malagepeter> 那个材质包被烟花搞坏了
+[19:52:17] [Render thread/INFO]: [CHAT] <giovors> 咋坏的
+[19:52:23] [Render thread/INFO]: [CHAT] <xueying_f> az
+[19:52:24] [Render thread/INFO]: [CHAT] Usage: {command} {syntax}
+[19:52:24] [Render thread/INFO]: [CHAT] Usage: /skin url  <url>
+[19:52:32] [Render thread/INFO]: [CHAT] <Malagepeter> 瞎几把打防伪，打在指令识别区
+[19:52:35] [Render thread/INFO]: [CHAT] <giovors> ?
+[19:52:37] [Render thread/INFO]: [CHAT] <ohya_123> ????
+[19:52:42] [Render thread/INFO]: [CHAT] <giovors> 我修一下就可以了？
+[19:52:46] [Render thread/INFO]: [CHAT] <Xbiaz> 靠这个沙漏呢
+[19:52:56] [Render thread/INFO]: [CHAT] <Malagepeter> 我想知道这是什么BUG
+[19:53:00] [Render thread/INFO]: [CHAT] <ohya_123> bug之渊
+[19:53:06] [Render thread/INFO]: [CHAT] <giovors> bzd 我俩个齿轮瞬间开门
+[19:53:16] [Render thread/INFO]: [CHAT] GLgele沉睡
+[19:53:22] [Render thread/INFO]: [CHAT] <giovors> 萌新————————————————————————————————————
+[19:53:28] [Render thread/INFO]: [CHAT] <Xbiaz> 我都不知道开门了wc
+[19:53:36] [Render thread/INFO]: [CHAT] <ohya_123> 为什么时不时有速度5
+[19:53:37] [Render thread/INFO]: [CHAT] <Malagepeter> 不知道
+[19:53:37] [Render thread/INFO]: [CHAT] <ohya_123> 为什么时不时有速度5
+[19:53:38] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[19:53:38] [Render thread/INFO]: [CHAT] title<--[此处]
+[19:53:39] [Render thread/INFO]: [CHAT] <Malagepeter> 不知道
+[19:53:41] [Render thread/INFO]: [CHAT] <Malagepeter> 不知道
+[19:53:45] [Render thread/INFO]: [CHAT] <Malagepeter> 我需要泪白的服务器测试
+[19:53:51] [Render thread/INFO]: [CHAT] <Malagepeter> 我需要泪白的服务器测试
+[19:53:53] [Render thread/INFO]: [CHAT] <Xbiaz> 别问 问就是bug。jpg
+[19:53:54] [Render thread/INFO]: [CHAT] sjy33443逃脱梦境
+[19:53:58] [Render thread/INFO]: [CHAT] <Malagepeter> 这个服务器跟扯淡一样
+[19:54:01] [Render thread/INFO]: [CHAT] Malagepeter逃脱梦境
+[19:54:08] [Render thread/INFO]: [CHAT] <xueying_f> 确实
+[19:54:13] [Render thread/INFO]: [CHAT] ohya_123逃脱梦境
+[19:54:18] [Render thread/INFO]: [CHAT] <Malagepeter> 工作室内内测
+[19:54:21] [Render thread/INFO]: [CHAT] giovors逃脱梦境
+[19:54:21] [Render thread/INFO]: [CHAT] [梦境裂隙]已刷新！
+[19:54:21] [Render thread/INFO]: [CHAT] <Malagepeter> 你们来一下
+[19:54:24] [Render thread/INFO]: [CHAT] <Xbiaz> 泪白的不晓得啥时候好
+[19:54:24] [Render thread/INFO]: [CHAT] Malagepeter left the game
+[19:54:26] [Render thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[19:54:31] [Render thread/INFO]: [CHAT] <Xbiaz> aaa
+[19:54:36] [Render thread/INFO]: [CHAT] xueying_f逃脱梦境
+[19:54:36] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:54:36] [Render thread/INFO]: [CHAT] §6   ---------------------   §c§l梦境熄灭§6   ---------------------
+[19:54:36] [Render thread/INFO]: [CHAT]     睡眠：个人失败！
+[19:54:36] [Render thread/INFO]: [CHAT] 逃生者胜利！ohya_123, xueying_f, giovors, sjy33443\n梦境沙漏修复！
+[19:54:36] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:54:38] [Render thread/INFO]: [CHAT] <giovors> 绿蛋 所以爱会消失对不对
+[19:54:39] [Render thread/INFO]: [CHAT] xueying_f left the game
+[19:54:42] [Render thread/INFO]: [CHAT] <giovors> 绿蛋:所以爱会消失对不对
+[19:54:52] [Render thread/INFO]: [CHAT] xueying_f joined the game
+[19:55:05] [Render thread/INFO]: [CHAT] <xueying_f> 马哥呢
+[19:55:11] [Render thread/INFO]: [CHAT] <sjy33443> 跑去内测了
+[19:55:12] [Render thread/INFO]: [CHAT] <Xbiaz> 马哥去测试了
+[19:55:15] [Render thread/INFO]: [CHAT] [SkinsRestorer] Uploading skin, please wait...(This may take up some time)
+[19:55:15] [Render thread/INFO]: [CHAT] giovors left the game
+[19:55:20] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[19:55:21] [Render thread/INFO]: [CHAT] [SkinsRestorer] Your skin has been changed.
+[19:55:22] [Render thread/INFO]: [CHAT] giovors joined the game
+[19:55:27] [Render thread/INFO]: [CHAT] <xueying_f> 希望能进去
+[19:55:44] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[19:55:44] [Render thread/INFO]: [CHAT] 晚安
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:47] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:48] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:49] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:50] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:51] [Render thread/INFO]: [CHAT] 
+[19:55:52] [Render thread/INFO]: [CHAT] 
+[19:55:52] [Render thread/INFO]: [CHAT] 
+[19:55:52] [Render thread/INFO]: [CHAT] 
+[19:55:52] [Render thread/INFO]: [CHAT] 
+[19:55:52] [Render thread/INFO]: [CHAT] 
+[19:55:52] [Render thread/INFO]: [CHAT] §e新手提示已开启
+[19:55:55] [Render thread/INFO]: [CHAT] 体魄：[年轻]
+[19:55:55] [Render thread/INFO]: [CHAT] §e[提示] ：现在是[§f§6第一阶段§e]，保持至上方倒计时进度条结束之前。
+[19:55:55] [Render thread/INFO]: [CHAT] §e[提示] ：你的身份是：[§c§l杀手§e]，目的是击败[§b§l逃生者§e]。
+[19:55:55] [Render thread/INFO]: [CHAT] §e[提示] ：尽可能不为人知地击败他们，刺杀是你的强项也是最安全的环境。
+[19:56:10] [Render thread/INFO]: [CHAT] <giovors> 投了
+[19:56:12] [Render thread/INFO]: [CHAT] §e[提示] ：即将获得[§f§l体魄§e]信息，这关系到此局你的移动速度
+[19:56:12] [Render thread/INFO]: [CHAT] sjy33443§e发出了提前结束游戏投票，§9点击我§e以赞成投票
+[19:56:15] [Render thread/INFO]: [CHAT] <giovors> 我保护者旁观
+[19:56:19] [Render thread/INFO]: [CHAT] <xueying_f> 好耶
+[19:56:21] [Render thread/INFO]: [CHAT] §e[提示]:现在至[§f§6第一阶段§e]结束前，打开背包选择天赋！并且查看自身的所有属性
+[19:56:21] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:56:21] [Render thread/INFO]: [CHAT] §6   ---------------------   §c§l梦境熄灭§6   ---------------------
+[19:56:21] [Render thread/INFO]: [CHAT]     清醒：个人胜利！
+[19:56:21] [Render thread/INFO]: [CHAT] [调试]:强制结束游戏
+[19:56:21] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[19:56:26] [Render thread/INFO]: [CHAT] <Xbiaz> 整挺好嗷
+[19:56:27] [Render thread/INFO]: [CHAT] sjy33443 left the game
+[19:56:35] [Render thread/INFO]: [CHAT] <骷髅躯体> GLgele ！ 还给我...
+[19:56:36] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[19:56:36] [Render thread/INFO]: [CHAT] 晚安
+[19:56:37] [Render thread/INFO]: [CHAT] GLgele取得了进度[惊悚恐怖骷髅头]
+[19:56:37] [Render thread/INFO]: [CHAT] <骷髅躯体> GLgele ！ 还给我...
+[19:56:37] [Render thread/INFO]: Loaded 81 advancements
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:40] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:41] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:42] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:43] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] 
+[19:56:44] [Render thread/INFO]: [CHAT] §e新手提示已开启
+[19:56:45] [Render thread/INFO]: [CHAT] <ohya_123> e
+[19:56:49] [Render thread/INFO]: [CHAT] 体魄：[羸弱]
+[19:56:49] [Render thread/INFO]: [CHAT] §e[提示] ：现在是[§f§6第一阶段§e]，保持至上方倒计时进度条结束之前。
+[19:56:49] [Render thread/INFO]: [CHAT] §e[提示] ：你的身份是：[§b§l逃生者§e]，在此之前活下去是最重要的。
+[19:56:49] [Render thread/INFO]: [CHAT] §e[提示] ：当心，其他玩家中的一位会是[§c§l杀手§e]，他的目的是击败[§b§l逃生者§e]。
+[19:56:57] [Render thread/INFO]: [CHAT] ohya_123 left the game
+[19:57:02] [Render thread/INFO]: [CHAT] §e[提示] ：即将获得[§f§l体魄§e]信息，这关系到此局你的移动速度
+[19:57:11] [Render thread/INFO]: [CHAT] §e[提示]:现在至[§f§6第一阶段§e]结束前，打开背包选择天赋！并且查看自身的所有属性
+[19:57:36] [Render thread/INFO]: [CHAT] §e[提示] ：你失败了！游戏结束，你可以旁观此局游戏。
+[19:57:36] [Render thread/INFO]: [CHAT] GLgele沉睡
+[19:57:47] [Render thread/INFO]: [CHAT] Xbiaz沉睡
+[19:57:47] [Render thread/INFO]: [CHAT] [调试]： 碰撞体积：显示
+[19:57:48] [Render thread/INFO]: [CHAT] [调试]： 碰撞体积：隐藏
+[19:57:49] [Render thread/INFO]: [CHAT] [调试]： 碰撞体积：显示
+[19:57:49] [Render thread/INFO]: [CHAT] [调试]： 碰撞体积：隐藏
+[19:57:58] [Render thread/INFO]: [CHAT] chyujue joined the game
+[19:58:30] [Render thread/INFO]: [CHAT] xueying_f沉睡
+[19:58:33] [Render thread/INFO]: [CHAT] <xueying_f> nmd
+[19:58:40] [Render thread/INFO]: [CHAT] <xueying_f> 刀一刀刀没了
+[19:59:25] [Render thread/INFO]: [CHAT] 鸭↑炸↑GLgele~
+[19:59:28] [Render thread/INFO]: [CHAT] 压榨GLgele啊， GLgele
+[19:59:30] [Render thread/INFO]: [CHAT] 那么这个东西啊 ，该怎么压呢
+[19:59:32] [Render thread/INFO]: [CHAT] chyujue沉睡
+[19:59:32] [Render thread/INFO]: [CHAT] 我们首先 把他围起来啊， 暂停一下~
+[19:59:36] [Render thread/INFO]: [CHAT] 现在围完了啊 我们来压一下~， 看看甜不甜酸不酸
+[19:59:41] [Render thread/INFO]: [CHAT] 啊好~
+[19:59:42] [Render thread/INFO]: [CHAT] 还没压呢~
+[20:00:00] [Render thread/INFO]: [CHAT] 鸭↑炸↑GLgele~
+[20:00:03] [Render thread/INFO]: [CHAT] 压榨GLgele啊， GLgele
+[20:00:06] [Render thread/INFO]: [CHAT] 那么这个东西啊 ，该怎么压呢
+[20:00:08] [Render thread/INFO]: [CHAT] 我们首先 把他围起来啊， 暂停一下~
+[20:00:12] [Render thread/INFO]: [CHAT] 现在围完了啊 我们来压一下~， 看看甜不甜酸不酸
+[20:00:17] [Render thread/INFO]: [CHAT] <chyujue> cao ni ma
+[20:00:17] [Render thread/INFO]: [CHAT] 啊好~
+[20:00:18] [Render thread/INFO]: [CHAT] 还没压呢~
+[20:00:28] [Render thread/INFO]: [CHAT] <giovors> 最真你妈臭
+[20:00:43] [Render thread/INFO]: [CHAT] <xueying_f> 嘴臭不行
+[20:00:45] [Render thread/INFO]: [CHAT] <chyujue> g
+[20:00:49] [Render thread/INFO]: [CHAT] <chyujue> g
+[20:00:53] [Render thread/INFO]: [CHAT] <chyujue> a
+[20:01:00] [Render thread/INFO]: [CHAT] <chyujue> good luck
+[20:01:00] [Render thread/INFO]: [CHAT] <giovors> 得会我给他kick了
+[20:01:06] [Render thread/INFO]: [CHAT] chyujue left the game
+[20:01:11] [Render thread/INFO]: [CHAT] chyujue joined the game
+[20:01:13] [Render thread/INFO]: [CHAT] chyujue left the game
+[20:01:15] [Render thread/INFO]: [CHAT] chyujue joined the game
+[20:01:17] [Render thread/INFO]: [CHAT] chyujue left the game
+[20:01:19] [Render thread/INFO]: [CHAT] chyujue joined the game
+[20:01:21] [Render thread/INFO]: [CHAT] chyujue left the game
+[20:01:24] [Render thread/INFO]: [CHAT] chyujue joined the game
+[20:01:26] [Render thread/INFO]: [CHAT] chyujue left the game
+[20:01:28] [Render thread/INFO]: [CHAT] chyujue joined the game
+[20:01:30] [Render thread/INFO]: [CHAT] chyujue left the game
+[20:01:31] [Render thread/INFO]: [CHAT] chyujue joined the game
+[20:01:33] [Render thread/INFO]: [CHAT] chyujue left the game
+[20:01:35] [Render thread/INFO]: [CHAT] chyujue joined the game
+[20:02:31] [Render thread/INFO]: [CHAT] GLgele沉睡
+[20:02:43] [Render thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[20:02:48] [Render thread/INFO]: [CHAT] LiteBans version 2.5.3 running under Spigot
+[20:02:48] [Render thread/INFO]: [CHAT] https://www.spigotmc.org/resources/litebans.3715/
+[20:02:52] [Render thread/INFO]: [CHAT] 你没有权限这么做!
+[20:02:53] [Render thread/INFO]: [CHAT] <chyujue> xia zi zhi yuan？
+[20:03:03] [Render thread/INFO]: [CHAT] I'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
+[20:03:09] [Render thread/INFO]: [CHAT] <giovors> 一看就是个萌新
+[20:03:13] [Render thread/INFO]: [CHAT] <chyujue> zhi kan bu jian
+[20:03:31] [Render thread/INFO]: [CHAT] <xueying_f> 蹲着吧
+[20:03:33] [Render thread/INFO]: [CHAT] <chyujue> wan guo ban chang
+[20:03:34] [Render thread/INFO]: [CHAT] <xueying_f> 等死吧
+[20:03:43] [Render thread/INFO]: [CHAT] GLgele完成了挑战[水晶球的记忆]
+[20:03:43] [Render thread/INFO]: Loaded 83 advancements
+[20:03:43] [Render thread/INFO]: [CHAT] <Xbiaz> 医疗包又坏了
+[20:03:53] [Render thread/INFO]: [CHAT] <xueying_f> cao
+[20:04:07] [Render thread/INFO]: [CHAT] <GLgele> cmzy的奇妙进度
+[20:04:13] [Render thread/INFO]: [CHAT] <chyujue> qu da men！、
+[20:04:29] [Render thread/INFO]: [CHAT] <chyujue> 加油!
+[20:04:34] [Render thread/INFO]: [CHAT] <giovors> 你妈的你再乱报点给你ban了
+[20:04:48] [Render thread/INFO]: [CHAT] 你没有权限这么做!
+[20:05:01] [Render thread/INFO]: [CHAT] Xbiaz沉睡
+[20:05:01] [Render thread/INFO]: [CHAT] [梦境裂隙]已刷新！
+[20:05:48] [Render thread/INFO]: [CHAT] sjy33443 joined the game
+[20:05:53] [Render thread/INFO]: [CHAT] <sjy33443> hhh
+[20:06:01] [Render thread/INFO]: [CHAT] xueying_f沉睡
+[20:06:02] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[20:06:02] [Render thread/INFO]: [CHAT] §6   ---------------------   §c§l梦境熄灭§6   ---------------------
+[20:06:02] [Render thread/INFO]: [CHAT]     睡眠：个人失败！
+[20:06:02] [Render thread/INFO]: [CHAT] 杀手胜利！giovors\n沉睡在深渊里！
+[20:06:02] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[20:06:05] [Render thread/INFO]: [CHAT] <sjy33443> az
+[20:06:09] [Render thread/INFO]: [CHAT] <xueying_f> 移速有问题
+[20:06:14] [Render thread/INFO]: [CHAT] <giovors> 呵 你妈香香
+[20:06:16] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[20:06:16] [Render thread/INFO]: [CHAT] 晚安
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:18] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:19] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:20] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:21] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:22] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:23] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] 
+[20:06:24] [Render thread/INFO]: [CHAT] §e新手提示已开启
+[20:06:28] [Render thread/INFO]: [CHAT] 体魄：[年轻]
+[20:06:28] [Render thread/INFO]: [CHAT] §e[提示] ：现在是[§f§6第一阶段§e]，保持至上方倒计时进度条结束之前。
+[20:06:28] [Render thread/INFO]: [CHAT] §e[提示] ：你的身份是：[§b§l逃生者§e]，在此之前活下去是最重要的。
+[20:06:28] [Render thread/INFO]: [CHAT] §e[提示] ：当心，其他玩家中的一位会是[§c§l杀手§e]，他的目的是击败[§b§l逃生者§e]。
+[20:06:48] [Render thread/INFO]: [CHAT] §e[提示] ：即将获得[§f§l体魄§e]信息，这关系到此局你的移动速度
+[20:06:59] [Render thread/INFO]: [CHAT] §e[提示]:现在至[§f§6第一阶段§e]结束前，打开背包选择天赋！并且查看自身的所有属性
+[20:07:10] [Render thread/INFO]: [CHAT] <xueying_f> nmd
+[20:07:13] [Render thread/INFO]: [CHAT] <Xbiaz> 卡杀手的bug了是吗
+[20:07:34] [Render thread/INFO]: [CHAT] <giovors> (
+[20:07:37] [Render thread/INFO]: [CHAT] <Xbiaz> 好家伙
+[20:07:38] [Render thread/INFO]: [CHAT] §e[提示] ：你失败了！游戏结束，你可以旁观此局游戏。
+[20:07:38] [Render thread/INFO]: [CHAT] GLgele沉睡
+[20:07:40] [Render thread/INFO]: [CHAT] <Xbiaz> ;w;
+[20:07:49] [Render thread/INFO]: [CHAT] <xueying_f> gigi锁杀手
+[20:07:52] [Render thread/INFO]: [CHAT] sjy33443沉睡
+[20:07:54] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[20:08:00] [Render thread/INFO]: [CHAT] <sjy33443> 淦
+[20:08:01] [Render thread/INFO]: [CHAT] <giovors> 没锁
+[20:08:07] [Render thread/INFO]: [CHAT] [Server] no
+[20:08:09] [Render thread/INFO]: [CHAT] <giovors> 这回真的是运气
+[20:08:11] [Render thread/INFO]: [CHAT] [Server] 没锁
+[20:08:19] [Render thread/INFO]: [CHAT] <xueying_f> nmd
+[20:08:28] [Render thread/INFO]: [CHAT] <Xbiaz> 草那这个双杀手就离谱
+[20:08:40] [Render thread/INFO]: [CHAT] chyujue沉睡
+[20:08:47] [Render thread/INFO]: [CHAT] xueying_f沉睡
+[20:08:50] [Render thread/INFO]: [CHAT] <sjy33443> az
+[20:08:53] [Render thread/INFO]: [CHAT] <sjy33443> 好准
+[20:08:53] [Render thread/INFO]: [CHAT] <xueying_f> tm不刷钟
+[20:08:55] [Render thread/INFO]: [CHAT] <xueying_f> 就离谱
+[20:09:01] [Render thread/INFO]: [CHAT] <chyujue> yin xiao xia si wo
+[20:09:13] [Render thread/INFO]: [CHAT] <giovors> chyujue 希望你尊重点全服第二
+[20:09:16] [Render thread/INFO]: [CHAT] <Xbiaz> 杀手改成逃生就是白板
+[20:09:20] [Render thread/INFO]: [CHAT] <Xbiaz> ouo
+[20:09:33] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[20:09:33] [Render thread/INFO]: [CHAT] <xueying_f> 哪个sb
+[20:10:40] [Render thread/INFO]: [CHAT] <Xbiaz> 移速有点慢嗷
+[20:10:45] [Render thread/INFO]: [CHAT] chyujue沉睡
+[20:10:48] [Render thread/INFO]: [CHAT] <giovors> 卡死我了
+[20:10:53] [Render thread/INFO]: [CHAT] <xueying_f> 移速有问题
+[20:11:00] [Render thread/INFO]: [CHAT] <sjy33443> 好慢
+[20:11:08] [Render thread/INFO]: [CHAT] <giovors> 那我没给你们一个spend2
+[20:11:12] [Render thread/INFO]: [CHAT] <giovors> 那我给你们一个spend2
+[20:11:30] [Render thread/INFO]: [CHAT] <chyujue> nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+[20:12:01] [Render thread/INFO]: [CHAT] <chyujue> gigi shi aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[20:12:19] [Render thread/INFO]: [CHAT] <xueying_f> 走了
+[20:12:21] [Render thread/INFO]: [CHAT] xueying_f left the game
+[20:12:28] [Render thread/INFO]: [CHAT] <giovors> 哎 我要把你胸打穿模
+[20:12:40] [Render thread/INFO]: [CHAT] <giovors> 我这边有配音
+[20:12:43] [Render thread/INFO]: [CHAT] <giovors> )
+[20:12:53] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[20:13:25] [Render thread/INFO]: [CHAT] GLgele沉睡
+[20:13:45] [Render thread/WARN]: Error while loading the skin texture
+java.io.IOException: stream is closed
+	at sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.ensureOpen(Unknown Source) ~[?:1.8.0_251]
+	at sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read(Unknown Source) ~[?:1.8.0_251]
+	at java.nio.channels.Channels$ReadableByteChannelImpl.read(Unknown Source) ~[?:1.8.0_251]
+	at dgw.a(SourceFile:87) ~[1.16.1.jar:?]
+	at dgs.a(SourceFile:97) ~[1.16.1.jar:?]
+	at dgs.a(SourceFile:90) ~[1.16.1.jar:?]
+	at elm.a(SourceFile:141) ~[1.16.1.jar:?]
+	at elm.b(SourceFile:122) ~[1.16.1.jar:?]
+	at amn.c(SourceFile:144) [1.16.1.jar:?]
+	at amr.c(SourceFile:23) [1.16.1.jar:?]
+	at amn.x(SourceFile:118) [1.16.1.jar:?]
+	at amn.bj(SourceFile:103) [1.16.1.jar:?]
+	at dlx.e(SourceFile:988) [1.16.1.jar:?]
+	at dlx.e(SourceFile:654) [1.16.1.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:215) [1.16.1.jar:?]
+[20:13:56] [Render thread/INFO]: Stopping!
