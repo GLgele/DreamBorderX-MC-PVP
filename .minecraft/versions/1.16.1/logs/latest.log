@@ -1,0 +1,65 @@
+[12:26:43] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:59633/https/api.mojang.com', sessionHost='http://127.0.0.1:59633/https/sessionserver.mojang.com', name='PROD'
+[12:26:43] [Render thread/INFO]: Setting user: GLgele
+[12:26:44] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[12:26:47] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[12:26:48] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[12:26:54] [Render thread/INFO]: OpenAL initialized.
+[12:26:54] [Render thread/INFO]: Sound engine started
+[12:26:55] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[12:26:55] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[12:26:55] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12:26:55] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12:26:55] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[12:26:55] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[12:26:55] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12:26:56] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[12:26:56] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[12:26:56] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12:27:03] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[12:31:33] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, 沉梦之渊音效重置2.0.zip
+[12:31:33] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊音效重置2.0.zip
+[12:31:34] [Worker-Main-16/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
+[12:31:34] [Worker-Main-16/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
+[12:31:35] [Worker-Main-22/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car1
+[12:31:35] [Worker-Main-22/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car2
+[12:31:35] [Worker-Main-22/WARN]: Texture minecraft:item/juanzhou with size 40x40 limits mip level from 4 to 3
+[12:31:35] [Worker-Main-22/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[12:31:35] [Render thread/INFO]: OpenAL initialized.
+[12:31:35] [Render thread/INFO]: Sound engine started
+[12:31:35] [Render thread/INFO]: Created: 2048x1024x3 minecraft:textures/atlas/blocks.png-atlas
+[12:31:35] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[12:31:35] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12:31:35] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12:31:35] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[12:31:35] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[12:31:35] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12:31:36] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[12:31:36] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[12:31:36] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12:31:48] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[12:31:49] [Render thread/INFO]: OpenAL initialized.
+[12:31:49] [Render thread/INFO]: Sound engine started
+[12:31:49] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[12:31:49] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[12:31:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12:31:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12:31:49] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[12:31:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[12:31:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12:31:50] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[12:31:50] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[12:31:50] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12:31:54] [Render thread/INFO]: Connecting to dabaiyun.net, 19279
+[12:31:54] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:59633/https/api.mojang.com', sessionHost='http://127.0.0.1:59633/https/sessionserver.mojang.com', name='PROD'
+[12:31:55] [Render thread/INFO]: [CHAT] GLgele joined the game
+[12:31:55] [Render thread/WARN]: Received passengers for unknown entity
+[12:31:55] [Render thread/INFO]: Loaded 27 advancements
+[12:31:56] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[12:31:58] [Render thread/INFO]: [CHAT] 已成功登录!
+[12:32:09] [Render thread/WARN]: Received passengers for unknown entity
+[12:32:13] [Render thread/INFO]: [CHAT] <tustlike> 给点铁
+[12:32:16] [Render thread/INFO]: [CHAT] bug_jump left the game
+[12:32:22] [Render thread/INFO]: [CHAT] sjy33443 left the game
+[12:32:37] [Render thread/INFO]: [CHAT] sjy33443 joined the game
+[12:32:42] [Render thread/INFO]: [CHAT] <tustlike> 快！
+[12:32:50] [Render thread/INFO]: Stopping!
