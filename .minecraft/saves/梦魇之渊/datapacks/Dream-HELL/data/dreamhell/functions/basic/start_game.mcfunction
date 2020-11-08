@@ -1,5 +1,6 @@
 tp @a 10000 5 10000
 title @a title {"text":"请等待...","color":"red"}
+effect give @a instant_health 1 10
 schedule function dreamhell:basic/start_game_2 3s
 #tag @a add playing
 #team modify lobby friendlyFire true

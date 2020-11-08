@@ -12,3 +12,8 @@ execute as @a[tag=lobby] at @s if block ~ ~-1 ~ minecraft:sea_lantern run tag @s
 #execute as @a[tag=!playing] at @s if score @s trig = t2 temps run gamemode adventure
 #execute as @a[tag=!playing] at @s if score @s trig = t3 temps run gamemode spectator
 execute as @a at @s run attribute @s minecraft:generic.attack_speed base set 100
+execute as @a at @s run attribute @s minecraft:generic.max_health base set 24
+execute as @a[scores={health=1..2}] at @s run function dreamhell:basic/died
+execute as @a at @s if data entity @s {"SelectedItem":{id:"minecraft:white_dye"}} run title @s actionbar [{"text":"按[","color":"yellow"},{"keybind": "key.drop","color":"aqua"},{"text":"]丢出使用","color":"yellow"}]
+execute as @a at @s if data entity @s {"SelectedItem":{id:"minecraft:orange_dye"}} run title @s actionbar [{"text":"按[","color":"yellow"},{"keybind": "key.drop","color":"aqua"},{"text":"]丢出使用","color":"yellow"}]
+execute as @a at @s if data entity @s {"SelectedItem":{id:"minecraft:magenta_dye"}} run title @s actionbar [{"text":"按[","color":"yellow"},{"keybind": "key.drop","color":"aqua"},{"text":"]丢出使用","color":"yellow"}]

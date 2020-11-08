@@ -1,32 +1,544 @@
-[21:02:10] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:52409/https/api.mojang.com', sessionHost='http://127.0.0.1:52409/https/sessionserver.mojang.com', name='PROD'
-[21:02:10] [Render thread/INFO]: Setting user: GLgele
-[21:02:11] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
-[21:02:17] [Render thread/INFO]: Narrator library for x64 successfully loaded
-[21:02:17] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, 沉梦之渊音效重置2.0.zip, 沉梦之渊材质包-天灾之下DLC（需解压）.zip
-[21:02:17] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊音效重置2.0.zip
-[21:02:17] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊材质包-天灾之下DLC（需解压）.zip
-[21:02:19] [Worker-Main-14/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
-[21:02:19] [Worker-Main-14/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
-[21:02:19] [Worker-Main-14/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
-[21:02:19] [Worker-Main-14/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
-[21:02:24] [Worker-Main-8/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car1
-[21:02:24] [Worker-Main-8/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car2
-[21:02:24] [Worker-Main-10/ERROR]: Using missing texture, unable to load minecraft:textures/item/zhihe_electric_shock_stick.png : java.io.FileNotFoundException: minecraft:textures/item/zhihe_electric_shock_stick.png
-[21:02:24] [Worker-Main-11/ERROR]: Using missing texture, unable to load minecraft:textures/block/sword_tang.png : java.io.FileNotFoundException: minecraft:textures/block/sword_tang.png
-[21:02:24] [Worker-Main-9/ERROR]: Using missing texture, unable to load minecraft:textures/block/green_cmd_block.png : java.io.FileNotFoundException: minecraft:textures/block/green_cmd_block.png
-[21:02:24] [Worker-Main-8/WARN]: Texture minecraft:item/zi with size 265x141 limits mip level from 4 to 0
-[21:02:24] [Worker-Main-8/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
-[21:02:26] [Render thread/INFO]: OpenAL initialized.
-[21:02:26] [Render thread/INFO]: Sound engine started
-[21:02:27] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/blocks.png-atlas
-[21:02:27] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[21:02:27] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[21:02:27] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[21:02:27] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[21:02:27] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[21:02:27] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[21:02:28] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[21:02:28] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[21:02:28] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/mob_effects.png-atlas
-[21:02:44] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[21:03:05] [Render thread/INFO]: Stopping!
+[15:53:19] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[15:53:19] [Render thread/INFO]: Setting user: GLgele
+[15:53:20] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[15:53:26] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[15:53:26] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art
+[15:53:35] [Render thread/INFO]: OpenAL initialized.
+[15:53:35] [Render thread/INFO]: Sound engine started
+[15:53:35] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[15:53:35] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[15:53:35] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:53:35] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:53:35] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:53:35] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:53:35] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:53:37] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[15:53:37] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:53:37] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:53:37] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:54:46] [Render thread/INFO]: Connecting to 103.205.254.39, 47271
+[15:55:12] [Render thread/INFO]: Connecting to dabaiyun.net, 19234
+[15:55:13] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[15:55:14] [Render thread/INFO]: [CHAT] GLgele joined the game
+[15:55:14] [Render thread/INFO]: Loaded 189 advancements
+[15:55:19] [Render thread/WARN]: Error while loading the skin texture
+java.io.IOException: stream is closed
+	at sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.ensureOpen(Unknown Source) ~[?:1.8.0_251]
+	at sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read(Unknown Source) ~[?:1.8.0_251]
+	at java.nio.channels.Channels$ReadableByteChannelImpl.read(Unknown Source) ~[?:1.8.0_251]
+	at dgw.a(SourceFile:87) ~[1.16.1.jar:?]
+	at dgs.a(SourceFile:97) ~[1.16.1.jar:?]
+	at dgs.a(SourceFile:90) ~[1.16.1.jar:?]
+	at elm.a(SourceFile:141) ~[1.16.1.jar:?]
+	at elm.b(SourceFile:122) ~[1.16.1.jar:?]
+	at amn.c(SourceFile:144) [1.16.1.jar:?]
+	at amr.c(SourceFile:23) [1.16.1.jar:?]
+	at amn.x(SourceFile:118) [1.16.1.jar:?]
+	at amn.bj(SourceFile:103) [1.16.1.jar:?]
+	at dlx.e(SourceFile:988) [1.16.1.jar:?]
+	at dlx.e(SourceFile:654) [1.16.1.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:215) [1.16.1.jar:?]
+[15:55:23] [Render thread/INFO]: Connecting to dabaiyun.net, 19234
+[15:55:24] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[15:55:24] [Render thread/INFO]: [CHAT] GLgele joined the game
+[15:55:24] [Render thread/INFO]: Loaded 189 advancements
+[15:55:44] [Render thread/INFO]: Connecting to 103.205.254.39, 47271
+[15:56:20] [Render thread/INFO]: Connecting to dabaiyun.net, 19234
+[15:56:21] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[15:56:21] [Render thread/INFO]: [CHAT] GLgele joined the game
+[15:56:21] [Render thread/INFO]: Loaded 189 advancements
+[15:56:25] [Render thread/INFO]: [CHAT] giovors joined the game
+[15:56:38] [Render thread/INFO]: [CHAT] giovors left the game
+[15:57:58] [Render thread/INFO]: Connecting to 103.205.254.39, 47271
+[15:58:03] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[15:58:03] [Render thread/INFO]: Loaded 9 advancements
+[15:58:36] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[15:58:36] [Render thread/INFO]: [CHAT] /skin<--[此处]
+[15:58:38] [Render thread/INFO]: [CHAT] <Xbiaz> 这是6不是5啊（
+[15:58:45] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[15:58:45] [Render thread/INFO]: [CHAT] /?<--[此处]
+[15:58:53] [Render thread/INFO]: [CHAT] §e已返回大厅
+[15:59:10] [Render thread/INFO]: [CHAT] §e已返回大厅
+[15:59:27] [Render thread/INFO]: [CHAT] [ 玩家 ]xueying_f加入了游戏
+[15:59:32] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[15:59:32] [Render thread/INFO]: [CHAT] /reload<--[此处]
+[15:59:59] [Render thread/INFO]: [CHAT] §e已返回大厅
+[16:00:15] [Render thread/INFO]: [CHAT] ohya_123加入了游戏
+[16:00:20] [Render thread/INFO]: [CHAT] <xueying_f> nmd
+[16:00:32] [Render thread/INFO]: [CHAT] <sjy33443> 刚刚谁kill全体
+[16:00:53] [Render thread/INFO]: [CHAT] <sjy33443> 给回来
+[16:00:58] [Render thread/INFO]: [CHAT] <xueying_f> 这里
+[16:01:12] [Render thread/INFO]: [CHAT] <giovors> 哼哼哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊阿啊啊啊啊啊阿啊啊啊啊啊啊啊啊啊阿
+[16:01:29] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[16:01:29] [Render thread/INFO]: [CHAT] 晚安
+[16:01:29] [Render thread/INFO]: [CHAT] sjy33443沉睡
+[16:01:29] [Render thread/INFO]: [CHAT] giovors沉睡
+[16:01:29] [Render thread/INFO]: [CHAT] Xbiaz沉睡
+[16:01:29] [Render thread/INFO]: [CHAT] xueying_f沉睡
+[16:01:29] [Render thread/INFO]: [CHAT] GLgele沉睡
+[16:01:29] [Render thread/INFO]: [CHAT] ohya_123沉睡
+[16:01:29] [Render thread/INFO]: Loaded 10 advancements
+[16:01:29] [Render thread/INFO]: [CHAT] §e检测到玩家异常状况，已重置游戏
+[16:01:32] [Render thread/INFO]: [CHAT] 你尚无法触发这个记分项
+[16:01:32] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[16:01:32] [Render thread/INFO]: [CHAT] 晚安
+[16:01:33] [Render thread/INFO]: [CHAT] 
+[16:01:33] [Render thread/INFO]: [CHAT] 
+[16:01:33] [Render thread/INFO]: [CHAT] 
+[16:01:33] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] <giovors> .....
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:34] [Render thread/INFO]: [CHAT] 
+[16:01:35] [Render thread/INFO]: [CHAT] 
+[16:01:35] [Render thread/INFO]: [CHAT] sjy33443沉睡
+[16:01:35] [Render thread/INFO]: [CHAT] 
+[16:01:35] [Render thread/INFO]: [CHAT] §e检测到玩家异常状况，已重置游戏
+[16:01:39] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[16:01:39] [Render thread/INFO]: [CHAT] 晚安
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:41] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:42] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:43] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: Loaded 23 advancements
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:44] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:45] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:46] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] 
+[16:01:47] [Render thread/INFO]: [CHAT] §e新手提示已开启
+[16:01:47] [Render thread/INFO]: Loaded 23 advancements
+[16:01:47] [Render thread/INFO]: Loaded 25 advancements
+[16:01:49] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, 沉梦之渊音效重置2.0.zip, 沉梦之渊材质包-天灾之下DLC（需解压）.zip
+[16:01:49] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊音效重置2.0.zip
+[16:01:49] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊材质包-天灾之下DLC（需解压）.zip
+[16:01:50] [Worker-Main-43/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
+[16:01:50] [Worker-Main-43/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
+[16:01:50] [Worker-Main-43/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
+[16:01:50] [Worker-Main-43/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
+[16:01:50] [Render thread/INFO]: [CHAT] 体魄：[健硕]
+[16:01:50] [Render thread/INFO]: Loaded 34 advancements
+[16:01:50] [Render thread/INFO]: [CHAT] §e[提示] ：现在是[§f§6第一阶段§e]，保持至上方倒计时进度条结束之前。
+[16:01:50] [Render thread/INFO]: [CHAT] §e[提示] ：你的身份是：[§5§l保护者§e]，与[§b§l逃生者§e]是同阵营的。
+[16:01:50] [Render thread/INFO]: [CHAT] §e[提示] ：[§5§l保护者§e]，是[§c§l杀手§e]唯二拥有武器的身份，警惕的同时，找出[§c§l杀手§e]去击败他！。
+[16:01:51] [Worker-Main-38/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car1
+[16:01:51] [Worker-Main-38/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car2
+[16:01:51] [Worker-Main-42/ERROR]: Using missing texture, unable to load minecraft:textures/item/zhihe_electric_shock_stick.png : java.io.FileNotFoundException: minecraft:textures/item/zhihe_electric_shock_stick.png
+[16:01:51] [Worker-Main-36/ERROR]: Using missing texture, unable to load minecraft:textures/block/sword_tang.png : java.io.FileNotFoundException: minecraft:textures/block/sword_tang.png
+[16:01:51] [Worker-Main-37/ERROR]: Using missing texture, unable to load minecraft:textures/block/green_cmd_block.png : java.io.FileNotFoundException: minecraft:textures/block/green_cmd_block.png
+[16:01:51] [Worker-Main-38/WARN]: Texture minecraft:item/zi with size 265x141 limits mip level from 4 to 0
+[16:01:51] [Worker-Main-38/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[16:01:52] [Render thread/INFO]: OpenAL initialized.
+[16:01:52] [Render thread/INFO]: Sound engine started
+[16:01:52] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/blocks.png-atlas
+[16:01:52] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[16:01:52] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:01:52] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:01:52] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[16:01:52] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:01:52] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:01:53] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[16:01:53] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:01:53] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:02:02] [Render thread/INFO]: [CHAT] §e[提示] ：即将获得[§f§l体魄§e]信息，这关系到此局你的移动速度
+[16:02:10] [Render thread/INFO]: [CHAT] §e[提示]:现在至[§f§6第一阶段§e]结束前，打开背包选择天赋！并且查看自身的所有属性
+[16:02:13] [Render thread/INFO]: Loaded 35 advancements
+[16:02:49] [Render thread/INFO]: [CHAT] giovors沉睡
+[16:02:49] [Render thread/INFO]: Loaded 49 advancements
+[16:02:52] [Render thread/INFO]: [CHAT] §e[提示] ：你失败了！游戏结束，你可以旁观此局游戏。
+[16:02:52] [Render thread/INFO]: [CHAT] GLgele沉睡
+[16:02:55] [Render thread/INFO]: [CHAT] Xbiaz沉睡
+[16:02:56] [Render thread/INFO]: [CHAT] <Xbiaz> ccc
+[16:03:03] [Render thread/INFO]: Connecting to 103.205.254.39, 47271
+[16:03:08] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[16:03:09] [Render thread/INFO]: Loaded 49 advancements
+[16:03:12] [Render thread/INFO]: [CHAT] <Xbiaz> ./tag add normal(((
+[16:03:33] [Render thread/INFO]: [CHAT] 沉梦之渊v.1.6.1
+[16:03:33] [Render thread/INFO]: Loaded 49 advancements
+[16:03:33] [Render thread/INFO]: [CHAT] ohya_123沉睡
+[16:03:34] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[16:03:34] [Render thread/INFO]: [CHAT] /reload<--[此处]
+[16:03:51] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[16:03:51] [Render thread/INFO]: [CHAT] /stop<--[此处]
+[16:04:10] [Render thread/INFO]: [CHAT] sjy33443完成了挑战[§6§l登峰造极]
+[16:04:24] [Render thread/INFO]: [CHAT] <sjy33443> happy
+[16:04:50] [Render thread/INFO]: [CHAT] <xueying_f> 好耶
+[16:04:51] [Render thread/INFO]: [CHAT] <giovors> 桃月提升的原因
+[16:04:51] [Render thread/INFO]: Loaded 54 advancements
+[16:04:54] [Render thread/INFO]: [CHAT] <giovors> 跳跃提升的原因
+[16:05:09] [Render thread/INFO]: Loaded 60 advancements
+[16:05:39] [Render thread/INFO]: [CHAT] <xueying_f> hi
+[16:05:47] [Render thread/INFO]: [CHAT] giovors完成了挑战[§6§l登峰造极]
+[16:06:07] [Render thread/INFO]: Loaded 60 advancements
+[16:06:08] [Render thread/INFO]: [CHAT] GLgele沉睡
+[16:06:38] [Render thread/INFO]: [CHAT] [ 玩家 ]terminator7211加入了游戏
+[16:06:54] [Render thread/INFO]: [CHAT] <Xbiaz> ohhhh我出图了（（（
+[16:06:59] [Render thread/INFO]: [CHAT] Xbiaz逃脱梦境
+[16:07:01] [Render thread/INFO]: [CHAT] <xueying_f> 来了
+[16:07:03] [Render thread/INFO]: [CHAT] <ohya_123> wk
+[16:07:04] [Render thread/INFO]: [CHAT] Xbiaz沉睡
+[16:07:04] [Render thread/INFO]: [CHAT] <ohya_123> wc
+[16:07:14] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[16:07:14] [Render thread/INFO]: [CHAT] /skin<--[此处]
+[16:07:32] [Render thread/INFO]: [CHAT] <Xbiaz> 啊可能主要是蒸汽改超模了（
+[16:07:39] [Render thread/INFO]: [CHAT] giovors沉睡
+[16:07:48] [Render thread/INFO]: [CHAT] sjy33443沉睡
+[16:07:50] [Render thread/INFO]: [CHAT] <giovors> (
+[16:07:52] [Render thread/INFO]: [CHAT] <sjy33443> ???
+[16:07:53] [Render thread/INFO]: [CHAT] <ohya_123> ?
+[16:07:55] [Render thread/INFO]: [CHAT] <sjy33443> 你被闹
+[16:07:59] [Render thread/INFO]: [CHAT] <sjy33443> 淦
+[16:08:00] [Render thread/INFO]: [CHAT] <giovors> ((((
+[16:08:03] [Render thread/INFO]: [CHAT] <giovors> 淦
+[16:08:08] [Render thread/INFO]: [CHAT] <giovors> 你怎么打得到我的
+[16:08:12] [Render thread/INFO]: [CHAT] <giovors> 开reach了
+[16:08:16] [Render thread/INFO]: [CHAT] <giovors> 举报了举报了
+[16:08:17] [Render thread/INFO]: [CHAT] <giovors> (
+[16:08:18] [Render thread/INFO]: [CHAT] <sjy33443> 手稳
+[16:08:21] [Render thread/INFO]: [CHAT] <sjy33443> 而已
+[16:08:37] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[16:08:37] [Render thread/INFO]: [CHAT] §6   ---------------------   §c§l梦境熄灭§6   ---------------------
+[16:08:37] [Render thread/INFO]: [CHAT]     睡眠：个人失败！
+[16:08:37] [Render thread/INFO]: [CHAT] [调试]:强制结束游戏
+[16:08:37] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[16:08:39] [Render thread/INFO]: [CHAT] <giovors> 你都把我打未响应了
+[16:08:42] [Render thread/INFO]: [CHAT] <giovors> (((
+[16:08:48] [Render thread/INFO]: [CHAT] §e你是新手吗？§b点击我§e将获取此对局大部分的目的文字提示。不再提示
+[16:08:48] [Render thread/INFO]: [CHAT] 晚安
+[16:08:48] [Render thread/INFO]: [CHAT] <xueying_f> 港口
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 你尚无法触发这个记分项
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 你尚无法触发这个记分项
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:51] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:52] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:53] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:54] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:55] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] 
+[16:08:56] [Render thread/INFO]: [CHAT] §e新手提示已开启
+[16:09:00] [Render thread/INFO]: [CHAT] 体魄：[年轻]
+[16:09:00] [Render thread/INFO]: [CHAT] §e[提示] ：现在是[§f§6第一阶段§e]，保持至上方倒计时进度条结束之前。
+[16:09:00] [Render thread/INFO]: [CHAT] §e[提示] ：你的身份是：[§b§l逃生者§e]，在此之前活下去是最重要的。
+[16:09:00] [Render thread/INFO]: [CHAT] §e[提示] ：当心，其他玩家中的一位会是[§c§l杀手§e]，他的目的是击败[§b§l逃生者§e]。
+[16:09:22] [Render thread/INFO]: [CHAT] §e[提示] ：即将获得[§f§l体魄§e]信息，这关系到此局你的移动速度
+[16:09:26] [Render thread/INFO]: [CHAT] xueying_f退出了游戏
+[16:09:30] [Render thread/INFO]: [CHAT] §e[提示]:现在至[§f§6第一阶段§e]结束前，打开背包选择天赋！并且查看自身的所有属性
+[16:09:42] [Render thread/INFO]: [CHAT] xueying_f加入了游戏
+[16:09:45] [Render thread/INFO]: [CHAT] <giovors> 待会去比赛服吧
+[16:09:48] [Render thread/INFO]: [CHAT] terminator7211沉睡
+[16:09:49] [Render thread/INFO]: [CHAT] <giovors> 待会去泪白服吧
+[16:09:50] [Render thread/INFO]: [CHAT] 保护者制止了杀手
+[16:09:50] [Render thread/INFO]: [CHAT] A逃生者阵营获得10点积分A
+[16:09:50] [Render thread/INFO]: [CHAT] giovors完成了挑战[正当防卫]
+[16:09:50] [Render thread/INFO]: [CHAT] sjy33443完成了挑战[正当防卫]
+[16:09:51] [Render thread/INFO]: [CHAT] §e[提示] ：[§f§6第一阶段§e]结束，[§f§6第二阶段§e]即将开启。
+[16:09:51] [Render thread/INFO]: [CHAT] §e[提示] ：[§f§6第二阶段§e]将会开放[§f§l梦境沙漏§e]，[§f§l零件§e]，[§f§l天赋§e]，[§f§l商店§e]，[§f§l小门交互§e]，[§f§l大门交互§e]。
+[16:09:51] [Render thread/INFO]: [CHAT] §e[提示] ：利用好当前[§f§l积分§e]，找到[§f§l商店§e]购买道具！。
+[16:09:55] [Render thread/INFO]: [CHAT] <sjy33443> en
+[16:10:01] [Render thread/INFO]: [CHAT] §e[提示] ：[§l§6小门§e]，已通电，小门会开启，开放更多场景。
+[16:10:10] [Render thread/INFO]: [CHAT] xueying_f退出了游戏
+[16:10:18] [Render thread/INFO]: [CHAT] §e[提示] ：你需要拾取散落在各处的[§5§l零件§e]去修复充能[§6§l梦境沙漏§e]\n[§f§6大门§e]会因[§6§l梦境沙漏§e]充能完毕通电。
+[16:10:18] [Render thread/INFO]: [CHAT] §e[提示] ：[§l§6大门§e]通电后找到并开启逃出它，直至自身胜利游戏结束！。
+[16:10:19] [Render thread/INFO]: [CHAT] terminator7211完成了挑战[§6§l登峰造极]
+[16:11:43] [Render thread/INFO]: [CHAT] xueying_f加入了游戏
+[16:11:54] [Render thread/INFO]: [CHAT] <xueying_f> nmd
+[16:12:38] [Render thread/INFO]: [CHAT] §e[提示] ：你购买了[§6§l救急医疗包§e]可以愈合自身或者队友\n使用方法是：右键一次治愈自己，在有队友靠近自身时再右键一次治愈他人，条件是不可移动。
+[16:12:38] [Render thread/INFO]: Loaded 61 advancements
+[16:12:44] [Render thread/INFO]: [CHAT] <xueying_f> 我还有三格！
+[16:12:59] [Render thread/INFO]: [CHAT] <xueying_f> 一格了
+[16:13:22] [Render thread/INFO]: [CHAT] §e[提示] ：你失败了！游戏结束，你可以旁观此局游戏。
+[16:13:22] [Render thread/INFO]: [CHAT] GLgele沉睡
+[16:14:09] [Render thread/INFO]: [CHAT] <xueying_f> 15格
+[16:14:12] [Render thread/INFO]: [CHAT] <xueying_f> 左右
+[16:14:29] [Render thread/INFO]: [CHAT] <xueying_f> xb又出去了
+[16:15:02] [Render thread/INFO]: Connecting to 103.205.254.39, 47271
+[16:15:07] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[16:15:09] [Render thread/INFO]: Loaded 61 advancements
+[16:16:05] [Render thread/INFO]: [CHAT] Xbiaz逃脱梦境
+[16:16:12] [Render thread/INFO]: [CHAT] <GLgele> az
+[16:16:23] [Render thread/INFO]: [CHAT] <Xbiaz> 跳跃没了还是行的草
+[16:16:25] [Render thread/INFO]: [CHAT] sjy33443逃脱梦境
+[16:16:29] [Render thread/INFO]: [CHAT] <terminator7211> ??
+[16:16:53] [Render thread/INFO]: [CHAT] <Xbiaz> 最高的树那里可以
+[16:16:54] [Render thread/INFO]: [CHAT] <Xbiaz> (
+[16:17:10] [Render thread/INFO]: [CHAT] giovors退出了游戏
+[16:17:10] [Render thread/INFO]: [CHAT] [梦境裂隙]已刷新！
+[16:17:17] [Render thread/INFO]: [CHAT] giovors加入了游戏
+[16:17:28] [Render thread/INFO]: [CHAT] <giovors> 我被踢了
+[16:17:32] [Render thread/INFO]: [CHAT] <sjy33443> 不是我
+[16:17:35] [Render thread/INFO]: [CHAT] <Xbiaz> 还行
+[16:17:41] [Render thread/INFO]: [CHAT] <giovors> 被服务器踢了
+[16:17:43] [Render thread/INFO]: [CHAT] Xbiaz退出了游戏
+[16:18:03] [Render thread/INFO]: Connecting to 103.205.254.39, 47271
+[16:18:12] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[16:18:14] [Render thread/INFO]: Loaded 61 advancements
+[16:18:17] [Render thread/INFO]: [CHAT] Xbiaz加入了游戏
+[16:18:31] [Render thread/INFO]: [CHAT] ohya_123逃脱梦境
+[16:18:36] [Render thread/INFO]: [CHAT] <xueying_f> ?
+[16:18:37] [Render thread/INFO]: [CHAT] terminator7211沉睡
+[16:18:56] [Render thread/INFO]: [CHAT] ohya_123沉睡
+[16:18:56] [Render thread/INFO]: [CHAT] xueying_f沉睡
+[16:18:56] [Render thread/INFO]: [CHAT] giovors沉睡
+[16:18:56] [Render thread/INFO]: [CHAT] GLgele沉睡
+[16:18:56] [Render thread/INFO]: [CHAT] Xbiaz沉睡
+[16:18:56] [Render thread/INFO]: [CHAT] terminator7211沉睡
+[16:18:56] [Render thread/INFO]: [CHAT] sjy33443沉睡
+[16:18:56] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[16:18:56] [Render thread/INFO]: [CHAT] §6   ---------------------   §c§l梦境熄灭§6   ---------------------
+[16:18:56] [Render thread/INFO]: [CHAT]     睡眠：个人失败！
+[16:18:56] [Render thread/INFO]: [CHAT] ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+[16:18:56] [Render thread/INFO]: [CHAT] <GLgele> ...
+[16:18:57] [Render thread/INFO]: [CHAT] giovors退出了游戏
+[16:19:01] [Render thread/INFO]: [CHAT] terminator7211退出了游戏
+[16:19:01] [Render thread/INFO]: [CHAT] <sjy33443> 快乐
+[16:19:17] [Render thread/INFO]: Connecting to 103.205.254.39, 47271
+[16:19:43] [Render thread/INFO]: Connecting to dabaiyun.net, 19234
+[16:19:43] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[16:19:43] [Render thread/INFO]: [CHAT] GLgele joined the game
+[16:19:43] [Render thread/INFO]: Loaded 189 advancements
+[16:22:08] [Render thread/INFO]: [CHAT] <骷髅躯体> giovors ！ 还给我...
+[16:23:03] [Render thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[16:27:24] [Render thread/INFO]: [CHAT] giovors left the game
+[16:28:12] [Render thread/INFO]: Connecting to 103.205.254.39, 47271
+[16:28:17] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:62677/https/api.mojang.com', sessionHost='http://127.0.0.1:62677/https/sessionserver.mojang.com', name='PROD'
+[16:28:18] [Render thread/INFO]: Loaded 61 advancements
+[16:28:21] [Render thread/INFO]: [CHAT] §e已返回大厅
+[16:32:10] [Render thread/INFO]: Stopping!
