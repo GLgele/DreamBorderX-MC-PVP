@@ -39,7 +39,7 @@
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "1.16.4"
+      "selectedMinecraftVersion": "1.16.1"
     },
     "Home": {
       "global": {
@@ -83,7 +83,6 @@
       "type": "authlibInjector",
       "uuid": "626d2ede8699421a8dd0839d8ff8e84d",
       "userid": "7e577aeeb54155d2bb33b486abfb1867",
-      "selected": true,
       "username": "ai_minecraft@163.com"
     },
     {
@@ -98,6 +97,7 @@
       "type": "authlibInjector",
       "uuid": "84e8de8ef6d94371835b6844cb7ff0e9",
       "userid": "7e577aeeb54155d2bb33b486abfb1867",
+      "selected": true,
       "username": "ai_minecraft@163.com"
     }
   ],
