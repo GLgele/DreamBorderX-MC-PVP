@@ -35,11 +35,11 @@
         "gameDir": "",
         "launcherVisibility": 2,
         "gameDirType": 0,
-        "defaultJavaPath": "C:\\Program Files\\Java\\jre1.8.0_251\\bin\\java.exe"
+        "defaultJavaPath": "C:\\Program Files\\Java\\jdk1.8.0_251\\bin\\java.exe"
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "1.16.1"
+      "selectedMinecraftVersion": "1.16.4"
     },
     "Home": {
       "global": {
@@ -76,13 +76,14 @@
       "clientToken": "0106b04d3fd9474cb203f9f505403f67",
       "displayName": "gele178",
       "userProperties": {},
-      "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiJiNWQ2MjkxNTA1ZDc0YmRkOTQ2Njk4ZGJhMDcxMjhiMSIsInNwciI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MDUwNTk3NzUsImlhdCI6MTYwNDgwMDU3NX0.bLKfs1iSAxayV3Bak0Lp3pqY1dRwI416KNs9U3zy8YU",
+      "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI0ZjNlYWVjY2RlYmY0YzY1ODI4Mzg4OTZmYjdlZWE3YSIsInNwciI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MDU2MDY2MDksImlhdCI6MTYwNTM0NzQwOX0.yRUWs6Ah15ROyvDonhbRvFRpyRwU-tsjZF1abZV-BaU",
       "profileProperties": {
-        "textures": "eyJ0aW1lc3RhbXAiOjE2MDQ4MDM4NzA4ODAsInByb2ZpbGVJZCI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwicHJvZmlsZU5hbWUiOiJnZWxlMTc4IiwiaXNQdWJsaWMiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly9tY3NraW4ubGl0dGxlc2VydmljZS5jbi90ZXh0dXJlcy8zOTk2ODNkZDFlZWJiZWNkOGI0MmRlMGE4MzhhNDI3ZDNhY2QxMmQxY2I2YzIxN2FhZGMyMTFmMTAxNzE1NTBkIn0sIkNBUEUiOnsidXJsIjoiaHR0cHM6Ly9tY3NraW4ubGl0dGxlc2VydmljZS5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ\u003d\u003d"
+        "textures": "eyJ0aW1lc3RhbXAiOjE2MDU0MTIxOTY1OTYsInByb2ZpbGVJZCI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwicHJvZmlsZU5hbWUiOiJnZWxlMTc4IiwiaXNQdWJsaWMiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly9tY3NraW4ubGl0dGxlc2VydmljZS5jbi90ZXh0dXJlcy8zOTk2ODNkZDFlZWJiZWNkOGI0MmRlMGE4MzhhNDI3ZDNhY2QxMmQxY2I2YzIxN2FhZGMyMTFmMTAxNzE1NTBkIn0sIkNBUEUiOnsidXJsIjoiaHR0cHM6Ly9tY3NraW4ubGl0dGxlc2VydmljZS5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ\u003d\u003d"
       },
       "type": "authlibInjector",
       "uuid": "626d2ede8699421a8dd0839d8ff8e84d",
       "userid": "7e577aeeb54155d2bb33b486abfb1867",
+      "selected": true,
       "username": "ai_minecraft@163.com"
     },
     {
@@ -90,14 +91,13 @@
       "clientToken": "b824ecf903ae48139f8b66fb7c1216e7",
       "displayName": "GLgele",
       "userProperties": {},
-      "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI5MzlkYzlhMzIxYWE0N2JkYTcxOTMxNjliMGJjZDc1OSIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MDQ5ODE4MTYsImlhdCI6MTYwNDcyMjYxNn0.lO9JY-b47ZNzWDV4tdtOW_Ho3tE_rvhkVGF3PqJVm5I",
+      "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI5YjA1OTk4YTNhMTg0MTM3ODlkYjc4Yjc0ZDc5YWQ2NyIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MDU1NzUxNTYsImlhdCI6MTYwNTMxNTk1Nn0.xbptSBgCvc4UMQiCNt_YTwjtIQyO112ko_jWdyL_wWU",
       "profileProperties": {
-        "textures": "eyJ0aW1lc3RhbXAiOjE2MDQ4MDM4NzQxMDksInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL21jc2tpbi5saXR0bGVzZXJ2aWNlLmNuL3RleHR1cmVzLzM5OTY4M2RkMWVlYmJlY2Q4YjQyZGUwYTgzOGE0MjdkM2FjZDEyZDFjYjZjMjE3YWFkYzIxMWYxMDE3MTU1MGQifSwiQ0FQRSI6eyJ1cmwiOiJodHRwczovL21jc2tpbi5saXR0bGVzZXJ2aWNlLmNuL3RleHR1cmVzL2YyN2Q5M2ZlOTc2NTNiZjcxZTE4YzA2NGYzZTZiNDY5MzkxZDRjNzQ4MjcwNjRhMDhjZWI1YjVhZTk4NWM1N2UifX19"
+        "textures": "eyJ0aW1lc3RhbXAiOjE2MDU0MDQ2NTY3NjQsInByb2ZpbGVJZCI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwicHJvZmlsZU5hbWUiOiJHTGdlbGUiLCJpc1B1YmxpYyI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL21jc2tpbi5saXR0bGVzZXJ2aWNlLmNuL3RleHR1cmVzLzM5OTY4M2RkMWVlYmJlY2Q4YjQyZGUwYTgzOGE0MjdkM2FjZDEyZDFjYjZjMjE3YWFkYzIxMWYxMDE3MTU1MGQifSwiQ0FQRSI6eyJ1cmwiOiJodHRwczovL21jc2tpbi5saXR0bGVzZXJ2aWNlLmNuL3RleHR1cmVzL2YyN2Q5M2ZlOTc2NTNiZjcxZTE4YzA2NGYzZTZiNDY5MzkxZDRjNzQ4MjcwNjRhMDhjZWI1YjVhZTk4NWM1N2UifX19"
       },
       "type": "authlibInjector",
       "uuid": "84e8de8ef6d94371835b6844cb7ff0e9",
       "userid": "7e577aeeb54155d2bb33b486abfb1867",
-      "selected": true,
       "username": "ai_minecraft@163.com"
     }
   ],
@@ -108,11 +108,11 @@
     {
       "url": "https://mcskin.littleservice.cn/api/yggdrasil/",
       "metadataResponse": "{\"meta\":{\"serverName\":\"LittleSkin\",\"implementationName\":\"Yggdrasil API for Blessing Skin\",\"implementationVersion\":\"4.11.0\",\"links\":{\"homepage\":\"https:\\/\\/mcskin.littleservice.cn\",\"register\":\"https:\\/\\/mcskin.littleservice.cn\\/auth\\/register\"},\"feature.non_email_login\":true},\"skinDomains\":[\"skin.prinzeugen.net\",\"mcskin.littleservice.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEArGcNOOFIqLJSqoE3u0hj\\ntOEnOcET3wj9Drss1BE6sBqgPo0bMulOULhqjkc\\/uH\\/wyosYnzw3xaazJt87jTHh\\nJ8BPMxCeQMoyEdRoS3Jnj1G0Kezj4A2b61PJJM1DpvDAcqQBYsrSdpBJ+52MjoGS\\nvJoeQO5XUlJVQm21\\/HmJnqsPhzcA6HgY71RHYE5xnhpWJiPxLKUPtmt6CNYUQQoS\\no2v36XWgMmLBZhAbNOPxYX+1ioxKamjhLO29UhwtgY9U6PWEO7\\/SBfXzyRPTzhPV\\n2nHq7KJqd8IIrltslv6i\\/4FEM81ivS\\/mm+PN3hYlIYK6z6Ymii1nrQAplsJ67OGq\\nYHtWKOvpfTzOollugsRihkAG4OB6hM0Pr45jjC3TIc7eO7kOgIcGUGUQGuuugDEz\\nJ1N9FFWnN\\/H6P9ukFeg5SmGC5+wmUPZZCtNBLr8o8sI5H7QhK7NgwCaGFoYuiAGL\\ngz3k\\/3YwJ40BbwQayQ2gIqenz+XOFIAlajv+\\/nyfcDvZH9vGNKP9lVcHXUT5YRnS\\nZSHo5lwvVrYUrqEAbh\\/zDz8QMEyiujWvUkPhZs9fh6fimUGxtm8mFIPCtPJVXjeY\\nwD3Lvt3aIB1JHdUTJR3eEc4eIaTKMwMPyJRzVn5zKsitaZz3nn\\/cOA\\/wZC9oqyEU\\nmc9h6ZMRTRUEE4TtaJyg9lMCAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
-      "metadataTimestamp": 1604803871120
+      "metadataTimestamp": 1605404657789
     }
   ],
   "updateChannel": "STABLE",
   "_version": 0,
   "uiVersion": 0,
-  "preferredLoginType": "authlibInjector"
+  "preferredLoginType": "offline"
 }

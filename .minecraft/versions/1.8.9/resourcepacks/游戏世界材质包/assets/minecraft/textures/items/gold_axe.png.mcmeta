@@ -1,0 +1,60 @@
+// Copyright 2Sneaky4You 2016
+// All Rights Reserved
+
+// Animated by 2Sneaky4You
+// www.youtube.com/c/2Sneaky4You
+
+// If you enjoyed this pack, please take 2 minutes to subscribe!! There are many other amazing animated packs on my channel!!
+
+// Have a nice day :)
+
+// Copyright Notice:
+// - Do NOT "steal" the animated artworks I created, or it could result in a legal dispute and a takedown of the video, and a channel copyright strike. (Youtube)
+// - Do not re-upload as the creator on any file sharing site, or it will be removed with a DCMA takedown.
+// - Playing the game using the texture pack is fine, if you want you can include a download link of the texturepack and link to the original video, however not necessary.
+// - I won't claim the video if you are simply playing the game using the pack, or reviewing it with creator and original video links.
+// Sorry, but this is just for those annoying youtubers that steal my animations and make money off it.
+
+{
+  "animation": {
+    "interpolate": true,/*,linear,
+    "Title": "Titan v3 Animated Pack by 2Sneaky4You"
+    "width":512,
+    "height":512,
+    "range":15872,
+    "frames": 30,*/
+    "clamp": true,
+    "frames": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    ]
+  }
+}

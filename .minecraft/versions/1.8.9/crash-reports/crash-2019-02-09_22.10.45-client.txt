@@ -1,0 +1,97 @@
+---- Minecraft Crash Report ----
+// Don't be sad, have a hug! <3
+
+Time: 19-2-9 下午10:10
+Description: Tesselating block in world
+
+java.lang.IndexOutOfBoundsException
+	at java.nio.Buffer.checkIndex(Buffer.java:546)
+	at java.nio.DirectByteBuffer.putFloat(DirectByteBuffer.java:897)
+	at bfd.b(WorldRenderer.java:583)
+	at bge.a(BlockFluidRenderer.java:263)
+	at bgd.a(BlockRendererDispatcher.java:93)
+	at bht.b(RenderChunk.java:287)
+	at bhp.a(SourceFile:78)
+	at bhp.run(SourceFile:38)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at java.nio.Buffer.checkIndex(Buffer.java:546)
+	at java.nio.DirectByteBuffer.putFloat(DirectByteBuffer.java:897)
+	at bfd.b(WorldRenderer.java:583)
+	at bge.a(BlockFluidRenderer.java:263)
+
+-- Block being tesselated --
+Details:
+	Block type: ID #9 (tile.water // ajw)
+	Block data value: 8 / 0x8 / 0b1000
+	Block location: World: (32384,62,-13793), Chunk: (at 0,3,15 in 2024,-863; contains blocks 32384,0,-13808 to 32399,255,-13793), Region: (63,-27; contains chunks 2016,-864 to 2047,-833, blocks 32256,0,-13824 to 32767,255,-13313)
+Stacktrace:
+	at bgd.a(BlockRendererDispatcher.java:93)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 2 total; [bew['mcerdfge'/195699, l='MpServer', x=32395.56, y=180.00, z=-13810.63], bex['Weilai_Demon'/4229417, l='MpServer', x=32395.10, y=180.00, z=-13814.19]]
+	Chunk stats: MultiplayerChunkCache: 440, 440
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: -186.00,4.00,-182.00 - World: (-186,4,-182), Chunk: (at 6,0,10 in -12,-12; contains blocks -192,0,-192 to -177,255,-177), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,0,-512 to -1,255,-1)
+	Level time: 1591893345 game time, 1593399108 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 62 total; [bex['Weilai_Demon'/4229417, l='MpServer', x=32395.10, y=180.00, z=-13814.19], tn['鸡'/4233166, l='MpServer', x=32387.75, y=181.50, z=-13817.88], tn['鸡'/4233167, l='MpServer', x=32388.78, y=181.50, z=-13817.88], tn['鸡'/4233168, l='MpServer', x=32387.19, y=181.50, z=-13818.81], tn['鸡'/4233169, l='MpServer', x=32387.84, y=181.50, z=-13818.63], tn['鸡'/4233170, l='MpServer', x=32387.63, y=181.50, z=-13817.22], tv['羊'/4233171, l='MpServer', x=32406.78, y=180.00, z=-13818.88], wa['骷髅'/4233172, l='MpServer', x=32412.03, y=122.00, z=-13809.63], tn['鸡'/4233173, l='MpServer', x=32403.63, y=153.00, z=-13792.53], uz['item.item.egg'/4233174, l='MpServer', x=32404.50, y=153.00, z=-13792.88], wi['村民 改名过的不需要命名牌了'/4233175, l='MpServer', x=32408.38, y=153.00, z=-13791.78], tu['兔子'/4233176, l='MpServer', x=32409.59, y=180.00, z=-13789.09], vg['entity.MinecartRideable.name'/4233177, l='MpServer', x=32397.28, y=116.06, z=-13805.50], vg['entity.MinecartRideable.name'/4233178, l='MpServer', x=32387.19, y=117.06, z=-13798.50], uo['entity.ItemFrame.name'/4233179, l='MpServer', x=32396.50, y=182.50, z=-13807.03], tt['猪'/4233180, l='MpServer', x=32400.75, y=180.00, z=-13798.88], to['牛'/4233181, l='MpServer', x=32383.44, y=178.00, z=-13835.47], tu['兔子'/4233182, l='MpServer', x=32362.28, y=180.00, z=-13827.78], tv['羊'/4233183, l='MpServer', x=32383.50, y=177.88, z=-13840.56], tv['羊'/4233184, l='MpServer', x=32383.50, y=177.88, z=-13839.34], tt['猪'/4233185, l='MpServer', x=32375.78, y=180.00, z=-13844.41], tn['鸡'/4233187, l='MpServer', x=32398.28, y=180.00, z=-13830.50], vn['爬行者'/4233188, l='MpServer', x=32421.63, y=116.00, z=-13794.94], vn['爬行者'/4233190, l='MpServer', x=32421.66, y=217.00, z=-13789.88], wc['蜘蛛'/4233191, l='MpServer', x=32420.50, y=220.00, z=-13778.50], vn['爬行者'/4233194, l='MpServer', x=32423.41, y=208.00, z=-13788.88], tn['鸡'/4233195, l='MpServer', x=32405.25, y=153.00, z=-13791.75], wi['村民 改名过的不需要命名牌了'/4233196, l='MpServer', x=32409.25, y=153.00, z=-13785.53], wi['村民 改名过的不需要命名牌了'/4233198, l='MpServer', x=32409.47, y=153.00, z=-13791.06], tn['鸡'/4233199, l='MpServer', x=32404.72, y=153.00, z=-13787.47], we['僵尸'/4233200, l='MpServer', x=32415.72, y=220.00, z=-13779.47], tt['猪'/4233201, l='MpServer', x=32397.94, y=180.00, z=-13787.06], tv['羊'/4233202, l='MpServer', x=32355.19, y=180.00, z=-13806.66], tr['哞菇'/4233203, l='MpServer', x=32357.72, y=180.00, z=-13835.72], to['牛'/4233204, l='MpServer', x=32370.38, y=180.00, z=-13840.75], to['牛'/4233205, l='MpServer', x=32364.06, y=180.00, z=-13841.94], tr['哞菇'/4233206, l='MpServer', x=32354.06, y=180.00, z=-13842.94], tt['猪'/4233207, l='MpServer', x=32364.06, y=180.00, z=-13841.94], tu['兔子'/4233208, l='MpServer', x=32366.13, y=180.00, z=-13843.59], tu['兔子'/4233209, l='MpServer', x=32362.50, y=180.00, z=-13835.88], tr['哞菇'/4233210, l='MpServer', x=32355.16, y=180.00, z=-13841.97], tt['猪'/4233211, l='MpServer', x=32384.94, y=180.00, z=-13848.22], to['牛'/4233212, l='MpServer', x=32369.78, y=180.00, z=-13838.78], tu['兔子'/4233213, l='MpServer', x=32408.44, y=180.00, z=-13848.41], bew['mcerdfge'/195699, l='MpServer', x=32395.56, y=180.00, z=-13810.63], bex['Di_shi_sui'/4224501, l='MpServer', x=-16637.69, y=118.00, z=-31972.19], tn['鸡'/4233215, l='MpServer', x=32442.38, y=8.00, z=-13803.84], tv['羊'/4233216, l='MpServer', x=32412.50, y=180.00, z=-13774.22], wa['骷髅'/4233217, l='MpServer', x=32413.50, y=208.00, z=-13770.50], wa['骷髅'/4233221, l='MpServer', x=32420.47, y=220.00, z=-13775.94], vn['爬行者'/4233222, l='MpServer', x=32423.69, y=220.00, z=-13773.50], wc['蜘蛛'/4233223, l='MpServer', x=32419.50, y=220.00, z=-13773.50], vn['爬行者'/4233224, l='MpServer', x=32419.50, y=217.00, z=-13774.50], wc['蜘蛛'/4233225, l='MpServer', x=32419.09, y=220.00, z=-13775.50], wc['蜘蛛'/4233226, l='MpServer', x=32422.19, y=220.00, z=-13773.50], wa['骷髅'/4233227, l='MpServer', x=32422.50, y=220.00, z=-13775.50], tt['猪'/4233228, l='MpServer', x=32354.09, y=180.00, z=-13768.53], tn['鸡'/4233229, l='MpServer', x=32351.50, y=8.00, z=-13816.66], tt['猪'/4233230, l='MpServer', x=32351.91, y=180.00, z=-13821.97], tv['羊'/4233231, l='MpServer', x=32351.81, y=180.00, z=-13813.09], bex['Weilai_Demon'/4229417, l='MpServer', x=32395.10, y=180.00, z=-13814.19], uz['item.tile.cactus'/4233274, l='MpServer', x=32378.06, y=182.00, z=-13823.06]]
+	Retry entities: 0 total; []
+	Server brand: BungeeCord (git:BungeeCord-Bootstrap:1.13-SNAPSHOT:unknown:unknown) <- PaperSpigot
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at bdb.a(WorldClient.java:404)
+	at ave.b(SourceFile:2311)
+	at bhp.run(SourceFile:44)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.9
+	Operating System: Windows 7 (amd64) version 6.1
+	CPU: 8x Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+	Java Version: 1.8.0_181, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 4276122872 bytes (4078 MB) / 6224347136 bytes (5936 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 11 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx8192m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	Launched Version: HMCL 3.1.94
+	LWJGL: 2.9.4
+	OpenGL: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: No
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: 简体中文 (中国)
+	Profiler Position: N/A (disabled)
+	CPU: 8x Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+	OptiFine Version: OptiFine_1.8.9_HD_U_H3
+	Render Distance Chunks: 8
+	Mipmaps: 0
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.3.0 - Build 10.18.14.4332
+	OpenGlRenderer: Intel(R) HD Graphics 4600
+	OpenGlVendor: Intel
+	CpuCount: 8

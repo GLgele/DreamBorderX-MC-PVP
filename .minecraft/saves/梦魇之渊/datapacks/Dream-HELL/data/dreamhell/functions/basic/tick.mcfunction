@@ -1,4 +1,5 @@
 effect give @a minecraft:saturation 1 1 true
+effect give @a[tag=!killer] weakness 1 1 true
 execute as @a at @s if score 工具人 temps = t3 temps if score @s iron_sword_use = t1 temps run function dreamhell:basic/killer_attack
 execute as @a[scores={drop_white_dye=1..}] at @s run function dreamhell:basic/time_stop
 execute as @a[scores={drop_orange_dye=1..}] at @s run function dreamhell:basic/speed
@@ -13,7 +14,7 @@ execute as @a[tag=lobby] at @s if block ~ ~-1 ~ minecraft:sea_lantern run tag @s
 #execute as @a[tag=!playing] at @s if score @s trig = t3 temps run gamemode spectator
 execute as @a at @s run attribute @s minecraft:generic.attack_speed base set 100
 execute as @a at @s run attribute @s minecraft:generic.max_health base set 24
-execute as @a[scores={health=1..2}] at @s run function dreamhell:basic/died
+execute as @a[scores={health=1..4}] at @s run function dreamhell:basic/died
 execute as @a at @s if data entity @s {"SelectedItem":{id:"minecraft:white_dye"}} run title @s actionbar [{"text":"按[","color":"yellow"},{"keybind": "key.drop","color":"aqua"},{"text":"]丢出使用","color":"yellow"}]
 execute as @a at @s if data entity @s {"SelectedItem":{id:"minecraft:orange_dye"}} run title @s actionbar [{"text":"按[","color":"yellow"},{"keybind": "key.drop","color":"aqua"},{"text":"]丢出使用","color":"yellow"}]
 execute as @a at @s if data entity @s {"SelectedItem":{id:"minecraft:magenta_dye"}} run title @s actionbar [{"text":"按[","color":"yellow"},{"keybind": "key.drop","color":"aqua"},{"text":"]丢出使用","color":"yellow"}]

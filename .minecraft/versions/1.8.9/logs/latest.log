@@ -1,0 +1,1268 @@
+[11:54:00] [Client thread/INFO]: Setting user: GLgele
+[11:54:00] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI5YjA1OTk4YTNhMTg0MTM3ODlkYjc4Yjc0ZDc5YWQ2NyIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MDU1NzUxNTYsImlhdCI6MTYwNTMxNTk1Nn0.xbptSBgCvc4UMQiCNt_YTwjtIQyO112ko_jWdyL_wWU:84e8de8ef6d94371835b6844cb7ff0e9)
+[11:54:01] [Client thread/INFO]: LWJGL Version: 2.9.4
+[11:54:02] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
+[11:54:02] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[11:54:02] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[11:54:02] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:54:02] [Thread-7/INFO]: OpenAL initialized.
+[11:54:03] [Sound Library Loader/INFO]: Sound engine started
+[11:54:03] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
+[11:54:03] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[11:54:05] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[11:54:05] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:07] [Client thread/INFO]: [CHAT] 
+[11:54:08] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §e
+[11:54:08] [Client thread/INFO]: [CHAT] §0§0§1§2§3§5§e§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§0§c§d§e§f
+[11:54:08] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §2
+[11:54:08] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §1
+[11:54:08] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §3
+[11:54:08] [Client thread/INFO]: [CHAT] §0§0§1§e§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§0§2§3§4§5§6§7§e§f
+[11:54:08] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §d
+[11:54:08] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[11:54:08] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[11:54:08] [Client thread/INFO]: [CHAT] §0§0§3§4§5§6§7§8§f§e
+[11:54:08] [Client thread/INFO]: [CHAT] §0§1§0§1§2§f§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§1§3§4§f§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§1§5§f§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§1§6§f§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§1§7§f§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§1§8§9§a§b§f§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§2§0§0§e§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§2§1§0§e§f
+[11:54:08] [Client thread/INFO]: [CHAT] §0§2§1§1§e§f
+[11:54:08] [Client thread/INFO]: [CHAT] §f §f §2 §0 §4 §8
+[11:54:08] [Client thread/INFO]: [CHAT] §f §f §4 §0 §9 §6
+[11:54:08] [Client thread/INFO]: [CHAT] §f §f §1 §0 §2 §4
+[11:54:09] [Client thread/INFO]: [CHAT] 
+[11:54:09] [Client thread/INFO]: [CHAT] 
+[11:54:09] [Client thread/INFO]: [CHAT] 
+[11:54:09] [Client thread/INFO]: [CHAT] 
+[11:54:09] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[11:54:09] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[11:54:09] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[11:54:09] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[11:54:09] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[11:54:09] [Client thread/INFO]: [CHAT] -
+[11:54:09] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[11:54:09] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[11:54:09] [Client thread/INFO]: [CHAT] -服务器QQ群:340349295 牢记服务器IP地址:play.mcyc.win
+[11:54:09] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[11:54:14] [Client thread/INFO]: [CHAT] 
+[11:54:14] [Client thread/INFO]: [CHAT] 
+[11:54:14] [Client thread/INFO]: [CHAT] 
+[11:54:14] [Client thread/INFO]: [CHAT] 
+[11:54:14] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[11:54:14] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[11:54:14] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[11:54:14] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[11:54:14] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[11:54:14] [Client thread/INFO]: [CHAT] -
+[11:54:14] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[11:54:14] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[11:54:14] [Client thread/INFO]: [CHAT] -服务器QQ群:340349295 牢记服务器IP地址:play.mcyc.win
+[11:54:14] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[11:54:19] [Client thread/INFO]: [CHAT] 
+[11:54:19] [Client thread/INFO]: [CHAT] 
+[11:54:19] [Client thread/INFO]: [CHAT] 
+[11:54:19] [Client thread/INFO]: [CHAT] 
+[11:54:19] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[11:54:19] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[11:54:19] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[11:54:19] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[11:54:19] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[11:54:19] [Client thread/INFO]: [CHAT] -
+[11:54:19] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[11:54:19] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[11:54:19] [Client thread/INFO]: [CHAT] -服务器QQ群:340349295 牢记服务器IP地址:play.mcyc.win
+[11:54:19] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[11:54:19] [Client thread/INFO]: [CHAT] 您需要先通过验证才能聊天！
+[11:54:19] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[11:54:19] [Client thread/INFO]: [CHAT] -                 登陆成功!
+[11:54:19] [Client thread/INFO]: [CHAT] -请不要把游戏密码借给任何人!被盗后果自负!
+[11:54:19] [Client thread/INFO]: [CHAT] -请不要把游戏密码借给任何人!被盗后果自负!
+[11:54:19] [Client thread/INFO]: [CHAT] -请不要把游戏密码借给任何人!被盗后果自负!
+[11:54:19] [Client thread/INFO]: [CHAT] -
+[11:54:19] [Client thread/INFO]: [CHAT] -请不要把密码借给任何人!服务器不管盗号问题!
+[11:54:19] [Client thread/INFO]: [CHAT] -
+[11:54:19] [Client thread/INFO]: [CHAT] -服务器QQ群:340349295 牢记服务器IP地址:play.mcyc.win
+[11:54:19] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[11:54:19] [Client thread/INFO]: [CHAT] §a点击下面验证哦!
+        §6[点击验证]
+[11:54:20] [Client thread/INFO]: [CHAT] §a点击下面验证哦!
+        §6[点击验证]
+[11:54:21] [Client thread/INFO]: [CHAT] §a点击下面验证哦!
+        §6[点击验证]
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:25] [Client thread/INFO]: [CHAT] 
+[11:54:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:54:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:54:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:55:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[11:55:03] [Client thread/INFO]: [CHAT] §a§l正版?§8[3]§7[§7§l不屈白银II§7]§fFREEAZDRILS §6> §7??
+[11:55:08] [Client thread/INFO]: [CHAT] 
+[11:55:08] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
+[11:55:08] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[11:55:08] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[11:55:08] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[11:55:08] [Client thread/INFO]: [CHAT] 
+[11:56:10] [Client thread/INFO]: [CHAT]                                      
+[11:56:10] [Client thread/INFO]: [CHAT] ∝╬══→少年GLgele来到仙境突破
+[11:56:10] [Client thread/INFO]: [CHAT] ?现金余额: $1
+[11:56:10] [Client thread/INFO]: [CHAT] 　旧时月色，算几番照我，梅边吹笛。唤起玉人，不管清寒与攀摘。何逊而今渐老，　 
+[11:56:10] [Client thread/INFO]: [CHAT]   都忘却，春风词笔。但怪得竹外疏花，香冷入瑶席。
+[11:56:10] [Client thread/INFO]: [CHAT] 江国，正寂寂。叹寄与路遥，夜雪初积。
+[11:56:10] [Client thread/INFO]: [CHAT] 翠尊易泣，红萼无言耿相忆。长记曾携手处，千树压，西湖寒碧。又片片吹尽也，几时见得？
+[11:56:10] [Client thread/INFO]: [CHAT] 你没有新的邮件
+[11:56:15] [Client thread/INFO]: [CHAT] §6[§a全服喊话§6] §b18733282303 §a> §f逍遥来新生村 
+[11:56:16] [Client thread/INFO]: [CHAT] §6[§a全服喊话§6] §b18733282303 §a> §f逍遥来新生村 
+[11:56:17] [Client thread/INFO]: [CHAT] You don't have permission for this icon.
+[11:56:19] [Client thread/INFO]: [CHAT] 正在传送...
+[11:56:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:56:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:56:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:56:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:56:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_big
+[11:56:40] [Client thread/INFO]: [CHAT] You must wait 17.3 seconds
+[11:56:45] [Client thread/INFO]: [CHAT] 正在传送...
+[11:56:48] [Client thread/INFO]: [CHAT] 
+[11:56:48] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[11:56:48] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
+[11:56:48] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
+[11:56:48] [Client thread/INFO]: [CHAT] 
+[11:56:48] [Client thread/INFO]: [CHAT]       官方举报反顾群:584345662
+[11:56:48] [Client thread/INFO]: [CHAT]       服务器微博:https://weibo.com/701553777
+[11:56:48] [Client thread/INFO]: [CHAT] 
+[11:56:49] [Client thread/INFO]: [CHAT] xiongdaren 掉出了这个世界
+[11:56:52] [Client thread/INFO]: [CHAT] 78798 掉出了这个世界
+[11:56:54] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[11:57:00] [Client thread/INFO]: [CHAT] You have found treasure!
+[11:57:09] [Client thread/INFO]: [CHAT] You have found treasure!
+[11:57:26] [Client thread/INFO]: [CHAT] xiongdaren 从高处摔了下来
+[11:57:43] [Client thread/INFO]: [CHAT] ∝╬══→少年wuki_awa来到仙境突破
+[11:57:49] [Client thread/INFO]: [CHAT] 使用“/back”命令来回到死亡地点.
+[11:57:49] [Client thread/INFO]: [CHAT] GLgele 掉出了这个世界
+[11:57:58] [Client thread/INFO]: [CHAT] ┈━═☆少年wuki_awa离开了仙境突破.
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/INFO]: [CHAT] You must wait 19.8 seconds
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:02] [Client thread/INFO]: [CHAT] You must wait 19.3 seconds
+[11:58:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:58:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_big
+[11:58:10] [Client thread/INFO]: [CHAT] You must wait 10.4 seconds
+[11:58:11] [Client thread/INFO]: [CHAT] *** lv.1树精 通过你的攻击凋零了! ***
+[11:58:17] [Client thread/INFO]: [CHAT] 正在传送...
+[11:58:28] [Client thread/INFO]: [CHAT] 
+[11:58:28] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[11:58:28] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
+[11:58:28] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
+[11:58:28] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
+[11:58:28] [Client thread/INFO]: [CHAT] 
+[11:58:28] [Client thread/INFO]: [CHAT]       服务器QQ①群:982392337
+[11:58:28] [Client thread/INFO]: [CHAT]       服务器QQ②群:748400768
+[11:58:28] [Client thread/INFO]: [CHAT]       服务器QQ③群:870707720
+[11:58:28] [Client thread/INFO]: [CHAT] 
+[11:58:50] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 19个精准之心有人刷不
+[11:58:53] [Client thread/INFO]: [CHAT] Shi___Yi 饿死了
+[11:59:03] [Client thread/INFO]: [CHAT] *fafdsfd 回来了.
+[11:59:03] [Client thread/INFO]: [CHAT] ∝╬══→少年6851566来到仙境突破
+[11:59:10] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[11:59:11] [Client thread/INFO]: [CHAT] [Lv.89]<zx12345> 有人代刷 吗
+[11:59:14] [Client thread/INFO]: [CHAT] 78798 掉出了这个世界
+[11:59:25] [Client thread/INFO]: [CHAT] *** lv.1野鸡 通过你的攻击凋零了! ***
+[11:59:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:59:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[11:59:34] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[11:59:35] [Client thread/INFO]: [CHAT] *** lv.1野鸡 通过你的攻击凋零了! ***
+[11:59:48] [Client thread/INFO]: [CHAT] ∝╬══→少年jjy123456来到仙境突破
+[11:59:48] [Client thread/INFO]: [CHAT] You must wait 4.3 seconds
+[11:59:51] [Client thread/INFO]: [CHAT] [Lv.89]<zx12345> 有人代刷 吗
+[11:59:55] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> 誰能幫我刷64個怨血
+[11:59:56] [Client thread/INFO]: [CHAT] You must wait another 7 seconds.
+[11:59:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:block_note_basedrum
+[11:59:58] [Client thread/INFO]: [CHAT] You must wait 17.7 seconds
+[11:59:59] [Client thread/INFO]: [CHAT] You must wait 16.9 seconds
+[12:00:05] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 太麻烦了不想刷
+[12:00:08] [Client thread/INFO]: [CHAT] 
+[12:00:08] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
+[12:00:08] [Client thread/INFO]: [CHAT]       全服喇叭(大厅购买),起床VIP,改名卡,全部半折出售!
+[12:00:08] [Client thread/INFO]: [CHAT]       购买之后在主大厅输入/cdk 卡号即可
+[12:00:08] [Client thread/INFO]: [CHAT] 
+[12:00:08] [Client thread/INFO]: [CHAT]       赞助链接:http://www.52gt.cn/chongzhi.html
+[12:00:08] [Client thread/INFO]: [CHAT] 
+[12:00:08] [Client thread/INFO]: [CHAT] §c§l[游戏世界-残疾人协会]
+[12:00:08] [Client thread/INFO]: [CHAT] §f在过去7天(168小时),一共敲死了 §e2008 §f个孤儿~!
+[12:00:08] [Client thread/INFO]: [CHAT] §f请各位小阔爱洁身自好,文明游戏,共创美好游戏体验~
+[12:00:09] [Client thread/INFO]: [CHAT] [Lv.89]<zx12345> 有人代刷 吗
+[12:00:09] [Client thread/INFO]: [CHAT] You must wait 6.5 seconds
+[12:00:15] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:00:15] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:00:15] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:00:15] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:00:17] [Client thread/ERROR]: Item entity 74063 has no item?!
+[12:00:17] [Client thread/ERROR]: Item entity 74063 has no item?!
+[12:00:21] [Client thread/INFO]: [CHAT] *◣鹤立鸡群◥w123123123≮贪狼之星☆一转≯ 暂时离开了.
+[12:00:26] [Client thread/INFO]: [CHAT] [Lv.34]<◣初出茅庐◥xiongdaren> 6851566 16个袁雪多少收
+[12:00:28] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:00:39] [Client thread/INFO]: [CHAT] jjy123456 从高处摔了下来
+[12:00:41] [Client thread/INFO]: [CHAT] zx12345 被 §blv.7§c>Boss<蛛妖 杀死了
+[12:00:51] [Client thread/INFO]: [CHAT] 6851566 从高处摔了下来
+[12:00:54] [Client thread/INFO]: [CHAT] 使用“/back”命令来回到死亡地点.
+[12:00:54] [Client thread/INFO]: [CHAT] GLgele 掉出了这个世界
+[12:00:58] [Client thread/INFO]: [CHAT] You don't have permission for this icon.
+[12:01:00] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 你去商店看看
+[12:01:05] [Client thread/INFO]: [CHAT] 你没有使用该命令的权限
+[12:01:06] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 商店有卖
+[12:01:13] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> 没钱
+[12:01:15] [Client thread/INFO]: [CHAT] ∝╬══→少年167132641来到仙境突破
+[12:01:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:01:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:01:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_big
+[12:01:17] [Client thread/INFO]: [CHAT] ∝╬══→少年woxio来到仙境突破
+[12:01:22] [Client thread/INFO]: [CHAT] 78798 掉出了这个世界
+[12:01:23] [Client thread/INFO]: [CHAT] 6851566 在墙里窒息而亡
+[12:01:25] [Client thread/INFO]: [CHAT] 正在传送...
+[12:01:26] [Client thread/INFO]: [CHAT] [Lv.89]<zx12345> 找师傅
+[12:01:29] [Client thread/INFO]: [CHAT] ┈━═☆少年167132641离开了仙境突破.
+[12:01:34] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> 没人 哈哈
+[12:01:43] [Client thread/INFO]: [CHAT] jjy123456 被戳死了
+[12:01:48] [Client thread/INFO]: [CHAT] 
+[12:01:48] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
+[12:01:48] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
+[12:01:48] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
+[12:01:48] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
+[12:01:48] [Client thread/INFO]: [CHAT] 
+[12:01:48] [Client thread/INFO]: [CHAT]       赞助链接:http://www.52gt.cn/chongzhi.html
+[12:01:48] [Client thread/INFO]: [CHAT] 
+[12:01:50] [Client thread/INFO]: [CHAT] 6851566 在墙里窒息而亡
+[12:01:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:01:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:01:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:01:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_big
+[12:02:07] [Client thread/INFO]: [CHAT] 使用“/back”命令来回到死亡地点.
+[12:02:07] [Client thread/INFO]: [CHAT] GLgele 掉出了这个世界
+[12:02:08] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 3500一组
+[12:02:10] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 商店
+[12:02:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[12:02:15] [Client thread/INFO]: [CHAT] 6851566 在墙里窒息而亡
+[12:02:24] [Client thread/INFO]: [CHAT] You must wait another 5 seconds.
+[12:02:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:block_note_basedrum
+[12:02:26] [Client thread/INFO]: [CHAT] ***暴击! ***
+[12:02:26] [Client thread/INFO]: [CHAT] *** lv.1树精 通过你的攻击凋零了! ***
+[12:02:29] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 有人代刷 吗
+[12:02:32] [Client thread/INFO]: [CHAT] Shi___Yi 被 §blv30§c东口龙卫 杀死了
+[12:02:35] [Client thread/INFO]: [CHAT] 正在传送...
+[12:02:39] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 不想刷风魂
+[12:02:42] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 没人刷
+[12:02:44] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 懒
+[12:02:47] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 额
+[12:02:59] [Client thread/INFO]: [CHAT] jjy123456 死了
+[12:02:59] [Client thread/INFO]: [CHAT] ◣鹤立鸡群◥jjy123456≮破损之月☆一转≯ 结束了他自己的生命.
+[12:03:00] [Client thread/INFO]: [CHAT] 6851566 在墙里窒息而亡
+[12:03:01] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 很麻烦？？
+[12:03:06] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 主要还是你价格低高一点就有人了
+[12:03:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:03:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:03:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:03:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_big
+[12:03:11] [Client thread/INFO]: [CHAT] You must wait 18.2 seconds
+[12:03:12] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 就是累
+[12:03:16] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 6k
+[12:03:16] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 不想刷
+[12:03:27] [Client thread/INFO]: [CHAT] *◣初出茅庐◥Sky13 回来了.
+[12:03:27] [Client thread/INFO]: [CHAT] [Lv.48]<◣初出茅庐◥Sky13> zpb微信？
+[12:03:28] [Client thread/INFO]: [CHAT] 
+[12:03:28] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
+[12:03:28] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[12:03:28] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[12:03:28] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[12:03:28] [Client thread/INFO]: [CHAT] 
+[12:03:32] [Client thread/INFO]: [CHAT] *◣初出茅庐◥zpbBob 暂时离开了.
+[12:03:32] [Client thread/INFO]: [CHAT] *◣卫道神导◥_1_xiamo≮圣龙逆转☆一转≯ 回来了.
+[12:03:34] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 哈哈哈哈
+[12:03:37] [Client thread/INFO]: [CHAT] [Lv.597]<◣鹤立鸡群◥jjy123456≮破损之月☆一转≯> 只要动手就累
+[12:03:39] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 很秀
+[12:03:40] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 可以设重生点
+[12:03:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:03:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_big
+[12:03:44] [Client thread/INFO]: [CHAT] *** lv.5野猪 通过你的攻击凋零了! ***
+[12:03:44] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:03:47] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 所以你自己刷啊
+[12:03:59] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 打不过啊
+[12:04:00] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 我们就是懒
+[12:04:04] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 重生点
+[12:04:06] [Client thread/INFO]: [CHAT] You must wait another 8 seconds.
+[12:04:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:block_note_basedrum
+[12:04:07] [Client thread/INFO]: [CHAT] You must wait 18.7 seconds
+[12:04:10] [Thread-7/ERROR]: Error in class 'LibraryLWJGLOpenAL'
+[12:04:10] [Thread-7/ERROR]: Source 'd853d064-a85f-40ad-86af-c75f0247d244' not found in method 'play'
+[12:04:10] [Thread-7/ERROR]: Error in class 'LibraryLWJGLOpenAL'
+[12:04:10] [Thread-7/ERROR]: Source 'd853d064-a85f-40ad-86af-c75f0247d244' not found in method 'play'
+[12:04:20] [Client thread/ERROR]: Item entity 75846 has no item?!
+[12:04:20] [Client thread/ERROR]: Item entity 75846 has no item?!
+[12:04:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:04:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_big
+[12:04:31] [Client thread/INFO]: [CHAT] *** lv.6猪妖 通过你的攻击凋零了! ***
+[12:04:40] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> ??
+[12:04:45] [Client thread/INFO]: [CHAT] *** lv.6猪妖 通过你的攻击凋零了! ***
+[12:04:47] [Client thread/INFO]: [CHAT] 78798 被 §7§l[魔兵]§c§l月尸爪牙 杀死了
+[12:04:49] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:04:51] [Client thread/INFO]: [CHAT] You must wait another 10 seconds.
+[12:04:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:block_note_basedrum
+[12:04:51] [Client thread/INFO]: [CHAT] You must wait 19.8 seconds
+[12:04:51] [Client thread/INFO]: [CHAT] You must wait 19.6 seconds
+[12:04:52] [Client thread/INFO]: [CHAT] You must wait 19.5 seconds
+[12:04:52] [Client thread/INFO]: [CHAT] You must wait 19.3 seconds
+[12:04:52] [Client thread/INFO]: [CHAT] You must wait 19.1 seconds
+[12:04:52] [Client thread/INFO]: [CHAT] You must wait 18.9 seconds
+[12:04:52] [Client thread/INFO]: [CHAT] You must wait 18.7 seconds
+[12:04:56] [Client thread/INFO]: [CHAT] *** lv.6猪妖 通过你的攻击凋零了! ***
+[12:05:02] [Client thread/INFO]: [CHAT] 6851566 死了
+[12:05:02] [Client thread/INFO]: [CHAT] ◣初出茅庐◥6851566 结束了他自己的生命.
+[12:05:08] [Client thread/INFO]: [CHAT] 
+[12:05:08] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[12:05:08] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
+[12:05:08] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
+[12:05:08] [Client thread/INFO]: [CHAT] 
+[12:05:08] [Client thread/INFO]: [CHAT]       官方举报反顾群:584345662
+[12:05:08] [Client thread/INFO]: [CHAT]       服务器微博:https://weibo.com/701553777
+[12:05:08] [Client thread/INFO]: [CHAT] 
+[12:05:11] [Client thread/INFO]: [CHAT] You must wait 0.1 seconds
+[12:05:22] [Client thread/INFO]: [CHAT] ∝╬══→少年ysx0101来到仙境突破
+[12:05:23] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:05:30] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> ysx
+[12:05:39] [Client thread/INFO]: [CHAT] Shi___Yi 饿死了
+[12:05:45] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:05:49] [Client thread/INFO]: [CHAT] zx12345 掉出了这个世界
+[12:05:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:05:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:05:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_big
+[12:05:50] [Client thread/INFO]: [CHAT] 78798 被 §blv58§c召唤师首领 杀死了
+[12:05:51] [Client thread/INFO]: [CHAT] xiongdaren 被 §blv.13§c浮尸§e<妖> 杀死了
+[12:06:00] [Client thread/INFO]: [CHAT] *** lv.6猪妖 通过你的攻击凋零了! ***
+[12:06:06] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> ??
+[12:06:16] [Client thread/INFO]: [CHAT] You must wait another 4 seconds.
+[12:06:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:block_note_basedrum
+[12:06:20] [Client thread/INFO]: [CHAT] 6851566 死了
+[12:06:20] [Client thread/INFO]: [CHAT] ◣初出茅庐◥6851566 结束了他自己的生命.
+[12:06:33] [Client thread/INFO]: [CHAT] You must wait 2.5 seconds
+[12:06:34] [Client thread/INFO]: [CHAT] You must wait 1.9 seconds
+[12:06:34] [Client thread/INFO]: [CHAT] You must wait 1.5 seconds
+[12:06:34] [Client thread/INFO]: [CHAT] You must wait 1.4 seconds
+[12:06:34] [Client thread/INFO]: [CHAT] You must wait 1.2 seconds
+[12:06:35] [Client thread/INFO]: [CHAT] You must wait 1.1 seconds
+[12:06:35] [Client thread/INFO]: [CHAT] You must wait 1.0 seconds
+[12:06:35] [Client thread/INFO]: [CHAT] You must wait 0.7 seconds
+[12:06:35] [Client thread/INFO]: [CHAT] You must wait 0.5 seconds
+[12:06:35] [Client thread/INFO]: [CHAT] You must wait 0.3 seconds
+[12:06:36] [Client thread/INFO]: [CHAT] You must wait 0.1 seconds
+[12:06:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:06:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:06:36] [Client thread/INFO]: [CHAT] You must wait 19.9 seconds
+[12:06:36] [Client thread/INFO]: [CHAT] You must wait 19.6 seconds
+[12:06:36] [Client thread/INFO]: [CHAT] You must wait 19.5 seconds
+[12:06:36] [Client thread/INFO]: [CHAT] You must wait 19.3 seconds
+[12:06:41] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 我要1组
+[12:06:48] [Client thread/INFO]: [CHAT] 
+[12:06:48] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[12:06:48] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
+[12:06:48] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
+[12:06:48] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
+[12:06:48] [Client thread/INFO]: [CHAT] 
+[12:06:48] [Client thread/INFO]: [CHAT]       服务器QQ①群:982392337
+[12:06:48] [Client thread/INFO]: [CHAT]       服务器QQ②群:748400768
+[12:06:48] [Client thread/INFO]: [CHAT]       服务器QQ③群:870707720
+[12:06:48] [Client thread/INFO]: [CHAT] 
+[12:07:05] [Client thread/INFO]: [CHAT] 78798 在试图与 §blv23§c中级傀儡 战斗时被烤的酥脆
+[12:07:12] [Client thread/INFO]: [CHAT] You don't have permission for this icon.
+[12:07:16] [Client thread/INFO]: [CHAT] ┈━═☆少年xiongdaren离开了仙境突破.
+[12:07:42] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 给了
+[12:08:10] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 哈？
+[12:08:23] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 刷虫血1000
+[12:08:28] [Client thread/INFO]: [CHAT] 
+[12:08:28] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
+[12:08:28] [Client thread/INFO]: [CHAT]       全服喇叭(大厅购买),起床VIP,改名卡,全部半折出售!
+[12:08:28] [Client thread/INFO]: [CHAT]       购买之后在主大厅输入/cdk 卡号即可
+[12:08:28] [Client thread/INFO]: [CHAT] 
+[12:08:28] [Client thread/INFO]: [CHAT]       赞助链接:http://www.52gt.cn/chongzhi.html
+[12:08:28] [Client thread/INFO]: [CHAT] 
+[12:08:28] [Client thread/INFO]: [CHAT] *◣初出茅庐◥Sky13 暂时离开了.
+[12:08:29] [Client thread/INFO]: [CHAT] 78798 被 §blv55§c召唤师 杀死了
+[12:08:32] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> ?
+[12:08:42] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 刷虫血100 0
+[12:08:45] [Client thread/INFO]: [CHAT] Shi___Yi 饿死了
+[12:08:48] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 帮我
+[12:08:51] [Client thread/INFO]: [CHAT] *◣鹤立鸡群◥jjy123456≮破损之月☆一转≯ 暂时离开了.
+[12:08:59] [Client thread/INFO]: [CHAT] ysx0101 掉出了这个世界
+[12:09:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:09:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_big
+[12:09:19] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 我身上17
+[12:09:29] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 杀啊
+[12:09:31] [Client thread/INFO]: [CHAT] ***暴击! ***
+[12:09:32] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> 旋风真宝藏钥匙，换一组怨血加一组仙髓
+[12:09:33] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> 旋风真宝藏钥匙，换一组怨血加 一组仙髓
+[12:09:37] [Client thread/INFO]: [CHAT] *** lv.1野鸡 通过你的攻击凋零了! ***
+[12:09:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:09:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:09:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:09:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:magic.shimmer_quiet
+[12:09:44] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:09:53] [Client thread/INFO]: [CHAT] *** lv.2鸡妖 通过你的攻击凋零了! ***
+[12:09:55] [Client thread/INFO]: [CHAT] 78798 被 §b§llv60§c§l火卒 射杀
+[12:10:00] [Client thread/INFO]: [CHAT] You must wait 0.4 seconds
+[12:10:00] [Client thread/INFO]: [CHAT] You must wait 0.3 seconds
+[12:10:00] [Client thread/INFO]: [CHAT] You must wait 0.1 seconds
+[12:10:01] [Client thread/INFO]: [CHAT] You must wait another 10 seconds.
+[12:10:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:block_note_basedrum
+[12:10:01] [Client thread/INFO]: [CHAT] You must wait 19.9 seconds
+[12:10:01] [Client thread/INFO]: [CHAT] You must wait 19.7 seconds
+[12:10:01] [Client thread/INFO]: [CHAT] You must wait 19.5 seconds
+[12:10:01] [Client thread/INFO]: [CHAT] You must wait 19.3 seconds
+[12:10:02] [Client thread/INFO]: [CHAT] You must wait 19.2 seconds
+[12:10:04] [Client thread/INFO]: [CHAT] *** lv.6猪妖 通过你的攻击凋零了! ***
+[12:10:07] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> 旋风真宝藏钥匙，换一组怨血加一组仙髓
+[12:10:08] [Client thread/INFO]: [CHAT] 
+[12:10:08] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
+[12:10:08] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
+[12:10:08] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
+[12:10:08] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
+[12:10:08] [Client thread/INFO]: [CHAT] 
+[12:10:08] [Client thread/INFO]: [CHAT]       赞助链接:http://www.52gt.cn/chongzhi.html
+[12:10:08] [Client thread/INFO]: [CHAT] 
+[12:10:08] [Client thread/INFO]: [CHAT] §c§l[游戏世界-残疾人协会]
+[12:10:08] [Client thread/INFO]: [CHAT] §f在过去7天(168小时),一共敲死了 §e2030 §f个孤儿~!
+[12:10:08] [Client thread/INFO]: [CHAT] §f请各位小阔爱洁身自好,文明游戏,共创美好游戏体验~
+[12:10:13] [Client thread/INFO]: [CHAT] ∝╬══→少年Da_Zz来到仙境突破
+[12:10:19] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> e
+[12:10:30] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> 收火晶，迅猛心
+[12:10:32] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> 旋风真宝藏钥匙，换一组怨血加 一组仙髓
+[12:10:44] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> 旋风真宝藏钥匙，换一组怨血加一组仙髓
+[12:10:47] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> e
+[12:10:51] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> e
+[12:11:04] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 你有那么多钱嘛
+[12:11:09] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> ??
+[12:11:12] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> 额
+[12:11:17] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 这些刷起来好麻烦的波
+[12:11:24] [Client thread/INFO]: [CHAT] [Lv.36]<◣初出茅庐◥6851566> dui
+[12:11:27] [Client thread/INFO]: [CHAT] *◣鹤立鸡群◥jjy123456≮破损之月☆一转≯ 回来了.
+[12:11:31] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 我要46个
+[12:11:35] [Client thread/INFO]: [CHAT] *◣鹤立鸡群◥w123123123≮贪狼之星☆一转≯ 回来了.
+[12:11:39] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 基本没人想刷
+[12:11:48] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> ..
+[12:11:48] [Client thread/INFO]: [CHAT] 
+[12:11:48] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
+[12:11:48] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[12:11:48] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[12:11:48] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[12:11:48] [Client thread/INFO]: [CHAT] 
+[12:11:49] [Client thread/INFO]: [CHAT] [Lv.597]<◣鹤立鸡群◥jjy123456≮破损之月☆一转≯> 有起床的吗
+[12:11:52] [Client thread/INFO]: [CHAT] [Lv.467]<◣鹤立鸡群◥w123123123≮贪狼之星☆一转≯> 没
+[12:11:53] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 打啊
+[12:11:59] [Client thread/INFO]: [CHAT] [Lv.597]<◣鹤立鸡群◥jjy123456≮破损之月☆一转≯> o
+[12:12:03] [Client thread/INFO]: [CHAT] Shi___Yi 被 §blv30§c东口龙卫 杀死了
+[12:12:05] [Client thread/INFO]: [CHAT] ┈━═☆少年jjy123456离开了仙境突破.
+[12:12:43] [Client thread/INFO]: [CHAT] 6851566 从高处摔了下来
+[12:13:03] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> e
+[12:13:06] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> 带我刷qwq？
+[12:13:07] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:13:07] [Client thread/INFO]: [CHAT] [Lv.467]<◣鹤立鸡群◥w123123123≮贪狼之星☆一转≯> = =
+[12:13:10] [Client thread/INFO]: [CHAT] 使用“/back”命令来回到死亡地点.
+[12:13:10] [Client thread/INFO]: [CHAT] GLgele 被 §blv.7§e树妖 杀死了
+[12:13:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[12:13:27] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:13:28] [Client thread/INFO]: [CHAT] 
+[12:13:28] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[12:13:28] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
+[12:13:28] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
+[12:13:28] [Client thread/INFO]: [CHAT] 
+[12:13:28] [Client thread/INFO]: [CHAT]       官方举报反顾群:584345662
+[12:13:28] [Client thread/INFO]: [CHAT]       服务器微博:https://weibo.com/701553777
+[12:13:28] [Client thread/INFO]: [CHAT] 
+[12:13:32] [Client thread/INFO]: [CHAT] zx12345 被烧死了
+[12:13:35] [Client thread/INFO]: [CHAT] 正在传送...
+[12:13:42] [Client thread/INFO]: [CHAT] 你没有使用该命令的权限
+[12:13:48] [Client thread/INFO]: [CHAT] You have already looted this treasure...
+[12:14:00] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:14:13] [Client thread/INFO]: [CHAT] 正在传送...
+[12:14:17] [Client thread/INFO]: [CHAT] Da_Zz 被 §blv58§c影猎魔 杀死了
+[12:14:22] [Client thread/INFO]: [CHAT] You don't have permission for this icon.
+[12:14:27] [Client thread/INFO]: [CHAT] ysx0101 被 §blv.25§e影刺虫 杀死了
+[12:14:28] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> az
+[12:14:36] [Client thread/INFO]: [CHAT] 正在传送...
+[12:14:36] [Client thread/INFO]: [CHAT] 传送将在4 秒内开始.请不要移动
+[12:14:40] [Client thread/INFO]: [CHAT] 准备传送...
+[12:14:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[12:14:47] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 几了
+[12:14:50] [Client thread/INFO]: [CHAT] 6851566 死了
+[12:14:50] [Client thread/INFO]: [CHAT] ◣初出茅庐◥6851566 结束了他自己的生命.
+[12:14:54] [Client thread/INFO]: [CHAT] [Lv.112]<◣降妖校尉◥ysx0101≮贪狼之星☆一转≯> 12
+[12:14:58] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 有人刷龙魂吗
+[12:14:58] [Client thread/INFO]: [CHAT] 正在传送...
+[12:15:08] [Client thread/INFO]: [CHAT] 
+[12:15:08] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[12:15:08] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
+[12:15:08] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
+[12:15:08] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
+[12:15:08] [Client thread/INFO]: [CHAT] 
+[12:15:08] [Client thread/INFO]: [CHAT]       服务器QQ①群:982392337
+[12:15:08] [Client thread/INFO]: [CHAT]       服务器QQ②群:748400768
+[12:15:08] [Client thread/INFO]: [CHAT]       服务器QQ③群:870707720
+[12:15:08] [Client thread/INFO]: [CHAT] 
+[12:15:12] [Client thread/INFO]: [CHAT] Shi___Yi 饿死了
+[12:15:15] [Client thread/INFO]: [CHAT] zx12345 掉出了这个世界
+[12:15:28] [Client thread/INFO]: [CHAT] Da_Zz 被 §blv58§c影猎魔 杀死了
+[12:16:05] [Client thread/INFO]: [CHAT] 使用“/back”命令来回到死亡地点.
+[12:16:05] [Client thread/INFO]: [CHAT] GLgele 掉出了这个世界
+[12:16:14] [Client thread/INFO]: [CHAT] fafdsfd 掉出了这个世界
+[12:16:16] [Client thread/INFO]: [CHAT] ysx0101 被 §blv.25§e影刺虫 杀死了
+[12:16:22] [Client thread/INFO]: [CHAT] _1_xiamo 掉出了这个世界
+[12:16:23] [Client thread/INFO]: [CHAT] 6851566 死了
+[12:16:23] [Client thread/INFO]: [CHAT] ◣初出茅庐◥6851566 结束了他自己的生命.
+[12:16:28] [Client thread/INFO]: [CHAT] 正在传送...
+[12:16:33] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 46
+[12:16:34] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> 还差一组半qwq
+[12:16:44] [Client thread/INFO]: [CHAT] 6851566 在墙里窒息而亡
+[12:16:48] [Client thread/INFO]: [CHAT] 
+[12:16:48] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
+[12:16:48] [Client thread/INFO]: [CHAT]       全服喇叭(大厅购买),起床VIP,改名卡,全部半折出售!
+[12:16:48] [Client thread/INFO]: [CHAT]       购买之后在主大厅输入/cdk 卡号即可
+[12:16:48] [Client thread/INFO]: [CHAT] 
+[12:16:48] [Client thread/INFO]: [CHAT]       赞助链接:http://www.52gt.cn/chongzhi.html
+[12:16:48] [Client thread/INFO]: [CHAT] 
+[12:16:59] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:16:59] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:16:59] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:17:15] [Client thread/INFO]: [CHAT] zx12345 掉出了这个世界
+[12:18:04] [Client thread/INFO]: [CHAT] Shi___Yi 饿死了
+[12:18:10] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> e
+[12:18:16] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:18:18] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:18:18] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:18:28] [Client thread/INFO]: [CHAT] 
+[12:18:28] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
+[12:18:28] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
+[12:18:28] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
+[12:18:28] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
+[12:18:28] [Client thread/INFO]: [CHAT] 
+[12:18:28] [Client thread/INFO]: [CHAT]       赞助链接:http://www.52gt.cn/chongzhi.html
+[12:18:28] [Client thread/INFO]: [CHAT] 
+[12:18:30] [Client thread/INFO]: [CHAT] Da_Zz 被 §blv58§c影猎魔 杀死了
+[12:18:31] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 怎么转职
+[12:18:53] [Client thread/INFO]: [CHAT] [Lv.229]<◣卫道神导◥_1_xiamo≮圣龙逆转☆一转≯> 有人吗？
+[12:18:57] [Client thread/INFO]: [CHAT] [Lv.206]<◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯> 1
+[12:18:58] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 有
+[12:19:00] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 有
+[12:19:06] [Client thread/INFO]: [CHAT] 使用“/back”命令来回到死亡地点.
+[12:19:06] [Client thread/INFO]: [CHAT] GLgele 被 §blv.7§e树妖 杀死了
+[12:19:23] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:19:24] [Client thread/INFO]: [CHAT] [Lv.229]<◣卫道神导◥_1_xiamo≮圣龙逆转☆一转≯> 谁可以带我去打冰精？
+[12:19:37] [Client thread/INFO]: [CHAT] ysx0101 被 §blv.25§e影刺虫 杀死了
+[12:19:37] [Client thread/INFO]: [CHAT] 正在传送...
+[12:19:42] [Client thread/INFO]: [CHAT] 78798 死了
+[12:19:42] [Client thread/INFO]: [CHAT] ◣卫道神导◥78798≮泣血魔侯☆一转≯ 结束了他自己的生命.
+[12:20:08] [Client thread/INFO]: [CHAT] 
+[12:20:08] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
+[12:20:08] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[12:20:08] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[12:20:08] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[12:20:08] [Client thread/INFO]: [CHAT] 
+[12:20:55] [Client thread/INFO]: [CHAT] Da_Zz 死了
+[12:20:55] [Client thread/INFO]: [CHAT] ◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯ 结束了他自己的生命.
+[12:21:00] [Client thread/INFO]: [CHAT] 78798 被 §4§l送钱金娃 杀死了
+[12:21:02] [Client thread/INFO]: [CHAT] Shi___Yi 饿死了
+[12:21:06] [Client thread/INFO]: [CHAT] ysx0101 被烧死了
+[12:21:07] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:21:48] [Client thread/INFO]: [CHAT] 
+[12:21:48] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[12:21:48] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
+[12:21:48] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
+[12:21:48] [Client thread/INFO]: [CHAT] 
+[12:21:48] [Client thread/INFO]: [CHAT]       官方举报反顾群:584345662
+[12:21:48] [Client thread/INFO]: [CHAT]       服务器微博:https://weibo.com/701553777
+[12:21:48] [Client thread/INFO]: [CHAT] 
+[12:21:57] [Client thread/INFO]: [CHAT] 78798 死了
+[12:22:08] [Client thread/INFO]: [CHAT] Da_Zz 被 §blv58§c影猎魔 杀死了
+[12:22:17] [Client thread/INFO]: [CHAT] [Lv.467]<◣鹤立鸡群◥w123123123≮贪狼之星☆一转≯> 谁刷冰皇
+[12:22:32] [Client thread/INFO]: [CHAT] 78798 被 §4§l送钱金娃 杀死了
+[12:22:40] [Client thread/INFO]: [CHAT] ∝╬══→少年thenpce来到仙境突破
+[12:22:50] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:22:58] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:22:58] [Client thread/INFO]: [CHAT] 你并没有权限去建造 nobreak.build 是所需权限!
+[12:23:11] [Client thread/INFO]: [CHAT] Da_Zz 被 §blv58§c影猎魔 杀死了
+[12:23:13] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 够了》？
+[12:23:22] [Client thread/INFO]: [CHAT] 6851566 在墙里窒息而亡
+[12:23:28] [Client thread/INFO]: [CHAT] 
+[12:23:28] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[12:23:28] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
+[12:23:28] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
+[12:23:28] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
+[12:23:28] [Client thread/INFO]: [CHAT] 
+[12:23:28] [Client thread/INFO]: [CHAT]       服务器QQ①群:982392337
+[12:23:28] [Client thread/INFO]: [CHAT]       服务器QQ②群:748400768
+[12:23:28] [Client thread/INFO]: [CHAT]       服务器QQ③群:870707720
+[12:23:28] [Client thread/INFO]: [CHAT] 
+[12:23:31] [Client thread/INFO]: [CHAT] ysx0101 被 §blv.25§e影刺虫 杀死了
+[12:23:39] [Client thread/INFO]: [CHAT] thenpce 掉出了这个世界
+[12:23:55] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 43
+[12:23:56] [Client thread/INFO]: [CHAT] 6851566 在墙里窒息而亡
+[12:23:59] [Client thread/INFO]: [CHAT] 对不起，您没有权限
+[12:24:10] [Client thread/INFO]: [CHAT] Shi___Yi 饿死了
+[12:24:14] [Client thread/INFO]: [CHAT] ┈━═☆少年Shi___Yi离开了仙境突破.
+[12:24:24] [Client thread/INFO]: [CHAT] 78798 被 §bLV.100§6五行灵婴>§7冰皇§6 杀死了
+[12:24:30] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> ....
+[12:24:38] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 几了
+[12:24:39] [Client thread/INFO]: [CHAT] zx12345 被 §blv.25§e影刺虫 杀死了
+[12:24:51] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 够了3
+[12:24:57] [Client thread/INFO]: [CHAT] ysx0101 掉出了这个世界
+[12:25:04] [Client thread/INFO]: [CHAT] ┈━═☆少年thenpce离开了仙境突破.
+[12:25:08] [Client thread/INFO]: [CHAT] 
+[12:25:08] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
+[12:25:08] [Client thread/INFO]: [CHAT]       全服喇叭(大厅购买),起床VIP,改名卡,全部半折出售!
+[12:25:08] [Client thread/INFO]: [CHAT]       购买之后在主大厅输入/cdk 卡号即可
+[12:25:08] [Client thread/INFO]: [CHAT] 
+[12:25:08] [Client thread/INFO]: [CHAT]       赞助链接:http://www.52gt.cn/chongzhi.html
+[12:25:08] [Client thread/INFO]: [CHAT] 
+[12:25:30] [Client thread/INFO]: [CHAT] Da_Zz 死了
+[12:25:30] [Client thread/INFO]: [CHAT] ◣初出茅庐◥Da_Zz≮圣龙逆转☆一转≯ 结束了他自己的生命.
+[12:25:37] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 卡了
+[12:25:43] [Client thread/INFO]: [CHAT] 正在传送...
+[12:25:48] [Client thread/INFO]: [CHAT] ┈━═☆少年Da_Zz离开了仙境突破.
+[12:25:59] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 玄玉哪刷
+[12:26:12] [Client thread/INFO]: [CHAT] You don't have permission for this icon.
+[12:26:22] [Client thread/INFO]: [CHAT] 使用“/back”命令来回到死亡地点.
+[12:26:22] [Client thread/INFO]: [CHAT] GLgele 被 §blv.9§c>Boss<§b玉面狼 杀死了
+[12:26:22] [Client thread/INFO]: [CHAT] nobreak.attack
+[12:26:28] [Client thread/INFO]: [CHAT] 6851566 从高处摔了下来
+[12:26:39] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> ??
+[12:26:41] [Client thread/INFO]: [CHAT] 正在传送...
+[12:26:46] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 万年玄 玉哪刷
+[12:26:48] [Client thread/INFO]: [CHAT] 
+[12:26:48] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
+[12:26:48] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
+[12:26:48] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
+[12:26:48] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
+[12:26:48] [Client thread/INFO]: [CHAT] 
+[12:26:48] [Client thread/INFO]: [CHAT]       赞助链接:http://www.52gt.cn/chongzhi.html
+[12:26:48] [Client thread/INFO]: [CHAT] 
+[12:26:49] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:26:53] [Client thread/INFO]: [CHAT] [Lv.229]<◣卫道神导◥_1_xiamo≮圣龙逆转☆一转≯> 冰砂在哪打？
+[12:27:00] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:27:03] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 洞里
+[12:27:10] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 我懂
+[12:27:10] [Client thread/INFO]: [CHAT] [Lv.229]<◣卫道神导◥_1_xiamo≮圣龙逆转☆一转≯> ?
+[12:27:13] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:27:16] [Client thread/INFO]: [CHAT] *fafdsfd 暂时离开了.
+[12:27:21] [Client thread/INFO]: [CHAT] 78798 试图在岩浆里游泳
+[12:27:22] [Client thread/INFO]: [CHAT] ∝╬══→少年Shi___Yi来到仙境突破
+[12:27:25] [Client thread/INFO]: [CHAT] 6851566 被 §blv15§c痞首 杀死了
+[12:27:26] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 等下
+[12:27:27] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 我带你去
+[12:27:36] [Client thread/INFO]: [CHAT] [Lv.229]<◣卫道神导◥_1_xiamo≮圣龙逆转☆一转≯> 好，谢谢
+[12:27:38] [Client thread/INFO]: [CHAT] Shi___Yi 死了
+[12:27:38] [Client thread/INFO]: [CHAT] ◣鹤立鸡群◥Shi___Yi≮泣血魔侯☆一转≯ 结束了他自己的生命.
+[12:27:40] [Client thread/INFO]: [CHAT] 6851566 被 §blv15§c痞首 杀死了
+[12:27:49] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:27:52] [Client thread/INFO]: [CHAT] [Lv.455]<◣鹤立鸡群◥Shi___Yi≮泣血魔侯☆一转≯> 9组龙魂
+[12:27:54] [Client thread/INFO]: [CHAT] [Lv.455]<◣鹤立鸡群◥Shi___Yi≮泣血魔侯☆一转≯> qwq
+[12:28:01] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> .......
+[12:28:01] [Client thread/INFO]: [CHAT] 6851566 被 §blv13§c地痞 杀死了
+[12:28:03] [Client thread/INFO]: [CHAT] [Lv.90]<zx12345> 来
+[12:28:04] [Client thread/INFO]: [CHAT] zx12345 掉出了这个世界
+[12:28:05] [Client thread/INFO]: [CHAT] [Lv.112]<◣降妖校尉◥ysx0101≮贪狼之星☆一转≯> 买龙魂
+[12:28:12] [Client thread/INFO]: [CHAT] §e您将被传送至大厅，如需取消请在3秒内再次输入 /hub
+[12:28:12] [Client thread/INFO]: [CHAT] [Lv.167]<◣卫道神导◥78798≮泣血魔侯☆一转≯> 32个
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT] 
+[12:28:16] [Client thread/INFO]: [CHAT]        
+[12:28:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[12:28:17] [Client thread/INFO]: [CHAT] Please wait 1 before clicking again.
+[12:28:17] [Client thread/INFO]: [CHAT] Please wait 0 before clicking again.
+[12:28:17] [Client thread/INFO]: [CHAT] Please wait 0 before clicking again.
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT] 
+[12:28:22] [Client thread/INFO]: [CHAT]        
+[12:28:23] [Client thread/INFO]: [CHAT] 开通大厅会员即可获得大厅骑人权限
+[12:28:28] [Client thread/INFO]: [CHAT] 
+[12:28:28] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
+[12:28:28] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[12:28:28] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[12:28:28] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[12:28:28] [Client thread/INFO]: [CHAT] 
+[12:28:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[12:28:34] [Client thread/INFO]: [CHAT] §b队列 >> §7已将您加入匹配队列
+[12:28:34] [Client thread/INFO]: [CHAT] §b队列 >> §a匹配成功,将您加入 §7BW-X-4
+[12:28:35] [Client thread/INFO]: [CHAT]        
+[12:28:35] [Client thread/INFO]: [CHAT] GLgele加入游戏!
+[12:28:35] [Client thread/INFO]: [CHAT] orangejuice加入游戏!
+[12:28:35] [Client thread/INFO]: [CHAT] KuroiKarasu加入游戏!
+[12:28:35] [Client thread/INFO]: [CHAT] #长笑加入游戏!
+[12:28:35] [Client thread/INFO]: [CHAT] 队长orangejuice带着他的队伍?憨菜憨?加入了
+[12:28:37] [Client thread/INFO]: [CHAT] 模式选择成功!
+[12:28:38] [Client thread/INFO]: [CHAT] [0?][坚韧黑铁I]dbfdffgd: 我 這個是vape v4.04 希望不要被ban..
+[12:28:43] [Client thread/INFO]: [CHAT] [12?][荣耀黄金II]r6ty667: 招人awa
+[12:28:44] [Client thread/INFO]: [CHAT] _maggie加入游戏!
+[12:28:45] [Client thread/INFO]: [CHAT] #夏末加入游戏!
+[12:28:45] [Client thread/INFO]: [CHAT] modern_kj加入游戏!
+[12:28:45] [Client thread/INFO]: [CHAT] 队长XMzzla带着他的队伍好菜好菜的加入了
+[12:28:46] [Client thread/INFO]: [CHAT] #是个凉七丫加入游戏!
+[12:28:46] [Client thread/INFO]: [CHAT] #平泽唯加入游戏!
+[12:28:46] [Client thread/INFO]: [CHAT] titanspace加入游戏!
+[12:28:46] [Client thread/INFO]: [CHAT] TheXiao_加入游戏!
+[12:28:46] [Client thread/INFO]: [CHAT] 队长H_Liang_Qi带着他的队伍殺神.加入了
+[12:28:47] [Client thread/INFO]: [CHAT] [23?][最强王者V]#长笑: ..
+[12:28:47] [Client thread/INFO]: [CHAT] huotian203加入游戏!
+[12:28:50] [Client thread/INFO]: [CHAT] Kandia加入游戏!
+[12:28:52] [Client thread/INFO]: [CHAT] Aerlib加入游戏!
+[12:28:52] [Client thread/INFO]: [CHAT] #落幕加入游戏!
+[12:28:52] [Client thread/INFO]: [CHAT] 队长Aerlib带着他的队伍没爱了加入了
+[12:28:55] [Client thread/INFO]: [CHAT] [25?]正版?[最强王者V][VIP]#B站小彼得: XMzzla
+[12:28:56] [Client thread/INFO]: [CHAT] [11?]正版?[不屈白银III]KuroiKarasu: 我是guiwow
+[12:28:56] [Client thread/INFO]: [CHAT] [30?][璀璨钻石I]modern_kj: ;;;
+[12:28:58] [Client thread/INFO]: [CHAT] [27?][璀璨钻石I]#夏末: e
+[12:28:59] [Client thread/INFO]: [CHAT] [23?][最强王者V]#长笑: 我刚才死了吗
+[12:29:00] [Client thread/INFO]: [CHAT] [11?]正版?[不屈白银III]KuroiKarasu: xd
+[12:29:00] [Client thread/INFO]: [CHAT] [0?][坚韧黑铁I]dbfdffgd: 聽説vape也能繞mcyc qwq
+[12:29:02] [Client thread/INFO]: [CHAT] mc_han_han_520加入游戏!
+[12:29:05] [Client thread/INFO]: [CHAT] [28?]正版?[璀璨钻石II][VIP]#平泽唯: 我是妮妮
+[12:29:08] [Client thread/INFO]: [CHAT] 2B2TXxiaomo加入游戏!
+[12:29:08] [Client thread/INFO]: [CHAT] #神魔加入游戏!
+[12:29:08] [Client thread/INFO]: [CHAT] #艺术家丶雨落加入游戏!
+[12:29:08] [Client thread/INFO]: [CHAT] #可爱的小12加入游戏!
+[12:29:08] [Client thread/INFO]: [CHAT] 队长Jyolog带着他的队伍333加入了
+[12:29:10] [Client thread/INFO]: [CHAT] Demon1y加入游戏!
+[12:29:10] [Client thread/INFO]: [CHAT] [30?][璀璨钻石I]modern_kj: boy
+[12:29:10] [Client thread/INFO]: [CHAT] 游戏人数已满,10秒后开始游戏！
+[12:29:10] [Client thread/INFO]: [CHAT] [8?]征战四方[英勇青铜III][VIP]#是个凉七丫: 我是卡卡
+[12:29:12] [Client thread/INFO]: [CHAT] [7?][英勇青铜II]mc_han_han_520: 你是***
+[12:29:14] [Client thread/INFO]: [CHAT] [30?][璀璨钻石I]modern_kj: 这把乱杀
+[12:29:15] [Client thread/INFO]: [CHAT] 游戏将在5秒后开始！
+[12:29:16] [Client thread/INFO]: [CHAT] 游戏将在4秒后开始！
+[12:29:16] [Client thread/INFO]: [CHAT] [30?][璀璨钻石I]modern_kj: XD
+[12:29:17] [Client thread/INFO]: [CHAT] [2?][坚韧黑铁I]Kandia: [Bail] modeern_kj L
+[12:29:17] [Client thread/INFO]: [CHAT] 游戏将在3秒后开始！
+[12:29:17] [Client thread/INFO]: [CHAT] [12?][荣耀黄金II]r6ty667: 好多大佬\QWQ/
+[12:29:18] [Client thread/INFO]: [CHAT] 游戏将在2秒后开始！
+[12:29:19] [Client thread/INFO]: [CHAT] 游戏将在1秒后开始！
+[12:29:29] [Client thread/INFO]: [CHAT] [全局][25?]正版?[最强王者V][VIP][粉]#B站小彼得: /awa/
+[12:29:30] [Client thread/INFO]: [CHAT] [全局][2?][坚韧黑铁I][青]Kandia: [Bail] modeern_kj L
+[12:29:35] [Client thread/INFO]: [CHAT] [全局][30?][璀璨钻石I][绿]modern_kj: 乐死我了
+[12:29:44] [Client thread/INFO]: [CHAT] [全局][30?][璀璨钻石I][绿]modern_kj: 手打的***篮子
+[12:29:52] [Client thread/INFO]: [CHAT] #长笑(蓝?)划下了虚空
+[12:29:52] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[12:29:52] [Client thread/INFO]: [CHAT]  
+[12:29:52] [Client thread/INFO]: [CHAT] 红 的床被 Cshen 挖爆!
+[12:29:52] [Client thread/INFO]: [CHAT]  
+[12:29:52] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[12:29:53] [Client thread/INFO]: [CHAT] [全局][27?][璀璨钻石I][绿]#夏末: 
+[12:29:58] [Client thread/INFO]: [CHAT] Cshen(灰?)被r6ty667(红?)狠狠滴丢下虚空
+[12:30:01] [Client thread/INFO]: [CHAT] GLgele(红?)[最终击杀]被Demon1y(灰?)狠狠滴推倒
+[12:30:01] [Client thread/INFO]: [CHAT] §c你凉了!想再来一局嘛? §b§l点击这里!
+[12:30:03] [Client thread/INFO]: [CHAT] Demon1y(灰?)被fhsm(红?)狠狠滴推倒
+[12:30:03] [Client thread/INFO]: [CHAT] §b队列 >> §7已将您加入匹配队列
+[12:30:03] [Client thread/INFO]: [CHAT] §b队列 >> §a匹配成功,将您加入 §7BW-X-23
+[12:30:04] [Client thread/INFO]: [CHAT]        
+[12:30:04] [Client thread/INFO]: [CHAT] GLgele加入游戏!
+[12:30:08] [Client thread/INFO]: [CHAT] 
+[12:30:08] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[12:30:08] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
+[12:30:08] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
+[12:30:08] [Client thread/INFO]: [CHAT] 
+[12:30:08] [Client thread/INFO]: [CHAT]       官方举报反顾群:584345662
+[12:30:08] [Client thread/INFO]: [CHAT]       服务器微博:https://weibo.com/701553777
+[12:30:08] [Client thread/INFO]: [CHAT] 
+[12:30:19] [Client thread/INFO]: [CHAT] [11?]?头号玩家?[不屈白银III][VIP]#阴险人丶魄魄: 有G
+[12:30:19] [Client thread/INFO]: [CHAT] r6ty667加入游戏!
+[12:30:19] [Client thread/INFO]: [CHAT] fhsm加入游戏!
+[12:30:19] [Client thread/INFO]: [CHAT] 队长r6ty667带着他的队伍qwe加入了
+[12:30:21] [Client thread/INFO]: Stopping!
+[12:30:21] [Client thread/INFO]: SoundSystem shutting down...
+[12:30:22] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
