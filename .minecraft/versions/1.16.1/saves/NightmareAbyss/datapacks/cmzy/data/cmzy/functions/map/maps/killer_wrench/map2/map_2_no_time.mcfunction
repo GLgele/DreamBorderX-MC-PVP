@@ -1,0 +1,1 @@
+setblock -368 3 229 minecraft:diamond_block

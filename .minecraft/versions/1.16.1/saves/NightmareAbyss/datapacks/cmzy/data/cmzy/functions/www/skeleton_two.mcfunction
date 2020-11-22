@@ -1,0 +1,1 @@
+effect give @s nausea 999999 0 true

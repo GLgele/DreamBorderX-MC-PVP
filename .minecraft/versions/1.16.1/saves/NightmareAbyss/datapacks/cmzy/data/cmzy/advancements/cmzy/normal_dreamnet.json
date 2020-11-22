@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:cobweb"
+      },
+      "title": "失忆的梦境",
+      "description": "囚禁罪恶",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat":false,
+      "hidden": true
+    },
+    "parent": "cmzy:cmzy/normal",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

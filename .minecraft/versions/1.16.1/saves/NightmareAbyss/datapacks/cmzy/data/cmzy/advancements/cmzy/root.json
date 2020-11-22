@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:red_bed"
+      },
+      "title": "\u00a7c\u00a7l沉梦之渊",
+      "description": "\u00a75\u00a7k·····\u00a7c沉睡谷\u00a75\u00a7k·····",
+      "frame": "challenge",
+      "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+      "nope": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }

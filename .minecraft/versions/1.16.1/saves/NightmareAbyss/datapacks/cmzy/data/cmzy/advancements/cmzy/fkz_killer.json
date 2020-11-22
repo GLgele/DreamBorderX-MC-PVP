@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:golden_sword"
+      },
+      "title": "正当防卫",
+      "description": "在第一阶段制止杀手",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "cmzy:cmzy/fkz",
+    "criteria": {
+      "fkz": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

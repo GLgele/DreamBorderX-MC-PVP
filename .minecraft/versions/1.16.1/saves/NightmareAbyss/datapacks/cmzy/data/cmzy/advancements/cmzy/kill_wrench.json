@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:shears"
+    },
+    "title": "另类用法",
+    "description": "使用工具破坏器械",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "cmzy:cmzy/kill_normal",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

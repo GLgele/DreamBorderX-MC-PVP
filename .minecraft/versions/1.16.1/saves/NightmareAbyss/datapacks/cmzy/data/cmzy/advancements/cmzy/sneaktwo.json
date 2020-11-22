@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:feather"
+      },
+      "title": "蹑手蹑脚",
+      "description": "“请轻声”",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "cmzy:cmzy/sneak",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
