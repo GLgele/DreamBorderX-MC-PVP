@@ -1,0 +1,21 @@
+[16:24:28] [Client thread/INFO]: Setting user: GLgele
+[16:24:28] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiIwYzRiOTZmOTljMzg0OTA0ODQzNzEwMWM4OGNlMDExNyIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MDYxODk4OTIsImlhdCI6MTYwNTkzMDY5Mn0.NA3cTNJbOoBDgUy4Aht-fbDuy6T7DRmvUE6W11q_kE0:84e8de8ef6d94371835b6844cb7ff0e9)
+[16:24:30] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:24:31] [Client thread/INFO]: Reloading ResourceManager: Default
+[16:24:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:24:31] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[16:24:31] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:24:32] [Thread-7/INFO]: OpenAL initialized.
+[16:24:32] [Sound Library Loader/INFO]: Sound engine started
+[16:24:33] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:24:47] [Client thread/INFO]: Connecting to cn-sq-bgp.sakurafrp.com, 47271
+[16:24:49] [Client thread/INFO]: [CHAT] GLgele joined the game
+[16:25:04] [Client thread/ERROR]: Can't ping cn-sq-bgp.sakurafrp.com:47271: Disconnected
+[16:25:09] [Client thread/ERROR]: Can't ping cn-sq-bgp.sakurafrp.com:47271: Disconnected
+[16:25:14] [Client thread/INFO]: Connecting to cn-sq-bgp.sakurafrp.com, 47271
+[16:25:28] [Client thread/ERROR]: Can't ping cn-sq-bgp.sakurafrp.com:47271: Disconnected
+[16:25:29] [Client thread/ERROR]: Can't ping 103.205.254.39:47271: Disconnected
+[16:25:38] [Client thread/ERROR]: Can't ping cn-sq-bgp.sakurafrp.com:47271: Disconnected
+[16:25:42] [Client thread/INFO]: Stopping!
+[16:25:42] [Client thread/INFO]: SoundSystem shutting down...
+[16:25:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
