@@ -97,8 +97,13 @@
       "type": "authlibInjector",
       "uuid": "84e8de8ef6d94371835b6844cb7ff0e9",
       "userid": "7e577aeeb54155d2bb33b486abfb1867",
-      "selected": true,
       "username": "ai_minecraft@163.com"
+    },
+    {
+      "uuid": "a415d91fa8dc31b78078c0656679d754",
+      "username": "sjy33443",
+      "type": "offline",
+      "selected": true
     }
   ],
   "fontFamily": "Consolas",
