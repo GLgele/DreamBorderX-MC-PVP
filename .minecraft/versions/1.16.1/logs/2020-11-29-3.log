@@ -1,0 +1,50 @@
+[16:30:49] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:53475/https/api.mojang.com', sessionHost='http://127.0.0.1:53475/https/sessionserver.mojang.com', name='PROD'
+[16:30:49] [Render thread/INFO]: Setting user: GLgele
+[16:30:49] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[16:30:55] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[16:30:55] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, 沉梦之渊音效重置2.0.zip, 沉梦之渊材质包-天灾之下DLC（需解压）.zip
+[16:30:56] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊音效重置2.0.zip
+[16:30:56] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊材质包-天灾之下DLC（需解压）.zip
+[16:30:58] [Worker-Main-9/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
+[16:30:58] [Worker-Main-9/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
+[16:30:58] [Worker-Main-9/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
+[16:30:58] [Worker-Main-9/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
+[16:31:02] [Worker-Main-10/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car1
+[16:31:02] [Worker-Main-10/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car2
+[16:31:02] [Worker-Main-13/ERROR]: Using missing texture, unable to load minecraft:textures/item/zhihe_electric_shock_stick.png : java.io.FileNotFoundException: minecraft:textures/item/zhihe_electric_shock_stick.png
+[16:31:02] [Worker-Main-8/ERROR]: Using missing texture, unable to load minecraft:textures/block/sword_tang.png : java.io.FileNotFoundException: minecraft:textures/block/sword_tang.png
+[16:31:02] [Worker-Main-11/ERROR]: Using missing texture, unable to load minecraft:textures/block/green_cmd_block.png : java.io.FileNotFoundException: minecraft:textures/block/green_cmd_block.png
+[16:31:02] [Worker-Main-10/WARN]: Texture minecraft:item/zi with size 265x141 limits mip level from 4 to 0
+[16:31:02] [Worker-Main-10/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[16:31:03] [Render thread/INFO]: OpenAL initialized.
+[16:31:03] [Render thread/INFO]: Sound engine started
+[16:31:03] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:31:04] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/blocks.png-atlas
+[16:31:04] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[16:31:04] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:31:04] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:31:04] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[16:31:04] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:31:04] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:31:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[16:31:05] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:31:05] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:31:28] [Render thread/INFO]: Connecting to dabaiyun.net, 19280
+[16:31:28] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:53475/https/api.mojang.com', sessionHost='http://127.0.0.1:53475/https/sessionserver.mojang.com', name='PROD'
+[16:31:29] [Render thread/INFO]: [CHAT] GLgele joined the game
+[16:31:29] [Render thread/INFO]: [CHAT] §e检测到玩家异常状况，已重置游戏
+[16:31:29] [Render thread/INFO]: Loaded 9 advancements
+[16:31:41] [Render thread/INFO]: [CHAT] <石头按钮A> 哎呀！~~(???`?)
+[16:31:45] [Render thread/INFO]: [CHAT] <石头按钮A> (???`?)
+[16:31:45] [Render thread/INFO]: [CHAT] <石头按钮A> 啊（伸懒腰），终于有人给我按摩了~
+[16:31:48] [Render thread/INFO]: [CHAT] <石头按钮A> 你在奇怪我为什么会说话？~
+[16:31:51] [Render thread/INFO]: [CHAT] <石头按钮A> 我也不清楚我是谁……总之我的主人一开始就把我摆在这里了~
+[16:31:54] [Render thread/INFO]: [CHAT] <石头按钮A> 他让我管理这里的小纸条，不要让别人看见~
+[16:31:57] [Render thread/INFO]: [CHAT] <石头按钮A> 我才不愿意听话呢！嘻嘻，既然有人来了，我就读给你看看吧……
+[16:32:02] [Render thread/INFO]: [CHAT] <小纸条> “这是我们耗时七个月精心打磨的作品，希望得到您的喜欢”
+[16:32:04] [Render thread/INFO]: [CHAT] <小纸条> “游戏推荐5人至9人，版本在1.16.1，会实时更新”
+[16:32:06] [Render thread/INFO]: [CHAT] <小纸条> “这是我们爱发电的网站”
+[16:32:08] [Render thread/INFO]: [CHAT] <小纸条> “§6§l§nhttps://afdian.net/@NightmareAbyss2020§r”
+[16:32:12] [Render thread/INFO]: [CHAT] <石头按钮A> 嗨呀，好累啊我要歇歇……ZZzzz
+[16:32:22] [Render thread/INFO]: [CHAT] <石头按钮A> 啊！是主人！ @*#&$^%…………
+[16:32:25] [Render thread/INFO]: [CHAT] <石头按钮A> @*#&$^%…………
