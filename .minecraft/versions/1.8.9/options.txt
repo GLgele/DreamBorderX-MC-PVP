@@ -10,7 +10,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -22,7 +22,7 @@ chatVisibility:0
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-chatOpacity:1.0
+chatOpacity:0.45070422
 snooperEnabled:true
 fullscreen:false
 enableVsync:true
