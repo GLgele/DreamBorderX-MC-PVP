@@ -1,0 +1,2 @@
+execute if score killer_start bossbar matches 1.. run scoreboard players remove killer_start bossbar 1
+execute if score killer_start bossbar matches 1.. run schedule function dreamhell:debug/killer_start_countdown 1s

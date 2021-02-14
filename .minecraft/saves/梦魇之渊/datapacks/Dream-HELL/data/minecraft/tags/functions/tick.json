@@ -1,5 +1,6 @@
 {
     "values": [
-        "dreamhell:basic/tick"
+        "dreamhell:basic/tick",
+        "dreamhell:basic/killer_start_loop"
     ]
 }
