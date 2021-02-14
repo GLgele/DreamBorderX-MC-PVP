@@ -1,131 +1,34 @@
-[10:29:56] [Render thread/INFO]: Setting user: GLgele
-[10:29:56] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
-[10:30:00] [Render thread/INFO]: Narrator library for x86 successfully loaded
-[10:30:00] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, 沉梦之渊音效重置2.0.zip, 沉梦之渊材质包-天灾之下DLC（需解压）.zip
-[10:30:00] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in D:\code\Github\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊音效重置2.0.zip
-[10:30:00] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in D:\code\Github\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊材质包-天灾之下DLC（需解压）.zip
-[10:30:01] [Worker-Main-4/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
-[10:30:01] [Worker-Main-4/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
-[10:30:01] [Worker-Main-4/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
-[10:30:01] [Worker-Main-4/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
-[10:30:04] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[10:30:05] [Worker-Main-5/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car1
-[10:30:05] [Worker-Main-5/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car2
-[10:30:05] [Worker-Main-6/ERROR]: Using missing texture, unable to load minecraft:textures/item/zhihe_electric_shock_stick.png : java.io.FileNotFoundException: minecraft:textures/item/zhihe_electric_shock_stick.png
-[10:30:05] [Worker-Main-6/ERROR]: Using missing texture, unable to load minecraft:textures/block/sword_tang.png : java.io.FileNotFoundException: minecraft:textures/block/sword_tang.png
-[10:30:06] [Worker-Main-6/ERROR]: Using missing texture, unable to load minecraft:textures/block/green_cmd_block.png : java.io.FileNotFoundException: minecraft:textures/block/green_cmd_block.png
-[10:30:06] [Worker-Main-5/WARN]: Texture minecraft:item/zi with size 265x141 limits mip level from 4 to 0
-[10:30:06] [Worker-Main-5/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
-[10:30:07] [Render thread/INFO]: OpenAL initialized.
-[10:30:07] [Render thread/INFO]: Sound engine started
-[10:30:07] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/blocks.png-atlas
-[10:30:08] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[10:30:08] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[10:30:08] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[10:30:08] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[10:30:08] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[10:30:08] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[10:30:09] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[10:30:09] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[10:30:09] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/mob_effects.png-atlas
-[10:30:44] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:30:44] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:30:44] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:30:44] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:30:44] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:30:44] [Render thread/INFO]: Reloading ResourceManager: Default, cmzy
-[10:30:46] [Render thread/INFO]: Loaded 7 recipes
-[10:30:46] [Render thread/INFO]: Loaded 964 advancements
-[10:30:47] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:55257/https/api.mojang.com', sessionHost='http://127.0.0.1:55257/https/sessionserver.mojang.com', name='PROD'
-[10:30:47] [Server thread/INFO]: Starting integrated minecraft server version 1.16.1
-[10:30:47] [Server thread/INFO]: Generating keypair
-[10:30:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:30:49] [Render thread/INFO]: 准备生成区域中：0%
-[10:30:49] [Render thread/INFO]: 准备生成区域中：0%
-[10:30:49] [Render thread/INFO]: 准备生成区域中：0%
-[10:30:49] [Render thread/INFO]: 准备生成区域中：0%
-[10:30:50] [Render thread/INFO]: 准备生成区域中：83%
-[10:30:50] [Render thread/INFO]: Time elapsed: 2147 ms
-[10:30:50] [Server thread/INFO]: Changing view distance to 11, from 10
-[10:30:53] [Server thread/INFO]: GLgele[local:E:412f215f] logged in with entity id 183 at (0.6015406670806039, 233.0, 4.475324536166936)
-[10:30:53] [Server thread/INFO]: GLgele加入了游戏
-[10:30:54] [Server thread/INFO]: Saving and pausing game...
-[10:30:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§k-§c§l沉梦之渊§r--§6GoldenEggs§r§k-]'/minecraft:overworld
-[10:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§k-§c§l沉梦之渊§r--§6GoldenEggs§r§k-]'/minecraft:the_nether
-[10:30:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§k-§c§l沉梦之渊§r--§6GoldenEggs§r§k-]'/minecraft:the_end
-[10:30:55] [Render thread/INFO]: Loaded 26 advancements
-[10:30:59] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[10:30:59] [Render thread/INFO]: [CHAT] /datapack<--[此处]
-[10:31:16] [Server thread/INFO]: [GLgele: 正在禁用数据包[vanilla（内置）]]
-[10:31:16] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:31:16] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:31:16] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:31:16] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:31:16] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:31:16] [Server thread/INFO]: Reloading ResourceManager: cmzy
-[10:31:17] [Server thread/WARN]: Failed to execute reload
-java.util.concurrent.CompletionException: java.lang.IllegalStateException: Missing required tags: blocks:minecraft:acacia_logs,blocks:minecraft:anvil,blocks:minecraft:bamboo_plantable_on,blocks:minecraft:banners,blocks:minecraft:beacon_base_blocks,blocks:minecraft:beds,blocks:minecraft:bee_growables,blocks:minecraft:beehives,blocks:minecraft:birch_logs,blocks:minecraft:buttons,blocks:minecraft:campfires,blocks:minecraft:carpets,blocks:minecraft:climbable,blocks:minecraft:coral_blocks,blocks:minecraft:coral_plants,blocks:minecraft:corals,blocks:minecraft:crimson_stems,blocks:minecraft:crops,blocks:minecraft:dark_oak_logs,blocks:minecraft:doors,blocks:minecraft:dragon_immune,blocks:minecraft:enderman_holdable,blocks:minecraft:fence_gates,blocks:minecraft:fences,blocks:minecraft:fire,blocks:minecraft:flower_pots,blocks:minecraft:flowers,blocks:minecraft:gold_ores,blocks:minecraft:guarded_by_piglins,blocks:minecraft:hoglin_repellents,blocks:minecraft:ice,blocks:minecraft:impermeable,blocks:minecraft:infiniburn_end,blocks:minecraft:infiniburn_nether,blocks:minecraft:infiniburn_overworld,blocks:minecraft:jungle_logs,blocks:minecraft:leaves,blocks:minecraft:logs,blocks:minecraft:logs_that_burn,blocks:minecraft:non_flammable_wood,blocks:minecraft:nylium,blocks:minecraft:oak_logs,blocks:minecraft:piglin_repellents,blocks:minecraft:planks,blocks:minecraft:portals,blocks:minecraft:pressure_plates,blocks:minecraft:prevent_mob_spawning_inside,blocks:minecraft:rails,blocks:minecraft:sand,blocks:minecraft:saplings,blocks:minecraft:shulker_boxes,blocks:minecraft:signs,blocks:minecraft:slabs,blocks:minecraft:small_flowers,blocks:minecraft:soul_fire_base_blocks,blocks:minecraft:soul_speed_blocks,blocks:minecraft:spruce_logs,blocks:minecraft:stairs,blocks:minecraft:standing_signs,blocks:minecraft:stone_bricks,blocks:minecraft:stone_pressure_plates,blocks:minecraft:strider_warm_blocks,blocks:minecraft:tall_flowers,blocks:minecraft:trapdoors,blocks:minecraft:underwater_bonemeals,blocks:minecraft:unstable_bottom_center,blocks:minecraft:valid_spawn,blocks:minecraft:wall_corals,blocks:minecraft:wall_post_override,blocks:minecraft:wall_signs,blocks:minecraft:walls,blocks:minecraft:warped_stems,blocks:minecraft:wart_blocks,blocks:minecraft:wither_immune,blocks:minecraft:wither_summon_base_blocks,blocks:minecraft:wooden_buttons,blocks:minecraft:wooden_doors,blocks:minecraft:wooden_fences,blocks:minecraft:wooden_pressure_plates,blocks:minecraft:wooden_slabs,blocks:minecraft:wooden_stairs,blocks:minecraft:wooden_trapdoors,blocks:minecraft:wool,entity_types:minecraft:arrows,entity_types:minecraft:beehive_inhabitors,entity_types:minecraft:impact_projectiles,entity_types:minecraft:raiders,entity_types:minecraft:skeletons,fluids:minecraft:lava,fluids:minecraft:water,items:minecraft:acacia_logs,items:minecraft:anvil,items:minecraft:arrows,items:minecraft:banners,items:minecraft:beacon_payment_items,items:minecraft:beds,items:minecraft:birch_logs,items:minecraft:boats,items:minecraft:buttons,items:minecraft:carpets,items:minecraft:coals,items:minecraft:creeper_drop_music_discs,items:minecraft:crimson_stems,items:minecraft:dark_oak_logs,items:minecraft:doors,items:minecraft:fences,items:minecraft:fishes,items:minecraft:flowers,items:minecraft:furnace_materials,items:minecraft:gold_ores,items:minecraft:jungle_logs,items:minecraft:leaves,items:minecraft:lectern_books,items:minecraft:logs,items:minecraft:logs_that_burn,items:minecraft:music_discs,items:minecraft:non_flammable_wood,items:minecraft:oak_logs,items:minecraft:piglin_loved,items:minecraft:piglin_repellents,items:minecraft:planks,items:minecraft:rails,items:minecraft:sand,items:minecraft:saplings,items:minecraft:signs,items:minecraft:slabs,items:minecraft:small_flowers,items:minecraft:soul_fire_base_blocks,items:minecraft:spruce_logs,items:minecraft:stairs,items:minecraft:stone_bricks,items:minecraft:stone_tool_materials,items:minecraft:tall_flowers,items:minecraft:trapdoors,items:minecraft:walls,items:minecraft:warped_stems,items:minecraft:wooden_buttons,items:minecraft:wooden_doors,items:minecraft:wooden_fences,items:minecraft:wooden_pressure_plates,items:minecraft:wooden_slabs,items:minecraft:wooden_stairs,items:minecraft:wooden_trapdoors,items:minecraft:wool
-	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_121]
-	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_121]
-	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_121]
-	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_121]
-	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_121]
-	at abg.a(SourceFile:71) ~[1.16.1.jar:?]
-	at uy.run(SourceFile:18) ~[1.16.1.jar:?]
-	at amn.c(SourceFile:144) ~[1.16.1.jar:?]
-	at amr.c(SourceFile:23) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:763) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:154) ~[1.16.1.jar:?]
-	at amn.x(SourceFile:118) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.aZ(SourceFile:745) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:739) ~[1.16.1.jar:?]
-	at amn.c(SourceFile:127) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:1339) ~[1.16.1.jar:?]
-	at ws.a(SourceFile:22) ~[1.16.1.jar:?]
-	at vk.a(SourceFile:116) ~[1.16.1.jar:?]
-	at vk.d(SourceFile:80) ~[1.16.1.jar:?]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:262) ~[brigadier-1.0.17.jar:?]
-	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:176) ~[brigadier-1.0.17.jar:?]
-	at da.a(SourceFile:260) ~[1.16.1.jar:?]
-	at zv.c(SourceFile:1134) ~[1.16.1.jar:?]
-	at zv.a(SourceFile:1121) ~[1.16.1.jar:?]
-	at rd.a(SourceFile:36) ~[1.16.1.jar:?]
-	at rd.a(SourceFile:9) ~[1.16.1.jar:?]
-	at nk.a(SourceFile:21) ~[1.16.1.jar:?]
-	at uy.run(SourceFile:18) ~[1.16.1.jar:?]
-	at amn.c(SourceFile:144) ~[1.16.1.jar:?]
-	at amr.c(SourceFile:23) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:763) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:154) ~[1.16.1.jar:?]
-	at amn.x(SourceFile:118) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.aZ(SourceFile:745) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:739) ~[1.16.1.jar:?]
-	at amn.c(SourceFile:127) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:724) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.v(SourceFile:676) ~[1.16.1.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:256) ~[1.16.1.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
-Caused by: java.lang.IllegalStateException: Missing required tags: blocks:minecraft:acacia_logs,blocks:minecraft:anvil,blocks:minecraft:bamboo_plantable_on,blocks:minecraft:banners,blocks:minecraft:beacon_base_blocks,blocks:minecraft:beds,blocks:minecraft:bee_growables,blocks:minecraft:beehives,blocks:minecraft:birch_logs,blocks:minecraft:buttons,blocks:minecraft:campfires,blocks:minecraft:carpets,blocks:minecraft:climbable,blocks:minecraft:coral_blocks,blocks:minecraft:coral_plants,blocks:minecraft:corals,blocks:minecraft:crimson_stems,blocks:minecraft:crops,blocks:minecraft:dark_oak_logs,blocks:minecraft:doors,blocks:minecraft:dragon_immune,blocks:minecraft:enderman_holdable,blocks:minecraft:fence_gates,blocks:minecraft:fences,blocks:minecraft:fire,blocks:minecraft:flower_pots,blocks:minecraft:flowers,blocks:minecraft:gold_ores,blocks:minecraft:guarded_by_piglins,blocks:minecraft:hoglin_repellents,blocks:minecraft:ice,blocks:minecraft:impermeable,blocks:minecraft:infiniburn_end,blocks:minecraft:infiniburn_nether,blocks:minecraft:infiniburn_overworld,blocks:minecraft:jungle_logs,blocks:minecraft:leaves,blocks:minecraft:logs,blocks:minecraft:logs_that_burn,blocks:minecraft:non_flammable_wood,blocks:minecraft:nylium,blocks:minecraft:oak_logs,blocks:minecraft:piglin_repellents,blocks:minecraft:planks,blocks:minecraft:portals,blocks:minecraft:pressure_plates,blocks:minecraft:prevent_mob_spawning_inside,blocks:minecraft:rails,blocks:minecraft:sand,blocks:minecraft:saplings,blocks:minecraft:shulker_boxes,blocks:minecraft:signs,blocks:minecraft:slabs,blocks:minecraft:small_flowers,blocks:minecraft:soul_fire_base_blocks,blocks:minecraft:soul_speed_blocks,blocks:minecraft:spruce_logs,blocks:minecraft:stairs,blocks:minecraft:standing_signs,blocks:minecraft:stone_bricks,blocks:minecraft:stone_pressure_plates,blocks:minecraft:strider_warm_blocks,blocks:minecraft:tall_flowers,blocks:minecraft:trapdoors,blocks:minecraft:underwater_bonemeals,blocks:minecraft:unstable_bottom_center,blocks:minecraft:valid_spawn,blocks:minecraft:wall_corals,blocks:minecraft:wall_post_override,blocks:minecraft:wall_signs,blocks:minecraft:walls,blocks:minecraft:warped_stems,blocks:minecraft:wart_blocks,blocks:minecraft:wither_immune,blocks:minecraft:wither_summon_base_blocks,blocks:minecraft:wooden_buttons,blocks:minecraft:wooden_doors,blocks:minecraft:wooden_fences,blocks:minecraft:wooden_pressure_plates,blocks:minecraft:wooden_slabs,blocks:minecraft:wooden_stairs,blocks:minecraft:wooden_trapdoors,blocks:minecraft:wool,entity_types:minecraft:arrows,entity_types:minecraft:beehive_inhabitors,entity_types:minecraft:impact_projectiles,entity_types:minecraft:raiders,entity_types:minecraft:skeletons,fluids:minecraft:lava,fluids:minecraft:water,items:minecraft:acacia_logs,items:minecraft:anvil,items:minecraft:arrows,items:minecraft:banners,items:minecraft:beacon_payment_items,items:minecraft:beds,items:minecraft:birch_logs,items:minecraft:boats,items:minecraft:buttons,items:minecraft:carpets,items:minecraft:coals,items:minecraft:creeper_drop_music_discs,items:minecraft:crimson_stems,items:minecraft:dark_oak_logs,items:minecraft:doors,items:minecraft:fences,items:minecraft:fishes,items:minecraft:flowers,items:minecraft:furnace_materials,items:minecraft:gold_ores,items:minecraft:jungle_logs,items:minecraft:leaves,items:minecraft:lectern_books,items:minecraft:logs,items:minecraft:logs_that_burn,items:minecraft:music_discs,items:minecraft:non_flammable_wood,items:minecraft:oak_logs,items:minecraft:piglin_loved,items:minecraft:piglin_repellents,items:minecraft:planks,items:minecraft:rails,items:minecraft:sand,items:minecraft:saplings,items:minecraft:signs,items:minecraft:slabs,items:minecraft:small_flowers,items:minecraft:soul_fire_base_blocks,items:minecraft:spruce_logs,items:minecraft:stairs,items:minecraft:stone_bricks,items:minecraft:stone_tool_materials,items:minecraft:tall_flowers,items:minecraft:trapdoors,items:minecraft:walls,items:minecraft:warped_stems,items:minecraft:wooden_buttons,items:minecraft:wooden_doors,items:minecraft:wooden_fences,items:minecraft:wooden_pressure_plates,items:minecraft:wooden_slabs,items:minecraft:wooden_stairs,items:minecraft:wooden_trapdoors,items:minecraft:wool
-	at adh.a(SourceFile:81) ~[1.16.1.jar:?]
-	... 38 more
-[10:31:17] [Render thread/INFO]: [CHAT] 重新加载失败，保留原有数据
-[10:31:18] [Server thread/INFO]: Saving and pausing game...
-[10:31:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§k-§c§l沉梦之渊§r--§6GoldenEggs§r§k-]'/minecraft:overworld
-[10:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§k-§c§l沉梦之渊§r--§6GoldenEggs§r§k-]'/minecraft:the_nether
-[10:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§k-§c§l沉梦之渊§r--§6GoldenEggs§r§k-]'/minecraft:the_end
-[10:31:19] [Server thread/INFO]: GLgele lost connection: 连接中止
-[10:31:19] [Server thread/INFO]: GLgele退出了游戏
-[10:31:19] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[10:31:19] [Server thread/INFO]: Stopping server
-[10:31:19] [Server thread/INFO]: Saving players
-[10:31:19] [Server thread/INFO]: Saving worlds
-[10:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§k-§c§l沉梦之渊§r--§6GoldenEggs§r§k-]'/minecraft:overworld
-[10:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (NightmareAbyss): All chunks are saved
-[10:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§k-§c§l沉梦之渊§r--§6GoldenEggs§r§k-]'/minecraft:the_nether
-[10:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:31:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§k-§c§l沉梦之渊§r--§6GoldenEggs§r§k-]'/minecraft:the_end
-[10:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (NightmareAbyss): All chunks are saved
-[10:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:31:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:31:23] [Render thread/INFO]: Stopping!
+[16:51:58] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:53283/https/api.mojang.com', sessionHost='http://127.0.0.1:53283/https/sessionserver.mojang.com', name='PROD'
+[16:51:58] [Render thread/INFO]: Setting user: GLgele
+[16:51:58] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[16:52:05] [Render thread/INFO]: Narrator library for x86 successfully loaded
+[16:52:05] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, 沉梦之渊音效重置2.0.zip, 沉梦之渊材质包-天灾之下DLC（需解压）.zip
+[16:52:05] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in D:\code\Github\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊音效重置2.0.zip
+[16:52:05] [Render thread/WARN]: ResourcePack: ignored non-lowercase namespace: Don't move in D:\code\Github\DreamBorderX-MC-PVP\.minecraft\versions\1.16.1\resourcepacks\沉梦之渊材质包-天灾之下DLC（需解压）.zip
+[16:52:06] [Worker-Main-6/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
+[16:52:06] [Worker-Main-6/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
+[16:52:06] [Worker-Main-6/WARN]: File minecraft:sounds/wrench.ogg does not exist, cannot add it to event minecraft:wrench
+[16:52:06] [Worker-Main-6/WARN]: File minecraft:sounds/huhuan.ogg does not exist, cannot add it to event minecraft:huhuan
+[16:52:10] [Worker-Main-4/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car1
+[16:52:10] [Worker-Main-4/WARN]: Unable to resolve texture reference: #missing in minecraft:item/car2
+[16:52:11] [Worker-Main-5/ERROR]: Using missing texture, unable to load minecraft:textures/item/zhihe_electric_shock_stick.png : java.io.FileNotFoundException: minecraft:textures/item/zhihe_electric_shock_stick.png
+[16:52:11] [Worker-Main-8/ERROR]: Using missing texture, unable to load minecraft:textures/block/sword_tang.png : java.io.FileNotFoundException: minecraft:textures/block/sword_tang.png
+[16:52:11] [Worker-Main-8/ERROR]: Using missing texture, unable to load minecraft:textures/block/green_cmd_block.png : java.io.FileNotFoundException: minecraft:textures/block/green_cmd_block.png
+[16:52:11] [Worker-Main-4/WARN]: Texture minecraft:item/zi with size 265x141 limits mip level from 4 to 0
+[16:52:11] [Worker-Main-4/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 0, because of minimum power of two: 1
+[16:52:12] [Render thread/INFO]: OpenAL initialized.
+[16:52:12] [Render thread/INFO]: Sound engine started
+[16:52:13] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/blocks.png-atlas
+[16:52:13] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[16:52:13] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:52:13] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:52:13] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[16:52:13] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:52:13] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:52:14] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[16:52:14] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:52:14] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:52:15] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:53:02] [Render thread/ERROR]: Can't ping cn-sq-bgp.sakurafrp.com:47271: Internal Exception: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+[16:53:07] [Render thread/INFO]: Connecting to play.mcprp.cn., 10182
+[16:53:15] [Render thread/INFO]: Stopping!
