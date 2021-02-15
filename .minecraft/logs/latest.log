@@ -1,4 +1,5 @@
-[11:30:52] [Render thread/ERROR]: Failed to verify authentication
+[13:27:38] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:50192/https/api.mojang.com', sessionHost='http://127.0.0.1:50192/https/sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:27:51] [Render thread/ERROR]: Failed to verify authentication
 com.mojang.authlib.exceptions.AuthenticationUnavailableException: null
 	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.checkPrivileges(YggdrasilSocialInteractionsService.java:97) ~[authlib-2.1.28.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.<init>(YggdrasilSocialInteractionsService.java:40) ~[authlib-2.1.28.jar:?]
@@ -6,256 +7,126 @@ com.mojang.authlib.exceptions.AuthenticationUnavailableException: null
 	at djz.a(SourceFile:625) [1.16.5.jar:?]
 	at djz.<init>(SourceFile:409) [1.16.5.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:177) [1.16.5.jar:?]
-[11:30:52] [Render thread/INFO]: Setting user: GLgele
-[11:30:52] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
-[11:30:56] [Render thread/INFO]: Narrator library for x86 successfully loaded
-[11:30:57] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, Dream-HELL
-[11:31:01] [Worker-Main-4/WARN]: Unable to load model: 'dreamhell:item/doctor_1' referenced from: minecraft:carrot_on_a_stick#inventory: java.io.FileNotFoundException: dreamhell:models/item/doctor_1.json
-[11:31:01] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[11:31:02] [Worker-Main-4/WARN]: Texture minecraft:item/orange_dye with size 18x18 limits mip level from 4 to 1
-[11:31:02] [Worker-Main-4/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
-[11:31:03] [Render thread/INFO]: OpenAL initialized.
-[11:31:03] [Render thread/INFO]: Sound engine started
-[11:31:04] [Render thread/INFO]: Created: 1024x1024x1 minecraft:textures/atlas/blocks.png-atlas
-[11:31:04] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[11:31:04] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[11:31:04] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[11:31:04] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[11:31:04] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[11:31:04] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[11:31:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[11:31:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[11:31:05] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:31:16] [Render thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:31:17] [Render thread/INFO]: Loaded 7 recipes
-[11:31:18] [Render thread/INFO]: Loaded 927 advancements
-[11:31:19] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:63960/https/api.mojang.com', sessionHost='http://127.0.0.1:63960/https/sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:31:20] [Server thread/INFO]: Starting integrated minecraft server version 1.16.5
-[11:31:20] [Server thread/INFO]: Generating keypair
-[11:31:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:31:21] [Render thread/INFO]: 准备生成区域中：0%
-[11:31:21] [Render thread/INFO]: 准备生成区域中：0%
-[11:31:21] [Render thread/INFO]: 准备生成区域中：0%
-[11:31:22] [Render thread/INFO]: Time elapsed: 1470 ms
-[11:31:22] [Server thread/INFO]: Changing view distance to 11, from 10
-[11:31:27] [Server thread/INFO]: GLgele[local:E:e1b205a6] logged in with entity id 7 at (-1.547213714677948, 4.0, -0.8252317320414764)
-[11:31:27] [Server thread/INFO]: GLgele加入了游戏
-[11:31:28] [Server thread/INFO]: Saving and pausing game...
-[11:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[11:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[11:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[11:31:29] [Render thread/INFO]: Loaded 70 advancements
-[11:31:31] [Server thread/INFO]: Saving and pausing game...
-[11:31:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[11:31:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[11:31:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[11:31:33] [Server thread/INFO]: Saving and pausing game...
-[11:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[11:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[11:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:13:43] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[12:13:45] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[12:13:49] [Server thread/INFO]: Saving and pausing game...
-[12:13:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:13:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:13:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:13:51] [Server thread/INFO]: Saving and pausing game...
-[12:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:13:53] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[12:13:54] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[12:17:12] [Server thread/INFO]: <[红队]GLgele> .
-[12:17:12] [Render thread/INFO]: [CHAT] <[红队]GLgele> .
-[12:17:14] [Server thread/INFO]: <[蓝队]GLgele> .
-[12:17:14] [Render thread/INFO]: [CHAT] <[蓝队]GLgele> .
-[12:17:17] [Server thread/INFO]: <GLgele> .
-[12:17:17] [Render thread/INFO]: [CHAT] <GLgele> .
-[12:17:34] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[12:17:34] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[12:18:03] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为冒险模式 
-[12:18:25] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
-[12:18:26] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
-[12:18:27] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
-[12:18:28] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
-[12:18:28] [Server thread/INFO]: GLgele被魔法杀死了
-[12:18:28] [Render thread/INFO]: [CHAT] GLgele被魔法杀死了
-[12:18:30] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:18:30] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:18:32] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[12:18:32] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[12:19:05] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
-[12:19:09] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
-[12:19:12] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
-[12:19:19] [Render thread/INFO]: [CHAT] 已将中毒效果应用于GLgele
-[12:19:42] [Server thread/INFO]: GLgele掉出了这个世界
-[12:19:42] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[12:19:42] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[12:19:42] [Render thread/INFO]: [CHAT]  原因：调试
-[12:19:42] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[12:19:42] [Render thread/INFO]: [CHAT] ============================
-[12:19:42] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[12:19:45] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:19:45] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:19:56] [Render thread/INFO]: [CHAT] 已将1个[铁剑]给予GLgele
-[12:19:58] [Server thread/INFO]: GLgele掉出了这个世界
-[12:19:58] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[12:19:58] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[12:19:58] [Render thread/INFO]: [CHAT]  原因：调试
-[12:19:58] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[12:19:58] [Render thread/INFO]: [CHAT] ============================
-[12:19:58] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[12:20:00] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:20:00] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:20:03] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:20:03] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:20:04] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
-[12:20:04] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
-[12:20:04] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
-[12:20:04] [Render thread/INFO]: [CHAT] ============================
-[12:20:04] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
-[12:20:06] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
-[12:20:06] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
-[12:20:06] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
-[12:20:06] [Render thread/INFO]: [CHAT] ============================
-[12:20:06] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
-[12:20:07] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
-[12:20:07] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
-[12:20:07] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
-[12:20:07] [Render thread/INFO]: [CHAT] ============================
-[12:20:07] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
-[12:20:13] [Render thread/INFO]: [CHAT] 游戏规则commandBlockOutput目前为：false
-[12:20:15] [Render thread/INFO]: [CHAT] 游戏规则commandBlockOutput已被设为：false
-[12:20:18] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
-[12:20:18] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
-[12:20:18] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
-[12:20:18] [Render thread/INFO]: [CHAT] ============================
-[12:20:18] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
-[12:20:21] [Server thread/INFO]: Saving and pausing game...
-[12:20:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:20:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:20:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:20:34] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
-[12:20:34] [Render thread/INFO]: [CHAT]  1.道具请[退格]出使用
-[12:20:34] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
-[12:20:34] [Render thread/INFO]: [CHAT] ============================
-[12:20:34] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
-[12:20:38] [Server thread/INFO]: Saving and pausing game...
-[12:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:20:45] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[12:20:45] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[12:21:01] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:04] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:06] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:08] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:09] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:10] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:10] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:10] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:11] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:11] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
-[12:21:25] [Server thread/INFO]: Saving and pausing game...
-[12:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:21:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:21:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:21:30] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/time_stop中的4条命令
-[12:21:37] [Render thread/INFO]: [CHAT] 已将5个[金锭]给予GLgele
-[12:21:39] [Server thread/INFO]: Saving and pausing game...
-[12:21:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:21:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:21:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:21:40] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/speed中的4条命令
-[12:21:52] [Render thread/INFO]: [CHAT] 已将15个[金锭]给予GLgele
-[12:21:57] [Server thread/INFO]: Saving and pausing game...
-[12:21:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:21:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:21:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:21:57] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/strength中的4条命令
-[12:22:20] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/killer_attack中的3条命令
-[12:22:26] [Render thread/INFO]: [CHAT] 召唤了新的牛
-[12:22:37] [Render thread/INFO]: [CHAT] 错误的命令参数
-[12:22:37] [Render thread/INFO]: [CHAT] /gamemode v<--[此处]
-[12:22:39] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[12:23:58] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[12:23:58] [Render thread/INFO]: [CHAT] /rel<--[此处]
-[12:23:59] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[12:23:59] [Render thread/INFO]: [CHAT] /rel<--[此处]
-[12:24:00] [Render thread/INFO]: [CHAT] 重新加载中！
-[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:24:00] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[12:24:01] [Server thread/INFO]: Loaded 7 recipes
-[12:24:01] [Server thread/INFO]: Loaded 927 advancements
-[12:24:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
-[12:24:03] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[12:24:03] [Render thread/INFO]: [CHAT] Version:1.0.0
-[12:24:03] [Render thread/INFO]: Loaded 70 advancements
-[12:24:10] [Server thread/INFO]: Saving and pausing game...
-[12:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:24:11] [Server thread/INFO]: Saving and pausing game...
-[12:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:24:28] [Render thread/INFO]: [CHAT] 召唤了新的猫
-[12:24:47] [Server thread/INFO]: GLgele掉出了这个世界
-[12:24:47] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[12:24:47] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[12:24:47] [Render thread/INFO]: [CHAT]  原因：调试
-[12:24:47] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[12:24:47] [Render thread/INFO]: [CHAT] ============================
-[12:24:47] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[12:24:49] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:24:49] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:24:51] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[12:24:52] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[12:24:54] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[12:24:56] [Server thread/INFO]: Saving and pausing game...
-[12:24:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:24:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:24:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:24:59] [Server thread/INFO]: Saving and pausing game...
-[12:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:25:01] [Server thread/INFO]: Saving and pausing game...
-[12:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:25:03] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[12:25:05] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[12:25:59] [Server thread/INFO]: Saving and pausing game...
-[12:25:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:25:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:25:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:26:06] [Server thread/INFO]: Saving and pausing game...
-[12:26:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:26:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:26:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:26:07] [Server thread/INFO]: GLgele lost connection: 连接中止
-[12:26:07] [Server thread/INFO]: GLgele退出了游戏
-[12:26:07] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[12:26:07] [Server thread/INFO]: Stopping server
-[12:26:07] [Server thread/INFO]: Saving players
-[12:26:07] [Server thread/INFO]: Saving worlds
-[12:26:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
-[12:26:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:26:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
-[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:26:08] [Render thread/INFO]: Stopping!
+[13:27:51] [Render thread/INFO]: Setting user: GLgele
+[13:27:51] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[13:28:08] [Render thread/INFO]: Narrator library for x86 successfully loaded
+[13:28:09] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, Dream-HELL
+[13:28:11] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:28:16] [Worker-Main-6/WARN]: Unable to load model: 'dreamhell:item/doctor_1' referenced from: minecraft:carrot_on_a_stick#inventory: java.io.FileNotFoundException: dreamhell:models/item/doctor_1.json
+[13:28:18] [Worker-Main-6/WARN]: Texture minecraft:item/orange_dye with size 18x18 limits mip level from 4 to 1
+[13:28:18] [Worker-Main-6/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
+[13:28:23] [Render thread/INFO]: OpenAL initialized.
+[13:28:23] [Render thread/INFO]: Sound engine started
+[13:28:24] [Render thread/INFO]: Created: 1024x1024x1 minecraft:textures/atlas/blocks.png-atlas
+[13:28:24] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[13:28:24] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:28:24] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:28:24] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:28:24] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:28:25] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:28:27] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:28:27] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:28:27] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:28:40] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:41] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:28:41] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:28:41] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:28:41] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:28:41] [Render thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
+[13:28:43] [Render thread/INFO]: Loaded 7 recipes
+[13:28:43] [Render thread/INFO]: Loaded 927 advancements
+[13:28:46] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:50192/https/api.mojang.com', sessionHost='http://127.0.0.1:50192/https/sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:28:46] [Server thread/INFO]: Starting integrated minecraft server version 1.16.5
+[13:28:46] [Server thread/INFO]: Generating keypair
+[13:28:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:28:49] [Render thread/INFO]: 准备生成区域中：0%
+[13:28:49] [Render thread/INFO]: 准备生成区域中：0%
+[13:28:49] [Render thread/INFO]: 准备生成区域中：0%
+[13:28:49] [Render thread/INFO]: 准备生成区域中：0%
+[13:28:49] [Render thread/INFO]: 准备生成区域中：0%
+[13:28:50] [Render thread/INFO]: 准备生成区域中：0%
+[13:28:50] [Render thread/INFO]: 准备生成区域中：83%
+[13:28:51] [Render thread/INFO]: Time elapsed: 3742 ms
+[13:28:52] [Server thread/INFO]: Changing view distance to 11, from 10
+[13:29:27] [Server thread/INFO]: GLgele[local:E:e9f8b2a4] logged in with entity id 7 at (-0.6686995912609357, 4.0, -1.2999812559899313)
+[13:29:28] [Server thread/INFO]: GLgele加入了游戏
+[13:29:28] [Server thread/INFO]: Saving and pausing game...
+[13:29:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[13:29:29] [Render thread/INFO]: Loaded 70 advancements
+[13:29:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[13:29:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[13:29:39] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[13:29:39] [Render thread/INFO]: [CHAT] [点我查看帮助]
+[13:29:40] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
+[13:29:40] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
+[13:29:40] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
+[13:29:40] [Render thread/INFO]: [CHAT] ============================
+[13:29:40] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
+[13:29:49] [Render thread/INFO]: [CHAT] 游戏即将开始？
+[13:29:49] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
+[13:30:34] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:30:38] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:30:38] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:30:39] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:30:39] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:30:40] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:30:40] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:30:40] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:30:41] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:30:41] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[13:31:13] [Server thread/INFO]: Saving and pausing game...
+[13:31:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[13:31:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[13:31:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[13:31:15] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/time_stop中的4条命令
+[13:31:28] [Server thread/INFO]: Saving and pausing game...
+[13:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[13:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[13:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[13:31:30] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/speed中的4条命令
+[13:31:30] [Server thread/INFO]: Saving and pausing game...
+[13:31:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[13:31:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[13:31:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[13:31:32] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/speed中的4条命令
+[13:31:33] [Render thread/INFO]: [CHAT] 已将5个[金锭]给予GLgele
+[13:31:34] [Server thread/INFO]: Saving and pausing game...
+[13:31:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[13:31:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[13:31:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[13:31:35] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/speed中的4条命令
+[13:31:43] [Render thread/INFO]: [CHAT] 已将15个[金锭]给予GLgele
+[13:31:44] [Server thread/INFO]: Saving and pausing game...
+[13:31:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[13:31:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[13:31:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[13:31:46] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/strength中的4条命令
+[13:31:58] [Server thread/INFO]: GLgele掉出了这个世界
+[13:31:58] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[13:31:58] [Render thread/INFO]: [CHAT] =====游戏结束=====
+[13:31:58] [Render thread/INFO]: [CHAT]  原因：调试
+[13:31:58] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
+[13:31:58] [Render thread/INFO]: [CHAT] ============================
+[13:31:58] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
+[13:31:59] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[13:31:59] [Render thread/INFO]: [CHAT] [点我查看帮助]
+[13:32:02] [Server thread/INFO]: Saving and pausing game...
+[13:32:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[13:32:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[13:32:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[13:32:02] [Server thread/INFO]: GLgele lost connection: 连接中止
+[13:32:02] [Server thread/INFO]: GLgele退出了游戏
+[13:32:02] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:32:02] [Server thread/INFO]: Stopping server
+[13:32:02] [Server thread/INFO]: Saving players
+[13:32:02] [Server thread/INFO]: Saving worlds
+[13:32:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[13:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[13:32:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[13:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:32:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[13:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[13:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:32:04] [Render thread/INFO]: Stopping!
