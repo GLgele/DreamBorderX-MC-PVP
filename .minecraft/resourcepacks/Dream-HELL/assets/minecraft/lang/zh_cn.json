@@ -1,6 +1,6 @@
 {
- "item.minecraft.white_dye": "时间暂停",
- "item.minecraft.orange_dye": "加速",
- "item.minecraft.magenta_dye": "强壮",
- "block.minecraft.structure_void": "禁止使用"
+ "block.minecraft.structure_void": "§f禁止使用",
+ "item.minecraft.magenta_dye":"§f强壮",
+ "item.minecraft.white_dye":"§f时间暂停",
+ "item.minecraft.orange_dye":"§f加速"
 }

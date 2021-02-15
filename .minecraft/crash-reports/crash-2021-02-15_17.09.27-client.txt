@@ -1,0 +1,77 @@
+---- Minecraft Crash Report ----
+// On the bright side, I bought you a teddy bear!
+
+Time: 21-2-15 下午5:09
+Description: Rendering overlay
+
+java.lang.IllegalStateException: Failed to load grass color texture
+	at ekm.a(SourceFile:19)
+	at ekm.b(SourceFile:11)
+	at ack.a(SourceFile:11)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+Caused by: java.io.IOException: Could not load image: Corrupt JPEG
+	at det.a(SourceFile:125)
+	at det.a(SourceFile:99)
+	at det.a(SourceFile:90)
+	at eko.a(SourceFile:15)
+	at ekm.a(SourceFile:17)
+	... 8 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at ekm.a(SourceFile:19)
+	at ekm.b(SourceFile:11)
+	at ack.a(SourceFile:11)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+
+-- Overlay render details --
+Details:
+	Overlay name: doh
+Stacktrace:
+	at dzz.a(SourceFile:608)
+	at djz.e(SourceFile:1048)
+	at djz.e(SourceFile:681)
+	at net.minecraft.client.main.Main.main(SourceFile:215)
+
+-- Affected level --
+Details:
+	All players: 1 total; [dzm['GLgele'/7, l='ClientLevel', x=-2.88, y=4.00, z=-0.04]]
+	Chunk stats: Client Chunk Cache: 841, 552
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (0,4,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 2463195 game time, 1 day time
+	Server brand: vanilla
+	Server type: Integrated singleplayer server
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 7 (x86) version 6.1
+	Java Version: 1.8.0_121, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 604516168 bytes (576 MB) / 1073741824 bytes (1024 MB) up to 1073741824 bytes (1024 MB)
+	CPUs: 4
+	JVM Flags: 12 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xss1M -Xmx1024m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	Launched Version: HMCL 3.3.172
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: GeForce GTX 750/PCIe/SSE2 GL version 4.4.0 NVIDIA 344.48, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Probably not. Jar signature remains and client brand is untouched.
+	Type: Client (map_client.txt)
+	Graphics mode: fancy
+	Resource Packs: 
+	Current Language: 简体中文 (中国)
+	CPU: 4x Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz
