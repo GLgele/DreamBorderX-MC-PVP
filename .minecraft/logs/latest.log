@@ -1,5 +1,4 @@
-[10:33:35] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:55434/https/api.mojang.com', sessionHost='http://127.0.0.1:55434/https/sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:33:37] [Render thread/ERROR]: Failed to verify authentication
+[11:30:52] [Render thread/ERROR]: Failed to verify authentication
 com.mojang.authlib.exceptions.AuthenticationUnavailableException: null
 	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.checkPrivileges(YggdrasilSocialInteractionsService.java:97) ~[authlib-2.1.28.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.<init>(YggdrasilSocialInteractionsService.java:40) ~[authlib-2.1.28.jar:?]
@@ -7,627 +6,256 @@ com.mojang.authlib.exceptions.AuthenticationUnavailableException: null
 	at djz.a(SourceFile:625) [1.16.5.jar:?]
 	at djz.<init>(SourceFile:409) [1.16.5.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:177) [1.16.5.jar:?]
-[10:33:37] [Render thread/INFO]: Setting user: GLgele
-[10:33:37] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
-[10:33:42] [Render thread/INFO]: Narrator library for x86 successfully loaded
-[10:33:42] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, Dream-HELL
-[10:33:44] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[10:33:47] [Worker-Main-5/WARN]: Texture minecraft:item/orange_dye with size 18x18 limits mip level from 4 to 1
-[10:33:47] [Worker-Main-5/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
-[10:33:49] [Render thread/INFO]: OpenAL initialized.
-[10:33:49] [Render thread/INFO]: Sound engine started
-[10:33:50] [Render thread/INFO]: Created: 1024x1024x1 minecraft:textures/atlas/blocks.png-atlas
-[10:33:50] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[10:33:50] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[10:33:50] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[10:33:50] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[10:33:50] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[10:33:50] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[10:33:51] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[10:33:51] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[10:33:51] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[10:34:42] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:34:42] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:34:42] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:34:42] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:34:42] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:34:42] [Render thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[10:34:43] [Render thread/INFO]: Loaded 7 recipes
-[10:34:43] [Render thread/INFO]: Loaded 927 advancements
-[10:34:44] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:55434/https/api.mojang.com', sessionHost='http://127.0.0.1:55434/https/sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:34:44] [Server thread/INFO]: Starting integrated minecraft server version 1.16.5
-[10:34:44] [Server thread/INFO]: Generating keypair
-[10:34:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:34:45] [Render thread/INFO]: 准备生成区域中：0%
-[10:34:45] [Render thread/INFO]: Time elapsed: 487 ms
-[10:34:45] [Server thread/INFO]: Changing view distance to 11, from 10
-[10:34:48] [Server thread/INFO]: GLgele[local:E:7065fd48] logged in with entity id 7 at (-3.521236916556873, 4.0, 2.129357042540138)
-[10:34:48] [Server thread/INFO]: GLgele加入了游戏
-[10:34:48] [Server thread/INFO]: Saving and pausing game...
-[10:34:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[10:34:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[10:34:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[10:34:49] [Render thread/INFO]: Loaded 70 advancements
-[10:36:39] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[10:36:39] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[10:36:45] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[10:36:45] [Render thread/INFO]: [CHAT] /gm 1<--[此处]
-[10:36:46] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[10:37:50] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为3）
-[10:37:52] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为2）
-[10:37:54] [Render thread/INFO]: [CHAT] 已触发[trig]（数值已设为1）
-[10:37:56] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[10:37:56] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[10:38:22] [Server thread/INFO]: Saving and pausing game...
-[10:38:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[10:38:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[10:38:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[10:38:30] [Server thread/INFO]: Saving and pausing game...
-[10:38:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[10:38:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[10:38:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[10:38:39] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/time_stop中的4条命令
-[10:38:57] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[10:38:57] [Render thread/INFO]: [CHAT] ... GLgele xp<--[此处]
-[10:38:59] [Render thread/INFO]: [CHAT] 将GLgele的[积分]增加了100（现在是100）
-[10:39:06] [Server thread/INFO]: Saving and pausing game...
-[10:39:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[10:39:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[10:39:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[10:39:07] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/time_stop中的4条命令
-[10:39:23] [Render thread/INFO]: [CHAT] 将GLgele的[积分]增加了100（现在是100）
-[10:39:30] [Server thread/INFO]: Saving and pausing game...
-[10:39:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[10:39:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[10:39:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[10:39:31] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/speed中的4条命令
-[10:39:33] [Server thread/INFO]: Saving and pausing game...
-[10:39:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[10:39:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[10:39:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[10:39:36] [Render thread/INFO]: [CHAT] 将GLgele的[积分]增加了100（现在是150）
-[10:39:55] [Server thread/INFO]: Saving and pausing game...
-[10:39:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[10:39:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[10:39:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[10:39:56] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/strength中的4条命令
-[10:40:26] [Server thread/INFO]: GLgele掉出了这个世界
-[10:40:26] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[10:40:26] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[10:40:26] [Render thread/INFO]: [CHAT]  原因：调试
-[10:40:26] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[10:40:26] [Render thread/INFO]: [CHAT] ============================
-[10:40:26] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[10:40:28] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[10:40:28] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[10:47:27] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[10:47:27] [Render thread/INFO]: [CHAT] /bossbar<--[此处]
-[10:47:30] [Render thread/INFO]: [CHAT] 错误的命令参数
-[10:47:30] [Render thread/INFO]: [CHAT] /bossbar adda<--[此处]
-[10:47:32] [Render thread/INFO]: [CHAT] 有1项运行中的自定义Boss栏：[杀手出动]
-[10:49:18] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[10:49:18] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[10:49:22] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
-[10:49:22] [Render thread/INFO]: [CHAT]  1.道具请Q出使用
-[10:49:22] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
-[10:49:22] [Render thread/INFO]: [CHAT] ============================
-[10:49:22] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
-[10:50:33] [Render thread/INFO]: [CHAT] 无变化，这本就是这个Boss栏的最大值
-[10:50:38] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[10:50:38] [Render thread/INFO]: [CHAT] ...tart style<--[此处]
-[10:50:41] [Render thread/INFO]: [CHAT] 无变化，这本就是这个Boss栏的样式
-[10:50:55] [Render thread/INFO]: [CHAT] 已改变自定义Boss栏[杀手出动]的样式
-[10:50:58] [Render thread/INFO]: [CHAT] 自定义Boss栏[杀手出动]的最大值已改为20
-[10:52:15] [Render thread/INFO]: [CHAT] 创建了新的记分项[bossbar]
-[10:58:14] [Render thread/INFO]: [CHAT] 重新加载中！
-[10:58:14] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:58:14] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:58:14] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:58:14] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:58:14] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:58:14] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[10:58:15] [Server thread/INFO]: Loaded 7 recipes
-[10:58:15] [Server thread/INFO]: Loaded 927 advancements
-[10:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
-[10:58:17] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[10:58:17] [Render thread/INFO]: [CHAT] Version:1.0.0
-[10:58:17] [Render thread/INFO]: Loaded 70 advancements
-[10:58:40] [Render thread/INFO]: [CHAT] 重新加载中！
-[10:58:40] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:58:40] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:58:40] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:58:40] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:58:40] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:58:40] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[10:58:41] [Server thread/INFO]: Loaded 7 recipes
-[10:58:41] [Server thread/INFO]: Loaded 927 advancements
-[10:58:42] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[10:58:42] [Render thread/INFO]: [CHAT] Version:1.0.0
-[10:58:42] [Render thread/INFO]: Loaded 70 advancements
-[10:58:56] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/start中的6条命令
-[10:59:15] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[10:59:17] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[10:59:17] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[10:59:18] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[10:59:18] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[10:59:19] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[10:59:21] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:00:16] [Render thread/INFO]: [CHAT] 游戏规则randomTickSpeed目前为：3
-[11:01:05] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:01:05] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:01:05] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:01:05] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:01:05] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:01:05] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:01:05] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:01:06] [Server thread/INFO]: Loaded 7 recipes
-[11:01:07] [Server thread/INFO]: Loaded 927 advancements
-[11:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
-[11:01:08] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:01:08] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:01:08] [Render thread/INFO]: Loaded 70 advancements
-[11:01:14] [Server thread/INFO]: GLgele掉出了这个世界
-[11:01:14] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[11:01:14] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[11:01:14] [Render thread/INFO]: [CHAT]  原因：调试
-[11:01:14] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[11:01:14] [Render thread/INFO]: [CHAT] ============================
-[11:01:14] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[11:01:15] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[11:01:15] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[11:01:17] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[11:01:17] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[11:01:58] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:02:05] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[11:02:33] [Render thread/INFO]: [CHAT] 已改变自定义Boss栏[杀手出动]的样式
-[11:02:36] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:02:45] [Render thread/INFO]: [CHAT] 无变化，这本就是这个Boss栏的颜色
-[11:02:56] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[11:02:56] [Render thread/INFO]: [CHAT] ...start name<--[此处]
-[11:03:09] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:03:38] [Render thread/INFO]: [CHAT] 已改变自定义Boss栏[杀手出动]的样式
-[11:03:57] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[11:03:57] [Render thread/INFO]: [CHAT] /rel<--[此处]
-[11:03:58] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[11:03:58] [Render thread/INFO]: [CHAT] /rel<--[此处]
-[11:03:59] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:03:59] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:03:59] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:03:59] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:03:59] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:03:59] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:03:59] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:04:00] [Server thread/INFO]: Loaded 7 recipes
-[11:04:00] [Server thread/INFO]: Loaded 927 advancements
-[11:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[11:04:01] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:04:01] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:04:01] [Render thread/INFO]: Loaded 70 advancements
-[11:04:03] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:04] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:04] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:05] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:05] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:06] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:06] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:06] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:06] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:07] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:07] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:07] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:04:07] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的3条命令
-[11:07:04] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:07:04] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:07:04] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:07:04] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:07:04] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:07:04] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:07:04] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:07:05] [Server thread/INFO]: Loaded 7 recipes
-[11:07:05] [Server thread/INFO]: Loaded 927 advancements
-[11:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[11:07:06] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:07:06] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:07:06] [Render thread/INFO]: Loaded 70 advancements
-[11:07:07] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/killer_start_reset中的4条命令
-[11:09:04] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[11:09:04] [Render thread/INFO]: [CHAT] ...ller_start<--[此处]
-[11:09:06] [Render thread/INFO]: [CHAT] 自定义Boss栏[杀手出动]当前在线的1名玩家有：GLgele
-[11:09:30] [Render thread/INFO]: [CHAT] 已将自定义Boss栏[杀手出动]改为隐藏
-[11:09:33] [Render thread/INFO]: [CHAT] 已将自定义Boss栏[杀手出动]改为可见
-[11:09:47] [Render thread/INFO]: [CHAT] 无变化，该Boss栏原已可见
-[11:10:27] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:10:27] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:10:27] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:10:27] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:10:27] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:10:27] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:10:27] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:10:28] [Server thread/INFO]: Loaded 7 recipes
-[11:10:28] [Server thread/INFO]: Loaded 927 advancements
-[11:10:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[11:10:29] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:10:29] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:10:29] [Render thread/INFO]: Loaded 70 advancements
-[11:10:57] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:10:57] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:10:57] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:10:57] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:10:57] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:10:57] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:10:57] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:10:58] [Server thread/INFO]: Loaded 7 recipes
-[11:10:58] [Server thread/INFO]: Loaded 927 advancements
-[11:10:59] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:10:59] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:10:59] [Render thread/INFO]: Loaded 70 advancements
-[11:11:12] [Render thread/INFO]: [CHAT] 已移除玩家GLgele的27个物品
-[11:11:17] [Server thread/INFO]: GLgele掉出了这个世界
-[11:11:17] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[11:11:17] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[11:11:17] [Render thread/INFO]: [CHAT]  原因：调试
-[11:11:17] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[11:11:17] [Render thread/INFO]: [CHAT] ============================
-[11:11:17] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[11:11:18] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[11:11:18] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[11:11:21] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[11:11:21] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[11:12:14] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:12:14] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:12:14] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:12:14] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:12:14] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:12:14] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:12:14] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:12:14] [Server thread/INFO]: Loaded 7 recipes
-[11:12:15] [Server thread/INFO]: Loaded 927 advancements
-[11:12:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[11:12:16] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:12:16] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:12:16] [Render thread/INFO]: Loaded 70 advancements
-[11:12:19] [Server thread/INFO]: GLgele掉出了这个世界
-[11:12:19] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[11:12:19] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[11:12:19] [Render thread/INFO]: [CHAT]  原因：调试
-[11:12:19] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[11:12:19] [Render thread/INFO]: [CHAT] ============================
-[11:12:19] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[11:12:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[11:12:20] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[11:12:23] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[11:12:23] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[11:14:03] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:14:03] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:14:03] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:14:03] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:14:03] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:14:03] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:14:03] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:14:04] [Server thread/INFO]: Loaded 7 recipes
-[11:14:04] [Server thread/INFO]: Loaded 927 advancements
-[11:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[11:14:05] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:14:05] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:14:05] [Render thread/INFO]: Loaded 70 advancements
-[11:14:26] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:14:26] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:14:26] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:14:26] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:14:26] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:14:26] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:14:26] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:14:27] [Server thread/INFO]: Loaded 7 recipes
-[11:14:27] [Server thread/INFO]: Loaded 927 advancements
-[11:14:28] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:14:28] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:14:28] [Render thread/INFO]: Loaded 70 advancements
-[11:14:34] [Render thread/INFO]: [CHAT] 未知的选项'typr'
-[11:14:34] [Render thread/INFO]: [CHAT] /kill @e[typr=item]<--[此处]
-[11:14:40] [Render thread/INFO]: [CHAT] 杀死了660个实体
-[11:14:41] [Render thread/INFO]: [CHAT] 杀死了27个实体
-[11:14:41] [Render thread/INFO]: [CHAT] 杀死了7个实体
-[11:14:42] [Render thread/INFO]: [CHAT] 杀死了6个实体
-[11:14:42] [Render thread/INFO]: [CHAT] 杀死了5个实体
-[11:14:42] [Server thread/INFO]: Saving and pausing game...
-[11:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[11:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[11:14:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[11:19:13] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:19:13] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:19:13] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:19:13] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:19:13] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:19:13] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:19:13] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:19:14] [Server thread/INFO]: Loaded 7 recipes
-[11:19:14] [Server thread/INFO]: Loaded 927 advancements
-[11:19:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
-[11:19:15] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:19:15] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:19:15] [Render thread/INFO]: Loaded 70 advancements
-[11:19:15] [Render thread/INFO]: [CHAT] 杀死了22个实体
-[11:19:26] [Server thread/INFO]: GLgele掉出了这个世界
-[11:19:26] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[11:19:26] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[11:19:26] [Render thread/INFO]: [CHAT]  原因：调试
-[11:19:26] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[11:19:26] [Render thread/INFO]: [CHAT] ============================
-[11:19:26] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[11:19:27] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[11:19:27] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[11:19:28] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[11:19:28] [Render thread/INFO]: [CHAT] /gm 1<--[此处]
-[11:19:30] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[11:19:33] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[11:19:33] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[11:20:31] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:20:31] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:20:31] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:20:31] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:20:31] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:20:31] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:20:31] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:20:32] [Server thread/INFO]: Loaded 7 recipes
-[11:20:32] [Server thread/INFO]: Loaded 927 advancements
-[11:20:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[11:20:33] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:20:33] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:20:33] [Render thread/INFO]: Loaded 70 advancements
-[11:20:34] [Server thread/INFO]: GLgele掉出了这个世界
-[11:20:34] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[11:20:34] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[11:20:34] [Render thread/INFO]: [CHAT]  原因：调试
-[11:20:34] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[11:20:34] [Render thread/INFO]: [CHAT] ============================
-[11:20:34] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[11:20:35] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[11:20:35] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[11:21:47] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:21:47] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:21:47] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:21:47] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:21:47] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:21:47] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:21:47] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:21:48] [Server thread/INFO]: Loaded 7 recipes
-[11:21:48] [Server thread/INFO]: Loaded 927 advancements
-[11:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
-[11:21:50] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:21:50] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:21:50] [Render thread/INFO]: Loaded 70 advancements
-[11:21:50] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[11:21:50] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[11:22:08] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[11:22:18] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:22:18] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:22:18] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:22:18] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:22:18] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:22:18] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:22:18] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:22:19] [Server thread/INFO]: Loaded 7 recipes
-[11:22:19] [Server thread/INFO]: Loaded 927 advancements
-[11:22:20] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:22:20] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:22:20] [Render thread/INFO]: Loaded 70 advancements
-[11:22:24] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:22:24] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:22:24] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:22:24] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:22:24] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:22:24] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:22:24] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:22:25] [Server thread/INFO]: Loaded 7 recipes
-[11:22:25] [Server thread/INFO]: Loaded 927 advancements
-[11:22:26] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:22:26] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:22:26] [Render thread/INFO]: Loaded 70 advancements
-[11:22:27] [Server thread/INFO]: GLgele掉出了这个世界
-[11:22:27] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[11:22:27] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[11:22:27] [Render thread/INFO]: [CHAT]  原因：调试
-[11:22:27] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[11:22:27] [Render thread/INFO]: [CHAT] ============================
-[11:22:27] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[11:22:28] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[11:22:28] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[11:22:29] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[11:22:29] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[11:24:51] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
-[11:24:51] [Render thread/INFO]: [CHAT] /rel<--[此处]
-[11:24:53] [Render thread/INFO]: [CHAT] 重新加载中！
-[11:24:53] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:24:53] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:24:53] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:24:53] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:24:53] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:24:53] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[11:24:54] [Server thread/INFO]: Loaded 7 recipes
-[11:24:54] [Server thread/INFO]: Loaded 927 advancements
-[11:24:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
-[11:24:55] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[11:24:55] [Render thread/INFO]: [CHAT] Version:1.0.0
-[11:24:55] [Render thread/INFO]: Loaded 70 advancements
-[11:24:56] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[11:24:56] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[12:08:58] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[12:12:56] [Render thread/INFO]: [CHAT] [调试]： 坐标已复制到剪贴板
-[12:12:58] [Render thread/INFO]: [CHAT] 将GLgele传送到 9993.37, 10.0, 10000.51
-[12:13:01] [Render thread/INFO]: [CHAT] 将GLgele传送到 9993.37, 10.0, 10000.51
-[12:13:12] [Server thread/INFO]: <GLgele> tp @s 9993.37 10.00 10000.51
-[12:13:12] [Render thread/INFO]: [CHAT] <GLgele> tp @s 9993.37 10.00 10000.51
-[12:15:04] [Render thread/INFO]: [CHAT] 重新加载中！
-[12:15:04] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:15:04] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:15:04] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:15:04] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:15:04] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:15:04] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[12:15:04] [Server thread/INFO]: Loaded 7 recipes
-[12:15:05] [Server thread/INFO]: Loaded 927 advancements
-[12:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
-[12:15:06] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[12:15:06] [Render thread/INFO]: [CHAT] Version:1.0.0
-[12:15:06] [Render thread/INFO]: Loaded 70 advancements
-[12:15:09] [Server thread/INFO]: GLgele掉出了这个世界
-[12:15:09] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[12:15:09] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[12:15:09] [Render thread/INFO]: [CHAT]  原因：调试
-[12:15:09] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[12:15:09] [Render thread/INFO]: [CHAT] ============================
-[12:15:09] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[12:15:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:15:10] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:16:10] [Render thread/INFO]: [CHAT] 重新加载中！
-[12:16:10] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:16:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:16:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:16:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:16:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:16:10] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[12:16:10] [Server thread/INFO]: Loaded 7 recipes
-[12:16:11] [Server thread/INFO]: Loaded 927 advancements
-[12:16:12] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[12:16:12] [Render thread/INFO]: [CHAT] Version:1.0.0
-[12:16:12] [Render thread/INFO]: Loaded 70 advancements
-[12:16:18] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[12:16:18] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[12:16:58] [Render thread/INFO]: [CHAT] 将GLgele传送到 9993.37, 10.0, 10000.51
-[12:17:02] [Render thread/INFO]: [CHAT] 重新加载中！
-[12:17:02] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:17:02] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:17:02] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:17:02] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:17:02] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:17:02] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[12:17:03] [Server thread/INFO]: Loaded 7 recipes
-[12:17:03] [Server thread/INFO]: Loaded 927 advancements
-[12:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[12:17:04] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[12:17:04] [Render thread/INFO]: [CHAT] Version:1.0.0
-[12:17:04] [Render thread/INFO]: Loaded 70 advancements
-[12:17:09] [Server thread/INFO]: GLgele掉出了这个世界
-[12:17:09] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[12:17:09] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[12:17:09] [Render thread/INFO]: [CHAT]  原因：调试
-[12:17:09] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[12:17:09] [Render thread/INFO]: [CHAT] ============================
-[12:17:09] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[12:17:10] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:17:10] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:17:12] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[12:17:12] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[12:17:34] [Server thread/INFO]: GLgele掉出了这个世界
-[12:17:34] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[12:17:34] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[12:17:34] [Render thread/INFO]: [CHAT]  原因：调试
-[12:17:34] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[12:17:34] [Render thread/INFO]: [CHAT] ============================
-[12:17:34] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[12:17:35] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:17:35] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:18:07] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:18:07] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:18:07] [Render thread/INFO]: [CHAT] 重新加载中！
-[12:18:07] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:18:07] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:18:07] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:18:07] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[12:18:08] [Server thread/INFO]: Loaded 7 recipes
-[12:18:08] [Server thread/INFO]: Loaded 927 advancements
-[12:18:09] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[12:18:09] [Render thread/INFO]: [CHAT] Version:1.0.0
-[12:18:09] [Render thread/INFO]: Loaded 70 advancements
-[12:18:16] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:18:16] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:18:18] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:18:18] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:18:20] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:18:20] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:18:21] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:18:21] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:18:24] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
-[12:18:24] [Render thread/INFO]: [CHAT]  1.道具请Q出使用
-[12:18:24] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
-[12:18:24] [Render thread/INFO]: [CHAT] ============================
-[12:18:24] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
-[12:21:41] [Render thread/INFO]: [CHAT] 重新加载中！
-[12:21:41] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:21:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:21:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:21:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:21:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:21:41] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[12:21:41] [Server thread/INFO]: Loaded 7 recipes
-[12:21:42] [Server thread/INFO]: Loaded 927 advancements
-[12:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
-[12:21:43] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[12:21:43] [Render thread/INFO]: [CHAT] Version:1.0.0
-[12:21:43] [Render thread/INFO]: Loaded 70 advancements
-[12:21:43] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
-[12:21:43] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
-[12:21:43] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
-[12:21:43] [Render thread/INFO]: [CHAT] ============================
-[12:21:43] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
-[12:21:55] [Render thread/INFO]: [CHAT] 重新加载中！
-[12:21:55] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:21:55] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:21:55] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:21:55] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:21:55] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:21:55] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[12:21:56] [Server thread/INFO]: Loaded 7 recipes
-[12:21:56] [Server thread/INFO]: Loaded 927 advancements
-[12:21:57] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[12:21:57] [Render thread/INFO]: [CHAT] Version:1.0.0
-[12:21:57] [Render thread/INFO]: Loaded 70 advancements
-[12:21:59] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
-[12:21:59] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
-[12:21:59] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
-[12:21:59] [Render thread/INFO]: [CHAT] ============================
-[12:21:59] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
-[12:22:07] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
-[12:22:07] [Render thread/INFO]: [CHAT] 游戏即将开始？
-[12:22:51] [Render thread/INFO]: [CHAT] 已将跳跃提升效果应用于GLgele
-[12:22:59] [Render thread/INFO]: [CHAT] 重新加载中！
-[12:22:59] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:22:59] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:22:59] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:22:59] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:22:59] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:22:59] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
-[12:22:59] [Server thread/INFO]: Loaded 7 recipes
-[12:23:00] [Server thread/INFO]: Loaded 927 advancements
-[12:23:01] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
-[12:23:01] [Render thread/INFO]: [CHAT] Version:1.0.0
-[12:23:01] [Render thread/INFO]: Loaded 70 advancements
-[12:23:04] [Server thread/INFO]: GLgele掉出了这个世界
-[12:23:04] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
-[12:23:04] [Render thread/INFO]: [CHAT] =====游戏结束=====
-[12:23:04] [Render thread/INFO]: [CHAT]  原因：调试
-[12:23:04] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
-[12:23:04] [Render thread/INFO]: [CHAT] ============================
-[12:23:04] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
-[12:23:05] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
-[12:23:05] [Render thread/INFO]: [CHAT] [点我查看帮助]
-[12:23:43] [Server thread/INFO]: Saving and pausing game...
-[12:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:23:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:23:44] [Server thread/INFO]: GLgele lost connection: 连接中止
-[12:23:44] [Server thread/INFO]: GLgele退出了游戏
-[12:23:44] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[12:23:44] [Server thread/INFO]: Stopping server
-[12:23:44] [Server thread/INFO]: Saving players
-[12:23:44] [Server thread/INFO]: Saving worlds
-[12:23:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
-[12:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
-[12:23:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
-[12:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:23:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
-[12:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
-[12:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:23:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:23:44] [Render thread/INFO]: Stopping!
+[11:30:52] [Render thread/INFO]: Setting user: GLgele
+[11:30:52] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[11:30:56] [Render thread/INFO]: Narrator library for x86 successfully loaded
+[11:30:57] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, Dream-HELL
+[11:31:01] [Worker-Main-4/WARN]: Unable to load model: 'dreamhell:item/doctor_1' referenced from: minecraft:carrot_on_a_stick#inventory: java.io.FileNotFoundException: dreamhell:models/item/doctor_1.json
+[11:31:01] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[11:31:02] [Worker-Main-4/WARN]: Texture minecraft:item/orange_dye with size 18x18 limits mip level from 4 to 1
+[11:31:02] [Worker-Main-4/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
+[11:31:03] [Render thread/INFO]: OpenAL initialized.
+[11:31:03] [Render thread/INFO]: Sound engine started
+[11:31:04] [Render thread/INFO]: Created: 1024x1024x1 minecraft:textures/atlas/blocks.png-atlas
+[11:31:04] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[11:31:04] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[11:31:04] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[11:31:04] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[11:31:04] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[11:31:04] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[11:31:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[11:31:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[11:31:05] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:31:16] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:31:16] [Render thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
+[11:31:17] [Render thread/INFO]: Loaded 7 recipes
+[11:31:18] [Render thread/INFO]: Loaded 927 advancements
+[11:31:19] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:63960/https/api.mojang.com', sessionHost='http://127.0.0.1:63960/https/sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:31:20] [Server thread/INFO]: Starting integrated minecraft server version 1.16.5
+[11:31:20] [Server thread/INFO]: Generating keypair
+[11:31:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:31:21] [Render thread/INFO]: 准备生成区域中：0%
+[11:31:21] [Render thread/INFO]: 准备生成区域中：0%
+[11:31:21] [Render thread/INFO]: 准备生成区域中：0%
+[11:31:22] [Render thread/INFO]: Time elapsed: 1470 ms
+[11:31:22] [Server thread/INFO]: Changing view distance to 11, from 10
+[11:31:27] [Server thread/INFO]: GLgele[local:E:e1b205a6] logged in with entity id 7 at (-1.547213714677948, 4.0, -0.8252317320414764)
+[11:31:27] [Server thread/INFO]: GLgele加入了游戏
+[11:31:28] [Server thread/INFO]: Saving and pausing game...
+[11:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[11:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[11:31:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[11:31:29] [Render thread/INFO]: Loaded 70 advancements
+[11:31:31] [Server thread/INFO]: Saving and pausing game...
+[11:31:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[11:31:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[11:31:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[11:31:33] [Server thread/INFO]: Saving and pausing game...
+[11:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[11:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[11:31:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:13:43] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[12:13:45] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[12:13:49] [Server thread/INFO]: Saving and pausing game...
+[12:13:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:13:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:13:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:13:51] [Server thread/INFO]: Saving and pausing game...
+[12:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:13:53] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[12:13:54] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[12:17:12] [Server thread/INFO]: <[红队]GLgele> .
+[12:17:12] [Render thread/INFO]: [CHAT] <[红队]GLgele> .
+[12:17:14] [Server thread/INFO]: <[蓝队]GLgele> .
+[12:17:14] [Render thread/INFO]: [CHAT] <[蓝队]GLgele> .
+[12:17:17] [Server thread/INFO]: <GLgele> .
+[12:17:17] [Render thread/INFO]: [CHAT] <GLgele> .
+[12:17:34] [Render thread/INFO]: [CHAT] 游戏即将开始？
+[12:17:34] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
+[12:18:03] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为冒险模式 
+[12:18:25] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
+[12:18:26] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
+[12:18:27] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
+[12:18:28] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
+[12:18:28] [Server thread/INFO]: GLgele被魔法杀死了
+[12:18:28] [Render thread/INFO]: [CHAT] GLgele被魔法杀死了
+[12:18:30] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[12:18:30] [Render thread/INFO]: [CHAT] [点我查看帮助]
+[12:18:32] [Render thread/INFO]: [CHAT] 游戏即将开始？
+[12:18:32] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
+[12:19:05] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
+[12:19:09] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
+[12:19:12] [Render thread/INFO]: [CHAT] 已将瞬间伤害效果应用于GLgele
+[12:19:19] [Render thread/INFO]: [CHAT] 已将中毒效果应用于GLgele
+[12:19:42] [Server thread/INFO]: GLgele掉出了这个世界
+[12:19:42] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[12:19:42] [Render thread/INFO]: [CHAT] =====游戏结束=====
+[12:19:42] [Render thread/INFO]: [CHAT]  原因：调试
+[12:19:42] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
+[12:19:42] [Render thread/INFO]: [CHAT] ============================
+[12:19:42] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
+[12:19:45] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[12:19:45] [Render thread/INFO]: [CHAT] [点我查看帮助]
+[12:19:56] [Render thread/INFO]: [CHAT] 已将1个[铁剑]给予GLgele
+[12:19:58] [Server thread/INFO]: GLgele掉出了这个世界
+[12:19:58] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[12:19:58] [Render thread/INFO]: [CHAT] =====游戏结束=====
+[12:19:58] [Render thread/INFO]: [CHAT]  原因：调试
+[12:19:58] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
+[12:19:58] [Render thread/INFO]: [CHAT] ============================
+[12:19:58] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
+[12:20:00] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[12:20:00] [Render thread/INFO]: [CHAT] [点我查看帮助]
+[12:20:03] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[12:20:03] [Render thread/INFO]: [CHAT] [点我查看帮助]
+[12:20:04] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
+[12:20:04] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
+[12:20:04] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
+[12:20:04] [Render thread/INFO]: [CHAT] ============================
+[12:20:04] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
+[12:20:06] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
+[12:20:06] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
+[12:20:06] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
+[12:20:06] [Render thread/INFO]: [CHAT] ============================
+[12:20:06] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
+[12:20:07] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
+[12:20:07] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
+[12:20:07] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
+[12:20:07] [Render thread/INFO]: [CHAT] ============================
+[12:20:07] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
+[12:20:13] [Render thread/INFO]: [CHAT] 游戏规则commandBlockOutput目前为：false
+[12:20:15] [Render thread/INFO]: [CHAT] 游戏规则commandBlockOutput已被设为：false
+[12:20:18] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
+[12:20:18] [Render thread/INFO]: [CHAT]  1.道具请[q]出使用
+[12:20:18] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
+[12:20:18] [Render thread/INFO]: [CHAT] ============================
+[12:20:18] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
+[12:20:21] [Server thread/INFO]: Saving and pausing game...
+[12:20:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:20:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:20:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:20:34] [Render thread/INFO]: [CHAT] =====梦魇之渊游玩帮助=====
+[12:20:34] [Render thread/INFO]: [CHAT]  1.道具请[退格]出使用
+[12:20:34] [Render thread/INFO]: [CHAT]  2.绿色混凝土方块为商店
+[12:20:34] [Render thread/INFO]: [CHAT] ============================
+[12:20:34] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/help中的4条命令
+[12:20:38] [Server thread/INFO]: Saving and pausing game...
+[12:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:20:45] [Server thread/WARN]: Entity aah['GLgele'/7, l='ServerLevel[梦魇之渊]', x=10000.50, y=5.00, z=10000.50] left loaded chunk area
+[12:20:45] [Render thread/INFO]: [CHAT] 游戏即将开始？
+[12:21:01] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:04] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:06] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:08] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:09] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:10] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:10] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:10] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:11] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:11] [Render thread/INFO]: [CHAT] 已将1个[金锭]给予GLgele
+[12:21:25] [Server thread/INFO]: Saving and pausing game...
+[12:21:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:21:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:21:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:21:30] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/time_stop中的4条命令
+[12:21:37] [Render thread/INFO]: [CHAT] 已将5个[金锭]给予GLgele
+[12:21:39] [Server thread/INFO]: Saving and pausing game...
+[12:21:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:21:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:21:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:21:40] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/speed中的4条命令
+[12:21:52] [Render thread/INFO]: [CHAT] 已将15个[金锭]给予GLgele
+[12:21:57] [Server thread/INFO]: Saving and pausing game...
+[12:21:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:21:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:21:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:21:57] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:buy/strength中的4条命令
+[12:22:20] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:basic/killer_attack中的3条命令
+[12:22:26] [Render thread/INFO]: [CHAT] 召唤了新的牛
+[12:22:37] [Render thread/INFO]: [CHAT] 错误的命令参数
+[12:22:37] [Render thread/INFO]: [CHAT] /gamemode v<--[此处]
+[12:22:39] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[12:23:58] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[12:23:58] [Render thread/INFO]: [CHAT] /rel<--[此处]
+[12:23:59] [Render thread/INFO]: [CHAT] 未知或不完整的命令，错误见下
+[12:23:59] [Render thread/INFO]: [CHAT] /rel<--[此处]
+[12:24:00] [Render thread/INFO]: [CHAT] 重新加载中！
+[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:24:00] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:24:00] [Server thread/INFO]: Reloading ResourceManager: Default, Dream-HELL
+[12:24:01] [Server thread/INFO]: Loaded 7 recipes
+[12:24:01] [Server thread/INFO]: Loaded 927 advancements
+[12:24:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[12:24:03] [Render thread/INFO]: [CHAT] 梦魇之渊数据包安装成功！
+[12:24:03] [Render thread/INFO]: [CHAT] Version:1.0.0
+[12:24:03] [Render thread/INFO]: Loaded 70 advancements
+[12:24:10] [Server thread/INFO]: Saving and pausing game...
+[12:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:24:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:24:11] [Server thread/INFO]: Saving and pausing game...
+[12:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:24:28] [Render thread/INFO]: [CHAT] 召唤了新的猫
+[12:24:47] [Server thread/INFO]: GLgele掉出了这个世界
+[12:24:47] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[12:24:47] [Render thread/INFO]: [CHAT] =====游戏结束=====
+[12:24:47] [Render thread/INFO]: [CHAT]  原因：调试
+[12:24:47] [Render thread/INFO]: [CHAT]  调试：游戏强制结束
+[12:24:47] [Render thread/INFO]: [CHAT] ============================
+[12:24:47] [Render thread/INFO]: [CHAT] 已执行函数dreamhell:debug/reset中的11条命令
+[12:24:49] [Render thread/INFO]: [CHAT] 输入/trigger trig set 3来进入旁观者模式，输入/trigger trig set 2来返回冒险模式
+[12:24:49] [Render thread/INFO]: [CHAT] [点我查看帮助]
+[12:24:51] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[12:24:52] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[12:24:54] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[12:24:56] [Server thread/INFO]: Saving and pausing game...
+[12:24:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:24:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:24:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:24:59] [Server thread/INFO]: Saving and pausing game...
+[12:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:24:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:25:01] [Server thread/INFO]: Saving and pausing game...
+[12:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:25:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:25:03] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
+[12:25:05] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[12:25:59] [Server thread/INFO]: Saving and pausing game...
+[12:25:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:25:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:25:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:26:06] [Server thread/INFO]: Saving and pausing game...
+[12:26:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:26:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:26:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:26:07] [Server thread/INFO]: GLgele lost connection: 连接中止
+[12:26:07] [Server thread/INFO]: GLgele退出了游戏
+[12:26:07] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[12:26:07] [Server thread/INFO]: Stopping server
+[12:26:07] [Server thread/INFO]: Saving players
+[12:26:07] [Server thread/INFO]: Saving worlds
+[12:26:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:overworld
+[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[12:26:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_nether
+[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:26:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[梦魇之渊]'/minecraft:the_end
+[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (梦魇之渊): All chunks are saved
+[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:26:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:26:08] [Render thread/INFO]: Stopping!
