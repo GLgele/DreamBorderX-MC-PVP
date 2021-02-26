@@ -10,9 +10,9 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:1
+difficulty:0
 fancyGraphics:true
-ao:2
+ao:1
 renderClouds:false
 resourcePacks:["游戏世界材质包","PVP.zip"]
 incompatibleResourcePacks:[]
@@ -28,8 +28,8 @@ fullscreen:false
 enableVsync:true
 useVbo:false
 hideServerAddress:false
-advancedItemTooltips:true
-pauseOnLostFocus:true
+advancedItemTooltips:false
+pauseOnLostFocus:false
 touchscreen:false
 overrideWidth:0
 overrideHeight:0

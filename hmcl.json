@@ -39,7 +39,7 @@
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "1.16.5"
+      "selectedMinecraftVersion": "1.8.9"
     },
     "Home": {
       "global": {
@@ -73,10 +73,10 @@
   "accounts": [
     {
       "serverBaseURL": "https://mcskin.littleservice.cn/api/yggdrasil/",
-      "clientToken": "9ce9d7d13e3f437aa63093f67bd2289c",
+      "clientToken": "eb96ed7cfa2d45d49039c85105a3d3d3",
       "displayName": "gele178",
       "userProperties": {},
-      "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiIzNzM0ZDIwNTk5ZjI0MDBhOTVjN2Q5M2E2ZWYyZTc1OSIsInNwciI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MDgwODUwMTMsImlhdCI6MTYwNzgyNTgxM30.YyR_fVWmcNK418ouVRMsLzmxXEiurqv0IbScIcuPr08",
+      "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiJlODI2MjM5MTk4ZmU0Y2Y5OGFiNmFhNTk2NDBmODMzOSIsInNwciI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOiIxNjE0NTE4OTQ5LjY4ODkzOCIsImlhdCI6IjE2MTQyNTk3NDkuNjg4OTM4In0.w1OqcJ6Jlz8XYe8KIYetQ_r1rNH3sCigL5WZpzrZTNk",
       "profileProperties": {
         "textures": "eyJ0aW1lc3RhbXAiOjE2MTQyNTkyMzU0NTksInByb2ZpbGVJZCI6IjYyNmQyZWRlODY5OTQyMWE4ZGQwODM5ZDhmZjhlODRkIiwicHJvZmlsZU5hbWUiOiJnZWxlMTc4IiwiaXNQdWJsaWMiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly9tY3NraW4ubGl0dGxlc2VydmljZS5jbi90ZXh0dXJlcy8zOTk2ODNkZDFlZWJiZWNkOGI0MmRlMGE4MzhhNDI3ZDNhY2QxMmQxY2I2YzIxN2FhZGMyMTFmMTAxNzE1NTBkIn0sIkNBUEUiOnsidXJsIjoiaHR0cHM6Ly9tY3NraW4ubGl0dGxlc2VydmljZS5jbi90ZXh0dXJlcy9mMjdkOTNmZTk3NjUzYmY3MWUxOGMwNjRmM2U2YjQ2OTM5MWQ0Yzc0ODI3MDY0YTA4Y2ViNWI1YWU5ODVjNTdlIn19fQ\u003d\u003d",
         "uploadableTextures": "skin,cape"
@@ -99,13 +99,8 @@
       "type": "authlibInjector",
       "uuid": "84e8de8ef6d94371835b6844cb7ff0e9",
       "userid": "7e577aeeb54155d2bb33b486abfb1867",
+      "selected": true,
       "username": "ai_minecraft@163.com"
-    },
-    {
-      "uuid": "e5a61afcc65f39d7a8ee5aa192c49165",
-      "username": "GLgele",
-      "type": "offline",
-      "selected": true
     }
   ],
   "fontFamily": "Consolas",
