@@ -39,7 +39,7 @@
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "1.8.9"
+      "selectedMinecraftVersion": "1.16.5"
     },
     "Home": {
       "global": {
