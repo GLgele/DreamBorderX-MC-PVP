@@ -1,1747 +1,1329 @@
-[11:03:51] [Client thread/INFO]: Setting user: GLgele
-[11:03:51] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI5ZDEzZDlhYzEwMmM0YzgyOTk1Y2Y4NWY3ZjU0NDViOSIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOiIxNjE1ODcwNzEzLjk3NTEyMCIsImlhdCI6IjE2MTU2MTE1MTMuOTc1MTIwIn0.El5ZB7lsl3WfWJJOfxnAklWAs9vgCf_dmjH36SsAu4I:84e8de8ef6d94371835b6844cb7ff0e9)
-[11:03:53] [Client thread/INFO]: LWJGL Version: 2.9.4
-[11:03:54] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
-[11:03:54] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[11:03:55] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[11:03:55] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[11:03:55] [Thread-7/INFO]: OpenAL initialized.
-[11:03:55] [Sound Library Loader/INFO]: Sound engine started
-[11:03:56] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
-[11:03:56] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
-[11:03:58] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[11:03:59] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] 
-[11:04:02] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §e
-[11:04:02] [Client thread/INFO]: [CHAT] §0§0§1§2§3§5§e§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§0§c§d§e§f
-[11:04:02] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §2
-[11:04:02] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §1
-[11:04:02] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §3
-[11:04:02] [Client thread/INFO]: [CHAT] §0§0§1§e§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§0§2§3§4§5§6§7§e§f
-[11:04:02] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §d
-[11:04:02] [Client thread/INFO]: [CHAT] §0§0§1§f§e
-[11:04:02] [Client thread/INFO]: [CHAT] §0§0§1§f§e
-[11:04:02] [Client thread/INFO]: [CHAT] §0§0§3§4§5§6§7§8§f§e
-[11:04:02] [Client thread/INFO]: [CHAT] §0§1§0§1§2§f§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§1§3§4§f§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§1§5§f§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§1§6§f§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§1§7§f§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§1§8§9§a§b§f§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§2§0§0§e§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§2§1§0§e§f
-[11:04:02] [Client thread/INFO]: [CHAT] §0§2§1§1§e§f
-[11:04:02] [Client thread/INFO]: [CHAT] §f §f §2 §0 §4 §8
-[11:04:02] [Client thread/INFO]: [CHAT] §f §f §4 §0 §9 §6
-[11:04:02] [Client thread/INFO]: [CHAT] §f §f §1 §0 §2 §4
-[11:04:03] [Client thread/INFO]: [CHAT] 
-[11:04:03] [Client thread/INFO]: [CHAT] 
-[11:04:03] [Client thread/INFO]: [CHAT] 
-[11:04:03] [Client thread/INFO]: [CHAT] 
-[11:04:03] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[11:04:03] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
-[11:04:03] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
-[11:04:03] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
-[11:04:03] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
-[11:04:03] [Client thread/INFO]: [CHAT] -
-[11:04:03] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
-[11:04:03] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
-[11:04:03] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
-[11:04:03] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[11:04:08] [Client thread/INFO]: [CHAT] 
-[11:04:08] [Client thread/INFO]: [CHAT] 
-[11:04:08] [Client thread/INFO]: [CHAT] 
-[11:04:08] [Client thread/INFO]: [CHAT] 
-[11:04:08] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[11:04:08] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
-[11:04:08] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
-[11:04:08] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
-[11:04:08] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
-[11:04:08] [Client thread/INFO]: [CHAT] -
-[11:04:08] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
-[11:04:08] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
-[11:04:08] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
-[11:04:08] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[11:04:13] [Client thread/INFO]: [CHAT] 
-[11:04:13] [Client thread/INFO]: [CHAT] 
-[11:04:13] [Client thread/INFO]: [CHAT] 
-[11:04:13] [Client thread/INFO]: [CHAT] 
-[11:04:13] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[11:04:13] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
-[11:04:13] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
-[11:04:13] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
-[11:04:13] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
-[11:04:13] [Client thread/INFO]: [CHAT] -
-[11:04:13] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
-[11:04:13] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
-[11:04:13] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
-[11:04:13] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[11:04:17] [Client thread/INFO]: [CHAT] 您需要先通过验证才能聊天！
-[11:04:17] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[11:04:17] [Client thread/INFO]: [CHAT] -                 登陆成功!
-[11:04:17] [Client thread/INFO]: [CHAT] -请不要把游戏密码借给任何人!被盗后果自负!
-[11:04:17] [Client thread/INFO]: [CHAT] -请不要把游戏密码借给任何人!被盗后果自负!
-[11:04:17] [Client thread/INFO]: [CHAT] -请不要把游戏密码借给任何人!被盗后果自负!
-[11:04:17] [Client thread/INFO]: [CHAT] -
-[11:04:17] [Client thread/INFO]: [CHAT] -请不要把密码借给任何人!服务器不管盗号问题!
-[11:04:17] [Client thread/INFO]: [CHAT] -
-[11:04:17] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
-[11:04:17] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[11:04:18] [Client thread/INFO]: [CHAT] §a点击下面验证哦!
+[16:57:00] [Client thread/INFO]: Setting user: GLgele
+[16:57:00] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI5ZDEzZDlhYzEwMmM0YzgyOTk1Y2Y4NWY3ZjU0NDViOSIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOiIxNjE1ODcwNzEzLjk3NTEyMCIsImlhdCI6IjE2MTU2MTE1MTMuOTc1MTIwIn0.El5ZB7lsl3WfWJJOfxnAklWAs9vgCf_dmjH36SsAu4I:84e8de8ef6d94371835b6844cb7ff0e9)
+[16:57:02] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:57:04] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
+[16:57:04] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:57:04] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[16:57:04] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:57:04] [Thread-7/INFO]: OpenAL initialized.
+[16:57:05] [Sound Library Loader/INFO]: Sound engine started
+[16:57:06] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
+[16:57:06] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[16:57:08] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[16:57:09] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] 
+[16:57:12] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §e
+[16:57:12] [Client thread/INFO]: [CHAT] §0§0§1§2§3§5§e§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§0§c§d§e§f
+[16:57:12] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §2
+[16:57:12] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §1
+[16:57:12] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §3
+[16:57:12] [Client thread/INFO]: [CHAT] §0§0§1§e§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§0§2§3§4§5§6§7§e§f
+[16:57:12] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §d
+[16:57:12] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[16:57:12] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[16:57:12] [Client thread/INFO]: [CHAT] §0§0§3§4§5§6§7§8§f§e
+[16:57:12] [Client thread/INFO]: [CHAT] §0§1§0§1§2§f§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§1§3§4§f§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§1§5§f§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§1§6§f§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§1§7§f§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§1§8§9§a§b§f§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§2§0§0§e§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§2§1§0§e§f
+[16:57:12] [Client thread/INFO]: [CHAT] §0§2§1§1§e§f
+[16:57:12] [Client thread/INFO]: [CHAT] §f §f §2 §0 §4 §8
+[16:57:12] [Client thread/INFO]: [CHAT] §f §f §4 §0 §9 §6
+[16:57:12] [Client thread/INFO]: [CHAT] §f §f §1 §0 §2 §4
+[16:57:13] [Client thread/INFO]: [CHAT] 
+[16:57:13] [Client thread/INFO]: [CHAT] 
+[16:57:13] [Client thread/INFO]: [CHAT] 
+[16:57:13] [Client thread/INFO]: [CHAT] 
+[16:57:13] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:13] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[16:57:13] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[16:57:13] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[16:57:13] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[16:57:13] [Client thread/INFO]: [CHAT] -
+[16:57:13] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[16:57:13] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[16:57:13] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
+[16:57:13] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:18] [Client thread/INFO]: [CHAT] 
+[16:57:18] [Client thread/INFO]: [CHAT] 
+[16:57:18] [Client thread/INFO]: [CHAT] 
+[16:57:18] [Client thread/INFO]: [CHAT] 
+[16:57:18] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:18] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[16:57:18] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[16:57:18] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[16:57:18] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[16:57:18] [Client thread/INFO]: [CHAT] -
+[16:57:18] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[16:57:18] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[16:57:18] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
+[16:57:18] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:23] [Client thread/INFO]: [CHAT] 
+[16:57:23] [Client thread/INFO]: [CHAT] 
+[16:57:23] [Client thread/INFO]: [CHAT] 
+[16:57:23] [Client thread/INFO]: [CHAT] 
+[16:57:23] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:23] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[16:57:23] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[16:57:23] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[16:57:23] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[16:57:23] [Client thread/INFO]: [CHAT] -
+[16:57:23] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[16:57:23] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[16:57:23] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
+[16:57:23] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:28] [Client thread/INFO]: [CHAT] 
+[16:57:28] [Client thread/INFO]: [CHAT] 
+[16:57:28] [Client thread/INFO]: [CHAT] 
+[16:57:28] [Client thread/INFO]: [CHAT] 
+[16:57:28] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:28] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[16:57:28] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[16:57:28] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[16:57:28] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[16:57:28] [Client thread/INFO]: [CHAT] -
+[16:57:28] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[16:57:28] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[16:57:28] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
+[16:57:28] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:33] [Client thread/INFO]: [CHAT] 
+[16:57:33] [Client thread/INFO]: [CHAT] 
+[16:57:33] [Client thread/INFO]: [CHAT] 
+[16:57:33] [Client thread/INFO]: [CHAT] 
+[16:57:33] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:33] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[16:57:33] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[16:57:33] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[16:57:33] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[16:57:33] [Client thread/INFO]: [CHAT] -
+[16:57:33] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[16:57:33] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[16:57:33] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
+[16:57:33] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:38] [Client thread/INFO]: [CHAT] 
+[16:57:38] [Client thread/INFO]: [CHAT] 
+[16:57:38] [Client thread/INFO]: [CHAT] 
+[16:57:38] [Client thread/INFO]: [CHAT] 
+[16:57:38] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:38] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[16:57:38] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[16:57:38] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[16:57:38] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[16:57:38] [Client thread/INFO]: [CHAT] -
+[16:57:38] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[16:57:38] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[16:57:38] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
+[16:57:38] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:48] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] 
+[16:57:49] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §e
+[16:57:49] [Client thread/INFO]: [CHAT] §0§0§1§2§3§5§e§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§0§c§d§e§f
+[16:57:49] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §2
+[16:57:49] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §1
+[16:57:49] [Client thread/INFO]: [CHAT] §3 §9 §2 §0 §0 §3
+[16:57:49] [Client thread/INFO]: [CHAT] §0§0§1§e§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§0§2§3§4§5§6§7§e§f
+[16:57:49] [Client thread/INFO]: [CHAT] §3 §6 §3 §6 §3 §6 §d
+[16:57:49] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[16:57:49] [Client thread/INFO]: [CHAT] §0§0§1§f§e
+[16:57:49] [Client thread/INFO]: [CHAT] §0§0§3§4§5§6§7§8§f§e
+[16:57:49] [Client thread/INFO]: [CHAT] §0§1§0§1§2§f§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§1§3§4§f§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§1§5§f§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§1§6§f§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§1§7§f§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§1§8§9§a§b§f§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§2§0§0§e§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§2§1§0§e§f
+[16:57:49] [Client thread/INFO]: [CHAT] §0§2§1§1§e§f
+[16:57:49] [Client thread/INFO]: [CHAT] §f §f §2 §0 §4 §8
+[16:57:49] [Client thread/INFO]: [CHAT] §f §f §4 §0 §9 §6
+[16:57:49] [Client thread/INFO]: [CHAT] §f §f §1 §0 §2 §4
+[16:57:50] [Client thread/INFO]: [CHAT] 
+[16:57:50] [Client thread/INFO]: [CHAT] 
+[16:57:50] [Client thread/INFO]: [CHAT] 
+[16:57:50] [Client thread/INFO]: [CHAT] 
+[16:57:50] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:50] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
+[16:57:50] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入".l 密码"进行登录
+[16:57:50] [Client thread/INFO]: [CHAT] -比如: .l 23366 即可登录! 
+[16:57:50] [Client thread/INFO]: [CHAT] -不是/login 而是 .login 密码!
+[16:57:50] [Client thread/INFO]: [CHAT] -
+[16:57:50] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
+[16:57:50] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
+[16:57:50] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
+[16:57:50] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:53] [Client thread/INFO]: [CHAT] 您需要先通过验证才能聊天！
+[16:57:53] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:53] [Client thread/INFO]: [CHAT] -                 登陆成功!
+[16:57:53] [Client thread/INFO]: [CHAT] -请不要把游戏密码借给任何人!被盗后果自负!
+[16:57:53] [Client thread/INFO]: [CHAT] -请不要把游戏密码借给任何人!被盗后果自负!
+[16:57:53] [Client thread/INFO]: [CHAT] -请不要把游戏密码借给任何人!被盗后果自负!
+[16:57:53] [Client thread/INFO]: [CHAT] -
+[16:57:53] [Client thread/INFO]: [CHAT] -请不要把密码借给任何人!服务器不管盗号问题!
+[16:57:53] [Client thread/INFO]: [CHAT] -
+[16:57:53] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
+[16:57:53] [Client thread/INFO]: [CHAT] --------------------------------------------------
+[16:57:53] [Client thread/INFO]: [CHAT] §a点击下面验证哦!
         §6[点击验证]
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT] 
-[11:04:22] [Client thread/INFO]: [CHAT]        
-[11:04:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:04:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:04:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:04:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:05:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:05:10] [Client thread/INFO]: [CHAT] 
-[11:05:10] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
-[11:05:10] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
-[11:05:10] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
-[11:05:10] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
-[11:05:10] [Client thread/INFO]: [CHAT] 
-[11:05:17] [Client thread/INFO]: [CHAT] Wkywars >>????????????
-[11:05:17] [Client thread/INFO]: [CHAT]        
-[11:05:17] [Client thread/INFO]: [CHAT]        
-[11:05:17] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你加入了游戏大厅!
-[11:05:19] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你离开了游戏!
-[11:05:19] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:05:22] [Client thread/INFO]: [CHAT] §e您将被传送至大厅，如需取消请在3秒内再次输入 /hub
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT] 
-[11:05:26] [Client thread/INFO]: [CHAT]        
-[11:05:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:05:28] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT] 
-[11:05:29] [Client thread/INFO]: [CHAT]        
-[11:05:34] [Client thread/INFO]: [CHAT] §b队列 >> §7已将您加入匹配队列
-[11:05:34] [Client thread/INFO]: [CHAT] §b队列 >> §a匹配成功,将您加入 §7mini1138O
-[11:05:35] [Client thread/INFO]: [CHAT]        
-[11:05:35] [Client thread/INFO]: [CHAT] GLgele加入游戏!
-[11:05:39] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:05:40] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:05:40] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:05:40] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:05:42] [Client thread/INFO]: [CHAT] §e您将被传送至大厅，如需取消请在3秒内再次输入 /hub
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT] 
-[11:05:45] [Client thread/INFO]: [CHAT]        
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT] 
-[11:05:51] [Client thread/INFO]: [CHAT]        
-[11:05:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
-[11:05:54] [Client thread/INFO]: [CHAT] §b队列 >> §7已将您加入匹配队列
-[11:05:54] [Client thread/INFO]: [CHAT] §b队列 >> §a匹配成功,将您加入 §7mini1128B
-[11:05:55] [Client thread/INFO]: [CHAT]        
-[11:05:55] [Client thread/INFO]: [CHAT] GLgele加入游戏!
-[11:06:02] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:06:02] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:06:03] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:06:03] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:06:03] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:06:08] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-[11:06:11] [Client thread/INFO]: [CHAT] §e您将被传送至大厅，如需取消请在3秒内再次输入 /hub
-[11:06:12] [Client thread/INFO]: [CHAT] ferraidude05加入游戏!
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT] 
-[11:06:15] [Client thread/INFO]: [CHAT]        
-[11:06:19] [Client thread/INFO]: [CHAT] §b队列 >> §7已将您加入匹配队列
-[11:06:19] [Client thread/INFO]: [CHAT] §b队列 >> §a匹配成功,将您加入 §7mini1126X
-[11:06:19] [Client thread/INFO]: [CHAT] You cannot do this yet!
-[11:06:19] [Client thread/INFO]: [CHAT] You cannot do this yet!
-[11:06:20] [Client thread/INFO]: [CHAT]        
-[11:06:20] [Client thread/INFO]: [CHAT] GLgele加入游戏!
-[11:06:20] [Client thread/INFO]: [CHAT] lordthor317加入游戏!
-[11:06:20] [Client thread/INFO]: [CHAT] douying_creeper加入游戏!
-[11:06:20] [Client thread/INFO]: [CHAT] 队长douying_creeper带着他的队伍asdsx加入了
-[11:06:20] [Client thread/INFO]: [CHAT] 11973614680加入游戏!
-[11:06:23] [Client thread/INFO]: [CHAT] xiaohuo112加入游戏!
-[11:06:25] [Client thread/INFO]: [CHAT] TL_L加入游戏!
-[11:06:30] [Client thread/INFO]: [CHAT] sdsafdwgagd加入游戏!
-[11:06:32] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip, 方正喵呜.zip
-[11:06:34] [Client thread/INFO]: SoundSystem shutting down...
-[11:06:34] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[11:06:34] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[11:06:35] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[11:06:35] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[11:06:35] [Thread-10/INFO]: OpenAL initialized.
-[11:06:35] [Sound Library Loader/INFO]: Sound engine started
-[11:06:37] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[11:06:37] [Client thread/INFO]: [CHAT] qaddes加入游戏!
-[11:06:37] [Client thread/INFO]: [CHAT] [21?][最强王者V]TL_L: 求组
-[11:06:37] [Client thread/INFO]: [CHAT] 3281878747加入游戏!
-[11:06:37] [Client thread/INFO]: [CHAT] lucky_shan加入游戏!
-[11:06:37] [Client thread/INFO]: [CHAT] ferraidude05加入游戏!
-[11:06:37] [Client thread/INFO]: [CHAT] [23?][最强王者V]qaddes: !大河向东流啊 没妈的g啊 在刷人头 啊
-[11:06:40] [Client thread/INFO]: [CHAT] [21?][最强王者V]TL_L: ...
-[11:06:43] [Client thread/INFO]: [CHAT] #社会你强爹加入游戏!
-[11:06:45] [Client thread/INFO]: [CHAT] zycjr加入游戏!
-[11:06:45] [Client thread/INFO]: [CHAT] WYTSZZC加入游戏!
-[11:06:45] [Client thread/INFO]: [CHAT] 队长zycjr带着他的队伍JJJ加入了
-[11:06:50] [Client thread/INFO]: [CHAT] 
-[11:06:50] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
-[11:06:50] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
-[11:06:50] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
-[11:06:50] [Client thread/INFO]: [CHAT] 
-[11:06:50] [Client thread/INFO]: [CHAT]       官方举报反顾群:584345662
-[11:06:50] [Client thread/INFO]: [CHAT]       服务器微博:https://weibo.com/701553777
-[11:06:50] [Client thread/INFO]: [CHAT] 
-[11:06:53] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
-[11:06:55] [Client thread/INFO]: SoundSystem shutting down...
-[11:06:55] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[11:06:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[11:06:55] [Thread-12/INFO]: Initializing LWJGL OpenAL
-[11:06:55] [Thread-12/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[11:06:56] [Thread-12/INFO]: OpenAL initialized.
-[11:06:56] [Sound Library Loader/INFO]: Sound engine started
-[11:06:57] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[11:06:58] [Client thread/INFO]: [CHAT] dwddadd加入游戏!
-[11:06:58] [Client thread/INFO]: [CHAT] alexysui加入游戏!
-[11:06:58] [Client thread/INFO]: [CHAT] MCs1ck加入游戏!
-[11:06:58] [Client thread/INFO]: [CHAT] 队长MCs1ck带着他的队伍***刀加入了
-[11:07:01] [Client thread/INFO]: [CHAT] [21?][最强王者V]TL_L: qaddes 组我
-[11:07:05] [Client thread/INFO]: [CHAT] pvpdashen520加入游戏!
-[11:07:05] [Client thread/INFO]: [CHAT] sdsafdwgagd离开游戏
-[11:07:12] [Client thread/INFO]: [CHAT] [23?][最强王者V]qaddes: z/d yq TL_L
-[11:07:15] [Client thread/INFO]: [CHAT] 15372512加入游戏!
-[11:07:15] [Client thread/INFO]: [CHAT] guoke_233加入游戏!
-[11:07:15] [Client thread/INFO]: [CHAT] 队长15372512带着他的队伍faa加入了
-[11:07:20] [Client thread/INFO]: [CHAT] 游戏将在60秒后开始！
-[11:07:23] [Client thread/INFO]: [CHAT] [21?][最强王者V]TL_L: 吐了
-[11:07:40] [Client thread/INFO]: [CHAT] #痴情加入游戏!
-[11:07:50] [Client thread/INFO]: [CHAT] 游戏将在30秒后开始！
-[11:07:53] [Client thread/INFO]: [CHAT] [5?][坚韧黑铁III]15372512: a
-[11:07:56] [Client thread/INFO]: [CHAT] [6?][坚韧黑铁IV]guoke_233: a
-[11:07:57] [Client thread/INFO]: [CHAT] TL_L离开游戏
-[11:07:57] [Client thread/INFO]: [CHAT] qaddes离开游戏
-[11:07:59] [Client thread/INFO]: [CHAT] qaddes加入游戏!
-[11:07:59] [Client thread/INFO]: [CHAT] TL_L加入游戏!
-[11:07:59] [Client thread/INFO]: [CHAT] 队长qaddes带着他的队伍xLOL加入了
-[11:08:02] [Client thread/INFO]: [CHAT] ferraidude05离开游戏
-[11:08:05] [Client thread/INFO]: [CHAT] [23?][最强王者V]qaddes: !大河向东流啊 没妈的g啊 在刷人头 啊
-[11:08:06] [Client thread/INFO]: [CHAT] yuehua_ASN加入游戏!
-[11:08:15] [Client thread/INFO]: [CHAT] 游戏将在5秒后开始！
-[11:08:15] [Client thread/INFO]: [CHAT] zifan12加入游戏!
-[11:08:16] [Client thread/INFO]: [CHAT] 游戏将在4秒后开始！
-[11:08:17] [Client thread/INFO]: [CHAT] 游戏将在3秒后开始！
-[11:08:17] [Client thread/INFO]: [CHAT] [5?][坚韧黑铁III]15372512: qwq
-[11:08:18] [Client thread/INFO]: [CHAT] 游戏将在2秒后开始！
-[11:08:19] [Client thread/INFO]: [CHAT] 游戏将在1秒后开始！
-[11:08:30] [Client thread/INFO]: [CHAT] [全局][5?][坚韧黑铁III][黄]15372512:  qaddes awa
-[11:08:30] [Client thread/INFO]: [CHAT] 
-[11:08:30] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
-[11:08:30] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
-[11:08:30] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
-[11:08:30] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
-[11:08:30] [Client thread/INFO]: [CHAT] 
-[11:08:30] [Client thread/INFO]: [CHAT]       服务器QQ①群:982392337
-[11:08:30] [Client thread/INFO]: [CHAT]       服务器QQ②群:748400768
-[11:08:30] [Client thread/INFO]: [CHAT]       服务器QQ③群:870707720
-[11:08:30] [Client thread/INFO]: [CHAT] 
-[11:08:34] [Client thread/INFO]: [CHAT] [全局][21?][最强王者V][青]TL_L: ...\]
-[11:08:56] [Client thread/INFO]: [CHAT] [全局][23?][最强王者V][青]qaddes: 希望客服做个人啊快点吧g封了额啊
-[11:08:58] [Client thread/INFO]: [CHAT] [全局][23?][最强王者V][青]qaddes: 大河向东流啊 没妈的g啊 在刷人头 啊
-[11:09:01] [Client thread/INFO]: [CHAT] [全局][23?][最强王者V][青]qaddes: 希望客服做个人啊快点吧g封了额 啊
-[11:09:05] [Client thread/INFO]: [CHAT] [全局][31?]正版?[璀璨钻石II][红]lordthor317: ???
-[11:09:09] [Client thread/INFO]: [CHAT] 11973614680(白?)划下了虚空
-[11:09:10] [Client thread/INFO]: [CHAT] zifan12(灰?)划下了虚空
-[11:09:10] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-[11:09:10] [Client thread/INFO]: [CHAT]  
-[11:09:10] [Client thread/INFO]: [CHAT] 灰 的床被 #痴情 挖爆!
-[11:09:10] [Client thread/INFO]: [CHAT]  
-[11:09:10] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-[11:09:11] [Client thread/INFO]: [CHAT] qaddes(青?)被#社会你强爹(白?)狠狠滴推倒
-[11:09:11] [Client thread/INFO]: [CHAT] [全局][4?]正版?[坚韧黑铁I][绿]MCs1ck:  ruozhi
-[11:09:12] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-[11:09:12] [Client thread/INFO]: [CHAT]  
-[11:09:12] [Client thread/INFO]: [CHAT] 青 的床被 #社会你强爹 挖爆!
-[11:09:12] [Client thread/INFO]: [CHAT]  
-[11:09:12] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-[11:09:13] [Client thread/INFO]: [CHAT] [全局][5?][坚韧黑铁III][黄]15372512:  qaddes awa
-[11:09:13] [Client thread/INFO]: [CHAT] [团队][23?][最强王者V][青]qaddes: c
-[11:09:16] [Client thread/INFO]: [CHAT] pvpdashen520(灰?)[最终击杀]被#痴情(粉?)狠狠滴丢下虚空
-[11:09:16] [Client thread/INFO]: [CHAT] TL_L(青?)[最终击杀]被#枚举(白?)狠狠滴丢下虚空
-[11:09:19] [Client thread/ERROR]: Item entity 2104 has no item?!
-[11:09:19] [Client thread/ERROR]: Item entity 2104 has no item?!
-[11:09:20] [Client thread/INFO]: [CHAT] [团队][23?][最强王者V][青]qaddes: z/d yq 15372512
-[11:09:21] [Client thread/INFO]: [CHAT] #社会你强爹(白?)划下了虚空
-[11:09:22] [Client thread/INFO]: [CHAT] zifan12(灰?)[最终击杀]被#痴情(粉?)狠狠滴推倒
-[11:09:23] [Client thread/INFO]: [CHAT] alexysui(绿?)划下了虚空
-[11:09:32] [Client thread/INFO]: [CHAT] #枚举(白?)被qaddes(青?)狠狠滴推倒
-[11:09:39] [Client thread/INFO]: [CHAT] #痴情(粉?)被lordthor317(红?)狠狠滴推倒
-[11:09:48] [Client thread/INFO]: [CHAT] xiaohuo112(黄?)划下了虚空
-[11:09:51] [Client thread/INFO]: [CHAT] 15372512(黄?)被MCs1ck(绿?)狠狠滴推倒
-[11:09:51] [Client thread/INFO]: [CHAT] MCs1ck(绿?)被15372512(黄?)狠狠滴推倒
-[11:09:52] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-[11:09:52] [Client thread/INFO]: [CHAT]  
-[11:09:52] [Client thread/INFO]: [CHAT] 白 的床被 lucky_shan 挖爆!
-[11:09:52] [Client thread/INFO]: [CHAT]  
-[11:09:52] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-[11:09:52] [Client thread/INFO]: [CHAT] yuehua_ASN(蓝?)划下了虚空
-[11:09:56] [Client thread/INFO]: [CHAT] lucky_shan(粉?)被#枚举(白?)狠狠滴丢下虚空
-[11:09:58] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-[11:09:58] [Client thread/INFO]: [CHAT]  
-[11:09:58] [Client thread/INFO]: [CHAT] 绿 的床被 guoke_233 挖爆!
-[11:09:58] [Client thread/INFO]: [CHAT]  
-[11:09:58] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
-[11:09:59] [Client thread/INFO]: [CHAT] lordthor317(红?)划下了虚空
-[11:10:04] [Client thread/INFO]: [CHAT] guoke_233(黄?)被alexysui(绿?)狠狠滴丢下虚空
-[11:10:10] [Client thread/INFO]: [CHAT] GLgele(青?)[最终击杀]被#枚举(白?)狠狠滴推倒
-[11:10:10] [Client thread/INFO]: [CHAT] 
-[11:10:10] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
-[11:10:10] [Client thread/INFO]: [CHAT]       全服喇叭(大厅购买),起床VIP,改名卡,全部半折出售!
-[11:10:10] [Client thread/INFO]: [CHAT]       购买之后在主大厅输入/cdk 卡号即可
-[11:10:10] [Client thread/INFO]: [CHAT] 
-[11:10:10] [Client thread/INFO]: [CHAT]       赞助链接:http://www.mcrmb.com/fk/20444
-[11:10:10] [Client thread/INFO]: [CHAT] 
-[11:10:10] [Client thread/INFO]: [CHAT] §c§l[游戏世界-残疾人协会]
-[11:10:10] [Client thread/INFO]: [CHAT] §f在过去7天(168小时),一共敲死了 §e650 §f个孤儿~!
-[11:10:10] [Client thread/INFO]: [CHAT] §f请各位小阔爱洁身自好,文明游戏,共创美好游戏体验~
-[11:10:11] [Client thread/INFO]: [CHAT] §c你凉了!想再来一局嘛? §b§l点击这里!
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT] 
-[11:10:13] [Client thread/INFO]: [CHAT]        
-[11:10:18] [Client thread/INFO]: [CHAT] Wkywars >>????????????
-[11:10:18] [Client thread/INFO]: [CHAT]        
-[11:10:18] [Client thread/INFO]: [CHAT]        
-[11:10:18] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你加入了游戏大厅!
-[11:10:20] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (5/12)!
-[11:10:26] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 15 秒后开始!
-[11:10:33] [Client thread/INFO]: [CHAT] 空岛战争 >>> ajgi 加入了比赛! (6/12)!
-[11:10:33] [Client thread/INFO]: [CHAT] 空岛战争 >>> ajgi 加入了队伍! (3/3)!
-[11:10:37] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 5 秒后开始!
-[11:10:39] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 4 秒后开始!
-[11:10:40] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
-[11:10:41] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
-[11:10:42] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
-[11:10:43] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
-[11:10:43] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
-[11:10:45] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:10:45] [Client thread/INFO]: [CHAT] - 发现BUG请及时反馈给管理员!
-[11:10:45] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:10:49] [Client thread/INFO]: [CHAT] 空岛战争 >>> guidefaix 坠落而死!
-[11:10:51] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lcge 被 ajgi 肢解了!
-[11:10:53] [Client thread/INFO]: [CHAT] [0] <quotebook> L
-[11:10:59] [Client thread/INFO]: [CHAT] 空岛战争 >>> %player% 死因未知!
-[11:10:59] [Client thread/INFO]: [CHAT] ===============================
-[11:10:59] [Client thread/INFO]: [CHAT]  
-[11:10:59] [Client thread/INFO]: [CHAT]     ? ajgi, GLgele, 5712962 赢得了比赛! ?
-[11:10:59] [Client thread/INFO]: [CHAT]  
-[11:10:59] [Client thread/INFO]: [CHAT]        第一名 - ajgi - 1
-[11:10:59] [Client thread/INFO]: [CHAT]         第二名 - NONE2 - 0
-[11:10:59] [Client thread/INFO]: [CHAT]          第三名 - NONE4 - 0
-[11:10:59] [Client thread/INFO]: [CHAT]  
-[11:10:59] [Client thread/INFO]: [CHAT] ===============================
-[11:10:59] [Client thread/INFO]: [CHAT] 空岛战争 >>> 恭喜! 你赢得了比赛!
-[11:10:59] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你赢得比赛获得了 50 个代币!
-[11:10:59] [Client thread/INFO]: [CHAT] ----- AA ----成就解锁---- AA -----
-[11:10:59] [Client thread/INFO]: [CHAT]  
-[11:10:59] [Client thread/INFO]: [CHAT]  成就 -> 获得 5 次胜利!
-[11:10:59] [Client thread/INFO]: [CHAT]  奖励 -> 奖励 500 个代币!
-[11:10:59] [Client thread/INFO]: [CHAT]  
-[11:10:59] [Client thread/INFO]: [CHAT] -----------------------------------
-[11:10:59] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你的代币已更新! (+500)!
-[11:11:06] [Client thread/INFO]: [CHAT] [6] <dr_tasd> az
-[11:11:49] [Client thread/INFO]: [CHAT] [7] <ajgi> aea
-[11:11:50] [Client thread/INFO]: [CHAT] 
-[11:11:50] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
-[11:11:50] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
-[11:11:50] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
-[11:11:50] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
-[11:11:50] [Client thread/INFO]: [CHAT] 
-[11:11:50] [Client thread/INFO]: [CHAT]       赞助链接:http://www.mcrmb.com/fk/20444
-[11:11:50] [Client thread/INFO]: [CHAT] 
-[11:11:52] [Client thread/INFO]: [CHAT] [7] <ajgi> awa
-[11:11:54] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (4/12)!
-[11:11:55] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
-[11:11:56] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:11:56] [Client thread/INFO]: [CHAT] - 使用SHIFT+右键快速邀请玩家
-[11:11:56] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:11:56] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
-[11:11:57] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
-[11:11:58] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
-[11:11:58] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
-[11:12:18] [Client thread/INFO]: [CHAT] 空岛战争 >>> wangchunhao123 被 guidefaix 终结了!
-[11:12:18] [Client thread/INFO]: [CHAT] ===============================
-[11:12:18] [Client thread/INFO]: [CHAT]  
-[11:12:18] [Client thread/INFO]: [CHAT]     ? Lcge, guidefaix, GLgele 赢得了比赛! ?
-[11:12:18] [Client thread/INFO]: [CHAT]  
-[11:12:18] [Client thread/INFO]: [CHAT]        第一名 - guidefaix - 1
-[11:12:18] [Client thread/INFO]: [CHAT]         第二名 - NONE1 - 0
-[11:12:18] [Client thread/INFO]: [CHAT]          第三名 - NONE2 - 0
-[11:12:18] [Client thread/INFO]: [CHAT]  
-[11:12:18] [Client thread/INFO]: [CHAT] ===============================
-[11:12:18] [Client thread/INFO]: [CHAT] 空岛战争 >>> 恭喜! 你赢得了比赛!
-[11:12:18] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你赢得比赛获得了 50 个代币!
-[11:12:34] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (6/12)!
-[11:12:44] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lcge 加入了比赛! (7/12)!
-[11:12:47] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 15 秒后开始!
-[11:12:57] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 5 秒后开始!
-[11:12:58] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 4 秒后开始!
-[11:12:59] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
-[11:13:00] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
-[11:13:01] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
-[11:13:02] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
-[11:13:02] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
-[11:13:03] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:13:03] [Client thread/INFO]: [CHAT] - 加入开黑也可以使用SHIFT+右键
-[11:13:03] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:13:09] [Client thread/INFO]: [CHAT] 空岛战争 >>> guidefaix 帮 GLgele 解脱了!
-[11:13:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> guidefaix 帮 5712962 解脱了!
-[11:13:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> ajgi 被 Lcge 制裁了!
-[11:13:11] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lcge 帮 dr_tasd 解脱了!
-[11:13:11] [Client thread/INFO]: [CHAT] 空岛战争 >>> wangchunhao123 坠落而死!
-[11:13:13] [Client thread/INFO]: [CHAT] 空岛战争 >>> guidefaix 被 Lcge 肢解了!
-[11:13:13] [Client thread/INFO]: [CHAT] ===============================
-[11:13:13] [Client thread/INFO]: [CHAT]  
-[11:13:13] [Client thread/INFO]: [CHAT]     ? Lcge 赢得了比赛! ?
-[11:13:13] [Client thread/INFO]: [CHAT]  
-[11:13:13] [Client thread/INFO]: [CHAT]        第一名 - Lcge - 3
-[11:13:13] [Client thread/INFO]: [CHAT]         第二名 - guidefaix - 2
-[11:13:13] [Client thread/INFO]: [CHAT]          第三名 - NONE5 - 0
-[11:13:13] [Client thread/INFO]: [CHAT]  
-[11:13:13] [Client thread/INFO]: [CHAT] ===============================
-[11:13:19] [Client thread/INFO]: [CHAT] [7] <ajgi> E
-[11:13:21] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lcge 离开了比赛! (4/12)!
-[11:13:30] [Client thread/INFO]: [CHAT] 
-[11:13:30] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
-[11:13:30] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
-[11:13:30] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
-[11:13:30] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
-[11:13:30] [Client thread/INFO]: [CHAT] 
-[11:13:42] [Client thread/INFO]: [CHAT] 空岛战争 >>> 恭喜! 你解锁了物品: 蓝色羊毛
-[11:13:59] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (6/12)!
-[11:14:04] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了物品: 蓝色羊毛
-[11:14:08] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:14:08] [Client thread/INFO]: [CHAT] - 你随时可以与小伙伴们开黑哦!
-[11:14:08] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:14:09] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了物品: 蓝色羊毛
-[11:14:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你需要等上 2.6 秒才能这么做!
-[11:14:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你需要等上 2.3 秒才能这么做!
-[11:14:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你需要等上 2.3 秒才能这么做!
-[11:14:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你需要等上 2.2 秒才能这么做!
-[11:14:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你需要等上 2.0 秒才能这么做!
-[11:14:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你需要等上 1.9 秒才能这么做!
-[11:14:14] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 15 秒后开始!
-[11:14:25] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 5 秒后开始!
-[11:14:26] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 4 秒后开始!
-[11:14:27] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
-[11:14:28] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
-[11:14:29] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
-[11:14:30] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
-[11:14:30] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
-[11:14:34] [Client thread/INFO]: [CHAT] 空岛战争 >>> _run_ 被 Lcge 肢解了!
-[11:14:37] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lcge 坠落而死!
-[11:14:37] [Client thread/INFO]: [CHAT] 空岛战争 >>> 开黑成员 Lcge 已被淘汰! (2/3)!
-[11:14:45] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 被 guidefaix 终结了!
-[11:14:46] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你无法离开地图!
-[11:14:47] [Client thread/INFO]: [CHAT] 空岛战争 >>> 5712962 被 guidefaix 肢解了!
-[11:14:47] [Client thread/INFO]: [CHAT] ===============================
-[11:14:47] [Client thread/INFO]: [CHAT]  
-[11:14:47] [Client thread/INFO]: [CHAT]     ? guidefaix, wangchunhao123 赢得了比赛! ?
-[11:14:47] [Client thread/INFO]: [CHAT]  
-[11:14:47] [Client thread/INFO]: [CHAT]        第一名 - guidefaix - 2
-[11:14:47] [Client thread/INFO]: [CHAT]         第二名 - Lcge - 1
-[11:14:47] [Client thread/INFO]: [CHAT]          第三名 - NONE3 - 0
-[11:14:47] [Client thread/INFO]: [CHAT]  
-[11:14:47] [Client thread/INFO]: [CHAT] ===============================
-[11:14:48] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你离开了游戏!
-[11:14:48] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (3/8)!
-[11:14:48] [Client thread/INFO]: [CHAT] 空岛战争 >>> 5712962 加入了比赛! (4/8)!
-[11:14:52] [Client thread/INFO]: [CHAT] 空岛战争 >>> hahawoderz 加入了比赛! (5/8)!
-[11:14:55] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 15 秒后开始!
-[11:14:59] [Client thread/INFO]: [CHAT] WatchNMSL > 有一名玩家因作弊或使用非法漏洞被踢出游戏,请注意您的游戏行为!
-[11:15:02] [Client thread/INFO]: [CHAT] 空岛战争 >>> Ling_Luo233 加入了比赛! (6/8)!
-[11:15:02] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lenrux_Expition 加入了比赛! (7/8)!
-[11:15:04] [Client thread/INFO]: [CHAT] 空岛战争 >>> wangchunhao123 加入了比赛! (8/8)!
-[11:15:07] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 5 秒后开始!
-[11:15:08] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 4 秒后开始!
-[11:15:09] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
-[11:15:10] [Client thread/INFO]: [CHAT] 
-[11:15:10] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
-[11:15:10] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
-[11:15:10] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
-[11:15:10] [Client thread/INFO]: [CHAT] 
-[11:15:10] [Client thread/INFO]: [CHAT]       官方举报反顾群:584345662
-[11:15:10] [Client thread/INFO]: [CHAT]       服务器微博:https://weibo.com/701553777
-[11:15:10] [Client thread/INFO]: [CHAT] 
-[11:15:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
-[11:15:11] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
-[11:15:12] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
-[11:15:12] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
-[11:15:14] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:15:14] [Client thread/INFO]: [CHAT] - 想要更多的代币? 请完成成就吧
-[11:15:14] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:15:14] [Client thread/INFO]: [CHAT] [6] <dr_tasd> 滑稽！！！！！！！！！！！！
-[11:15:15] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lenrux_Expition 坠落而死!
-[11:15:16] [Client thread/INFO]: [CHAT] [6] <dr_tasd> 啊啊啊啊啊啊啊啊
-[11:15:20] [Client thread/INFO]: [CHAT] 空岛战争 >>> wangchunhao123 被 hahawoderz 肢解了!
-[11:15:21] [Client thread/INFO]: [CHAT] 空岛战争 >>> 5712962 is now on 12.1 ?!
-[11:15:23] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你通过击杀 5712962 而获得了 10 个代币与 3 点经验!
-[11:15:23] [Client thread/INFO]: [CHAT] 空岛战争 >>> 5712962 被 GLgele 肢解了!
-[11:15:27] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 被 Ling_Luo233 肢解了!
-[11:15:32] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你离开了游戏!
-[11:15:32] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (7/16)!
-[11:15:38] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 15 秒后开始!
-[11:15:48] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 5 秒后开始!
-[11:15:50] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 4 秒后开始!
-[11:15:51] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
-[11:15:52] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
-[11:15:53] [Client thread/INFO]: [CHAT] 空岛战争 >>> _run_ 加入了比赛! (8/16)!
-[11:15:53] [Client thread/INFO]: [CHAT] 空岛战争 >>> _run_ 加入了队伍! (2/2)!
-[11:15:53] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
-[11:15:54] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
-[11:15:54] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
-[11:16:17] [Client thread/INFO]: [CHAT] [6] <dr_tasd> az
-[11:16:20] [Client thread/INFO]: [CHAT] 空岛战争 >>> dr_tasd 掉入了虚空之中!
-[11:16:20] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:16:20] [Client thread/INFO]: [CHAT] - 发现作弊玩家请及时举报!
-[11:16:20] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:16:50] [Client thread/INFO]: [CHAT] 
-[11:16:50] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
-[11:16:50] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
-[11:16:50] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
-[11:16:50] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
-[11:16:50] [Client thread/INFO]: [CHAT] 
-[11:16:50] [Client thread/INFO]: [CHAT]       服务器QQ①群:982392337
-[11:16:50] [Client thread/INFO]: [CHAT]       服务器QQ②群:748400768
-[11:16:50] [Client thread/INFO]: [CHAT]       服务器QQ③群:870707720
-[11:16:50] [Client thread/INFO]: [CHAT] 
-[11:16:56] [Client thread/INFO]: [CHAT] 空岛战争 >>> wangchunhao123 被 Lenrux_Expition 制裁了!
-[11:17:02] [Client thread/INFO]: [CHAT] 空岛战争 >>> fhrwxgr 帮 5712962 解脱了!
-[11:17:05] [Client thread/INFO]: [CHAT] 空岛战争 >>> ajgi is now on 12.2 ?!
-[11:17:07] [Client thread/INFO]: [CHAT] 空岛战争 >>> ajgi is now on 7.0 ?!
-[11:17:24] [Client thread/ERROR]: Item entity 7648468 has no item?!
-[11:17:24] [Client thread/ERROR]: Item entity 7648468 has no item?!
-[11:17:24] [Client thread/ERROR]: Item entity 7648468 has no item?!
-[11:17:24] [Client thread/ERROR]: Item entity 7648468 has no item?!
-[11:17:24] [Client thread/ERROR]: Item entity 7648468 has no item?!
-[11:17:26] [Client thread/ERROR]: Item entity 7648516 has no item?!
-[11:17:26] [Client thread/INFO]: [CHAT] 空岛战争 >>> fhrwxgr 掉入了虚空之中!
-[11:17:27] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:17:28] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:17:28] [Client thread/INFO]: [CHAT] - 发现BUG请及时反馈给管理员!
-[11:17:28] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:17:28] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:17:29] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lenrux_Expition 掉入了虚空之中!
-[11:17:29] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:17:30] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lenrux_Expition 帮 GLgele 解脱了!
-[11:17:35] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你离开了游戏!
-[11:17:35] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (9/12)!
-[11:17:35] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
-[11:17:36] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
-[11:17:37] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
-[11:17:38] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
-[11:17:38] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
-[11:17:43] [Client thread/INFO]: [CHAT] 空岛战争 >>> guidefaix is now on 9.4 ?!
-[11:17:43] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lcge 坠落而死!
-[11:17:44] [Client thread/INFO]: [CHAT] 空岛战争 >>> guidefaix is now on 0.8 ?!
-[11:17:45] [Client thread/INFO]: [CHAT] 空岛战争 >>> wangchunhao123 被 hahawoderz 斩杀了!
-[11:17:45] [Client thread/INFO]: [CHAT] 空岛战争 >>> hahawoderz 帮 guidefaix 解脱了!
-[11:17:46] [Client thread/INFO]: [CHAT] 空岛战争 >>> hahawoderz is now on 14.1 ?!
-[11:17:47] [Client thread/INFO]: [CHAT] 空岛战争 >>> hahawoderz is now on 9.1 ?!
-[11:17:48] [Client thread/INFO]: [CHAT] 空岛战争 >>> hahawoderz is now on 3.2 ?!
-[11:17:49] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你通过击杀 hahawoderz 而获得了 10 个代币与 3 点经验!
-[11:17:49] [Client thread/INFO]: [CHAT] 空岛战争 >>> hahawoderz 被 GLgele 制裁了!
-[11:17:49] [Client thread/INFO]: [CHAT] 空岛战争 >>> hahawoderz is now on 20.0 ?!
-[11:17:52] [Client thread/INFO]: [CHAT] 空岛战争 >>> 5712962 is now on 13.2 ?!
-[11:17:58] [Client thread/INFO]: [CHAT] 空岛战争 >>> 5712962 is now on 7.3 ?!
-[11:18:05] [Client thread/INFO]: [CHAT] 空岛战争 >>> 5712962 被 Lenrux_Expition 终结了!
-[11:18:05] [Client thread/ERROR]: Item entity 7648758 has no item?!
-[11:18:05] [Client thread/ERROR]: Item entity 7648758 has no item?!
-[11:18:05] [Client thread/ERROR]: Item entity 7648758 has no item?!
-[11:18:05] [Client thread/ERROR]: Item entity 7648789 has no item?!
-[11:18:05] [Client thread/ERROR]: Item entity 7648789 has no item?!
-[11:18:06] [Client thread/INFO]: [CHAT] [6] <Lcge> ???
-[11:18:06] [Client thread/INFO]: [CHAT] [6] <dr_tasd> 远航
-[11:18:17] [Client thread/INFO]: [CHAT] §c玩家§ehui_geda§c与§ehui_geda§c离婚了!
-[11:18:30] [Client thread/INFO]: [CHAT] 
-[11:18:30] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
-[11:18:30] [Client thread/INFO]: [CHAT]       全服喇叭(大厅购买),起床VIP,改名卡,全部半折出售!
-[11:18:30] [Client thread/INFO]: [CHAT]       购买之后在主大厅输入/cdk 卡号即可
-[11:18:30] [Client thread/INFO]: [CHAT] 
-[11:18:30] [Client thread/INFO]: [CHAT]       赞助链接:http://www.mcrmb.com/fk/20444
-[11:18:30] [Client thread/INFO]: [CHAT] 
-[11:18:32] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lenrux_Expition 坠落而死!
-[11:18:32] [Client thread/INFO]: [CHAT] 空岛战争 >>> 开黑成员 Lenrux_Expition 已被淘汰! (2/3)!
-[11:18:34] [Client thread/INFO]: [CHAT] 空岛战争 >>> fhrwxgr 被 Ling_Luo233 肢解了!
-[11:18:34] [Client thread/INFO]: [CHAT] 空岛战争 >>> 开黑成员 fhrwxgr 已被淘汰! (1/3)!
-[11:18:42] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:18:42] [Client thread/INFO]: [CHAT] - 使用SHIFT+右键快速邀请玩家
-[11:18:42] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:18:54] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:18:55] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:18:56] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:18:57] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:18:58] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:19:00] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:19:01] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:19:02] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:19:04] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:19:05] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
-[11:19:05] [Client thread/ERROR]: Item entity 7648934 has no item?!
-[11:19:05] [Client thread/ERROR]: Item entity 7648934 has no item?!
-[11:19:05] [Client thread/INFO]: [CHAT] 空岛战争 >>> %player% 死因未知!
-[11:19:05] [Client thread/INFO]: [CHAT] ===============================
-[11:19:05] [Client thread/INFO]: [CHAT]  
-[11:19:05] [Client thread/INFO]: [CHAT]     ? Ling_Luo233 赢得了比赛! ?
-[11:19:05] [Client thread/INFO]: [CHAT]  
-[11:19:05] [Client thread/INFO]: [CHAT]        第一名 - hahawoderz - 2
-[11:19:05] [Client thread/INFO]: [CHAT]         第二名 - Lenrux_Expition - 1
-[11:19:05] [Client thread/INFO]: [CHAT]          第三名 - GLgele - 1
-[11:19:05] [Client thread/INFO]: [CHAT]  
-[11:19:05] [Client thread/INFO]: [CHAT] ===============================
-[11:19:32] [Client thread/INFO]: [CHAT] [7] <ajgi> awa
-[11:19:50] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:19:50] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:19:50] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:19:50] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:19:55] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:19:55] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:19:57] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:19:57] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:19:57] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:19:57] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:19:58] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:19:58] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:19:59] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:19:59] [Client thread/INFO]: [CHAT] - 加入开黑也可以使用SHIFT+右键
-[11:19:59] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:19:59] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:19:59] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:20:00] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:20:00] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:20:01] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:20:01] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:20:02] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:20:02] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:20:04] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:20:04] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:20:04] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:20:04] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:20:05] [Client thread/INFO]: [CHAT] [6] <dr_tasd> 又是这.......
-[11:20:08] [Client thread/INFO]: [CHAT] [6] <dr_tasd> a
-[11:20:10] [Client thread/INFO]: [CHAT] 
-[11:20:10] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
-[11:20:10] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
-[11:20:10] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
-[11:20:10] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
-[11:20:10] [Client thread/INFO]: [CHAT] 
-[11:20:10] [Client thread/INFO]: [CHAT]       赞助链接:http://www.mcrmb.com/fk/20444
-[11:20:10] [Client thread/INFO]: [CHAT] 
-[11:20:10] [Client thread/INFO]: [CHAT] §c§l[游戏世界-残疾人协会]
-[11:20:10] [Client thread/INFO]: [CHAT] §f在过去7天(168小时),一共敲死了 §e652 §f个孤儿~!
-[11:20:10] [Client thread/INFO]: [CHAT] §f请各位小阔爱洁身自好,文明游戏,共创美好游戏体验~
-[11:20:12] [Client thread/INFO]: [CHAT] [6] <dr_tasd> 干脆自杀
-[11:20:41] [Client thread/INFO]: [CHAT] §c恭喜§ehui_geda§c与§ePUNISH§c结婚了!
-[11:20:50] [Client thread/INFO]: [CHAT] §6[§a全服喊话§6] §bYeji_857 §a> §f6666666 
-[11:20:56] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:20:56] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:20:57] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:20:57] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:20:58] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:20:58] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:20:58] [Client thread/INFO]: [CHAT] Wkywars >> ???????????????????!
-[11:20:58] [Client thread/INFO]: [CHAT] You don't have permission to break.
-[11:21:09] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:21:09] [Client thread/INFO]: [CHAT] - 你随时可以与小伙伴们开黑哦!
-[11:21:09] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:21:50] [Client thread/INFO]: [CHAT] 
-[11:21:50] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
-[11:21:50] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
-[11:21:50] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
-[11:21:50] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
-[11:21:50] [Client thread/INFO]: [CHAT] 
-[11:22:18] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:22:18] [Client thread/INFO]: [CHAT] - 想要更多的代币? 请完成成就吧
-[11:22:18] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:23:26] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:23:26] [Client thread/INFO]: [CHAT] - 发现作弊玩家请及时举报!
-[11:23:26] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:23:30] [Client thread/INFO]: [CHAT] 
-[11:23:30] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
-[11:23:30] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
-[11:23:30] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
-[11:23:30] [Client thread/INFO]: [CHAT] 
-[11:23:30] [Client thread/INFO]: [CHAT]       官方举报反顾群:584345662
-[11:23:30] [Client thread/INFO]: [CHAT]       服务器微博:https://weibo.com/701553777
-[11:23:30] [Client thread/INFO]: [CHAT] 
-[11:24:33] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:24:33] [Client thread/INFO]: [CHAT] - 发现BUG请及时反馈给管理员!
-[11:24:33] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:25:10] [Client thread/INFO]: [CHAT] 
-[11:25:10] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
-[11:25:10] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
-[11:25:10] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
-[11:25:10] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
-[11:25:10] [Client thread/INFO]: [CHAT] 
-[11:25:10] [Client thread/INFO]: [CHAT]       服务器QQ①群:982392337
-[11:25:10] [Client thread/INFO]: [CHAT]       服务器QQ②群:748400768
-[11:25:10] [Client thread/INFO]: [CHAT]       服务器QQ③群:870707720
-[11:25:10] [Client thread/INFO]: [CHAT] 
-[11:25:35] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
-[11:25:35] [Client thread/INFO]: [CHAT] - 使用SHIFT+右键快速邀请玩家
-[11:25:35] [Client thread/INFO]: [CHAT] ---------------------------------------------
-[11:26:12] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (4/16)!
-[11:26:17] [Client thread/INFO]: [CHAT] 空岛战争 >>> CL_itsmeX 加入了比赛! (5/16)!
-[11:26:23] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 15 秒后开始!
-[11:26:26] [Client thread/INFO]: [CHAT] §6[§a全服喊话§6] §bling_tian652 §a> §f地下城这辈子能开吗 
-[11:26:31] [Client thread/INFO]: [CHAT] 空岛战争 >>> Lenrux_Expition 加入了比赛! (6/16)!
-[11:26:34] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:277) ~[1.8.9.jar:?]
-	at hm.a(SourceFile:66) ~[1.8.9.jar:?]
-	at hm.a(SourceFile:9) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[11:26:34] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at hf.a(SourceFile:42) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:374) ~[1.8.9.jar:?]
-	at hf.a(SourceFile:38) ~[1.8.9.jar:?]
-	at hf.a(SourceFile:11) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[11:26:34] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:277) ~[1.8.9.jar:?]
-	at hm.a(SourceFile:66) ~[1.8.9.jar:?]
-	at hm.a(SourceFile:9) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[11:26:34] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:277) ~[1.8.9.jar:?]
-	at hm.a(SourceFile:66) ~[1.8.9.jar:?]
-	at hm.a(SourceFile:9) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[11:26:34] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at hf.a(SourceFile:42) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:374) ~[1.8.9.jar:?]
-	at hf.a(SourceFile:38) ~[1.8.9.jar:?]
-	at hf.a(SourceFile:11) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[11:26:34] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:277) ~[1.8.9.jar:?]
-	at hm.a(SourceFile:66) ~[1.8.9.jar:?]
-	at hm.a(SourceFile:9) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[11:26:39] [Client thread/INFO]: Stopping!
-[11:26:39] [Client thread/INFO]: SoundSystem shutting down...
-[11:26:39] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:57:54] [Client thread/INFO]: [CHAT] §a点击下面验证哦!
+        §6[点击验证]
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT] 
+[16:57:58] [Client thread/INFO]: [CHAT]        
+[16:58:36] [Client thread/INFO]: [CHAT] §8[226]§7[§6§l英勇青铜I§7]§fq4561203 §6> §7掉？
+[16:58:41] [Client thread/INFO]: [CHAT] 
+[16:58:41] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[16:58:41] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
+[16:58:41] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
+[16:58:41] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
+[16:58:41] [Client thread/INFO]: [CHAT] 
+[16:58:41] [Client thread/INFO]: [CHAT]       服务器QQ①群:982392337
+[16:58:41] [Client thread/INFO]: [CHAT]       服务器QQ②群:748400768
+[16:58:41] [Client thread/INFO]: [CHAT]       服务器QQ③群:870707720
+[16:58:41] [Client thread/INFO]: [CHAT] 
+[16:58:45] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+[16:58:46] [Client thread/INFO]: [CHAT] 
+[16:58:46] [Client thread/INFO]: [CHAT] 
+[16:58:46] [Client thread/INFO]: [CHAT] 
+[16:58:46] [Client thread/INFO]: [CHAT] 
+[16:58:46] [Client thread/INFO]: [CHAT] 
+[16:58:46] [Client thread/INFO]: [CHAT] 
+[16:58:46] [Client thread/INFO]: [CHAT] 
+[16:58:46] [Client thread/INFO]: [CHAT] 
+[16:58:46] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT] 
+[16:58:47] [Client thread/INFO]: [CHAT]        
+[16:58:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:none
+[16:58:54] [Client thread/INFO]: [CHAT] §b队列 >> §7已将您加入匹配队列
+[16:58:54] [Client thread/INFO]: [CHAT] §b队列 >> §a匹配成功,将您加入 §7mini1137B
+[16:58:55] [Client thread/INFO]: [CHAT]        
+[16:58:55] [Client thread/INFO]: [CHAT] GLgele加入游戏!
+[16:58:57] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+[16:58:58] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+[16:58:58] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+[16:59:00] [Client thread/INFO]: [CHAT] §e您将被传送至大厅，如需取消请在3秒内再次输入 /hub
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT] 
+[16:59:04] [Client thread/INFO]: [CHAT]        
+[16:59:07] [Client thread/INFO]: [CHAT] §b队列 >> §7已将您加入匹配队列
+[16:59:07] [Client thread/INFO]: [CHAT] §b队列 >> §a匹配成功,将您加入 §7mini1106X
+[16:59:07] [Client thread/INFO]: [CHAT] You cannot do this yet!
+[16:59:08] [Client thread/INFO]: [CHAT]        
+[16:59:08] [Client thread/INFO]: [CHAT] GLgele加入游戏!
+[16:59:11] [Client thread/INFO]: [CHAT] 模式选择成功!
+[16:59:13] [Client thread/INFO]: [CHAT] Dev_lah加入游戏!
+[16:59:22] [Client thread/INFO]: [CHAT] qin_QAQ加入游戏!
+[16:59:26] [Client thread/INFO]: [CHAT] xiao_TTSSR加入游戏!
+[16:59:33] [Client thread/INFO]: [CHAT] xiao_TTSSR离开游戏
+[16:59:36] [Client thread/INFO]: [CHAT] mimangge加入游戏!
+[16:59:40] [Client thread/INFO]: [CHAT] MC_mocl加入游戏!
+[16:59:40] [Client thread/INFO]: [CHAT] 队长MC_mocl带着他的队伍MOCL加入了
+[16:59:41] [Client thread/INFO]: [CHAT] cszdsp加入游戏!
+[16:59:41] [Client thread/INFO]: [CHAT] [15?][华贵铂金III]fffffcvc: qwq
+[16:59:42] [Client thread/INFO]: [CHAT] 游戏将在60秒后开始！
+[16:59:45] [Client thread/INFO]: [CHAT] [15?][华贵铂金III]fffffcvc: q-q
+[16:59:49] [Client thread/INFO]: [CHAT] [15?][华贵铂金III]fffffcvc: q0q
+[16:59:50] [Client thread/INFO]: [CHAT] 52255加入游戏!
+[16:59:52] [Client thread/INFO]: [CHAT] this_is_a_name加入游戏!
+[16:59:56] [Client thread/INFO]: [CHAT] sadasdgg加入游戏!
+[16:59:57] [Client thread/INFO]: [CHAT] 2518955012_520加入游戏!
+[17:00:11] [Client thread/INFO]: [CHAT] §c§l[游戏世界-残疾人协会]
+[17:00:11] [Client thread/INFO]: [CHAT] §f在过去7天(168小时),一共敲死了 §e958 §f个孤儿~!
+[17:00:11] [Client thread/INFO]: [CHAT] §f请各位小阔爱洁身自好,文明游戏,共创美好游戏体验~
+[17:00:11] [Client thread/INFO]: [CHAT] Dev_lah离开游戏
+[17:00:11] [Client thread/INFO]: [CHAT] xiaonian666离开游戏
+[17:00:11] [Client thread/INFO]: [CHAT] soekoa离开游戏
+[17:00:12] [Client thread/INFO]: [CHAT] 游戏将在30秒后开始！
+[17:00:13] [Client thread/INFO]: [CHAT] 
+[17:00:13] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
+[17:00:13] [Client thread/INFO]: [CHAT]       全服喇叭(大厅购买),起床VIP,改名卡,全部半折出售!
+[17:00:13] [Client thread/INFO]: [CHAT]       购买之后在主大厅输入/cdk 卡号即可
+[17:00:13] [Client thread/INFO]: [CHAT] 
+[17:00:13] [Client thread/INFO]: [CHAT]       赞助链接:http://www.mcrmb.com/fk/20444
+[17:00:13] [Client thread/INFO]: [CHAT] 
+[17:00:15] [Client thread/INFO]: [CHAT] Miss_Rosy加入游戏!
+[17:00:23] [Client thread/INFO]: [CHAT] zhi_jin_fen_shou加入游戏!
+[17:00:25] [Client thread/INFO]: [CHAT] fsghfgss1加入游戏!
+[17:00:28] [Client thread/INFO]: [CHAT] Error_L_max离开游戏
+[17:00:32] [Client thread/INFO]: [CHAT] Error_L_max加入游戏!
+[17:00:36] [Client thread/INFO]: [CHAT] PaoNaiqiu加入游戏!
+[17:00:37] [Client thread/INFO]: [CHAT] 游戏将在5秒后开始！
+[17:00:38] [Client thread/INFO]: [CHAT] this_is_a_name离开游戏
+[17:00:38] [Client thread/INFO]: [CHAT] 游戏将在4秒后开始！
+[17:00:39] [Client thread/INFO]: [CHAT] 游戏将在3秒后开始！
+[17:00:40] [Client thread/INFO]: [CHAT] 游戏将在2秒后开始！
+[17:00:41] [Client thread/INFO]: [CHAT] aaa20离开游戏
+[17:00:41] [Client thread/INFO]: [CHAT] 游戏将在1秒后开始！
+[17:00:41] [Client thread/INFO]: [CHAT] TNT1加入游戏!
+[17:01:20] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:01:20] [Client thread/INFO]: [CHAT]  
+[17:01:20] [Client thread/INFO]: [CHAT] 粉 的床被 QWQ_Killer 挖爆!
+[17:01:20] [Client thread/INFO]: [CHAT]  
+[17:01:20] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:01:20] [Client thread/INFO]: [CHAT] zhi_jin_fen_shou(青?)被sadasdgg(黄?)狠狠滴推倒
+[17:01:23] [Client thread/INFO]: [CHAT] fffffcvc(蓝?)划下了虚空
+[17:01:29] [Client thread/INFO]: [CHAT] cszdsp(蓝?)被LaLa_Yu_88(绿?)狠狠滴推倒
+[17:01:32] [Client thread/INFO]: [CHAT] LaLa_Yu_88(绿?)被fffffcvc(蓝?)狠狠滴推倒
+[17:01:34] [Client thread/INFO]: [CHAT] doge7(粉?)[最终击杀]被QWQ_Killer(白?)狠狠滴丢下虚空
+[17:01:36] [Client thread/INFO]: [CHAT] heyuhao1(粉?)[最终击杀]被QWQ_Killer(白?)狠狠滴丢下虚空
+[17:01:39] [Client thread/INFO]: [CHAT] qin_QAQ(黄?)被Miss_Rosy(青?)狠狠滴丢下虚空
+[17:01:43] [Client thread/INFO]: [CHAT] 2007070626(黄?)划下了虚空
+[17:01:43] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:01:43] [Client thread/INFO]: [CHAT]  
+[17:01:43] [Client thread/INFO]: [CHAT] 绿 的床被 fffffcvc 挖爆!
+[17:01:43] [Client thread/INFO]: [CHAT]  
+[17:01:43] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:01:44] [Client thread/INFO]: [CHAT] 睡你妈逼起来嗨!
+[17:01:45] [Client thread/INFO]: [CHAT] Miss_Rosy(青?)划下了虚空
+[17:01:47] [Client thread/INFO]: [CHAT] QWQ_Killer(白?)被2518955012_520(粉?)狠狠滴推倒
+[17:01:48] [Client thread/INFO]: [CHAT] fffffcvc(蓝?)被PaoNaiqiu(绿?)狠狠滴丢下虚空
+[17:01:48] [Client thread/INFO]: [CHAT] sadasdgg(黄?)被zhi_jin_fen_shou(青?)狠狠滴丢下虚空
+[17:01:53] [Client thread/INFO]: [CHAT] 
+[17:01:53] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
+[17:01:53] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
+[17:01:53] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
+[17:01:53] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
+[17:01:53] [Client thread/INFO]: [CHAT] 
+[17:01:53] [Client thread/INFO]: [CHAT]       赞助链接:http://www.mcrmb.com/fk/20444
+[17:01:53] [Client thread/INFO]: [CHAT] 
+[17:01:54] [Client thread/INFO]: [CHAT] 2518955012_520(粉?)[最终击杀]被Error_L_max(灰?)狠狠滴推倒
+[17:01:59] [Client thread/INFO]: [CHAT] zhi_jin_fen_shou(青?)被sadasdgg(黄?)狠狠滴推倒
+[17:02:03] [Client thread/INFO]: [CHAT] fffffcvc(蓝?)被LaLa_Yu_88(绿?)狠狠滴丢下虚空
+[17:02:06] [Client thread/INFO]: [CHAT] MC_mocl(蓝?)被LaLa_Yu_88(绿?)狠狠滴丢下虚空
+[17:02:06] [Client thread/INFO]: [CHAT] LaLa_Yu_88(绿?)[最终击杀]被MC_mocl(蓝?)狠狠滴丢下虚空
+[17:02:14] [Client thread/INFO]: [CHAT] qin_QAQ(黄?)被Miss_Rosy(青?)狠狠滴推倒
+[17:02:14] [Client thread/INFO]: [CHAT] cszdsp(蓝?)被fsghfgss1(灰?)狠狠滴推倒
+[17:02:14] [Client thread/INFO]: [CHAT] fsghfgss1(灰?)被fffffcvc(蓝?)狠狠滴推倒
+[17:02:17] [Client thread/INFO]: [CHAT] Error_L_max(灰?)被GLgele(白?)狠狠滴推倒
+[17:02:29] [Client thread/INFO]: [CHAT] 2007070626(黄?)被zhi_jin_fen_shou(青?)狠狠滴丢下虚空
+[17:02:30] [Client thread/INFO]: [CHAT] [全局][12?][不屈白银V][蓝]MC_mocl: 给您灭活了
+[17:02:45] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:02:45] [Client thread/INFO]: [CHAT]  
+[17:02:45] [Client thread/INFO]: [CHAT] 青 的床被 sadasdgg 挖爆!
+[17:02:45] [Client thread/INFO]: [CHAT]  
+[17:02:45] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:02:49] [Client thread/INFO]: [CHAT] fffffcvc(蓝?)被fsghfgss1(灰?)狠狠滴推倒
+[17:02:49] [Client thread/INFO]: [CHAT] Error_L_max(灰?)被QWQ_Killer(白?)狠狠滴推倒
+[17:02:51] [Client thread/INFO]: [CHAT] Miss_Rosy(青?)[最终击杀]被sadasdgg(黄?)狠狠滴推倒
+[17:02:51] [Client thread/INFO]: [CHAT] cszdsp(蓝?)被fsghfgss1(灰?)狠狠滴推倒
+[17:02:51] [Client thread/INFO]: [CHAT] [全局][15?][华贵铂金III][蓝]fffffcvc: C
+[17:02:58] [Client thread/INFO]: [CHAT] 2007070626(黄?)被zhi_jin_fen_shou(青?)狠狠滴推倒
+[17:03:00] [Client thread/INFO]: [CHAT] PaoNaiqiu(绿?)[最终击杀]被fffffcvc(蓝?)狠狠滴推倒
+[17:03:15] [Client thread/INFO]: [CHAT] fffffcvc(蓝?)被fsghfgss1(灰?)狠狠滴推倒
+[17:03:16] [Client thread/INFO]: [CHAT] QWQ_Killer(白?)被Error_L_max(灰?)狠狠滴推倒
+[17:03:19] [Client thread/INFO]: [CHAT] [全局][15?][华贵铂金III][蓝]fffffcvc: =)
+[17:03:23] [Client thread/INFO]: [CHAT] 没有足够资源购买！
+[17:03:32] [Client thread/INFO]: [CHAT] fsghfgss1(灰?)划下了虚空
+[17:03:33] [Client thread/INFO]: [CHAT] 
+[17:03:33] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
+[17:03:33] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[17:03:33] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[17:03:33] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[17:03:33] [Client thread/INFO]: [CHAT] 
+[17:03:41] [Client thread/INFO]: [CHAT] §6[§a全服喊话§6] §bvthgr1234 §a> §fcxfx大哥拿木搞挖黑曜石展示意志 
+[17:03:53] [Client thread/INFO]: [CHAT] GLgele(白?)被Error_L_max(灰?)狠狠滴推倒
+[17:04:08] [Client thread/INFO]: [CHAT] fsghfgss1(灰?)被QWQ_Killer(白?)狠狠滴推倒
+[17:04:09] [Client thread/INFO]: [CHAT] fffffcvc(蓝?)被fsghfgss1(灰?)狠狠滴丢下虚空
+[17:04:21] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:04:21] [Client thread/INFO]: [CHAT]  
+[17:04:21] [Client thread/INFO]: [CHAT] 灰 的床被 MC_mocl 挖爆!
+[17:04:21] [Client thread/INFO]: [CHAT]  
+[17:04:21] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:04:22] [Client thread/INFO]: [CHAT] MC_mocl(蓝?)被fsghfgss1(灰?)狠狠滴推倒
+[17:04:24] [Client thread/INFO]: [CHAT] QWQ_Killer(白?)划下了虚空
+[17:04:32] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:04:32] [Client thread/INFO]: [CHAT]  
+[17:04:32] [Client thread/INFO]: [CHAT] 白 的床被 sadasdgg 挖爆!
+[17:04:32] [Client thread/INFO]: [CHAT]  
+[17:04:32] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:04:33] [Client thread/INFO]: [CHAT] GLgele(白?)[最终击杀]被Error_L_max(灰?)狠狠滴丢下虚空
+[17:04:34] [Client thread/INFO]: [CHAT] §c你凉了!想再来一局嘛? §b§l点击这里!
+[17:04:36] [Client thread/INFO]: [CHAT] §b队列 >> §7已将您加入匹配队列
+[17:04:36] [Client thread/INFO]: [CHAT] §b队列 >> §a匹配成功,将您加入 §7mini1115X
+[17:04:37] [Client thread/INFO]: [CHAT]        
+[17:04:37] [Client thread/INFO]: [CHAT] GLgele加入游戏!
+[17:04:37] [Client thread/INFO]: [CHAT] QWQ_Killer加入游戏!
+[17:04:39] [Client thread/INFO]: [CHAT] kwleke离开游戏
+[17:04:40] [Client thread/INFO]: [CHAT] Astronomer_YZY离开游戏
+[17:04:41] [Client thread/INFO]: [CHAT] Alpha_X_加入游戏!
+[17:04:43] [Client thread/INFO]: [CHAT] yuyuger离开游戏
+[17:04:44] [Client thread/INFO]: [CHAT] [28?]征战四方[璀璨钻石I][VIP]#一只鬼王吖: 傻锅awa
+[17:04:45] [Client thread/INFO]: [CHAT] [50?][最强王者MAX][VIP]#艺术家丶翁神: hehe
+[17:04:45] [Client thread/INFO]: [CHAT] [39?]正版?[璀璨钻石III][VIP]#北栀想当混子: 哈哈哈
+[17:04:49] [Client thread/INFO]: [CHAT] #秃总加入游戏!
+[17:04:49] [Client thread/INFO]: [CHAT] heyuhao1加入游戏!
+[17:04:51] [Client thread/INFO]: [CHAT] [39?]正版?[璀璨钻石III][VIP]#北栀想当混子: 打不过就骂yin
+[17:04:52] [Client thread/INFO]: [CHAT] 游戏将在30秒后开始！
+[17:04:53] [Client thread/INFO]: [CHAT] [39?]征战四方[最强王者I][VIP]#坏人慕容: = =
+[17:04:54] [Client thread/INFO]: [CHAT] [28?]征战四方[璀璨钻石I][VIP]#一只鬼王吖: - -
+[17:04:55] [Client thread/INFO]: [CHAT] 52255加入游戏!
+[17:04:55] [Client thread/INFO]: [CHAT] [11?][正式客服]?[不屈白银V][VIP]#砂锅大帅比: 。
+[17:04:57] [Client thread/INFO]: [CHAT] Mrxuanwulake加入游戏!
+[17:04:59] [Client thread/INFO]: [CHAT] Mrxuanwulake离开游戏
+[17:04:59] [Client thread/INFO]: [CHAT] Miss_Rosy加入游戏!
+[17:05:00] [Client thread/INFO]: [CHAT] Small_Ink加入游戏!
+[17:05:02] [Client thread/INFO]: [CHAT] [39?]正版?[璀璨钻石III][VIP]#北栀想当混子: 沙果
+[17:05:04] [Client thread/INFO]: [CHAT] [39?]征战四方[最强王者I][VIP]#坏人慕容: 打傻锅
+[17:05:04] [Client thread/INFO]: [CHAT] DY_Afb278193加入游戏!
+[17:05:05] [Client thread/INFO]: [CHAT] [28?]征战四方[璀璨钻石I][VIP]#一只鬼王吖: az
+[17:05:07] [Client thread/INFO]: [CHAT] [28?]征战四方[璀璨钻石I][VIP]#一只鬼王吖: okok
+[17:05:08] [Client thread/INFO]: [CHAT] [39?]正版?[璀璨钻石III][VIP]#北栀想当混子: hhh
+[17:05:09] [Client thread/INFO]: [CHAT] [39?]征战四方[最强王者I][VIP]#坏人慕容: a8a8
+[17:05:12] [Client thread/INFO]: [CHAT] [39?]正版?[璀璨钻石III][VIP]#北栀想当混子: abab
+[17:05:13] [Client thread/INFO]: [CHAT] 67890755加入游戏!
+[17:05:13] [Client thread/INFO]: [CHAT] 
+[17:05:13] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[17:05:13] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
+[17:05:13] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
+[17:05:13] [Client thread/INFO]: [CHAT] 
+[17:05:13] [Client thread/INFO]: [CHAT]       官方举报反顾群:584345662
+[17:05:13] [Client thread/INFO]: [CHAT]       服务器微博:https://weibo.com/701553777
+[17:05:13] [Client thread/INFO]: [CHAT] 
+[17:05:17] [Client thread/INFO]: [CHAT] 游戏将在5秒后开始！
+[17:05:18] [Client thread/INFO]: [CHAT] 游戏将在4秒后开始！
+[17:05:18] [Client thread/INFO]: [CHAT] [28?]征战四方[璀璨钻石I][VIP]#一只鬼王吖: 我就怕他把我们全踢了哈哈
+[17:05:19] [Client thread/INFO]: [CHAT] 游戏将在3秒后开始！
+[17:05:20] [Client thread/INFO]: [CHAT] 游戏将在2秒后开始！
+[17:05:20] [Client thread/INFO]: [CHAT] RedUranium92加入游戏!
+[17:05:20] [Client thread/INFO]: [CHAT] InkCrocodile加入游戏!
+[17:05:20] [Client thread/INFO]: [CHAT] 队长RedUranium92带着他的队伍1214加入了
+[17:05:20] [Client thread/INFO]: [CHAT] Carry_xiaosu加入游戏!
+[17:05:20] [Client thread/INFO]: [CHAT] [28?]征战四方[璀璨钻石I][VIP]#一只鬼王吖: a.a
+[17:05:20] [Client thread/INFO]: [CHAT] 游戏将在1秒后开始！
+[17:05:35] [Client thread/INFO]: [CHAT] [全局][39?]正版?[璀璨钻石III][VIP][蓝]#北栀想当混子: 早上遇见个Sha_Guos
+[17:05:35] [Client thread/INFO]: [CHAT] [全局][39?]征战四方[最强王者I][VIP][蓝]#坏人慕容: 踢了/rejoin嘛
+[17:05:38] [Client thread/INFO]: [CHAT] [全局][28?]征战四方[璀璨钻石I][VIP][蓝]#一只鬼王吖: ~ az
+[17:05:44] [Client thread/INFO]: [CHAT] [全局][6?][坚韧黑铁III][黄]Small_Ink: e
+[17:05:44] [Client thread/INFO]: [CHAT] [全局][0?][坚韧黑铁I][粉]igusdguyu: 
+[17:05:52] [Client thread/INFO]: [CHAT] #秃总(白?)划下了虚空
+[17:05:53] [Client thread/INFO]: [CHAT] 睡你妈逼起来嗨!
+[17:05:53] [Client thread/INFO]: [CHAT] 睡你妈逼起来嗨!
+[17:05:56] [Client thread/INFO]: [CHAT] 睡你妈逼起来嗨!
+[17:05:57] [Client thread/ERROR]: Item entity 1650 has no item?!
+[17:05:57] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:05:57] [Client thread/INFO]: [CHAT]  
+[17:05:57] [Client thread/INFO]: [CHAT] 红 的床被 Miss_Rosy 挖爆!
+[17:05:57] [Client thread/INFO]: [CHAT]  
+[17:05:57] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:05:58] [Client thread/INFO]: [CHAT] 67890755(绿?)被#一只鬼王吖(蓝?)狠狠滴丢下虚空
+[17:05:59] [Client thread/INFO]: [CHAT] RedUranium92(绿?)被#一只鬼王吖(蓝?)狠狠滴推倒
+[17:05:59] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:05:59] [Client thread/INFO]: [CHAT]  
+[17:05:59] [Client thread/INFO]: [CHAT] 绿 的床被 #艺术家丶翁神 挖爆!
+[17:05:59] [Client thread/INFO]: [CHAT]  
+[17:05:59] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:06:00] [Client thread/INFO]: [CHAT] #坏人慕容(蓝?)划下了虚空
+[17:06:06] [Client thread/INFO]: [CHAT] #一只鬼王吖(蓝?)被67890755(绿?)狠狠滴推倒
+[17:06:10] [Client thread/INFO]: [CHAT] 52255(青?)划下了虚空
+[17:06:10] [Client thread/INFO]: [CHAT] Miss_Rosy(灰?)被ctuyhg(红?)狠狠滴丢下虚空
+[17:06:11] [Client thread/INFO]: [CHAT] #北栀想当混子(蓝?)被67890755(绿?)狠狠滴推倒
+[17:06:15] [Client thread/INFO]: [CHAT] [全局][39?]正版?[璀璨钻石III][VIP][蓝]#北栀想当混子: 卡了
+[17:06:16] [Client thread/INFO]: [CHAT] Carry_xiaosu(白?)划下了虚空
+[17:06:18] [Client thread/INFO]: [CHAT] InkCrocodile(绿?)[最终击杀]被#艺术家丶翁神(蓝?)狠狠滴丢下虚空
+[17:06:22] [Client thread/INFO]: [CHAT] QWQ_Killer(灰?)被heyuhao1(红?)狠狠滴推倒
+[17:06:24] [Client thread/INFO]: [CHAT] GLgele(青?)被Small_Ink(黄?)狠狠滴丢下虚空
+[17:06:26] [Client thread/INFO]: [CHAT] RedUranium92(绿?)[最终击杀]被#艺术家丶翁神(蓝?)狠狠滴丢下虚空
+[17:06:31] [Client thread/INFO]: [CHAT] heyuhao1(红?)划下了虚空
+[17:06:31] [Client thread/INFO]: [CHAT] Small_Ink(黄?)被52255(青?)狠狠滴推倒
+[17:06:32] [Client thread/INFO]: [CHAT] #艺术家丶翁神(蓝?)划下了虚空
+[17:06:32] [Client thread/INFO]: [CHAT] Alpha_X_(黄?)被52255(青?)狠狠滴丢下虚空
+[17:06:36] [Client thread/INFO]: [CHAT] ctuyhg(红?)[最终击杀]被Miss_Rosy(灰?)狠狠滴丢下虚空
+[17:06:40] [Client thread/INFO]: [CHAT] [全局][30?][璀璨钻石II][绿]67890755: WA
+[17:06:40] [Client thread/INFO]: [CHAT] [全局][28?]征战四方[璀璨钻石I][VIP][蓝]#一只鬼王吖:  awa
+[17:06:40] [Client thread/INFO]: [CHAT] #一只鬼王吖(蓝?)划下了虚空
+[17:06:41] [Client thread/INFO]: [CHAT] 67890755(绿?)[最终击杀]被#一只鬼王吖(蓝?)狠狠滴丢下虚空
+[17:06:51] [Client thread/INFO]: [CHAT] Carry_xiaosu(白?)划下了虚空
+[17:06:53] [Client thread/INFO]: [CHAT] GLgele(青?)被#砂锅大帅比(黄?)狠狠滴丢下虚空
+[17:06:53] [Client thread/INFO]: [CHAT] 
+[17:06:53] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[17:06:53] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
+[17:06:53] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
+[17:06:53] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
+[17:06:53] [Client thread/INFO]: [CHAT] 
+[17:06:53] [Client thread/INFO]: [CHAT]       服务器QQ①群:982392337
+[17:06:53] [Client thread/INFO]: [CHAT]       服务器QQ②群:748400768
+[17:06:53] [Client thread/INFO]: [CHAT]       服务器QQ③群:870707720
+[17:06:53] [Client thread/INFO]: [CHAT] 
+[17:06:53] [Client thread/INFO]: [CHAT] Miss_Rosy(灰?)划下了虚空
+[17:06:58] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:06:58] [Client thread/INFO]: [CHAT]  
+[17:06:58] [Client thread/INFO]: [CHAT] 青 的床被 PaoNaiqiu 挖爆!
+[17:06:58] [Client thread/INFO]: [CHAT]  
+[17:06:58] [Client thread/INFO]: [CHAT] ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
+[17:06:58] [Client thread/INFO]: [CHAT] #北栀想当混子(蓝?)被QWQ_Killer(灰?)狠狠滴推倒
+[17:06:59] [Client thread/INFO]: [CHAT] 52255(青?)[最终击杀]被PaoNaiqiu(白?)狠狠滴丢下虚空
+[17:07:02] [Client thread/INFO]: [CHAT] QWQ_Killer(灰?)被#坏人慕容(蓝?)狠狠滴推倒
+[17:07:03] [Client thread/INFO]: [CHAT] PaoNaiqiu(白?)被GLgele(青?)狠狠滴推倒
+[17:07:09] [Client thread/INFO]: [CHAT] GLgele(青?)[最终击杀]被Alpha_X_(黄?)狠狠滴推倒
+[17:07:10] [Client thread/INFO]: [CHAT] §c你凉了!想再来一局嘛? §b§l点击这里!
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT] 
+[17:07:13] [Client thread/INFO]: [CHAT]        
+[17:07:15] [Client thread/INFO]: [CHAT] Could not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+[17:07:16] [Client thread/INFO]: [CHAT] Wkywars >>????????????
+[17:07:16] [Client thread/INFO]: [CHAT]        
+[17:07:16] [Client thread/INFO]: [CHAT]        
+[17:07:16] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你加入了游戏大厅!
+[17:07:18] [Client thread/INFO]: [CHAT] [6] <shagou_> qwq
+[17:07:29] [Client thread/INFO]: [CHAT] [6] <shagou_> 丛林差2个 快来
+[17:07:37] [Client thread/INFO]: [CHAT] [6] <shagou_> 丛林差2个 快 来
+[17:07:39] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
+[17:07:39] [Client thread/INFO]: [CHAT] - 你随时可以与小伙伴们开黑哦!
+[17:07:39] [Client thread/INFO]: [CHAT] ---------------------------------------------
+[17:07:39] [Client thread/INFO]: [CHAT] §6[§a全服喊话§6] §bSha_Guo §a> §f反作弊wrn'm 
+[17:07:45] [Client thread/INFO]: [CHAT] [6] <shagou_> qwq
+[17:07:46] [Client thread/INFO]: [CHAT] [6] <shagou_> 丛林差2个 快 来
+[17:07:49] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (5/12)!
+[17:07:49] [Client thread/INFO]: [CHAT] 空岛战争 >>> 12342222 加入了比赛! (6/12)!
+[17:07:49] [Client thread/INFO]: [CHAT] 空岛战争 >>> 12342222 加入了队伍! (3/3)!
+[17:07:59] [Client thread/INFO]: [CHAT] 空岛战争 >>> Amhp 加入了比赛! (7/12)!
+[17:08:03] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 15 秒后开始!
+[17:08:03] [Client thread/INFO]: [CHAT] [6] <shagou_> 丛林差1个 快 来
+[17:08:08] [Client thread/INFO]: [CHAT] [7] <q4561203> 快点
+[17:08:10] [Client thread/INFO]: [CHAT] [7] <q4561203> 来打
+[17:08:13] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 5 秒后开始!
+[17:08:14] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 4 秒后开始!
+[17:08:15] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
+[17:08:17] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
+[17:08:17] [Client thread/INFO]: [CHAT] 空岛战争 >>> Amhp 离开了比赛! (6/12)!
+[17:08:18] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
+[17:08:19] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
+[17:08:19] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
+[17:08:24] [Client thread/INFO]: [CHAT] §6[§a全服喊话§6] §bLao_lian §a> §f客服被反作弊针对了awa? 
+[17:08:24] [Client thread/INFO]: [CHAT] 空岛战争 >>> etao_gg 被 12342222 制裁了!
+[17:08:25] [Client thread/ERROR]: Item entity 8077362 has no item?!
+[17:08:25] [Client thread/ERROR]: Item entity 8077362 has no item?!
+[17:08:25] [Client thread/ERROR]: Item entity 8077362 has no item?!
+[17:08:27] [Client thread/INFO]: [CHAT] 空岛战争 >>> wdsjzhou is now on 6.1 ?!
+[17:08:28] [Client thread/ERROR]: Item entity 8077432 has no item?!
+[17:08:28] [Client thread/ERROR]: Item entity 8077432 has no item?!
+[17:08:28] [Client thread/INFO]: [CHAT] 空岛战争 >>> 12342222 被 etao_gg 终结了!
+[17:08:28] [Client thread/INFO]: [CHAT] 空岛战争 >>> 开黑成员 12342222 已被淘汰! (2/3)!
+[17:08:28] [Client thread/ERROR]: Item entity 8077470 has no item?!
+[17:08:28] [Client thread/ERROR]: Item entity 8077470 has no item?!
+[17:08:28] [Client thread/ERROR]: Item entity 8077470 has no item?!
+[17:08:28] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你通过击杀 wdsjzhou 而获得了 10 个代币与 4 点经验!
+[17:08:28] [Client thread/INFO]: [CHAT] 空岛战争 >>> wdsjzhou 被 GLgele 斩杀了!
+[17:08:29] [Client thread/ERROR]: Item entity 8077513 has no item?!
+[17:08:29] [Client thread/ERROR]: Item entity 8077513 has no item?!
+[17:08:30] [Client thread/INFO]: [CHAT] 空岛战争 >>> shagou_ 被 4252120 制裁了!
+[17:08:30] [Client thread/INFO]: [CHAT] ===============================
+[17:08:30] [Client thread/INFO]: [CHAT]  
+[17:08:30] [Client thread/INFO]: [CHAT]     ? GLgele, 4252120, 12342222 赢得了比赛! ?
+[17:08:30] [Client thread/INFO]: [CHAT]  
+[17:08:30] [Client thread/INFO]: [CHAT]        第一名 - etao_gg - 1
+[17:08:30] [Client thread/INFO]: [CHAT]         第二名 - GLgele - 1
+[17:08:30] [Client thread/INFO]: [CHAT]          第三名 - 4252120 - 1
+[17:08:30] [Client thread/INFO]: [CHAT]  
+[17:08:30] [Client thread/INFO]: [CHAT] ===============================
+[17:08:30] [Client thread/INFO]: [CHAT] 空岛战争 >>> 恭喜! 你赢得了比赛!
+[17:08:30] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你赢得比赛获得了 50 个代币!
+[17:08:31] [Client thread/ERROR]: Item entity 8077615 has no item?!
+[17:08:33] [Client thread/INFO]: [CHAT] 
+[17:08:33] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
+[17:08:33] [Client thread/INFO]: [CHAT]       全服喇叭(大厅购买),起床VIP,改名卡,全部半折出售!
+[17:08:33] [Client thread/INFO]: [CHAT]       购买之后在主大厅输入/cdk 卡号即可
+[17:08:33] [Client thread/INFO]: [CHAT] 
+[17:08:33] [Client thread/INFO]: [CHAT]       赞助链接:http://www.mcrmb.com/fk/20444
+[17:08:33] [Client thread/INFO]: [CHAT] 
+[17:08:38] [Client thread/INFO]: [CHAT] [4] <4252120> HHHH
+[17:08:41] [Client thread/INFO]: [CHAT] [4] <4252120> hhhhhhhhh
+[17:08:43] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
+[17:08:43] [Client thread/INFO]: [CHAT] - 想要更多的代币? 请完成成就吧
+[17:08:43] [Client thread/INFO]: [CHAT] ---------------------------------------------
+[17:08:54] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (5/16)!
+[17:08:54] [Client thread/INFO]: [CHAT] 空岛战争 >>> Qi_shi_zhi_ge 加入了比赛! (6/16)!
+[17:08:54] [Client thread/INFO]: [CHAT] 空岛战争 >>> Qi_shi_zhi_ge 加入了队伍! (2/2)!
+[17:09:00] [Client thread/INFO]: [CHAT] [11] <9dogs> hhhh
+[17:09:00] [Client thread/INFO]: [CHAT] [12] <9bogs> a
+[17:09:01] [Client thread/INFO]: [CHAT] 空岛战争 >>> wdsjzhou 加入了比赛! (7/16)!
+[17:09:01] [Client thread/INFO]: [CHAT] [7] <q4561203> ！！！！！！！！！！
+[17:09:02] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 15 秒后开始!
+[17:09:02] [Client thread/INFO]: [CHAT] 空岛战争 >>> Aumo 加入了比赛! (8/16)!
+[17:09:06] [Client thread/INFO]: [CHAT] 空岛战争 >>> GYF0814 加入了比赛! (9/16)!
+[17:09:11] [Client thread/INFO]: [CHAT] [11] <9dogs> 是你a
+[17:09:12] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 5 秒后开始!
+[17:09:13] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 4 秒后开始!
+[17:09:14] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
+[17:09:15] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
+[17:09:16] [Client thread/INFO]: [CHAT] [6] <shagou_> qwq
+[17:09:16] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
+[17:09:17] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
+[17:09:18] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
+[17:09:24] [Client thread/INFO]: [CHAT] 空岛战争 >>> wdsjzhou 离开了比赛! (8/16)!
+[17:09:25] [Client thread/INFO]: [CHAT] 空岛战争 >>> 4252120 被 Qi_shi_zhi_ge 终结了!
+[17:09:28] [Client thread/INFO]: [CHAT] [11] <9dogs> 刚才coo不coo
+[17:09:36] [Client thread/INFO]: [CHAT] 空岛战争 >>> shagou_ 被 Qi_shi_zhi_ge 终结了!
+[17:09:38] [Client thread/ERROR]: Item entity 8077757 has no item?!
+[17:09:38] [Client thread/ERROR]: Item entity 8077757 has no item?!
+[17:09:38] [Client thread/ERROR]: Item entity 8077757 has no item?!
+[17:09:39] [Client thread/INFO]: [CHAT] [11] <9dogs> 我去吃饭
+[17:09:43] [Client thread/INFO]: [CHAT] [11] <9dogs> 一会玩
+[17:09:43] [Client thread/INFO]: [CHAT] [7] <q4561203> 嘿嘿嘿awa
+[17:09:43] [Client thread/INFO]: [CHAT] 空岛战争 >>> etao_gg 掉入了虚空之中!
+[17:09:46] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
+[17:09:46] [Client thread/INFO]: [CHAT] - 发现作弊玩家请及时举报!
+[17:09:46] [Client thread/INFO]: [CHAT] ---------------------------------------------
+[17:09:46] [Client thread/INFO]: [CHAT] [11] <9dogs> 拜拜
+[17:09:53] [Client thread/INFO]: [CHAT] 空岛战争 >>> Amhp 被 Aumo 终结了!
+[17:09:58] [Client thread/INFO]: [CHAT] [12] <9bogs> ...
+[17:09:59] [Client thread/INFO]: [CHAT] 空岛战争 >>> Qi_shi_zhi_ge 帮 Aumo 解脱了!
+[17:10:02] [Client thread/INFO]: [CHAT] [7] <q4561203> 小伙鸡们awa
+[17:10:08] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
+[17:10:09] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
+[17:10:10] [Client thread/INFO]: [CHAT] [11] <etao_gg> 回弹真nb
+[17:10:10] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
+[17:10:11] [Client thread/INFO]: [CHAT] §c§l[游戏世界-残疾人协会]
+[17:10:11] [Client thread/INFO]: [CHAT] §f在过去7天(168小时),一共敲死了 §e963 §f个孤儿~!
+[17:10:11] [Client thread/INFO]: [CHAT] §f请各位小阔爱洁身自好,文明游戏,共创美好游戏体验~
+[17:10:11] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你跑到了地图外边!
+[17:10:11] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 掉入了虚空之中!
+[17:10:12] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你无法离开地图!
+[17:10:13] [Client thread/INFO]: [CHAT] 
+[17:10:13] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
+[17:10:13] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
+[17:10:13] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
+[17:10:13] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
+[17:10:13] [Client thread/INFO]: [CHAT] 
+[17:10:13] [Client thread/INFO]: [CHAT]       赞助链接:http://www.mcrmb.com/fk/20444
+[17:10:13] [Client thread/INFO]: [CHAT] 
+[17:10:14] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你离开了游戏!
+[17:10:15] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 加入了比赛! (4/8)!
+[17:10:15] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 15 秒后开始!
+[17:10:27] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 5 秒后开始!
+[17:10:28] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 4 秒后开始!
+[17:10:29] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 3 秒后开始!
+[17:10:30] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 2 秒后开始!
+[17:10:30] [Client thread/INFO]: [CHAT] 空岛战争 >>> Qi_shi_zhi_ge 加入了比赛! (5/8)!
+[17:10:31] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该地图将于 1 秒后开始!
+[17:10:33] [Client thread/INFO]: [CHAT] 空岛战争 >>> 该比赛已经开始!
+[17:10:33] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你选择了职业 高阶猎人 !
+[17:10:54] [Client thread/INFO]: [CHAT] ---------------- 空战小提示 ----------------
+[17:10:54] [Client thread/INFO]: [CHAT] - 发现BUG请及时反馈给管理员!
+[17:10:54] [Client thread/INFO]: [CHAT] ---------------------------------------------
+[17:11:00] [Client thread/INFO]: [CHAT] WatchNMSL > 有一名玩家因作弊或使用非法漏洞被踢出游戏,请注意您的游戏行为!
+[17:11:04] [Client thread/INFO]: [CHAT] 空岛战争 >>> Aumo 帮 Amhp 解脱了!
+[17:11:13] [Client thread/INFO]: [CHAT] 空岛战争 >>> Aumo 被 etao_gg 斩杀了!
+[17:11:28] [Client thread/INFO]: [CHAT] [12] <9bogs> a
+[17:11:50] [Client thread/INFO]: [CHAT] 空岛战争 >>> GLgele 被 Qi_shi_zhi_ge 制裁了!
+[17:11:52] [Client thread/INFO]: [CHAT] 空岛战争 >>> 你需要等上 3.5 秒才能这么做!
+[17:11:52] [Client thread/INFO]: [CHAT] [12] <9bogs> 还打
+[17:11:53] [Client thread/INFO]: [CHAT] 
+[17:11:53] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
+[17:11:53] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[17:11:53] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[17:11:53] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[17:11:53] [Client thread/INFO]: [CHAT] 
+[17:12:01] [Client thread/INFO]: Stopping!
+[17:12:01] [Client thread/INFO]: SoundSystem shutting down...
+[17:12:02] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

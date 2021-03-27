@@ -81,7 +81,7 @@ key_key.streamCommercial:0
 key_key.streamToggleMic:0
 key_key.fullscreen:87
 key_key.spectatorOutlines:68
-key_key.hotbar.1:16
+key_key.hotbar.1:2
 key_key.hotbar.2:3
 key_key.hotbar.3:4
 key_key.hotbar.4:5
