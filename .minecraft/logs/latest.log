@@ -1,4 +1,4 @@
-[17:05:11] [Render thread/ERROR]: Failed to verify authentication
+[21:44:38] [Render thread/ERROR]: Failed to verify authentication
 com.mojang.authlib.exceptions.AuthenticationUnavailableException: null
 	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.checkPrivileges(YggdrasilSocialInteractionsService.java:83) ~[authlib-2.0.27.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.<init>(YggdrasilSocialInteractionsService.java:34) ~[authlib-2.0.27.jar:?]
@@ -6,99 +6,289 @@ com.mojang.authlib.exceptions.AuthenticationUnavailableException: null
 	at djz.a(SourceFile:625) [1.16.4.jar:?]
 	at djz.<init>(SourceFile:409) [1.16.4.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:177) [1.16.4.jar:?]
-[17:05:11] [Render thread/INFO]: Setting user: GLgele
-[17:05:12] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
-[17:05:18] [Render thread/INFO]: Narrator library for x64 successfully loaded
-[17:05:18] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, Dream-HELL
-[17:05:19] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[17:05:25] [Worker-Main-13/WARN]: Texture minecraft:item/orange_dye with size 18x18 limits mip level from 4 to 1
-[17:05:25] [Worker-Main-13/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
-[17:05:26] [Render thread/INFO]: OpenAL initialized.
-[17:05:26] [Render thread/INFO]: Sound engine started
-[17:05:27] [Render thread/INFO]: Created: 1024x1024x1 minecraft:textures/atlas/blocks.png-atlas
-[17:05:27] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[17:05:27] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[17:05:27] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[17:05:27] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[17:05:27] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[17:05:27] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[17:05:28] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[17:05:28] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[17:05:28] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[17:05:35] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:05:35] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:05:35] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:05:35] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:05:35] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:05:35] [Render thread/INFO]: Reloading ResourceManager: Default
-[17:05:35] [Render thread/INFO]: Loaded 7 recipes
-[17:05:35] [Render thread/INFO]: Loaded 927 advancements
-[17:05:37] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:57545/https/api.mojang.com', sessionHost='http://127.0.0.1:57545/https/sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:05:37] [Server thread/INFO]: Starting integrated minecraft server version 1.16.4
-[17:05:37] [Server thread/INFO]: Generating keypair
-[17:05:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:05:38] [Render thread/INFO]: 准备生成区域中：0%
-[17:05:38] [Render thread/INFO]: 准备生成区域中：0%
-[17:05:38] [Render thread/INFO]: 准备生成区域中：0%
-[17:05:38] [Render thread/INFO]: 准备生成区域中：24%
-[17:05:39] [Render thread/INFO]: Time elapsed: 1800 ms
-[17:05:39] [Server thread/INFO]: Changing view distance to 7, from 10
-[17:05:42] [Server thread/INFO]: GLgele[local:E:409c8ed5] logged in with entity id 122 at (59.30000001192093, 64.0, -174.49828375741615)
-[17:05:42] [Server thread/INFO]: GLgele加入了游戏
-[17:05:43] [Server thread/INFO]: Saving and pausing game...
-[17:05:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
-[17:05:43] [Render thread/INFO]: Loaded 3 advancements
-[17:05:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
-[17:05:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
-[17:05:46] [Render thread/INFO]: Using default channel type
-[17:05:46] [Render thread/INFO]: Started serving on 57622
-[17:05:46] [Render thread/INFO]: [CHAT] 本地游戏已在端口57622上开启
-[17:06:06] [Render thread/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
-[17:06:06] [Render thread/INFO]: Loaded 7 advancements
-[17:06:13] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为旁观模式 ]
-[17:06:13] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[17:06:26] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为生存模式 ]
-[17:06:26] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为生存模式 
-[17:06:26] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为旁观模式 ]
-[17:06:26] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[17:06:27] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为生存模式 ]
-[17:06:27] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为生存模式 
-[17:06:28] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为旁观模式 ]
-[17:06:28] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[17:06:29] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为创造模式 ]
-[17:06:29] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:07:02] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为旁观模式 ]
-[17:07:02] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[17:07:11] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为创造模式 ]
-[17:07:11] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:07:16] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为旁观模式 ]
-[17:07:16] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为旁观模式 
-[17:07:18] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为创造模式 ]
-[17:07:18] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
-[17:07:22] [Render thread/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
-[17:07:32] [Server thread/WARN]: Entity aah['GLgele'/122, l='ServerLevel[- Dream Practice World -]', x=-945.68, y=244.00, z=1037.47] left loaded chunk area
-[17:08:10] [Server thread/INFO]: GLgele从高处摔了下来
-[17:08:10] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
-[17:08:17] [Render thread/INFO]: Loaded 13 advancements
-[17:08:38] [Server thread/WARN]: Entity aah['GLgele'/122, l='ServerLevel[- Dream Practice World -]', x=2.27, y=65.00, z=-723.70] left loaded chunk area
-[17:08:45] [Server thread/INFO]: GLgele从高处摔了下来
-[17:08:45] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
-[17:08:51] [Server thread/WARN]: Entity aah['GLgele'/122, l='ServerLevel[- Dream Practice World -]', x=2644.11, y=202.00, z=1792.14] left loaded chunk area
-[17:09:12] [Server thread/INFO]: GLgele试图在熔岩里游泳
-[17:09:12] [Render thread/INFO]: [CHAT] GLgele试图在熔岩里游泳
-[17:09:14] [Server thread/INFO]: GLgele lost connection: 连接中止
-[17:09:14] [Server thread/INFO]: GLgele退出了游戏
-[17:09:14] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[17:09:14] [Server thread/INFO]: Stopping server
-[17:09:14] [Server thread/INFO]: Saving players
-[17:09:14] [Server thread/INFO]: Saving worlds
-[17:09:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
-[17:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (Dream Practice World): All chunks are saved
-[17:09:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
-[17:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:09:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
-[17:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (Dream Practice World): All chunks are saved
-[17:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:09:15] [Render thread/INFO]: Stopping!
+[21:44:38] [Render thread/INFO]: Setting user: GLgele
+[21:44:38] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[21:44:43] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[21:44:43] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, Dream-HELL
+[21:44:45] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:44:52] [Worker-Main-13/WARN]: Texture minecraft:item/orange_dye with size 18x18 limits mip level from 4 to 1
+[21:44:52] [Worker-Main-13/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
+[21:44:53] [Render thread/INFO]: OpenAL initialized.
+[21:44:53] [Render thread/INFO]: Sound engine started
+[21:44:54] [Render thread/INFO]: Created: 1024x1024x1 minecraft:textures/atlas/blocks.png-atlas
+[21:44:54] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[21:44:54] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:44:54] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:44:54] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:44:54] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:44:54] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:44:55] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:44:55] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:44:56] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:46:26] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:46:26] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:46:26] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:46:26] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:46:26] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:46:26] [Render thread/INFO]: Reloading ResourceManager: Default
+[21:46:27] [Render thread/INFO]: Loaded 7 recipes
+[21:46:27] [Render thread/INFO]: Loaded 927 advancements
+[21:46:28] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:50354/https/api.mojang.com', sessionHost='http://127.0.0.1:50354/https/sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:46:28] [Server thread/INFO]: Starting integrated minecraft server version 1.16.4
+[21:46:28] [Server thread/INFO]: Generating keypair
+[21:46:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:46:29] [Render thread/INFO]: 准备生成区域中：0%
+[21:46:29] [Render thread/INFO]: 准备生成区域中：0%
+[21:46:29] [Render thread/INFO]: 准备生成区域中：0%
+[21:46:30] [Render thread/INFO]: Time elapsed: 1509 ms
+[21:46:30] [Server thread/INFO]: Changing view distance to 7, from 10
+[21:46:32] [Server thread/INFO]: GLgele[local:E:7962ec77] logged in with entity id 123 at (109.5, 87.0, -168.5)
+[21:46:32] [Server thread/INFO]: GLgele加入了游戏
+[21:46:32] [Server thread/INFO]: Saving and pausing game...
+[21:46:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:46:33] [Render thread/INFO]: Loaded 13 advancements
+[21:46:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:46:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:46:58] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=2644.11, y=202.00, z=1792.14] left loaded chunk area
+[21:47:16] [Server thread/INFO]: GLgele试图在熔岩里游泳
+[21:47:16] [Render thread/INFO]: [CHAT] GLgele试图在熔岩里游泳
+[21:47:20] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=2416.07, y=195.00, z=2056.80] left loaded chunk area
+[21:47:27] [Server thread/INFO]: GLgele从高处摔了下来
+[21:47:27] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:47:31] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=2416.07, y=195.00, z=2056.80] left loaded chunk area
+[21:47:55] [Render thread/INFO]: Loaded 25 advancements
+[21:48:14] [Server thread/INFO]: GLgele掉出了这个世界
+[21:48:14] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[21:48:14] [Server thread/INFO]: [GLgele: 已清除GLgele]
+[21:48:14] [Render thread/INFO]: [CHAT] 已清除GLgele
+[21:48:19] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=596.87, y=125.00, z=3192.30] left loaded chunk area
+[21:48:23] [Server thread/INFO]: GLgele从高处摔了下来
+[21:48:23] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:48:27] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=596.87, y=125.00, z=3192.30] left loaded chunk area
+[21:48:30] [Server thread/INFO]: GLgele从高处摔了下来
+[21:48:30] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:48:34] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=2580.46, y=146.00, z=2028.91] left loaded chunk area
+[21:48:50] [Server thread/INFO]: GLgele试图在熔岩里游泳
+[21:48:50] [Render thread/INFO]: [CHAT] GLgele试图在熔岩里游泳
+[21:48:55] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=596.87, y=125.00, z=3192.30] left loaded chunk area
+[21:48:58] [Server thread/INFO]: GLgele从高处摔了下来
+[21:48:58] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:49:02] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=596.87, y=125.00, z=3192.30] left loaded chunk area
+[21:49:28] [Server thread/INFO]: GLgele试图在熔岩里游泳
+[21:49:28] [Render thread/INFO]: [CHAT] GLgele试图在熔岩里游泳
+[21:50:45] [Server thread/INFO]: GLgele试图在熔岩里游泳
+[21:50:45] [Render thread/INFO]: [CHAT] GLgele试图在熔岩里游泳
+[21:50:51] [Server thread/INFO]: GLgele取得了进度[勇往直下]
+[21:50:51] [Server thread/INFO]: Saving and pausing game...
+[21:50:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:50:51] [Render thread/INFO]: [CHAT] GLgele取得了进度[勇往直下]
+[21:50:51] [Render thread/INFO]: Loaded 52 advancements
+[21:50:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:50:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:50:51] [Render thread/INFO]: Loaded 52 advancements
+[21:50:52] [Render thread/WARN]: Received passengers for unknown entity
+[21:51:02] [Server thread/INFO]: GLgele从高处摔了下来
+[21:51:02] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:51:03] [Server thread/INFO]: Saving and pausing game...
+[21:51:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:51:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:51:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:51:08] [Render thread/WARN]: Received passengers for unknown entity
+[21:51:17] [Server thread/INFO]: GLgele从高处摔了下来
+[21:51:17] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:51:18] [Server thread/INFO]: Saving and pausing game...
+[21:51:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:51:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:51:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:51:23] [Render thread/WARN]: Received passengers for unknown entity
+[21:51:30] [Server thread/INFO]: GLgele从高处摔了下来
+[21:51:30] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:51:31] [Server thread/INFO]: Saving and pausing game...
+[21:51:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:51:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:51:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:51:42] [Render thread/WARN]: Received passengers for unknown entity
+[21:51:45] [Server thread/INFO]: GLgele从高处摔了下来
+[21:51:45] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:51:46] [Server thread/INFO]: Saving and pausing game...
+[21:51:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:51:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:51:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:51:49] [Render thread/WARN]: Received passengers for unknown entity
+[21:51:52] [Server thread/INFO]: GLgele从高处摔了下来
+[21:51:52] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:51:53] [Server thread/INFO]: Saving and pausing game...
+[21:51:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:51:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:51:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:51:58] [Server thread/INFO]: GLgele从高处摔了下来
+[21:51:58] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:51:59] [Server thread/INFO]: Saving and pausing game...
+[21:51:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:51:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:52:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:52:02] [Server thread/INFO]: Saving and pausing game...
+[21:52:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:52:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:52:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:52:25] [Server thread/INFO]: GLgele试图在熔岩里游泳
+[21:52:26] [Render thread/INFO]: [CHAT] GLgele试图在熔岩里游泳
+[21:52:27] [Server thread/INFO]: Saving and pausing game...
+[21:52:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:52:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:52:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:52:38] [Server thread/INFO]: GLgele取得了进度[结束了？]
+[21:52:38] [Render thread/INFO]: [CHAT] GLgele取得了进度[结束了？]
+[21:52:38] [Render thread/INFO]: Loaded 58 advancements
+[21:52:46] [Server thread/INFO]: GLgele从高处摔了下来
+[21:52:46] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:52:47] [Server thread/INFO]: Saving and pausing game...
+[21:52:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:52:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:52:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:52:58] [Server thread/INFO]: GLgele从高处摔了下来
+[21:52:58] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:53:00] [Server thread/INFO]: Saving and pausing game...
+[21:53:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:53:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:53:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:53:08] [Server thread/INFO]: GLgele从高处摔了下来
+[21:53:08] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:53:09] [Server thread/INFO]: Saving and pausing game...
+[21:53:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:53:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:53:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:53:18] [Server thread/INFO]: GLgele从高处摔了下来
+[21:53:18] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:53:20] [Server thread/INFO]: Saving and pausing game...
+[21:53:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:53:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:53:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:53:26] [Server thread/INFO]: GLgele取得了进度[在游戏尽头的城市]
+[21:53:27] [Render thread/INFO]: [CHAT] GLgele取得了进度[在游戏尽头的城市]
+[21:53:27] [Render thread/INFO]: Loaded 61 advancements
+[21:53:59] [Server thread/INFO]: GLgele从高处摔了下来
+[21:53:59] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:54:00] [Server thread/INFO]: Saving and pausing game...
+[21:54:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:54:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:54:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:54:08] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=-960.84, y=246.00, z=1059.50] left loaded chunk area
+[21:54:30] [Server thread/INFO]: GLgele从高处摔了下来
+[21:54:30] [Render thread/INFO]: [CHAT] GLgele从高处摔了下来
+[21:54:55] [Render thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[21:55:06] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=-1063.44, y=70.38, z=1158.00] left loaded chunk area
+[21:55:59] [Server thread/INFO]: [GLgele: 已将1个[水桶]给予GLgele]
+[21:55:59] [Render thread/INFO]: [CHAT] 已将1个[水桶]给予GLgele
+[21:56:07] [Server thread/INFO]: GLgele掉出了这个世界
+[21:56:07] [Server thread/INFO]: [GLgele: 已清除GLgele]
+[21:56:07] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[21:56:07] [Render thread/INFO]: [CHAT] 已清除GLgele
+[21:56:11] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=-1058.61, y=64.63, z=1241.00] left loaded chunk area
+[21:56:41] [Server thread/INFO]: GLgele掉出了这个世界
+[21:56:41] [Server thread/INFO]: [GLgele: 已清除GLgele]
+[21:56:41] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[21:56:41] [Render thread/INFO]: [CHAT] 已清除GLgele
+[21:56:47] [Server thread/INFO]: Saving and pausing game...
+[21:56:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:56:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:56:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:56:48] [Render thread/INFO]: Loaded 61 advancements
+[21:56:54] [Server thread/INFO]: GLgele试图在熔岩里游泳
+[21:56:54] [Render thread/INFO]: [CHAT] GLgele试图在熔岩里游泳
+[21:56:55] [Server thread/INFO]: Saving and pausing game...
+[21:56:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:56:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:56:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:57:00] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=266.50, y=94.00, z=-397.50] left loaded chunk area
+[21:57:08] [Render thread/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[21:57:08] [Server thread/INFO]: GLgele掉出了这个世界
+[21:57:08] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[21:57:09] [Server thread/INFO]: Saving and pausing game...
+[21:57:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:57:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:57:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:57:26] [Server thread/INFO]: GLgele掉出了这个世界
+[21:57:26] [Server thread/INFO]: [GLgele: 已清除GLgele]
+[21:57:26] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[21:57:26] [Render thread/INFO]: [CHAT] 已清除GLgele
+[21:57:33] [Server thread/INFO]: GLgele取得了进度[热腾腾的]
+[21:57:33] [Render thread/INFO]: [CHAT] GLgele取得了进度[热腾腾的]
+[21:57:34] [Render thread/INFO]: Loaded 61 advancements
+[21:57:51] [Render thread/INFO]: Loaded 61 advancements
+[21:58:10] [Render thread/INFO]: Loaded 62 advancements
+[21:58:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4517ms or 90 ticks behind
+[21:58:43] [Render thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[21:58:43] [Server thread/WARN]: Entity aah['GLgele'/123, l='ServerLevel[- Dream Practice World -]', x=266.50, y=94.00, z=-397.50] left loaded chunk area
+[21:58:49] [Render thread/INFO]: [CHAT] 你的游戏模式已被更新为生存模式
+[21:58:49] [Server thread/INFO]: GLgele掉出了这个世界
+[21:58:49] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[21:58:51] [Server thread/INFO]: GLgele取得了进度[隔墙有眼]
+[21:58:51] [Render thread/INFO]: [CHAT] GLgele取得了进度[隔墙有眼]
+[21:58:51] [Render thread/INFO]: Loaded 62 advancements
+[21:59:04] [Server thread/INFO]: GLgele取得了进度[这不是铁镐么]
+[21:59:04] [Server thread/INFO]: GLgele取得了进度[石器时代]
+[21:59:04] [Server thread/INFO]: GLgele取得了进度[钻石护体]
+[21:59:04] [Render thread/INFO]: [CHAT] GLgele取得了进度[这不是铁镐么]
+[21:59:04] [Render thread/INFO]: [CHAT] GLgele取得了进度[石器时代]
+[21:59:04] [Render thread/INFO]: [CHAT] GLgele取得了进度[钻石护体]
+[21:59:04] [Render thread/INFO]: Loaded 81 advancements
+[21:59:27] [Render thread/INFO]: [CHAT] Peaceful
+[21:59:44] [Server thread/INFO]: Saving and pausing game...
+[21:59:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[21:59:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[21:59:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[21:59:46] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:59:46] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[22:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25945ms or 518 ticks behind
+[22:00:37] [Render thread/INFO]: [CHAT] 未找到实体
+[22:00:39] [Render thread/INFO]: [CHAT] 未找到实体
+[22:00:42] [Server thread/INFO]: GLgele掉出了这个世界
+[22:00:42] [Server thread/INFO]: [GLgele: 杀死了133个实体]
+[22:00:42] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[22:00:42] [Render thread/INFO]: [CHAT] 杀死了133个实体
+[22:00:43] [Server thread/INFO]: Saving and pausing game...
+[22:00:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[22:00:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[22:00:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[22:00:49] [Render thread/INFO]: [CHAT] Peaceful
+[22:01:30] [Server thread/INFO]: [GLgele: 你的游戏模式已被设置为创造模式 ]
+[22:01:30] [Render thread/INFO]: [CHAT] 你的游戏模式已被设置为创造模式 
+[22:02:28] [Server thread/INFO]: GLgele取得了进度[瞄准目标]
+[22:02:28] [Render thread/INFO]: [CHAT] GLgele取得了进度[瞄准目标]
+[22:02:28] [Render thread/INFO]: Loaded 86 advancements
+[22:07:00] [Server thread/INFO]: GLgele取得了进度[解放末地]
+[22:07:00] [Server thread/INFO]: GLgele取得了进度[怪物猎人]
+[22:07:00] [Render thread/INFO]: [CHAT] GLgele取得了进度[解放末地]
+[22:07:00] [Render thread/INFO]: [CHAT] GLgele取得了进度[怪物猎人]
+[22:07:00] [Render thread/INFO]: Loaded 98 advancements
+[22:07:20] [Server thread/INFO]: Saving and pausing game...
+[22:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[22:07:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[22:07:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[22:07:22] [Server thread/INFO]: GLgele掉出了这个世界
+[22:07:22] [Server thread/INFO]: [GLgele: 已清除GLgele]
+[22:07:22] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[22:07:22] [Render thread/INFO]: [CHAT] 已清除GLgele
+[22:07:30] [Server thread/INFO]: GLgele掉出了这个世界
+[22:07:30] [Render thread/INFO]: [CHAT] GLgele掉出了这个世界
+[22:07:32] [Server thread/INFO]: Saving and pausing game...
+[22:07:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[22:07:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[22:07:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[22:07:32] [Server thread/INFO]: GLgele lost connection: 连接中止
+[22:07:32] [Server thread/INFO]: GLgele退出了游戏
+[22:07:32] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:07:32] [Server thread/INFO]: Stopping server
+[22:07:32] [Server thread/INFO]: Saving players
+[22:07:32] [Server thread/INFO]: Saving worlds
+[22:07:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[22:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Dream Practice World): All chunks are saved
+[22:07:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[22:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:07:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[22:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Dream Practice World): All chunks are saved
+[22:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:07:33] [Render thread/INFO]: Stopping!
