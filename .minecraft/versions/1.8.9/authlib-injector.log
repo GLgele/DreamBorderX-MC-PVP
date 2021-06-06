@@ -1,11 +1,11 @@
-Logging started at 2021-06-05T14:21:30.390Z
+Logging started at 2021-06-06T03:12:59.167Z
 [authlib-injector] [INFO] Version: 1.1.35
 [authlib-injector] [INFO] Authentication server: https://mcskin.littleservice.cn/api/yggdrasil/
 [authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
 [authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Callback Metafactory Transformer]
 [authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Class File Version Transformer]
 [authlib-injector] [INFO] Enable MC-52974 Workaround
-[authlib-injector] [INFO] Httpd is running on port 57607
+[authlib-injector] [INFO] Httpd is running on port 64492
 [authlib-injector] [INFO] Transformed [bet] with [Constant URL Transformer]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository] with [Constant URL Transformer]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Constant URL Transformer]
