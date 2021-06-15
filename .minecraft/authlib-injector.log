@@ -1,0 +1,12 @@
+Logging started at 2021-06-15T08:50:18.916Z
+[authlib-injector] [INFO] Version: 1.1.37
+[authlib-injector] [INFO] Authentication server: https://mcskin.littleservice.cn/api/yggdrasil/
+[authlib-injector] [INFO] Polyfill privileges API
+[authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
+[authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Callback Metafactory Transformer]
+[authlib-injector] [INFO] Httpd is running on port 49566
+[authlib-injector] [INFO] Transformed [dzj] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilEnvironment] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Texture Whitelist Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Yggdrasil Public Key Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Callback Metafactory Transformer]
