@@ -1,168 +1,28 @@
-[22:17:34] [Client thread/INFO]: Setting user: GLgele
-[22:17:34] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI2YmZkMWQ1YjljYmU0N2U5ODk2NGE4MWI1OGU4MDFkNSIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOiIxNjI1MDIxMDQ1Ljc0OTk0MyIsImlhdCI6IjE2MjQ3NjE4NDUuNzQ5OTQzIn0.8GN7uSCI28IKQWyEFSsu-eUYxp6G5ayUEq4sju-M2bE:84e8de8ef6d94371835b6844cb7ff0e9)
-[22:17:36] [Client thread/INFO]: LWJGL Version: 2.9.4
-[22:17:37] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
-[22:17:37] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[22:17:37] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[22:17:37] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[22:17:37] [Thread-7/INFO]: OpenAL initialized.
-[22:17:37] [Sound Library Loader/INFO]: Sound engine started
-[22:17:39] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
-[22:17:39] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
-[22:17:40] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[22:17:41] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:45] [Client thread/INFO]: [CHAT] 
-[22:17:46] [Client thread/INFO]: [CHAT] 
-[22:17:46] [Client thread/INFO]: [CHAT] 
-[22:17:46] [Client thread/INFO]: [CHAT] 
-[22:17:46] [Client thread/INFO]: [CHAT] 
-[22:17:46] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[22:17:46] [Client thread/INFO]: [CHAT] -欢迎来到 游戏世界 服务器
-[22:17:46] [Client thread/INFO]: [CHAT] -按T〔或回车〕输入"/l 密码"进行登录
-[22:17:46] [Client thread/INFO]: [CHAT] -比如: /l 23366 即可登录! 
-[22:17:46] [Client thread/INFO]: [CHAT] -
-[22:17:46] [Client thread/INFO]: [CHAT] -如果显示需要登录,说明该游戏名已在服务器注册
-[22:17:46] [Client thread/INFO]: [CHAT] -你可以更改游戏名,请在启动器界面换游戏名注册
-[22:17:46] [Client thread/INFO]: [CHAT] -服务器QQ群:904935011 牢记服务器IP地址:play.mcyc.win
-[22:17:46] [Client thread/INFO]: [CHAT] --------------------------------------------------
-[22:17:47] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:324) ~[1.8.9.jar:?]
-	at hz.a(SourceFile:66) ~[1.8.9.jar:?]
-	at hz.a(SourceFile:10) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[22:18:08] [Client thread/INFO]: Connecting to mc.munchymc.com., 25565
-[22:18:20] [Client thread/INFO]: Connecting to mc.munchymc.com., 25565
-[22:18:25] [Client thread/INFO]: Stopping!
-[22:18:25] [Client thread/INFO]: SoundSystem shutting down...
-[22:18:25] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[09:31:49] [Client thread/INFO]: Setting user: GLgele
+[09:31:49] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiJiNWY1YmQ2Yzk2M2I0ZGZmYjk3ODAwMjNmYzVmMTc1OCIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOiIxNjI2NDg1NTA1LjcwMDM2OCIsImlhdCI6IjE2MjYyMjYzMDUuNzAwMzY4In0.0ov9o7y2U0ZB0yTGmrLpP7siP2EfjOJb8NAG9C3WIPc:84e8de8ef6d94371835b6844cb7ff0e9)
+[09:31:50] [Client thread/INFO]: LWJGL Version: 2.9.4
+[09:31:51] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
+[09:31:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:31:51] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[09:31:51] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:31:51] [Thread-7/INFO]: OpenAL initialized.
+[09:31:52] [Sound Library Loader/INFO]: Sound engine started
+[09:31:52] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
+[09:31:52] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[09:31:54] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[09:31:54] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
+[09:32:17] [Server Connector #1/ERROR]: Couldn't connect to server
+java.net.ConnectException: Connection timed out: no further information: play.mcyc.win/101.71.48.6:25565
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_251]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717) ~[?:1.8.0_251]
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:208) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:287) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:748) ~[?:1.8.0_251]
+[09:33:18] [Client thread/INFO]: Stopping!
+[09:33:18] [Client thread/INFO]: SoundSystem shutting down...
+[09:33:19] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
