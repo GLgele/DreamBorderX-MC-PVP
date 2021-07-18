@@ -1,4 +1,4 @@
-version:2586
+version:2584
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -33,9 +33,9 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","programer_art","file/Dream-HELL"]
+resourcePacks:["vanilla","programer_art"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:glgele.e1.luyouxia.net:33505
 lang:zh_cn
 chatVisibility:0
 chatOpacity:1.0

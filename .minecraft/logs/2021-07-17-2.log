@@ -1,0 +1,58 @@
+[15:34:48] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:59128/https/api.mojang.com', sessionHost='http://127.0.0.1:59128/https/sessionserver.mojang.com', servicesHost='http://127.0.0.1:59128/https/api.minecraftservices.com', name='PROD'
+[15:34:48] [Render thread/INFO]: Setting user: GLgele
+[15:34:49] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[15:34:53] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[15:34:54] [Render thread/INFO]: Reloading ResourceManager: Default, Programmer Art, Dream-HELL
+[15:34:57] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[15:35:01] [Worker-Main-10/WARN]: Texture minecraft:item/orange_dye with size 18x18 limits mip level from 4 to 1
+[15:35:01] [Worker-Main-10/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 1, because of minimum power of two: 2
+[15:35:03] [Render thread/INFO]: OpenAL initialized.
+[15:35:03] [Render thread/INFO]: Sound engine started
+[15:35:03] [Render thread/INFO]: Created: 1024x1024x1 minecraft:textures/atlas/blocks.png-atlas
+[15:35:03] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[15:35:03] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:35:03] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:35:03] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:35:03] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:35:03] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:35:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:35:05] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:35:05] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:35:16] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:35:16] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:35:16] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:35:16] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:35:16] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:35:16] [Render thread/INFO]: Reloading ResourceManager: Default
+[15:35:16] [Render thread/INFO]: Loaded 7 recipes
+[15:35:17] [Render thread/INFO]: Loaded 927 advancements
+[15:35:17] [Render thread/INFO]: Environment: authHost='https://mcskin.littleservice.cn/api/yggdrasil/authserver', accountsHost='http://127.0.0.1:59128/https/api.mojang.com', sessionHost='http://127.0.0.1:59128/https/sessionserver.mojang.com', servicesHost='http://127.0.0.1:59128/https/api.minecraftservices.com', name='PROD'
+[15:35:17] [Server thread/INFO]: Starting integrated minecraft server version 1.16.4
+[15:35:17] [Server thread/INFO]: Generating keypair
+[15:35:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:35:18] [Render thread/INFO]: 准备生成区域中：0%
+[15:35:18] [Render thread/INFO]: 准备生成区域中：0%
+[15:35:18] [Render thread/INFO]: 准备生成区域中：79%
+[15:35:18] [Render thread/INFO]: Time elapsed: 1065 ms
+[15:35:19] [Server thread/INFO]: Changing view distance to 7, from 10
+[15:35:20] [Server thread/INFO]: GLgele[local:E:7d8e9f85] logged in with entity id 92 at (147.55805038130444, 83.0, -32.11252614722127)
+[15:35:20] [Server thread/INFO]: GLgele加入了游戏
+[15:35:20] [Server thread/INFO]: Saving and pausing game...
+[15:35:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[15:35:21] [Render thread/INFO]: Loaded 100 advancements
+[15:35:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[15:35:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[15:35:22] [Server thread/INFO]: Saving and pausing game...
+[15:35:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[15:35:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[15:35:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[15:35:30] [Render thread/INFO]: [CHAT] 你的游戏模式已被更新为冒险模式
+[15:35:37] [Server thread/INFO]: [GLgele: 已将世界的出生点设置为63, 64, -179 [0.0]]
+[15:35:37] [Render thread/INFO]: [CHAT] 已将世界的出生点设置为63, 64, -179 [0.0]
+[15:35:37] [Server thread/INFO]: Saving and pausing game...
+[15:35:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:overworld
+[15:35:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_nether
+[15:35:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[- Dream Practice World -]'/minecraft:the_end
+[15:35:39] [Render thread/INFO]: Using default channel type
+[15:35:39] [Render thread/INFO]: Started serving on 52777
+[15:35:39] [Render thread/INFO]: [CHAT] 本地游戏已在端口52777上开启
