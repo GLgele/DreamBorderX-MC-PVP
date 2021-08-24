@@ -1,28 +1,854 @@
-[09:31:49] [Client thread/INFO]: Setting user: GLgele
-[09:31:49] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiJiNWY1YmQ2Yzk2M2I0ZGZmYjk3ODAwMjNmYzVmMTc1OCIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOiIxNjI2NDg1NTA1LjcwMDM2OCIsImlhdCI6IjE2MjYyMjYzMDUuNzAwMzY4In0.0ov9o7y2U0ZB0yTGmrLpP7siP2EfjOJb8NAG9C3WIPc:84e8de8ef6d94371835b6844cb7ff0e9)
-[09:31:50] [Client thread/INFO]: LWJGL Version: 2.9.4
-[09:31:51] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
-[09:31:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[09:31:51] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[09:31:51] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[09:31:51] [Thread-7/INFO]: OpenAL initialized.
-[09:31:52] [Sound Library Loader/INFO]: Sound engine started
-[09:31:52] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
-[09:31:52] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
-[09:31:54] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[09:31:54] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
-[09:32:17] [Server Connector #1/ERROR]: Couldn't connect to server
-java.net.ConnectException: Connection timed out: no further information: play.mcyc.win/101.71.48.6:25565
-	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[?:1.8.0_251]
-	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717) ~[?:1.8.0_251]
-	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:208) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
-	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:287) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:528) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) ~[netty-all-4.0.23.Final.jar:4.0.23.Final]
-	at java.lang.Thread.run(Thread.java:748) ~[?:1.8.0_251]
-[09:33:18] [Client thread/INFO]: Stopping!
-[09:33:18] [Client thread/INFO]: SoundSystem shutting down...
-[09:33:19] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[19:31:46] [Client thread/INFO]: Setting user: GLgele
+[19:31:46] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI4MmVkNTVhMWY3OWU0MjRjOGE2MjBhZjgyNDI5MWFmYyIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MzAwNjM4NjEuNDI5MjMxLCJpYXQiOjE2Mjk4MDQ2NjEuNDI5MjMxfQ.uStooIOQMZvmrhL5CtB1Z310CBOSBAiIGPbGZsoqMjs:84e8de8ef6d94371835b6844cb7ff0e9)
+[19:31:50] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:31:52] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
+[19:31:53] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:31:53] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[19:31:53] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:31:53] [Thread-7/INFO]: OpenAL initialized.
+[19:31:53] [Sound Library Loader/INFO]: Sound engine started
+[19:31:58] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
+[19:31:58] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[19:32:00] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[19:32:02] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
+[19:32:09] [Client thread/INFO]: [CHAT]        
+[19:32:10] [Client thread/INFO]: [CHAT] 你需要注册，注册指令：/register 密码 确认密码 验证码 。请通过 你背包里的地图 来查看验证码，若无法看到，请尝试更换 1.12.2纯净原版客户端再试
+[19:32:47] [Client thread/INFO]: Connecting to dx.mcyc.win, 25565
+[19:32:50] [Client thread/INFO]: [CHAT]        
+[19:32:50] [Client thread/INFO]: [CHAT] 你需要注册，注册指令：/register 密码 确认密码 验证码 。请通过 你背包里的地图 来查看验证码，若无法看到，请尝试更换 1.12.2纯净原版客户端再试
+[19:33:05] [Client thread/INFO]: [CHAT] [?] 你输入的两次密码不一致!
+[19:33:12] [Client thread/INFO]: [CHAT] 
+[?] 欢迎来到游戏世界! 这里是关于登录系统的一些常用指令:
+
+  ? /unregister <密码>
+  ? /changepassword <当前-密码> <新-密码>
+  ? /createpassword <密码>
+  ? /premium <密码>
+  ? /cracked <密码>
+  ? /startsession
+  ? /destroysession
+  ? /changeemailaddress <密码> <邮箱地址>
+  ? /recoverypassword <邮箱地址>
+
+
+[19:33:14] [Client thread/INFO]: [CHAT]        
+[19:33:14] [Client thread/INFO]: [CHAT] + GLgele
+[19:33:14] [Client thread/INFO]: [CHAT] GLgele has made the advancement [Diamonds!]
+[19:33:23] [Client thread/INFO]: [CHAT] - pingouin
+[19:33:24] [Client thread/INFO]: [CHAT] + chenze
+[19:33:24] [Client thread/INFO]: [CHAT] + lurou
+[19:33:24] [Client thread/INFO]: [CHAT] + tan100
+[19:33:26] [Client thread/INFO]: [CHAT] + zhiaiwzh
+[19:33:29] [Client thread/INFO]: [CHAT] - cajin
+[19:33:30] [Client thread/INFO]: [CHAT] - tan100
+[19:33:33] [Client thread/INFO]: [CHAT] - zhiaiwzh
+[19:33:36] [Client thread/INFO]: [CHAT] - lurou
+[19:33:39] [Client thread/INFO]: [CHAT]        
+[19:33:39] [Client thread/INFO]: [CHAT] + GLgele
+[19:33:39] [Client thread/INFO]: [CHAT] GLgele has made the advancement [Diamonds!]
+[19:33:42] [Client thread/INFO]: [CHAT] + GroFireMan
+[19:33:42] [Client thread/INFO]: [CHAT] GroFireMan has made the advancement [Diamonds!]
+[19:33:43] [Client thread/INFO]: [CHAT] + xing_qiong
+[19:33:44] [Client thread/INFO]: [CHAT] + cangka666
+[19:33:49] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
+[19:33:57] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
+[19:33:59] [Client thread/INFO]: [CHAT] + 20000002
+[19:34:05] [Client thread/INFO]: [CHAT] + Turbo_05
+[19:34:05] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
+[19:34:07] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
+[19:34:11] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
+[19:34:13] [Client thread/INFO]: [CHAT] + QiQi
+[19:34:13] [Client thread/INFO]: [CHAT] QiQi has made the advancement [Diamonds!]
+[19:34:17] [Client thread/INFO]: [CHAT] + Game
+[19:34:18] [Client thread/INFO]: [CHAT] § 
+[19:34:20] [Client thread/INFO]: [CHAT] § 你成功加入了 黄队
+[19:34:20] [Client thread/INFO]: [CHAT] § Game 加入了游戏!
+[19:34:22] [Client thread/INFO]: [CHAT] 
+[19:34:22] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
+[19:34:22] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[19:34:22] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[19:34:22] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[19:34:22] [Client thread/INFO]: [CHAT] 
+[19:34:22] [Client thread/INFO]: [CHAT] § pingouin 加入了游戏!
+[19:34:23] [Client thread/INFO]: [CHAT] § QiQi 加入了游戏!
+[19:34:23] [Client thread/INFO]: [CHAT] § Adrienswastaken 加入了游戏!
+[19:34:29] [Client thread/INFO]: [CHAT] § uio 加入了游戏!
+[19:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:39] [Client thread/INFO]: [CHAT] § Craft_BC 加入了游戏!
+[19:34:45] [Client thread/INFO]: [CHAT] § bilibiliyzdsb 加入了游戏!
+[19:34:47] [Client thread/INFO]: [CHAT] § Gamemod 加入了游戏!
+[19:34:50] [Client thread/INFO]: [CHAT] [初来乍到] Adrienswastaken > H502?
+[19:34:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:52] [Client thread/INFO]: [CHAT] § chong_ni 加入了游戏!
+[19:34:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:53] [Client thread/ERROR]: Couldn't load skin d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\assets\skins\2c\2c13ef32f159d372fdb4c43639190e7583e4bbd54a7d42f44eeeb59eb5ab7256
+javax.imageio.IIOException: Error reading PNG image data
+	at com.sun.imageio.plugins.png.PNGImageReader.readImage(PNGImageReader.java:1345) ~[?:1.8.0_251]
+	at com.sun.imageio.plugins.png.PNGImageReader.read(PNGImageReader.java:1614) ~[?:1.8.0_251]
+	at javax.imageio.ImageIO.read(ImageIO.java:1448) ~[?:1.8.0_251]
+	at javax.imageio.ImageIO.read(ImageIO.java:1308) ~[?:1.8.0_251]
+	at bma.a(SourceFile:82) [1.8.9.jar:?]
+	at bmj.a(SourceFile:56) [1.8.9.jar:?]
+	at bnp.a(SourceFile:87) [1.8.9.jar:?]
+	at bnp$3$1.run(SourceFile:114) [1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_251]
+	at g.a(SourceFile:44) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240) ~[?:1.8.0_251]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158) ~[?:1.8.0_251]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_251]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286) ~[?:1.8.0_251]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_251]
+	at java.io.DataInputStream.readFully(DataInputStream.java:195) ~[?:1.8.0_251]
+	at com.sun.imageio.plugins.png.PNGImageReader.decodePass(PNGImageReader.java:1119) ~[?:1.8.0_251]
+	at com.sun.imageio.plugins.png.PNGImageReader.decodeImage(PNGImageReader.java:1223) ~[?:1.8.0_251]
+	at com.sun.imageio.plugins.png.PNGImageReader.readImage(PNGImageReader.java:1338) ~[?:1.8.0_251]
+	... 13 more
+[19:34:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:54] [Client thread/INFO]: [CHAT] § wuergoto 加入了游戏!
+[19:34:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:55] [Client thread/INFO]: [CHAT] § 游戏将在 30 秒后开始!
+[19:34:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:34:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:57] [Client thread/INFO]: [CHAT] [初来乍到] Adrienswastaken > G502??\
+[19:34:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:15] [Client thread/INFO]: [CHAT] § 游戏将在 10 秒后开始!
+[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:16] [Client thread/INFO]: [CHAT] § 游戏将在 9 秒后开始!
+[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:17] [Client thread/INFO]: [CHAT] § 游戏将在 8 秒后开始!
+[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:17] [Client thread/INFO]: [CHAT] [倔强青铜] Game > shei yao wo
+[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:18] [Client thread/INFO]: [CHAT] § 游戏将在 7 秒后开始!
+[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:19] [Client thread/INFO]: [CHAT] § 游戏将在 6 秒后开始!
+[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:20] [Client thread/INFO]: [CHAT] § 游戏将在 5 秒后开始!
+[19:35:21] [Client thread/INFO]: [CHAT] § 游戏将在 4 秒后开始!
+[19:35:22] [Client thread/INFO]: [CHAT] § 游戏将在 3 秒后开始!
+[19:35:23] [Client thread/INFO]: [CHAT] § 游戏将在 2 秒后开始!
+[19:35:24] [Client thread/INFO]: [CHAT] § 游戏将在 1 秒后开始!
+[19:35:25] [Client thread/INFO]: [CHAT] § 游戏开始 ...
+[19:35:31] [Client thread/INFO]: Connecting to dx.mcyc.win, 25565
+[19:35:33] [Client thread/INFO]: [CHAT]        
+[19:35:33] [Client thread/INFO]: [CHAT] + GLgele
+[19:35:33] [Client thread/INFO]: [CHAT] GLgele has made the advancement [Diamonds!]
+[19:35:34] [Client thread/INFO]: [CHAT] + chong_ni
+[19:35:36] [Client thread/INFO]: [CHAT] - chong_ni
+[19:35:37] [Client thread/INFO]: [CHAT] + Game
+[19:35:39] [Client thread/INFO]: [CHAT] - Goback
+[19:35:39] [Client thread/INFO]: [CHAT] - Game
+[19:35:43] [Client thread/INFO]: [CHAT]        
+[19:35:43] [Client thread/INFO]: [CHAT] + GLgele
+[19:35:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:44] [Client thread/INFO]: [CHAT] + JSHJS
+[19:35:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:47] [Client thread/INFO]: [CHAT] [倔强青铜] 玩家 chong_ni > 草
+[19:35:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:48] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
+[19:35:48] [Client thread/INFO]: [CHAT] [永恒钻石] 玩家 Gamemod > me too
+[19:35:48] [Client thread/INFO]: [CHAT] + xing_qiong
+[19:35:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:49] [Client thread/INFO]: [CHAT] + jian556
+[19:35:49] [Client thread/INFO]: [CHAT] + xiaoxiaoyu
+[19:35:52] [Client thread/INFO]: [CHAT]        
+[19:35:52] [Client thread/INFO]: [CHAT] § 
+[19:35:52] [Client thread/INFO]: [CHAT] § chong_ni 加入了游戏!
+[19:35:52] [Client thread/INFO]: [CHAT] § JSHJS 加入了游戏!
+[19:35:52] [Client thread/INFO]: [CHAT] § Game 加入了游戏!
+[19:35:52] [Client thread/INFO]: [CHAT] § Gamemod 加入了游戏!
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:54] [Client thread/INFO]: [CHAT] § xing_qiong 加入了游戏!
+[19:35:54] [Client thread/INFO]: [CHAT] § xiaoxiaoyu 加入了游戏!
+[19:35:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:55] [Client thread/INFO]: [CHAT] § Adrienswastaken 加入了游戏!
+[19:35:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:55] [Client thread/INFO]: [CHAT] § 游戏将在 30 秒后开始!
+[19:35:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:35:58] [Client thread/INFO]: [CHAT] [倔强青铜] Game > shei yao wo
+[19:36:02] [Client thread/INFO]: [CHAT] [倔强青铜] Fighterx996 > wo da bu liao zhong wen
+[19:36:02] [Client thread/INFO]: [CHAT] 
+[19:36:02] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[19:36:02] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
+[19:36:02] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
+[19:36:02] [Client thread/INFO]: [CHAT] 
+[19:36:02] [Client thread/INFO]: [CHAT]       服务器QQ群:650194051
+[19:36:02] [Client thread/INFO]: [CHAT]       主服赞助链接:https://www.mcrmb.com/fk/20444
+[19:36:02] [Client thread/INFO]: [CHAT]       RPG服赞助链接:https://www.mcrmb.com/fk/23687
+[19:36:02] [Client thread/INFO]: [CHAT] 
+[19:36:02] [Client thread/INFO]: [CHAT] [初来乍到] JSHJS > 操
+[19:36:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:08] [Client thread/INFO]: [CHAT] [倔强青铜] Fighterx996 > wo da bu liao zhong wen
+[19:36:08] [Client thread/INFO]: [CHAT] [倔强青铜] chong_ni > 黄队 来皮肤的
+[19:36:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:09] [Client thread/INFO]: [CHAT] [永恒钻石] Gamemod > 有皮肤且厉害来黄
+[19:36:11] [Client thread/INFO]: [CHAT] § 你成功加入了 黄队
+[19:36:13] [Client thread/INFO]: [CHAT] [倔强青铜] Game > wo ye shi
+[19:36:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:15] [Client thread/INFO]: [CHAT] § 游戏将在 10 秒后开始!
+[19:36:16] [Client thread/INFO]: [CHAT] § 游戏将在 9 秒后开始!
+[19:36:16] [Client thread/INFO]: [CHAT] [倔强青铜] Fighterx996 > wei shen me
+[19:36:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:17] [Client thread/INFO]: [CHAT] § 游戏将在 8 秒后开始!
+[19:36:18] [Client thread/INFO]: [CHAT] [永恒钻石] Gamemod > 你没皮肤
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:18] [Client thread/INFO]: [CHAT] § 游戏将在 7 秒后开始!
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:19] [Client thread/INFO]: [CHAT] § 游戏将在 6 秒后开始!
+[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:20] [Client thread/INFO]: [CHAT] § 你成功加入了 蓝队
+[19:36:20] [Client thread/INFO]: [CHAT] § 游戏将在 5 秒后开始!
+[19:36:21] [Client thread/INFO]: [CHAT] § 游戏将在 4 秒后开始!
+[19:36:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:22] [Client thread/INFO]: [CHAT] § 游戏将在 3 秒后开始!
+[19:36:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:23] [Client thread/INFO]: [CHAT] § 游戏将在 2 秒后开始!
+[19:36:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:24] [Client thread/INFO]: [CHAT] § 游戏将在 1 秒后开始!
+[19:36:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:36:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:25] [Client thread/INFO]: [CHAT] § 游戏开始 ...
+[19:36:27] [Client thread/INFO]: [CHAT] § 
+[19:36:27] [Client thread/INFO]: [CHAT] § 游戏开始!
+[19:36:28] [Client thread/INFO]: [CHAT] §eGhost_LY has made the advancement [Acquire Hardware]
+[19:36:28] [Client thread/INFO]: [CHAT] §9GLgele has made the advancement [Acquire Hardware]
+[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:32] [Client thread/INFO]: [CHAT] §c红 §f| §cchong_ni has made the advancement [Acquire Hardware]
+[19:36:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:36] [Client thread/INFO]: [CHAT] §e黄 §f| §epingouin has made the advancement [Acquire Hardware]
+[19:36:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:38] [Client thread/INFO]: [CHAT] §a绿 §f| §aQiQi has made the advancement [Acquire Hardware]
+[19:36:40] [Client thread/ERROR]: Item entity 890 has no item?!
+[19:36:40] [Client thread/ERROR]: Item entity 890 has no item?!
+[19:36:40] [Client thread/ERROR]: Item entity 890 has no item?!
+[19:36:43] [Client thread/INFO]: [CHAT] § xiaoxiaoyu (蓝) 死了!
+[19:36:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:36:47] [Client thread/INFO]: [CHAT] [全体][倔强青铜] [绿] Game > wo da bu liao zhong wen ,wo yong le pvp ke hu duan
+[19:36:48] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] JSHJS > 披风我有吗?
+[19:36:54] [Client thread/INFO]: [CHAT] §a绿 §f| §axjdjekxjjdke has made the advancement [Acquire Hardware]
+[19:36:54] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] xing_qiong > 够铁就别在家里呆着
+[19:37:02] [Client thread/INFO]: [CHAT] §9蓝 §f| §9xing_qiong has made the advancement [Acquire Hardware]
+[19:37:03] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:37:03] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:37:03] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:37:04] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:37:06] [Client thread/INFO]: [CHAT] 你购买了 铁剑
+[19:37:09] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] xing_qiong > 出去
+[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:10] [Client thread/INFO]: [CHAT] [全体][初来乍到] [黄] pingouin > emm
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:11] [Client thread/INFO]: [CHAT] § Game[?1] (绿) 击杀了 Thatgfsj (黄)!
+[19:37:17] [Client thread/INFO]: [CHAT] §9蓝 §f| §9xiaoxiaoyu has made the advancement [Acquire Hardware]
+[19:37:21] [Client thread/INFO]: [CHAT] § pingouin[?12] (黄) 击杀了 Fighterx996 (绿)!
+[19:37:23] [Client thread/INFO]: [CHAT] §a绿 §f| §aGame has made the advancement [Acquire Hardware]
+[19:37:31] [Client thread/INFO]: [CHAT] § GLgele (蓝) 死了!
+[19:37:31] [Client thread/INFO]: [CHAT] 你将在 5 秒后复活！
+[19:37:32] [Client thread/INFO]: [CHAT] 你将在 4 秒后复活！
+[19:37:33] [Client thread/INFO]: [CHAT] 你将在 3 秒后复活！
+[19:37:34] [Client thread/INFO]: [CHAT] 你将在 2 秒后复活！
+[19:37:35] [Client thread/INFO]: [CHAT] 你将在 1 秒后复活！
+[19:37:36] [Client thread/INFO]: [CHAT] 你已重生！
+[19:37:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:42] [Client thread/INFO]: [CHAT] 
+[19:37:42] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
+[19:37:42] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
+[19:37:42] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
+[19:37:42] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
+[19:37:42] [Client thread/INFO]: [CHAT] 
+[19:37:42] [Client thread/INFO]: [CHAT]       服务器QQ群:650194051
+[19:37:42] [Client thread/INFO]: [CHAT] 
+[19:37:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:47] [Client thread/INFO]: [CHAT] § Fighterx996[?20] (绿) 击杀了 Thatgfsj (黄)!
+[19:37:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:37:51] [Client thread/INFO]: [CHAT] §e黄 §f| §epingouin has made the advancement [Suit Up]
+[19:37:53] [Client thread/INFO]: [CHAT] § Ghost_LY (黄) 破坏了 绿 的床！
+[19:37:58] [Client thread/INFO]: [CHAT] § Fighterx996 (绿) 破坏了 黄 的床！
+[19:37:59] [Client thread/ERROR]: Item entity 3106 has no item?!
+[19:38:00] [Client thread/ERROR]: Item entity 3106 has no item?!
+[19:38:00] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:38:00] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:38:01] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:38:01] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:38:03] [Client thread/INFO]: [CHAT] Fighterx996 (绿) 被击杀，击杀者： pingouin[?13] (黄) 最终击杀
+[19:38:12] [Client thread/INFO]: [CHAT] Game (绿) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
+[19:38:18] [Client thread/INFO]: [CHAT] pingouin (黄) 被击杀，击杀者： QiQi[?2] (绿) 最终击杀
+[19:38:18] [Client thread/INFO]: [CHAT] § pingouin[?20] (黄) 击杀了 QiQi (绿)!
+[19:38:23] [Client thread/INFO]: [CHAT] §9蓝 §f| §9xing_qiong has made the advancement [Diamonds!]
+[19:38:23] [Client thread/INFO]: [CHAT] § Turbo_05 (红) 死了!
+[19:38:24] [Client thread/INFO]: [CHAT] §e黄 §f| §enanyix has made the advancement [Diamonds!]
+[19:38:25] [Client thread/INFO]: [CHAT] § GLgele (蓝) 死了!
+[19:38:25] [Client thread/INFO]: [CHAT] 你将在 5 秒后复活！
+[19:38:26] [Client thread/INFO]: [CHAT] 你将在 4 秒后复活！
+[19:38:27] [Client thread/INFO]: [CHAT] 你将在 3 秒后复活！
+[19:38:28] [Client thread/INFO]: [CHAT] 你将在 2 秒后复活！
+[19:38:29] [Client thread/INFO]: [CHAT] §9蓝 §f| §9JSHJS has made the advancement [Diamonds!]
+[19:38:29] [Client thread/INFO]: [CHAT] 你将在 1 秒后复活！
+[19:38:30] [Client thread/INFO]: [CHAT] 你已重生！
+[19:38:36] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:38:36] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:38:36] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:38:37] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:38:47] [Client thread/INFO]: [CHAT] xing_qiong 购买了 铁锻炉 I
+[19:39:00] [Client thread/INFO]: [CHAT] xjdjekxjjdke (绿) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
+[19:39:10] [Client thread/INFO]: [CHAT] § JSHJS (蓝) 离开了游戏!
+[19:39:22] [Client thread/INFO]: [CHAT] 
+[19:39:22] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
+[19:39:22] [Client thread/INFO]: [CHAT]       在大厅输入 /cash 卡密 即可使用赞助卡密
+[19:39:22] [Client thread/INFO]: [CHAT]       服务器的维护离不开你们的帮助！
+[19:39:22] [Client thread/INFO]: [CHAT] 
+[19:39:22] [Client thread/INFO]: [CHAT]       主服赞助链接:https://www.mcrmb.com/fk/20444
+[19:39:22] [Client thread/INFO]: [CHAT]       RPG服赞助链接:https://www.mcrmb.com/fk/23687
+[19:39:22] [Client thread/INFO]: [CHAT] 
+[19:39:31] [Client thread/INFO]: [CHAT] §9蓝 §f| §9GLgele has made the advancement [Diamonds!]
+[19:39:40] [Client thread/INFO]: [CHAT] §e黄 §f| §eGhost_LY has made the advancement [Cover Me With Diamonds]
+[19:39:48] [Client thread/INFO]: [CHAT] 你购买了 铁剑
+[19:39:55] [Client thread/INFO]: [CHAT] GLgele 购买了 护甲强化 I
+[19:40:06] [Client thread/INFO]: [CHAT] GLgele 购买了 报警陷阱 
+[19:40:08] [Client thread/INFO]: [CHAT] § Ghost_LY[?20] (黄) 击杀了 chong_ni (红)!
+[19:40:14] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:40:14] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:40:14] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:40:15] [Client thread/INFO]: [CHAT] 你购买了 羊毛
+[19:40:15] [Client thread/INFO]: [CHAT] § Thatgfsj (黄) 离开了游戏!
+[19:40:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:40:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:40:20] [Client thread/INFO]: [CHAT] § xiaoxiaoyu (蓝) 破坏了 红 的床！
+[19:40:21] [Client thread/INFO]: [CHAT] § Turbo_05[?12] (红) 击杀了 xiaoxiaoyu (蓝)!
+[19:40:27] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] xing_qiong > 第一件事是升级锋利
+[19:40:31] [Client thread/INFO]: [CHAT] Gamemod (红) 被击杀，击杀者： Turbo_05[?14] (红) 最终击杀
+[19:40:32] [Client thread/INFO]: [CHAT] §9蓝 §f| §9xing_qiong has made the advancement [Suit Up]
+[19:40:42] [Client thread/INFO]: [CHAT] [旁观者][永恒钻石] Gamemod > 你们我队友怎么杀我
+[19:41:02] [Client thread/INFO]: [CHAT] 
+[19:41:02] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
+[19:41:02] [Client thread/INFO]: [CHAT]       主服与RPG服的点券互不相通，请玩家赞助时
+[19:41:03] [Client thread/INFO]: [CHAT]       看清楚自己所在的子服再充值哦！感谢支持！
+[19:41:03] [Client thread/INFO]: [CHAT] 
+[19:41:03] [Client thread/INFO]: [CHAT]       主服赞助链接:https://www.mcrmb.com/fk/20444
+[19:41:03] [Client thread/INFO]: [CHAT]       RPG服赞助链接:https://www.mcrmb.com/fk/23687
+[19:41:03] [Client thread/INFO]: [CHAT] 
+[19:41:10] [Client thread/ERROR]: Item entity 7566 has no item?!
+[19:41:10] [Client thread/ERROR]: Item entity 7566 has no item?!
+[19:41:10] [Client thread/ERROR]: Item entity 7566 has no item?!
+[19:41:20] [Client thread/ERROR]: Item entity 7702 has no item?!
+[19:41:28] [Client thread/INFO]: [CHAT] § xiaoxiaoyu (蓝) 死了!
+[19:41:29] [Client thread/INFO]: [CHAT] chong_ni (红) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
+[19:41:30] [Client thread/INFO]: [CHAT] Turbo_05 (红) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
+[19:41:33] [Client thread/INFO]: [CHAT] [旁观者][倔强青铜] chong_ni > ?
+[19:41:36] [Client thread/INFO]: [CHAT] § 团队被团灭 >> 队伍 红 被团灭，太可惜了!
+[19:41:36] [Client thread/INFO]: [CHAT] Adrienswastaken (红) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
+[19:41:39] [Client thread/INFO]: [CHAT] [旁观者][倔强青铜] chong_ni > 他拿啥打我的
+[19:41:43] [Client thread/INFO]: [CHAT] xing_qiong 购买了 锋利附魔 I
+[19:41:52] [Client thread/ERROR]: Item entity 8707 has no item?!
+[19:42:02] [Client thread/INFO]: [CHAT] 你购买了 火焰弹
+[19:42:17] [Client thread/INFO]: [CHAT] [尊贵铂金] [蓝] xiaoxiaoyu > jia
+[19:42:18] [Client thread/INFO]: [CHAT] § Ghost_LY[?20] (黄) 击杀了 xing_qiong (蓝)!
+[19:42:22] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] xing_qiong > 憨批
+[19:42:26] [Client thread/INFO]: [CHAT] 钻石生成点已升至II级
+[19:42:43] [Client thread/INFO]: [CHAT] 
+[19:42:43] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
+[19:42:43] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
+[19:42:43] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
+[19:42:43] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
+[19:42:43] [Client thread/INFO]: [CHAT] 
+[19:42:43] [Client thread/INFO]: [CHAT]       主服赞助链接:https://www.mcrmb.com/fk/20444
+[19:42:43] [Client thread/INFO]: [CHAT]       RPG服赞助链接:https://www.mcrmb.com/fk/23687
+[19:42:43] [Client thread/INFO]: [CHAT] 
+[19:43:01] [Client thread/INFO]: [CHAT] 你购买了 永久的铁护甲
+[19:43:01] [Client thread/INFO]: [CHAT] §9蓝 §f| §9GLgele has made the advancement [Suit Up]
+[19:43:09] [Client thread/ERROR]: Item entity 9400 has no item?!
+[19:43:09] [Client thread/ERROR]: Item entity 9400 has no item?!
+[19:43:14] [Client thread/INFO]: [CHAT] 你购买了 火焰弹
+[19:43:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:43:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:43:37] [Client thread/INFO]: [CHAT] § Ghost_LY[?17] (黄) 击杀了 xiaoxiaoyu (蓝)!
+[19:43:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:43:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:44:05] [Client thread/INFO]: [CHAT] § Ghost_LY (黄) 破坏了 蓝 的床！
+[19:44:05] [Client thread/INFO]: [CHAT] § xiaoxiaoyu (蓝) 死了!
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.sweep
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.sweep
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
+[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.strong
+[19:44:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:44:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.weak
+[19:44:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.strong
+[19:44:08] [Client thread/INFO]: [CHAT] GLgele (蓝) 被击杀，击杀者： Ghost_LY[?15] (黄) 最终击杀
+[19:44:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[19:44:08] [Client thread/INFO]: [CHAT] § 团队被团灭 >> 队伍 蓝 被团灭，太可惜了!
+[19:44:08] [Client thread/INFO]: [CHAT] xing_qiong (蓝) 被击杀，击杀者： nanyix[?9] (黄) 最终击杀
+[19:44:09] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????????
+[19:44:09] [Client thread/INFO]: [CHAT]                              起床战争
+[19:44:09] [Client thread/INFO]: [CHAT] 
+[19:44:09] [Client thread/INFO]: [CHAT]                              黄
+[19:44:09] [Client thread/INFO]: [CHAT]                              nanyix, Ghost_LY
+[19:44:09] [Client thread/INFO]: [CHAT] 
+[19:44:09] [Client thread/INFO]: [CHAT]     第一名 - nanyix - 1
+[19:44:09] [Client thread/INFO]: [CHAT]     第二名 - Game - 1
+[19:44:09] [Client thread/INFO]: [CHAT]     第三名 - QiQi - 1
+[19:44:09] [Client thread/INFO]: [CHAT] 
+[19:44:09] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????????
+[19:44:10] [Client thread/INFO]: [CHAT] § 恭喜 ！黄队获得胜利!
+[19:44:10] [Client thread/INFO]: [CHAT] § 服务器将在 8 秒后重置地图!
+[19:44:13] [Client thread/INFO]: [CHAT]        
+[19:44:13] [Client thread/INFO]: [CHAT] + GLgele
+[19:44:13] [Client thread/INFO]: [CHAT] GLgele has made the advancement [Diamonds!]
+[19:44:13] [Client thread/INFO]: [CHAT] + Aollex
+[19:44:16] [Client thread/INFO]: [CHAT] + xing_qiong
+[19:44:18] [Client thread/INFO]: [CHAT] + Ghost_LY
+[19:44:18] [Client thread/INFO]: [CHAT] + nanyix
+[19:44:20] [Client thread/INFO]: [CHAT]        
+[19:44:20] [Client thread/INFO]: [CHAT] + GLgele
+[19:44:20] [Client thread/INFO]: [CHAT] - dreame_shidai
+[19:44:23] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[19:44:25] [Client thread/INFO]: [CHAT] Welcome, GLgele!
+[19:44:25] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
+[19:44:25] [Client thread/INFO]: [CHAT] Type /list to see who else is online.
+[19:44:25] [Client thread/INFO]: [CHAT] Players online: 47 - World time: 5:21 AM
+[19:44:25] [Client thread/INFO]: [CHAT] 你没有新的邮件
+[19:44:25] [Client thread/INFO]: [CHAT] 欢迎新玩家GLgele来到服务器!
+[19:44:25] [Client thread/INFO]: [CHAT] 
+[19:44:25] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
+[19:44:25] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[19:44:25] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[19:44:25] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[19:44:25] [Client thread/INFO]: [CHAT] 
+[19:44:25] [Client thread/INFO]: [CHAT] §b§8[§f§l人界-§d§l星云城§8]§f§8[打烊的青楼§8]§8§l[§fLv.§b98§8§l]§8§l[§b天界大帝§8§l]§a15644546§8§l[§4帝境§8§l]§7> 你说
+[19:44:25] [Client thread/INFO]: [CHAT] §b§8[§f§l人界-§d§l星云城§8]§f§8[-§8]§8§l[§fLv.§b98§8§l]§8§l[§b天界大帝§8§l]§aGalaxyRaven13§8§l[§4帝境§8§l]§7> 反正我不睡觉
+[19:44:26] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[19:44:26] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[19:44:27] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[19:44:43] [Client thread/INFO]: Stopping!
+[19:44:43] [Client thread/INFO]: SoundSystem shutting down...
+[19:44:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
