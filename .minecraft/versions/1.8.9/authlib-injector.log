@@ -1,4 +1,4 @@
-Logging started at 2021-08-24T11:31:41.616Z
+Logging started at 2021-08-25T12:37:14.032Z
 [authlib-injector] [INFO] Version: 1.1.38
 [authlib-injector] [INFO] Authentication server: https://mcskin.littleservice.cn/api/yggdrasil/
 [authlib-injector] [INFO] Polyfill privileges API
@@ -6,7 +6,7 @@ Logging started at 2021-08-24T11:31:41.616Z
 [authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Callback Metafactory Transformer]
 [authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Class File Version Transformer]
 [authlib-injector] [INFO] Enable MC-52974 Workaround
-[authlib-injector] [INFO] Httpd is running on port 62519
+[authlib-injector] [INFO] Httpd is running on port 54564
 [authlib-injector] [INFO] Transformed [bet] with [Constant URL Transformer]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [Callback Metafactory Transformer]

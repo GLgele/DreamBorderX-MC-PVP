@@ -1,634 +1,19 @@
-[19:31:46] [Client thread/INFO]: Setting user: GLgele
-[19:31:46] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI4MmVkNTVhMWY3OWU0MjRjOGE2MjBhZjgyNDI5MWFmYyIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MzAwNjM4NjEuNDI5MjMxLCJpYXQiOjE2Mjk4MDQ2NjEuNDI5MjMxfQ.uStooIOQMZvmrhL5CtB1Z310CBOSBAiIGPbGZsoqMjs:84e8de8ef6d94371835b6844cb7ff0e9)
-[19:31:50] [Client thread/INFO]: LWJGL Version: 2.9.4
-[19:31:52] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
-[19:31:53] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[19:31:53] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[19:31:53] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[19:31:53] [Thread-7/INFO]: OpenAL initialized.
-[19:31:53] [Sound Library Loader/INFO]: Sound engine started
-[19:31:58] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
-[19:31:58] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
-[19:32:00] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[19:32:02] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
-[19:32:09] [Client thread/INFO]: [CHAT]        
-[19:32:10] [Client thread/INFO]: [CHAT] 你需要注册，注册指令：/register 密码 确认密码 验证码 。请通过 你背包里的地图 来查看验证码，若无法看到，请尝试更换 1.12.2纯净原版客户端再试
-[19:32:47] [Client thread/INFO]: Connecting to dx.mcyc.win, 25565
-[19:32:50] [Client thread/INFO]: [CHAT]        
-[19:32:50] [Client thread/INFO]: [CHAT] 你需要注册，注册指令：/register 密码 确认密码 验证码 。请通过 你背包里的地图 来查看验证码，若无法看到，请尝试更换 1.12.2纯净原版客户端再试
-[19:33:05] [Client thread/INFO]: [CHAT] [?] 你输入的两次密码不一致!
-[19:33:12] [Client thread/INFO]: [CHAT] 
-[?] 欢迎来到游戏世界! 这里是关于登录系统的一些常用指令:
-
-  ? /unregister <密码>
-  ? /changepassword <当前-密码> <新-密码>
-  ? /createpassword <密码>
-  ? /premium <密码>
-  ? /cracked <密码>
-  ? /startsession
-  ? /destroysession
-  ? /changeemailaddress <密码> <邮箱地址>
-  ? /recoverypassword <邮箱地址>
-
-
-[19:33:14] [Client thread/INFO]: [CHAT]        
-[19:33:14] [Client thread/INFO]: [CHAT] + GLgele
-[19:33:14] [Client thread/INFO]: [CHAT] GLgele has made the advancement [Diamonds!]
-[19:33:23] [Client thread/INFO]: [CHAT] - pingouin
-[19:33:24] [Client thread/INFO]: [CHAT] + chenze
-[19:33:24] [Client thread/INFO]: [CHAT] + lurou
-[19:33:24] [Client thread/INFO]: [CHAT] + tan100
-[19:33:26] [Client thread/INFO]: [CHAT] + zhiaiwzh
-[19:33:29] [Client thread/INFO]: [CHAT] - cajin
-[19:33:30] [Client thread/INFO]: [CHAT] - tan100
-[19:33:33] [Client thread/INFO]: [CHAT] - zhiaiwzh
-[19:33:36] [Client thread/INFO]: [CHAT] - lurou
-[19:33:39] [Client thread/INFO]: [CHAT]        
-[19:33:39] [Client thread/INFO]: [CHAT] + GLgele
-[19:33:39] [Client thread/INFO]: [CHAT] GLgele has made the advancement [Diamonds!]
-[19:33:42] [Client thread/INFO]: [CHAT] + GroFireMan
-[19:33:42] [Client thread/INFO]: [CHAT] GroFireMan has made the advancement [Diamonds!]
-[19:33:43] [Client thread/INFO]: [CHAT] + xing_qiong
-[19:33:44] [Client thread/INFO]: [CHAT] + cangka666
-[19:33:49] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
-[19:33:57] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
-[19:33:59] [Client thread/INFO]: [CHAT] + 20000002
-[19:34:05] [Client thread/INFO]: [CHAT] + Turbo_05
-[19:34:05] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
-[19:34:07] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
-[19:34:11] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
-[19:34:13] [Client thread/INFO]: [CHAT] + QiQi
-[19:34:13] [Client thread/INFO]: [CHAT] QiQi has made the advancement [Diamonds!]
-[19:34:17] [Client thread/INFO]: [CHAT] + Game
-[19:34:18] [Client thread/INFO]: [CHAT] § 
-[19:34:20] [Client thread/INFO]: [CHAT] § 你成功加入了 黄队
-[19:34:20] [Client thread/INFO]: [CHAT] § Game 加入了游戏!
-[19:34:22] [Client thread/INFO]: [CHAT] 
-[19:34:22] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
-[19:34:22] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
-[19:34:22] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
-[19:34:22] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
-[19:34:22] [Client thread/INFO]: [CHAT] 
-[19:34:22] [Client thread/INFO]: [CHAT] § pingouin 加入了游戏!
-[19:34:23] [Client thread/INFO]: [CHAT] § QiQi 加入了游戏!
-[19:34:23] [Client thread/INFO]: [CHAT] § Adrienswastaken 加入了游戏!
-[19:34:29] [Client thread/INFO]: [CHAT] § uio 加入了游戏!
-[19:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:34:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:34:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:39] [Client thread/INFO]: [CHAT] § Craft_BC 加入了游戏!
-[19:34:45] [Client thread/INFO]: [CHAT] § bilibiliyzdsb 加入了游戏!
-[19:34:47] [Client thread/INFO]: [CHAT] § Gamemod 加入了游戏!
-[19:34:50] [Client thread/INFO]: [CHAT] [初来乍到] Adrienswastaken > H502?
-[19:34:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:52] [Client thread/INFO]: [CHAT] § chong_ni 加入了游戏!
-[19:34:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:53] [Client thread/ERROR]: Couldn't load skin d:\Users\Administrator\Documents\GitHub\DreamBorderX-MC-PVP\.minecraft\assets\skins\2c\2c13ef32f159d372fdb4c43639190e7583e4bbd54a7d42f44eeeb59eb5ab7256
-javax.imageio.IIOException: Error reading PNG image data
-	at com.sun.imageio.plugins.png.PNGImageReader.readImage(PNGImageReader.java:1345) ~[?:1.8.0_251]
-	at com.sun.imageio.plugins.png.PNGImageReader.read(PNGImageReader.java:1614) ~[?:1.8.0_251]
-	at javax.imageio.ImageIO.read(ImageIO.java:1448) ~[?:1.8.0_251]
-	at javax.imageio.ImageIO.read(ImageIO.java:1308) ~[?:1.8.0_251]
-	at bma.a(SourceFile:82) [1.8.9.jar:?]
-	at bmj.a(SourceFile:56) [1.8.9.jar:?]
-	at bnp.a(SourceFile:87) [1.8.9.jar:?]
-	at bnp$3$1.run(SourceFile:114) [1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_251]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_251]
-	at g.a(SourceFile:44) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.io.EOFException: Unexpected end of ZLIB input stream
-	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:240) ~[?:1.8.0_251]
-	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158) ~[?:1.8.0_251]
-	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_251]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286) ~[?:1.8.0_251]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_251]
-	at java.io.DataInputStream.readFully(DataInputStream.java:195) ~[?:1.8.0_251]
-	at com.sun.imageio.plugins.png.PNGImageReader.decodePass(PNGImageReader.java:1119) ~[?:1.8.0_251]
-	at com.sun.imageio.plugins.png.PNGImageReader.decodeImage(PNGImageReader.java:1223) ~[?:1.8.0_251]
-	at com.sun.imageio.plugins.png.PNGImageReader.readImage(PNGImageReader.java:1338) ~[?:1.8.0_251]
-	... 13 more
-[19:34:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:54] [Client thread/INFO]: [CHAT] § wuergoto 加入了游戏!
-[19:34:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:55] [Client thread/INFO]: [CHAT] § 游戏将在 30 秒后开始!
-[19:34:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:34:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:57] [Client thread/INFO]: [CHAT] [初来乍到] Adrienswastaken > G502??\
-[19:34:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:34:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:15] [Client thread/INFO]: [CHAT] § 游戏将在 10 秒后开始!
-[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:16] [Client thread/INFO]: [CHAT] § 游戏将在 9 秒后开始!
-[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:17] [Client thread/INFO]: [CHAT] § 游戏将在 8 秒后开始!
-[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:17] [Client thread/INFO]: [CHAT] [倔强青铜] Game > shei yao wo
-[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:18] [Client thread/INFO]: [CHAT] § 游戏将在 7 秒后开始!
-[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:19] [Client thread/INFO]: [CHAT] § 游戏将在 6 秒后开始!
-[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:20] [Client thread/INFO]: [CHAT] § 游戏将在 5 秒后开始!
-[19:35:21] [Client thread/INFO]: [CHAT] § 游戏将在 4 秒后开始!
-[19:35:22] [Client thread/INFO]: [CHAT] § 游戏将在 3 秒后开始!
-[19:35:23] [Client thread/INFO]: [CHAT] § 游戏将在 2 秒后开始!
-[19:35:24] [Client thread/INFO]: [CHAT] § 游戏将在 1 秒后开始!
-[19:35:25] [Client thread/INFO]: [CHAT] § 游戏开始 ...
-[19:35:31] [Client thread/INFO]: Connecting to dx.mcyc.win, 25565
-[19:35:33] [Client thread/INFO]: [CHAT]        
-[19:35:33] [Client thread/INFO]: [CHAT] + GLgele
-[19:35:33] [Client thread/INFO]: [CHAT] GLgele has made the advancement [Diamonds!]
-[19:35:34] [Client thread/INFO]: [CHAT] + chong_ni
-[19:35:36] [Client thread/INFO]: [CHAT] - chong_ni
-[19:35:37] [Client thread/INFO]: [CHAT] + Game
-[19:35:39] [Client thread/INFO]: [CHAT] - Goback
-[19:35:39] [Client thread/INFO]: [CHAT] - Game
-[19:35:43] [Client thread/INFO]: [CHAT]        
-[19:35:43] [Client thread/INFO]: [CHAT] + GLgele
-[19:35:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:44] [Client thread/INFO]: [CHAT] + JSHJS
-[19:35:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:47] [Client thread/INFO]: [CHAT] [倔强青铜] 玩家 chong_ni > 草
-[19:35:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:48] [Client thread/INFO]: [CHAT] 抱歉,但您没有权限执行该指令
-[19:35:48] [Client thread/INFO]: [CHAT] [永恒钻石] 玩家 Gamemod > me too
-[19:35:48] [Client thread/INFO]: [CHAT] + xing_qiong
-[19:35:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:49] [Client thread/INFO]: [CHAT] + jian556
-[19:35:49] [Client thread/INFO]: [CHAT] + xiaoxiaoyu
-[19:35:52] [Client thread/INFO]: [CHAT]        
-[19:35:52] [Client thread/INFO]: [CHAT] § 
-[19:35:52] [Client thread/INFO]: [CHAT] § chong_ni 加入了游戏!
-[19:35:52] [Client thread/INFO]: [CHAT] § JSHJS 加入了游戏!
-[19:35:52] [Client thread/INFO]: [CHAT] § Game 加入了游戏!
-[19:35:52] [Client thread/INFO]: [CHAT] § Gamemod 加入了游戏!
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:54] [Client thread/INFO]: [CHAT] § xing_qiong 加入了游戏!
-[19:35:54] [Client thread/INFO]: [CHAT] § xiaoxiaoyu 加入了游戏!
-[19:35:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:55] [Client thread/INFO]: [CHAT] § Adrienswastaken 加入了游戏!
-[19:35:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:55] [Client thread/INFO]: [CHAT] § 游戏将在 30 秒后开始!
-[19:35:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:35:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:35:58] [Client thread/INFO]: [CHAT] [倔强青铜] Game > shei yao wo
-[19:36:02] [Client thread/INFO]: [CHAT] [倔强青铜] Fighterx996 > wo da bu liao zhong wen
-[19:36:02] [Client thread/INFO]: [CHAT] 
-[19:36:02] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
-[19:36:02] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
-[19:36:02] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
-[19:36:02] [Client thread/INFO]: [CHAT] 
-[19:36:02] [Client thread/INFO]: [CHAT]       服务器QQ群:650194051
-[19:36:02] [Client thread/INFO]: [CHAT]       主服赞助链接:https://www.mcrmb.com/fk/20444
-[19:36:02] [Client thread/INFO]: [CHAT]       RPG服赞助链接:https://www.mcrmb.com/fk/23687
-[19:36:02] [Client thread/INFO]: [CHAT] 
-[19:36:02] [Client thread/INFO]: [CHAT] [初来乍到] JSHJS > 操
-[19:36:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:08] [Client thread/INFO]: [CHAT] [倔强青铜] Fighterx996 > wo da bu liao zhong wen
-[19:36:08] [Client thread/INFO]: [CHAT] [倔强青铜] chong_ni > 黄队 来皮肤的
-[19:36:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:09] [Client thread/INFO]: [CHAT] [永恒钻石] Gamemod > 有皮肤且厉害来黄
-[19:36:11] [Client thread/INFO]: [CHAT] § 你成功加入了 黄队
-[19:36:13] [Client thread/INFO]: [CHAT] [倔强青铜] Game > wo ye shi
-[19:36:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:15] [Client thread/INFO]: [CHAT] § 游戏将在 10 秒后开始!
-[19:36:16] [Client thread/INFO]: [CHAT] § 游戏将在 9 秒后开始!
-[19:36:16] [Client thread/INFO]: [CHAT] [倔强青铜] Fighterx996 > wei shen me
-[19:36:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:17] [Client thread/INFO]: [CHAT] § 游戏将在 8 秒后开始!
-[19:36:18] [Client thread/INFO]: [CHAT] [永恒钻石] Gamemod > 你没皮肤
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:18] [Client thread/INFO]: [CHAT] § 游戏将在 7 秒后开始!
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:19] [Client thread/INFO]: [CHAT] § 游戏将在 6 秒后开始!
-[19:36:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:20] [Client thread/INFO]: [CHAT] § 你成功加入了 蓝队
-[19:36:20] [Client thread/INFO]: [CHAT] § 游戏将在 5 秒后开始!
-[19:36:21] [Client thread/INFO]: [CHAT] § 游戏将在 4 秒后开始!
-[19:36:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:22] [Client thread/INFO]: [CHAT] § 游戏将在 3 秒后开始!
-[19:36:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:23] [Client thread/INFO]: [CHAT] § 游戏将在 2 秒后开始!
-[19:36:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:24] [Client thread/INFO]: [CHAT] § 游戏将在 1 秒后开始!
-[19:36:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:36:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:25] [Client thread/INFO]: [CHAT] § 游戏开始 ...
-[19:36:27] [Client thread/INFO]: [CHAT] § 
-[19:36:27] [Client thread/INFO]: [CHAT] § 游戏开始!
-[19:36:28] [Client thread/INFO]: [CHAT] §eGhost_LY has made the advancement [Acquire Hardware]
-[19:36:28] [Client thread/INFO]: [CHAT] §9GLgele has made the advancement [Acquire Hardware]
-[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:32] [Client thread/INFO]: [CHAT] §c红 §f| §cchong_ni has made the advancement [Acquire Hardware]
-[19:36:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:36] [Client thread/INFO]: [CHAT] §e黄 §f| §epingouin has made the advancement [Acquire Hardware]
-[19:36:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:38] [Client thread/INFO]: [CHAT] §a绿 §f| §aQiQi has made the advancement [Acquire Hardware]
-[19:36:40] [Client thread/ERROR]: Item entity 890 has no item?!
-[19:36:40] [Client thread/ERROR]: Item entity 890 has no item?!
-[19:36:40] [Client thread/ERROR]: Item entity 890 has no item?!
-[19:36:43] [Client thread/INFO]: [CHAT] § xiaoxiaoyu (蓝) 死了!
-[19:36:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:36:47] [Client thread/INFO]: [CHAT] [全体][倔强青铜] [绿] Game > wo da bu liao zhong wen ,wo yong le pvp ke hu duan
-[19:36:48] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] JSHJS > 披风我有吗?
-[19:36:54] [Client thread/INFO]: [CHAT] §a绿 §f| §axjdjekxjjdke has made the advancement [Acquire Hardware]
-[19:36:54] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] xing_qiong > 够铁就别在家里呆着
-[19:37:02] [Client thread/INFO]: [CHAT] §9蓝 §f| §9xing_qiong has made the advancement [Acquire Hardware]
-[19:37:03] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:37:03] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:37:03] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:37:04] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:37:06] [Client thread/INFO]: [CHAT] 你购买了 铁剑
-[19:37:09] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] xing_qiong > 出去
-[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:10] [Client thread/INFO]: [CHAT] [全体][初来乍到] [黄] pingouin > emm
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:11] [Client thread/INFO]: [CHAT] § Game[?1] (绿) 击杀了 Thatgfsj (黄)!
-[19:37:17] [Client thread/INFO]: [CHAT] §9蓝 §f| §9xiaoxiaoyu has made the advancement [Acquire Hardware]
-[19:37:21] [Client thread/INFO]: [CHAT] § pingouin[?12] (黄) 击杀了 Fighterx996 (绿)!
-[19:37:23] [Client thread/INFO]: [CHAT] §a绿 §f| §aGame has made the advancement [Acquire Hardware]
-[19:37:31] [Client thread/INFO]: [CHAT] § GLgele (蓝) 死了!
-[19:37:31] [Client thread/INFO]: [CHAT] 你将在 5 秒后复活！
-[19:37:32] [Client thread/INFO]: [CHAT] 你将在 4 秒后复活！
-[19:37:33] [Client thread/INFO]: [CHAT] 你将在 3 秒后复活！
-[19:37:34] [Client thread/INFO]: [CHAT] 你将在 2 秒后复活！
-[19:37:35] [Client thread/INFO]: [CHAT] 你将在 1 秒后复活！
-[19:37:36] [Client thread/INFO]: [CHAT] 你已重生！
-[19:37:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:37:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:42] [Client thread/INFO]: [CHAT] 
-[19:37:42] [Client thread/INFO]: [CHAT]    游戏世界 (>_<)
-[19:37:42] [Client thread/INFO]: [CHAT]       欢迎来到游戏世界，祝您有一个美好的游戏体验！
-[19:37:42] [Client thread/INFO]: [CHAT]       如果有什么不懂的地方，欢迎加入官方群进行讨论
-[19:37:42] [Client thread/INFO]: [CHAT]       里面有一群“大佬”在等着你！
-[19:37:42] [Client thread/INFO]: [CHAT] 
-[19:37:42] [Client thread/INFO]: [CHAT]       服务器QQ群:650194051
-[19:37:42] [Client thread/INFO]: [CHAT] 
-[19:37:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:47] [Client thread/INFO]: [CHAT] § Fighterx996[?20] (绿) 击杀了 Thatgfsj (黄)!
-[19:37:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:37:51] [Client thread/INFO]: [CHAT] §e黄 §f| §epingouin has made the advancement [Suit Up]
-[19:37:53] [Client thread/INFO]: [CHAT] § Ghost_LY (黄) 破坏了 绿 的床！
-[19:37:58] [Client thread/INFO]: [CHAT] § Fighterx996 (绿) 破坏了 黄 的床！
-[19:37:59] [Client thread/ERROR]: Item entity 3106 has no item?!
-[19:38:00] [Client thread/ERROR]: Item entity 3106 has no item?!
-[19:38:00] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:38:00] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:38:01] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:38:01] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:38:03] [Client thread/INFO]: [CHAT] Fighterx996 (绿) 被击杀，击杀者： pingouin[?13] (黄) 最终击杀
-[19:38:12] [Client thread/INFO]: [CHAT] Game (绿) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
-[19:38:18] [Client thread/INFO]: [CHAT] pingouin (黄) 被击杀，击杀者： QiQi[?2] (绿) 最终击杀
-[19:38:18] [Client thread/INFO]: [CHAT] § pingouin[?20] (黄) 击杀了 QiQi (绿)!
-[19:38:23] [Client thread/INFO]: [CHAT] §9蓝 §f| §9xing_qiong has made the advancement [Diamonds!]
-[19:38:23] [Client thread/INFO]: [CHAT] § Turbo_05 (红) 死了!
-[19:38:24] [Client thread/INFO]: [CHAT] §e黄 §f| §enanyix has made the advancement [Diamonds!]
-[19:38:25] [Client thread/INFO]: [CHAT] § GLgele (蓝) 死了!
-[19:38:25] [Client thread/INFO]: [CHAT] 你将在 5 秒后复活！
-[19:38:26] [Client thread/INFO]: [CHAT] 你将在 4 秒后复活！
-[19:38:27] [Client thread/INFO]: [CHAT] 你将在 3 秒后复活！
-[19:38:28] [Client thread/INFO]: [CHAT] 你将在 2 秒后复活！
-[19:38:29] [Client thread/INFO]: [CHAT] §9蓝 §f| §9JSHJS has made the advancement [Diamonds!]
-[19:38:29] [Client thread/INFO]: [CHAT] 你将在 1 秒后复活！
-[19:38:30] [Client thread/INFO]: [CHAT] 你已重生！
-[19:38:36] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:38:36] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:38:36] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:38:37] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:38:47] [Client thread/INFO]: [CHAT] xing_qiong 购买了 铁锻炉 I
-[19:39:00] [Client thread/INFO]: [CHAT] xjdjekxjjdke (绿) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
-[19:39:10] [Client thread/INFO]: [CHAT] § JSHJS (蓝) 离开了游戏!
-[19:39:22] [Client thread/INFO]: [CHAT] 
-[19:39:22] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
-[19:39:22] [Client thread/INFO]: [CHAT]       在大厅输入 /cash 卡密 即可使用赞助卡密
-[19:39:22] [Client thread/INFO]: [CHAT]       服务器的维护离不开你们的帮助！
-[19:39:22] [Client thread/INFO]: [CHAT] 
-[19:39:22] [Client thread/INFO]: [CHAT]       主服赞助链接:https://www.mcrmb.com/fk/20444
-[19:39:22] [Client thread/INFO]: [CHAT]       RPG服赞助链接:https://www.mcrmb.com/fk/23687
-[19:39:22] [Client thread/INFO]: [CHAT] 
-[19:39:31] [Client thread/INFO]: [CHAT] §9蓝 §f| §9GLgele has made the advancement [Diamonds!]
-[19:39:40] [Client thread/INFO]: [CHAT] §e黄 §f| §eGhost_LY has made the advancement [Cover Me With Diamonds]
-[19:39:48] [Client thread/INFO]: [CHAT] 你购买了 铁剑
-[19:39:55] [Client thread/INFO]: [CHAT] GLgele 购买了 护甲强化 I
-[19:40:06] [Client thread/INFO]: [CHAT] GLgele 购买了 报警陷阱 
-[19:40:08] [Client thread/INFO]: [CHAT] § Ghost_LY[?20] (黄) 击杀了 chong_ni (红)!
-[19:40:14] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:40:14] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:40:14] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:40:15] [Client thread/INFO]: [CHAT] 你购买了 羊毛
-[19:40:15] [Client thread/INFO]: [CHAT] § Thatgfsj (黄) 离开了游戏!
-[19:40:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:40:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:40:20] [Client thread/INFO]: [CHAT] § xiaoxiaoyu (蓝) 破坏了 红 的床！
-[19:40:21] [Client thread/INFO]: [CHAT] § Turbo_05[?12] (红) 击杀了 xiaoxiaoyu (蓝)!
-[19:40:27] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] xing_qiong > 第一件事是升级锋利
-[19:40:31] [Client thread/INFO]: [CHAT] Gamemod (红) 被击杀，击杀者： Turbo_05[?14] (红) 最终击杀
-[19:40:32] [Client thread/INFO]: [CHAT] §9蓝 §f| §9xing_qiong has made the advancement [Suit Up]
-[19:40:42] [Client thread/INFO]: [CHAT] [旁观者][永恒钻石] Gamemod > 你们我队友怎么杀我
-[19:41:02] [Client thread/INFO]: [CHAT] 
-[19:41:02] [Client thread/INFO]: [CHAT]    游戏世界 ‵(*∩_∩*)′
-[19:41:02] [Client thread/INFO]: [CHAT]       主服与RPG服的点券互不相通，请玩家赞助时
-[19:41:03] [Client thread/INFO]: [CHAT]       看清楚自己所在的子服再充值哦！感谢支持！
-[19:41:03] [Client thread/INFO]: [CHAT] 
-[19:41:03] [Client thread/INFO]: [CHAT]       主服赞助链接:https://www.mcrmb.com/fk/20444
-[19:41:03] [Client thread/INFO]: [CHAT]       RPG服赞助链接:https://www.mcrmb.com/fk/23687
-[19:41:03] [Client thread/INFO]: [CHAT] 
-[19:41:10] [Client thread/ERROR]: Item entity 7566 has no item?!
-[19:41:10] [Client thread/ERROR]: Item entity 7566 has no item?!
-[19:41:10] [Client thread/ERROR]: Item entity 7566 has no item?!
-[19:41:20] [Client thread/ERROR]: Item entity 7702 has no item?!
-[19:41:28] [Client thread/INFO]: [CHAT] § xiaoxiaoyu (蓝) 死了!
-[19:41:29] [Client thread/INFO]: [CHAT] chong_ni (红) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
-[19:41:30] [Client thread/INFO]: [CHAT] Turbo_05 (红) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
-[19:41:33] [Client thread/INFO]: [CHAT] [旁观者][倔强青铜] chong_ni > ?
-[19:41:36] [Client thread/INFO]: [CHAT] § 团队被团灭 >> 队伍 红 被团灭，太可惜了!
-[19:41:36] [Client thread/INFO]: [CHAT] Adrienswastaken (红) 被击杀，击杀者： Ghost_LY[?20] (黄) 最终击杀
-[19:41:39] [Client thread/INFO]: [CHAT] [旁观者][倔强青铜] chong_ni > 他拿啥打我的
-[19:41:43] [Client thread/INFO]: [CHAT] xing_qiong 购买了 锋利附魔 I
-[19:41:52] [Client thread/ERROR]: Item entity 8707 has no item?!
-[19:42:02] [Client thread/INFO]: [CHAT] 你购买了 火焰弹
-[19:42:17] [Client thread/INFO]: [CHAT] [尊贵铂金] [蓝] xiaoxiaoyu > jia
-[19:42:18] [Client thread/INFO]: [CHAT] § Ghost_LY[?20] (黄) 击杀了 xing_qiong (蓝)!
-[19:42:22] [Client thread/INFO]: [CHAT] [初来乍到] [蓝] xing_qiong > 憨批
-[19:42:26] [Client thread/INFO]: [CHAT] 钻石生成点已升至II级
-[19:42:43] [Client thread/INFO]: [CHAT] 
-[19:42:43] [Client thread/INFO]: [CHAT]    游戏世界 ( > c < )
-[19:42:43] [Client thread/INFO]: [CHAT]       暑期已至，诚挚邀请你与我们共度清凉一夏,
-[19:42:43] [Client thread/INFO]: [CHAT]       带上朋友一起来挑战各个服务器霸主地位,
-[19:42:43] [Client thread/INFO]: [CHAT]       亦或是自己拼搏走向人生巅峰,享受游戏乐趣吧
-[19:42:43] [Client thread/INFO]: [CHAT] 
-[19:42:43] [Client thread/INFO]: [CHAT]       主服赞助链接:https://www.mcrmb.com/fk/20444
-[19:42:43] [Client thread/INFO]: [CHAT]       RPG服赞助链接:https://www.mcrmb.com/fk/23687
-[19:42:43] [Client thread/INFO]: [CHAT] 
-[19:43:01] [Client thread/INFO]: [CHAT] 你购买了 永久的铁护甲
-[19:43:01] [Client thread/INFO]: [CHAT] §9蓝 §f| §9GLgele has made the advancement [Suit Up]
-[19:43:09] [Client thread/ERROR]: Item entity 9400 has no item?!
-[19:43:09] [Client thread/ERROR]: Item entity 9400 has no item?!
-[19:43:14] [Client thread/INFO]: [CHAT] 你购买了 火焰弹
-[19:43:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:43:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:43:37] [Client thread/INFO]: [CHAT] § Ghost_LY[?17] (黄) 击杀了 xiaoxiaoyu (蓝)!
-[19:43:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:43:49] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:44:05] [Client thread/INFO]: [CHAT] § Ghost_LY (黄) 破坏了 蓝 的床！
-[19:44:05] [Client thread/INFO]: [CHAT] § xiaoxiaoyu (蓝) 死了!
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.sweep
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.sweep
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.knockback
-[19:44:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.strong
-[19:44:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:44:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.weak
-[19:44:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.strong
-[19:44:08] [Client thread/INFO]: [CHAT] GLgele (蓝) 被击杀，击杀者： Ghost_LY[?15] (黄) 最终击杀
-[19:44:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
-[19:44:08] [Client thread/INFO]: [CHAT] § 团队被团灭 >> 队伍 蓝 被团灭，太可惜了!
-[19:44:08] [Client thread/INFO]: [CHAT] xing_qiong (蓝) 被击杀，击杀者： nanyix[?9] (黄) 最终击杀
-[19:44:09] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????????
-[19:44:09] [Client thread/INFO]: [CHAT]                              起床战争
-[19:44:09] [Client thread/INFO]: [CHAT] 
-[19:44:09] [Client thread/INFO]: [CHAT]                              黄
-[19:44:09] [Client thread/INFO]: [CHAT]                              nanyix, Ghost_LY
-[19:44:09] [Client thread/INFO]: [CHAT] 
-[19:44:09] [Client thread/INFO]: [CHAT]     第一名 - nanyix - 1
-[19:44:09] [Client thread/INFO]: [CHAT]     第二名 - Game - 1
-[19:44:09] [Client thread/INFO]: [CHAT]     第三名 - QiQi - 1
-[19:44:09] [Client thread/INFO]: [CHAT] 
-[19:44:09] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????????
-[19:44:10] [Client thread/INFO]: [CHAT] § 恭喜 ！黄队获得胜利!
-[19:44:10] [Client thread/INFO]: [CHAT] § 服务器将在 8 秒后重置地图!
-[19:44:13] [Client thread/INFO]: [CHAT]        
-[19:44:13] [Client thread/INFO]: [CHAT] + GLgele
-[19:44:13] [Client thread/INFO]: [CHAT] GLgele has made the advancement [Diamonds!]
-[19:44:13] [Client thread/INFO]: [CHAT] + Aollex
-[19:44:16] [Client thread/INFO]: [CHAT] + xing_qiong
-[19:44:18] [Client thread/INFO]: [CHAT] + Ghost_LY
-[19:44:18] [Client thread/INFO]: [CHAT] + nanyix
-[19:44:20] [Client thread/INFO]: [CHAT]        
-[19:44:20] [Client thread/INFO]: [CHAT] + GLgele
-[19:44:20] [Client thread/INFO]: [CHAT] - dreame_shidai
-[19:44:23] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help.
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:37:17] [Client thread/INFO]: Setting user: GLgele
+[20:37:17] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI4MmVkNTVhMWY3OWU0MjRjOGE2MjBhZjgyNDI5MWFmYyIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MzAwNjM4NjEuNDI5MjMxLCJpYXQiOjE2Mjk4MDQ2NjEuNDI5MjMxfQ.uStooIOQMZvmrhL5CtB1Z310CBOSBAiIGPbGZsoqMjs:84e8de8ef6d94371835b6844cb7ff0e9)
+[20:37:21] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:37:23] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
+[20:37:24] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:37:24] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[20:37:24] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:37:24] [Thread-7/INFO]: OpenAL initialized.
+[20:37:25] [Sound Library Loader/INFO]: Sound engine started
+[20:37:29] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
+[20:37:29] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[20:37:31] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[20:37:33] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
+[20:37:39] [Client thread/INFO]: [CHAT]        
+[20:37:42] [Client thread/INFO]: [CHAT] [跨服喇叭][bedwarroom23]kjhz: 你刚刚不是我提的
+[20:37:48] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -637,15 +22,16 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1174) ~[1.8.9.jar:?]
+	at gs.a(SourceFile:85) ~[1.8.9.jar:?]
+	at gs.a(SourceFile:10) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:38:24] [Client thread/INFO]: Connecting to cloudegg.cloud., 20701
+[20:38:27] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -654,15 +40,25 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:38:28] [Client thread/INFO]: [CHAT] =====================================
+[20:38:28] [Client thread/INFO]: [CHAT] 
+[20:38:28] [Client thread/INFO]: [CHAT] 请使用命令 /login 密码 进行登陆。
+[20:38:28] [Client thread/INFO]: [CHAT] 
+[20:38:28] [Client thread/INFO]: [CHAT] 点我使用隐藏密码
+[20:38:28] [Client thread/INFO]: [CHAT] (隐藏密码只需要输入密码即可。)
+[20:38:28] [Client thread/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[20:38:28] [Client thread/INFO]: [CHAT] =====================================
+[20:38:40] [Client thread/INFO]: Connecting to cloudegg.cloud., 20701
+[20:38:43] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -671,15 +67,16 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:38:43] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -688,15 +85,33 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:38:44] [Client thread/INFO]: [CHAT] =====================================
+[20:38:44] [Client thread/INFO]: [CHAT] 
+[20:38:44] [Client thread/INFO]: [CHAT] 请使用命令 /login 密码 进行登陆。
+[20:38:44] [Client thread/INFO]: [CHAT] 
+[20:38:44] [Client thread/INFO]: [CHAT] 点我使用隐藏密码
+[20:38:44] [Client thread/INFO]: [CHAT] (隐藏密码只需要输入密码即可。)
+[20:38:44] [Client thread/INFO]: [CHAT] =====================================
+[20:38:49] [Client thread/INFO]: [CHAT] 
+[20:38:49] [Client thread/INFO]: [CHAT] 
+[20:38:49] [Client thread/INFO]: [CHAT] 
+[20:38:49] [Client thread/INFO]: [CHAT] 
+[20:38:49] [Client thread/INFO]: [CHAT] 
+[20:38:49] [Client thread/INFO]: [CHAT] =====================================
+[20:38:49] [Client thread/INFO]: [CHAT] | 登录成功, 祝您游戏愉快!
+[20:38:49] [Client thread/INFO]: [CHAT] =====================================
+[20:38:54] [Client thread/INFO]: [CHAT] [+] GLgele
+[20:38:54] [Client thread/INFO]: [CHAT] e Cloud > 正在自动为您尝试兑换余额...
+[20:38:55] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -705,15 +120,16 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:38:55] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -722,15 +138,27 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:38:55] [Client thread/INFO]: [CHAT] e Cloud > 账户内余额不足, 无法兑换. 当前余额: 0.00
+[20:38:55] [Client thread/INFO]: [CHAT] 你有未领取的奖励,向礼包使者领取！
+[20:38:58] [Client thread/INFO]: [CHAT] e Cloud > 服务器全新上线Rank系统，输入命令/pp获取充值相关指令。
+[20:39:00] [Client thread/INFO]: [CHAT] [-] qiqiSaMa
+[20:39:11] [Client thread/INFO]: [CHAT]  +3000 大厅经验!
+[20:39:11] [Client thread/INFO]: [CHAT] 你已经领取每日礼包！
+[20:39:13] [Client thread/INFO]: [CHAT] 收到5个神秘箱
+[20:39:13] [Client thread/INFO]: [CHAT] 你已经领取每月礼包！
+[20:39:23] [Client thread/INFO]: [CHAT]  +500 大厅经验!
+[20:39:23] [Client thread/INFO]: [CHAT] 你已经领取Bilibili礼包！
+[20:39:50] [Client thread/INFO]: [CHAT] 您已前往 Bedwars
+[20:39:51] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -739,15 +167,18 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:39:51] [Client thread/INFO]: [CHAT] [+] GLgele
+[20:40:16] [Client thread/INFO]: [CHAT] 您已前往 搭路练习
+[20:40:17] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -756,15 +187,16 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:40:17] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -773,15 +205,16 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:40:17] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -790,15 +223,16 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:40:17] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -807,15 +241,16 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:24] [Client thread/FATAL]: Error executing task
+[20:40:17] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -824,31 +259,892 @@ java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
 	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
 Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:44:25] [Client thread/INFO]: [CHAT] Welcome, GLgele!
-[19:44:25] [Client thread/INFO]: [CHAT] Type /help for a list of commands.
-[19:44:25] [Client thread/INFO]: [CHAT] Type /list to see who else is online.
-[19:44:25] [Client thread/INFO]: [CHAT] Players online: 47 - World time: 5:21 AM
-[19:44:25] [Client thread/INFO]: [CHAT] 你没有新的邮件
-[19:44:25] [Client thread/INFO]: [CHAT] 欢迎新玩家GLgele来到服务器!
-[19:44:25] [Client thread/INFO]: [CHAT] 
-[19:44:25] [Client thread/INFO]: [CHAT]    游戏世界 ╮(－_－)╭
-[19:44:25] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
-[19:44:25] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
-[19:44:25] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
-[19:44:25] [Client thread/INFO]: [CHAT] 
-[19:44:25] [Client thread/INFO]: [CHAT] §b§8[§f§l人界-§d§l星云城§8]§f§8[打烊的青楼§8]§8§l[§fLv.§b98§8§l]§8§l[§b天界大帝§8§l]§a15644546§8§l[§4帝境§8§l]§7> 你说
-[19:44:25] [Client thread/INFO]: [CHAT] §b§8[§f§l人界-§d§l星云城§8]§f§8[-§8]§8§l[§fLv.§b98§8§l]§8§l[§b天界大帝§8§l]§aGalaxyRaven13§8§l[§4帝境§8§l]§7> 反正我不睡觉
-[19:44:26] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[19:44:26] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[19:44:27] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[19:44:43] [Client thread/INFO]: Stopping!
-[19:44:43] [Client thread/INFO]: SoundSystem shutting down...
-[19:44:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:40:17] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:40:17] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:40:17] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:40:17] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:40:19] [Client thread/INFO]: [CHAT] §8[§716?§8] §7KuyDanZ §e§l> §7§7他咋被踢了...
+[20:40:24] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009 5连杀!
+[20:40:25] [Client thread/INFO]: [CHAT] Warping to qiaozhan2.
+[20:40:26] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't use that here.
+[20:40:27] [Client thread/INFO]: [CHAT] §8[§74?§8] §7iLoveYouu_ §e§l> §7§7估计DC
+[20:40:29] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009 6连杀!
+[20:40:29] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:40:34] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009 7连杀!
+[20:40:34] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood
+[20:40:42] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:40:42] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood
+[20:40:47] [Client thread/INFO]: [CHAT] Warping to juedou.
+[20:40:47] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:40:48] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:40:52] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009 2连杀!
+[20:40:58] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:KuyDanZ
+[20:41:10] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009 3连杀!
+[20:41:15] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009 4连杀!
+[20:41:20] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:KuyDanZ 2连杀!
+[20:41:21] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009 5连杀!
+[20:41:23] [Client thread/INFO]: [CHAT]  Cloud ? KuyDanZ被推入虚空,击杀者:Tenzoa
+[20:41:28] [Client thread/INFO]: [CHAT] Warping to jitui.
+[20:41:42] [Client thread/INFO]: [CHAT] Warping to qiaozhan1.
+[20:41:46] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:KuyDanZ
+[20:41:49] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:41:53] [Client thread/INFO]: [CHAT] §8[§718?§8] §7OilWood §e§l> §7§7↑↓
+[20:41:58] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:42:00] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:42:00] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:42:01] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[20:42:03] [Client thread/INFO]: [CHAT] §8[§718?§8] §7OilWood §e§l> §7§7↑↓
+[20:42:03] [Client thread/INFO]: [CHAT] §8[§718?§8] §7OilWood §e§l> §7§7↑↓
+[20:42:07] [Client thread/INFO]: [CHAT]  Cloud ? iLoveYouu_被推入虚空,击杀者:GLgele
+[20:42:07] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:42:16] [Client thread/INFO]: [CHAT] §8[§718?§8] §7OilWood §e§l> §7§7↑——↓——
+[20:42:17] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:42:28] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:Li_Chu2009
+[20:42:29] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:MooKal_swell
+[20:42:31] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood 2连杀!
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT] §8§l§m                  ]§8§l§m   §e§lCl§6§lou§c§ld§8§l§m   §8§l§m[                  
+[20:42:31] [Client thread/INFO]: [CHAT]  §b§l全服公告( ゜- ゜)つロ
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT]  §7如果在游戏过程中发现外挂
+[20:42:31] [Client thread/INFO]: [CHAT]  §7请使用§3/wdr§7或§3/report§7进行举报!
+[20:42:31] [Client thread/INFO]: [CHAT]  §7我们在收到举报后，会及时进行处理。
+[20:42:31] [Client thread/INFO]: [CHAT]  §7同时您也可以录像发至官方群进行反馈。
+[20:42:31] [Client thread/INFO]: [CHAT] §f 
+[20:42:31] [Client thread/INFO]: [CHAT]  §7官方①群：§e371307860
+[20:42:31] [Client thread/INFO]: [CHAT]  §7官方②群：§e942976152
+[20:42:31] [Client thread/INFO]: [CHAT]  §7玩家自证群：§e794384998
+[20:42:31] [Client thread/INFO]: [CHAT] §8§l§m                                                     
+[20:42:33] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:42:38] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:42:39] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:Li_Chu2009 2连杀!
+[20:42:40] [Client thread/INFO]: [CHAT]  Cloud ? theweary被推入虚空,击杀者:MooKal_swell
+[20:42:41] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:42:42] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:42:42] [Client thread/INFO]: [CHAT] -----------------------------------------
+[20:42:42] [Client thread/INFO]: [CHAT] 
+[20:42:42] [Client thread/INFO]: [CHAT]                                     e升级!e
+[20:42:42] [Client thread/INFO]: [CHAT] 
+[20:42:42] [Client thread/INFO]: [CHAT]                       你现在的 搭路等级  为 5?
+[20:42:42] [Client thread/INFO]: [CHAT] 
+[20:42:42] [Client thread/INFO]: [CHAT] -----------------------------------------
+[20:42:42] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:42:44] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:Li_Chu2009
+[20:42:45] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood 2连杀!
+[20:42:48] [Client thread/INFO]: [CHAT]  Cloud ? iLoveYouu_被推入虚空,击杀者:GLgele
+[20:42:48] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:42:48] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood 3连杀!
+[20:42:50] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:42:55] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:42:59] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood
+[20:43:02] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:43:03] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:43:03] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood
+[20:43:06] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:43:06] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:KuyDanZ 2连杀!
+[20:43:07] [Client thread/INFO]: [CHAT]  Cloud ? iLoveYouu_被推入虚空,击杀者:theweary
+[20:43:09] [Client thread/ERROR]: Item entity 279906 has no item?!
+[20:43:09] [Client thread/INFO]: [CHAT] iLoveYouu_ 死了
+[20:43:12] [Client thread/INFO]: [CHAT] §8[§75?§8] §7iLoveYouu_ §e§l> §7§7wdf
+[20:43:12] [Client thread/INFO]: [CHAT]  Cloud ? theweary被推入虚空,击杀者:OilWood
+[20:43:13] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009 2连杀!
+[20:43:13] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood
+[20:43:16] [Client thread/INFO]: [CHAT]  Cloud ? theweary被推入虚空,击杀者:Li_Chu2009
+[20:43:18] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:43:24] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:43:26] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood 2连杀!
+[20:43:27] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:Li_Chu2009
+[20:43:28] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele
+[20:43:28] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:43:28] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:43:29] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:43:29] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:43:29] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:43:31] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood 2连杀!
+[20:43:33] [Client thread/INFO]: [CHAT]  Cloud ? iLoveYouu_被推入虚空,击杀者:OilWood 3连杀!
+[20:43:34] [Client thread/INFO]: [CHAT]  Cloud ? theweary被推入虚空,击杀者:GLgele
+[20:43:34] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:43:34] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele 2连杀!
+[20:43:34] [Client thread/INFO]: [CHAT] +10 搭路经验(连杀奖励)
+[20:43:34] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:43:35] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:GLgele
+[20:43:35] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:43:40] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:43:41] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:43:41] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:43:44] [Client thread/INFO]: [CHAT]  Cloud ? theweary被推入虚空,击杀者:OilWood 2连杀!
+[20:43:48] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:43:51] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:43:53] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:43:55] [Client thread/INFO]: [CHAT]  Cloud ? iLoveYouu_被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:44:01] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell 3连杀!
+[20:44:01] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:44:05] [Client thread/INFO]: [CHAT]  Cloud ? theweary被推入虚空,击杀者:GLgele
+[20:44:05] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:44:05] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:44:07] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:44:08] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:GLgele
+[20:44:08] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:44:11] [Client thread/INFO]: [CHAT]  Cloud ? theweary被推入虚空,击杀者:OilWood
+[20:44:13] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood 2连杀!
+[20:44:14] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:44:19] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:44:19] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:44:25] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:Li_Chu2009 2连杀!
+[20:44:26] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood 2连杀!
+[20:44:26] [Client thread/INFO]: [CHAT] §8[§716?§8] §7KuyDanZ §e§l> §7§7手酸
+[20:44:30] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:44:31] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:44:36] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:44:39] [Client thread/INFO]: [CHAT] §8[§710?§8] §7Tenzoa §e§l> §7§7ni yong she mo dian fa
+[20:44:42] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:44:48] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:Li_Chu2009 3连杀!
+[20:44:49] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:44:52] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:44:53] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:44:53] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:45:00] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:45:01] [Client thread/INFO]: [CHAT]  Cloud ? iLoveYouu_被推入虚空,击杀者:OilWood
+[20:45:01] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood 2连杀!
+[20:45:06] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood 3连杀!
+[20:45:06] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:45:07] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:KuyDanZ 3连杀!
+[20:45:18] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:45:25] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:45:35] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:45:47] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:45:53] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:45:56] [Client thread/INFO]: [CHAT] -----------------------------------------
+[20:45:56] [Client thread/INFO]: [CHAT] 
+[20:45:56] [Client thread/INFO]: [CHAT]                                     e升级!e
+[20:45:56] [Client thread/INFO]: [CHAT] 
+[20:45:56] [Client thread/INFO]: [CHAT]                       你现在的 搭路等级  为 6?
+[20:45:56] [Client thread/INFO]: [CHAT] 
+[20:45:56] [Client thread/INFO]: [CHAT] -----------------------------------------
+[20:45:56] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:46:00] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele
+[20:46:00] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:46:00] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:46:10] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:46:11] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:KuyDanZ 4连杀!
+[20:46:17] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood 2连杀!
+[20:46:26] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:46:29] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood 3连杀!
+[20:46:50] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:46:51] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[20:46:52] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[20:46:52] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[20:46:54] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:47:05] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:05] [Client thread/INFO]: [CHAT]              神秘箱
+[20:47:05] [Client thread/INFO]: [CHAT] 
+[20:47:05] [Client thread/INFO]: [CHAT]   你找到了东西!
+[20:47:05] [Client thread/INFO]: [CHAT]   §71x §a§l普通 ''B'' 字母头像
+[20:47:05] [Client thread/INFO]: [CHAT] 
+[20:47:05] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:06] [Client thread/INFO]: [CHAT] 你正在打开这个神秘箱
+[20:47:07] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:47:10] [Client thread/INFO]: [CHAT] 你正在打开这个神秘箱
+[20:47:14] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:14] [Client thread/INFO]: [CHAT]              神秘箱
+[20:47:14] [Client thread/INFO]: [CHAT] 
+[20:47:14] [Client thread/INFO]: [CHAT]   你找到了东西!
+[20:47:14] [Client thread/INFO]: [CHAT]   §71x §9§l稀有 猫: 红 (幼年)
+[20:47:14] [Client thread/INFO]: [CHAT] 
+[20:47:14] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:14] [Client thread/INFO]: [CHAT]  Cloud ? iLoveYouu_被推入虚空,击杀者:MooKal_swell
+[20:47:15] [Client thread/INFO]: [CHAT] §8[§77?§8] §7iLoveYouu_ §e§l> §7§7c
+[20:47:15] [Client thread/INFO]: [CHAT] 你正在打开这个神秘箱
+[20:47:22] [Client thread/INFO]: [CHAT] §8[§710?§8] §7Tenzoa §e§l> §7§7zai ma
+[20:47:23] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:23] [Client thread/INFO]: [CHAT]              神秘箱
+[20:47:23] [Client thread/INFO]: [CHAT] 
+[20:47:23] [Client thread/INFO]: [CHAT]   你找到了东西!
+[20:47:23] [Client thread/INFO]: [CHAT]   §71x §a§l普通 美国头像
+[20:47:23] [Client thread/INFO]: [CHAT] 
+[20:47:23] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:23] [Client thread/INFO]: [CHAT] 你正在打开这个神秘箱
+[20:47:25] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:47:31] [Client thread/INFO]: [CHAT] §f 
+[20:47:31] [Client thread/INFO]: [CHAT] §f 
+[20:47:31] [Client thread/INFO]: [CHAT] §f 
+[20:47:31] [Client thread/INFO]: [CHAT] §f 
+[20:47:31] [Client thread/INFO]: [CHAT] §f 
+[20:47:31] [Client thread/INFO]: [CHAT] §f 
+[20:47:31] [Client thread/INFO]: [CHAT] §f 
+[20:47:31] [Client thread/INFO]: [CHAT] §f 
+[20:47:31] [Client thread/INFO]: [CHAT] §8§l§m                  ]§8§l§m   §e§lCl§6§lou§c§ld§8§l§m   §8§l§m[                  
+[20:47:31] [Client thread/INFO]: [CHAT]  §b§l全服公告( ゜- ゜)つロ
+[20:47:31] [Client thread/INFO]: [CHAT] §f 
+[20:47:31] [Client thread/INFO]: [CHAT]  §7我们诚挚的邀请各平台主播入驻服务器
+[20:47:31] [Client thread/INFO]: [CHAT]  §7我们将分发主播称号、经验倍增器等游戏奖励
+[20:47:31] [Client thread/INFO]: [CHAT]  §7如果您想要申请，请加入§3官方群371307860
+[20:47:31] [Client thread/INFO]: [CHAT] §8§l§m                                                     
+[20:47:32] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:32] [Client thread/INFO]: [CHAT]              神秘箱
+[20:47:32] [Client thread/INFO]: [CHAT] 
+[20:47:32] [Client thread/INFO]: [CHAT]   你找到了东西!
+[20:47:32] [Client thread/INFO]: [CHAT]   §71x §6§l传说 凌乱的魔方头像
+[20:47:32] [Client thread/INFO]: [CHAT] 
+[20:47:32] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:33] [Client thread/INFO]: [CHAT] 你正在打开这个神秘箱
+[20:47:38] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:47:41] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[20:47:41] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[20:47:42] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[20:47:42] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:42] [Client thread/INFO]: [CHAT]              神秘箱
+[20:47:42] [Client thread/INFO]: [CHAT] 
+[20:47:42] [Client thread/INFO]: [CHAT]   你找到了东西!
+[20:47:42] [Client thread/INFO]: [CHAT]   §71x §5§l史诗 火服
+[20:47:42] [Client thread/INFO]: [CHAT] 
+[20:47:42] [Client thread/INFO]: [CHAT] ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[20:47:44] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:47:50] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood
+[20:47:50] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:q3TNT
+[20:47:52] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:47:55] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009
+[20:47:55] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:48:01] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:Li_Chu2009 2连杀!
+[20:48:02] [Client thread/INFO]: [CHAT]  Cloud ? Li_Chu2009被推入虚空,击杀者:OilWood
+[20:48:06] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood 2连杀!
+[20:48:10] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:48:10] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:48:19] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:q3TNT
+[20:48:21] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:48:21] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:48:21] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:48:26] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:48:29] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:48:32] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell 3连杀!
+[20:48:32] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:48:35] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:48:41] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:48:41] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:48:45] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:48:47] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood 2连杀!
+[20:48:51] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:48:54] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:48:57] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:48:59] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood 2连杀!
+[20:48:59] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele
+[20:48:59] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:48:59] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood
+[20:49:01] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:49:05] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood 2连杀!
+[20:49:09] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood 3连杀!
+[20:49:09] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:49:13] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:49:14] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:49:17] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:49:17] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood 2连杀!
+[20:49:21] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:49:22] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele
+[20:49:22] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:49:23] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:GLgele 2连杀!
+[20:49:23] [Client thread/INFO]: [CHAT] +10 搭路经验(连杀奖励)
+[20:49:26] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:q3TNT
+[20:49:30] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT 2连杀!
+[20:49:33] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:GLgele
+[20:49:33] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:49:34] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:49:38] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:49:38] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:49:42] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell
+[20:49:47] [Client thread/INFO]: [CHAT]  Cloud ? Akiraaaaaaaaaa被推入虚空,击杀者:OilWood 2连杀!
+[20:49:48] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:49:50] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood 3连杀!
+[20:49:51] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell 3连杀!
+[20:49:51] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:49:53] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:49:55] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell
+[20:49:55] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[20:49:56] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[20:49:56] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood 2连杀!
+[20:49:56] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:q3TNT
+[20:49:58] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:50:01] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:50:02] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:GLgele
+[20:50:02] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:50:09] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:50:11] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:50:14] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:50:16] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell 3连杀!
+[20:50:19] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell 4连杀!
+[20:50:19] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:50:26] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:50:30] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:50:30] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:50:37] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:50:37] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:50:42] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:50:42] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:50:45] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood 2连杀!
+[20:50:45] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:q3TNT
+[20:50:52] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:50:52] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood 2连杀!
+[20:50:57] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele 2连杀!
+[20:50:57] [Client thread/INFO]: [CHAT] +10 搭路经验(连杀奖励)
+[20:51:00] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:51:01] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele 3连杀!
+[20:51:01] [Client thread/INFO]: [CHAT] +15 搭路经验(连杀奖励)
+[20:51:01] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:GLgele 4连杀!
+[20:51:01] [Client thread/INFO]: [CHAT] +20 搭路经验(连杀奖励)
+[20:51:04] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele 5连杀!
+[20:51:04] [Client thread/INFO]: [CHAT] +25 搭路经验(连杀奖励)
+[20:51:08] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:q3TNT
+[20:51:10] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood
+[20:51:12] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:51:14] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:51:16] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:51:16] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:51:18] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele
+[20:51:18] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:51:19] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:51:19] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:51:23] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:q3TNT
+[20:51:25] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell 3连杀!
+[20:51:25] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell 4连杀!
+[20:51:28] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:q3TNT
+[20:51:29] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:51:30] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:51:31] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:51:34] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell
+[20:51:39] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:51:42] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:q3TNT 2连杀!
+[20:51:44] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell 3连杀!
+[20:51:46] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:Li_Chu2009
+[20:51:47] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:51:47] [Client thread/INFO]: [CHAT] -----------------------------------------
+[20:51:47] [Client thread/INFO]: [CHAT] 
+[20:51:47] [Client thread/INFO]: [CHAT]                                     e升级!e
+[20:51:47] [Client thread/INFO]: [CHAT] 
+[20:51:47] [Client thread/INFO]: [CHAT]                       你现在的 搭路等级  为 7?
+[20:51:47] [Client thread/INFO]: [CHAT] 
+[20:51:47] [Client thread/INFO]: [CHAT] -----------------------------------------
+[20:51:48] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:51:56] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:52:02] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:52:05] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:52:05] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:52:13] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood 2连杀!
+[20:52:18] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:GLgele
+[20:52:18] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:52:18] [Client thread/INFO]: [CHAT] e CloudEyes ? 一名玩家因使用非法漏洞或作弊被踢出，请注意您的游戏行为！
+[20:52:21] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:52:25] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:MooKal_swell
+[20:52:30] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT] §8§l§m                  ]§8§l§m   §e§lCl§6§lou§c§ld§8§l§m   §8§l§m[                  
+[20:52:31] [Client thread/INFO]: [CHAT]  §b§l全服公告( ゜- ゜)つロ
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT]  §7如果在游戏过程中发现外挂
+[20:52:31] [Client thread/INFO]: [CHAT]  §7请使用§3/wdr§7或§3/report§7进行举报!
+[20:52:31] [Client thread/INFO]: [CHAT]  §7我们在收到举报后，会及时进行处理。
+[20:52:31] [Client thread/INFO]: [CHAT]  §7同时您也可以录像发至官方群进行反馈。
+[20:52:31] [Client thread/INFO]: [CHAT] §f 
+[20:52:31] [Client thread/INFO]: [CHAT]  §7官方①群：§e371307860
+[20:52:31] [Client thread/INFO]: [CHAT]  §7官方②群：§e942976152
+[20:52:31] [Client thread/INFO]: [CHAT]  §7玩家自证群：§e794384998
+[20:52:31] [Client thread/INFO]: [CHAT] §8§l§m                                                     
+[20:52:32] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:52:34] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:52:36] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:52:42] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:52:55] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:52:59] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:52:59] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:53:03] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:53:03] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:53:06] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:53:23] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele
+[20:53:23] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:53:27] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:KuyDanZ 5连杀!
+[20:53:28] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:53:31] [Client thread/INFO]: [CHAT]  Cloud ? KuyDanZ被推入虚空,击杀者:iLoveYouu_
+[20:53:36] [Client thread/INFO]: [CHAT]  Cloud ? iLoveYouu_被推入虚空,击杀者:Tenzoa
+[20:53:41] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:53:41] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood
+[20:53:58] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:54:04] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:05] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:05] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:05] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:05] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:06] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:06] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:06] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:06] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:06] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:06] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:07] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:07] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:07] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:08] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:54:08] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:08] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:08] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:08] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:08] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:08] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:09] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:09] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:09] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:09] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:10] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:10] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:10] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:10] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:10] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:10] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:10] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:11] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:16] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:17] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:17] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:17] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:17] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:17] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:17] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:18] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:18] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:18] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:18] [Client thread/INFO]: [CHAT] 非 PVP 区域.
+[20:54:19] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:54:20] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:Li_Chu2009
+[20:54:24] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele
+[20:54:24] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:54:24] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:54:28] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:54:34] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:iLoveYouu_
+[20:54:36] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood
+[20:54:36] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:q3TNT
+[20:54:39] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:54:43] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood
+[20:54:43] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:q3TNT
+[20:55:01] [Client thread/INFO]: [CHAT]  Cloud ? iLoveYouu_被推入虚空,击杀者:Li_Chu2009 2连杀!
+[20:55:02] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:OilWood
+[20:55:07] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele
+[20:55:07] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:55:07] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:OilWood
+[20:55:09] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:55:11] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:55:13] [Client thread/INFO]: [CHAT]  Cloud ? OilWood被推入虚空,击杀者:GLgele
+[20:55:13] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:55:16] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:55:17] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:OilWood
+[20:55:27] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:MooKal_swell
+[20:55:27] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:55:28] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:55:33] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT 2连杀!
+[20:55:38] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:55:59] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell
+[20:56:02] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:56:06] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:q3TNT
+[20:56:10] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:56:13] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:56:14] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:56:40] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell
+[20:56:40] [Client thread/INFO]: [CHAT]  Cloud ? q3TNT被推入虚空,击杀者:GLgele
+[20:56:40] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:56:56] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:56:59] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:57:04] [Client thread/INFO]: [CHAT] §8[§710?§8] §7Tenzoa §e§l> §7§7lj
+[20:57:11] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:57:14] [Client thread/INFO]: [CHAT] §8[§710?§8] §7Tenzoa §e§l> §7§7pei
+[20:57:26] [Client thread/INFO]: [CHAT] §8[§78?§8] §7iLoveYouu_ §e§l> §7§7回个信息把你能的
+[20:57:27] [Client thread/INFO]: [CHAT] §8[§78?§8] §7iLoveYouu_ §e§l> §7§7FW
+[20:57:29] [Client thread/INFO]: [CHAT] §8[§710?§8] §7Tenzoa §e§l> §7§7pei
+[20:57:31] [Client thread/INFO]: [CHAT] §f 
+[20:57:31] [Client thread/INFO]: [CHAT] §f 
+[20:57:31] [Client thread/INFO]: [CHAT] §f 
+[20:57:31] [Client thread/INFO]: [CHAT] §f 
+[20:57:31] [Client thread/INFO]: [CHAT] §f 
+[20:57:31] [Client thread/INFO]: [CHAT] §f 
+[20:57:31] [Client thread/INFO]: [CHAT] §f 
+[20:57:31] [Client thread/INFO]: [CHAT] §f 
+[20:57:31] [Client thread/INFO]: [CHAT] §8§l§m                  ]§8§l§m   §e§lCl§6§lou§c§ld§8§l§m   §8§l§m[                  
+[20:57:31] [Client thread/INFO]: [CHAT]  §b§l全服公告( ゜- ゜)つロ
+[20:57:31] [Client thread/INFO]: [CHAT] §f 
+[20:57:31] [Client thread/INFO]: [CHAT]  §7我们诚挚的邀请各平台主播入驻服务器
+[20:57:31] [Client thread/INFO]: [CHAT]  §7我们将分发主播称号、经验倍增器等游戏奖励
+[20:57:31] [Client thread/INFO]: [CHAT]  §7如果您想要申请，请加入§3官方群371307860
+[20:57:31] [Client thread/INFO]: [CHAT] §8§l§m                                                     
+[20:57:35] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:57:36] [Client thread/INFO]: [CHAT] §8[§710?§8] §7Tenzoa §e§l> §7§7wo shuo chuo le
+[20:57:37] [Client thread/INFO]: [CHAT] §8[§78?§8] §7iLoveYouu_ §e§l> §7§7呸你妈呢？
+[20:57:38] [Client thread/INFO]: [CHAT] suri_L 死了
+[20:57:40] [Client thread/INFO]: [CHAT] §8[§78?§8] §7iLoveYouu_ §e§l> §7§7FW
+[20:57:48] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 3连杀!
+[20:57:57] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:57:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:58:12] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:58:21] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:GLgele
+[20:58:21] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:58:39] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell
+[20:58:39] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:GLgele
+[20:58:39] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:58:43] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:GLgele
+[20:58:43] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[20:58:44] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:58:57] [Client thread/INFO]: [CHAT] -----------------------------------------
+[20:58:57] [Client thread/INFO]: [CHAT] 
+[20:58:57] [Client thread/INFO]: [CHAT]                                     e升级!e
+[20:58:57] [Client thread/INFO]: [CHAT] 
+[20:58:57] [Client thread/INFO]: [CHAT]                       你现在的 搭路等级  为 8?
+[20:58:57] [Client thread/INFO]: [CHAT] 
+[20:58:57] [Client thread/INFO]: [CHAT] -----------------------------------------
+[20:58:57] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:59:05] [Client thread/INFO]: [CHAT]  Cloud ? Tenzoa被推入虚空,击杀者:Li_Chu2009 3连杀!
+[20:59:10] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:59:14] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[20:59:15] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[20:59:16] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell
+[20:59:21] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[20:59:45] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 2连杀!
+[20:59:48] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[21:00:15] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[21:00:18] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[21:00:40] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[21:00:43] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[21:00:46] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 3连杀!
+[21:01:05] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[21:01:13] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 4连杀!
+[21:01:21] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[21:01:24] [Client thread/INFO]: [CHAT] §8[§716?§8] §7KuyDanZ §e§l> §7§7awa
+[21:01:28] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:GLgele
+[21:01:28] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[21:01:28] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell
+[21:01:41] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell 2连杀!
+[21:01:45] [Client thread/INFO]: [CHAT]  Cloud ? MooKal_swell被推入虚空,击杀者:GLgele
+[21:01:45] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[21:01:45] [Client thread/INFO]: [CHAT]  Cloud ? GLgele被推入虚空,击杀者:MooKal_swell
+[21:01:47] [Client thread/INFO]: [CHAT]  Cloud ? Bad_Feng被推入虚空,击杀者:MooKal_swell 2连杀!
+[21:01:52] [Client thread/INFO]: [CHAT]  Cloud ? Bad_Feng被推入虚空,击杀者:GLgele
+[21:01:52] [Client thread/INFO]: [CHAT] +5 搭路经验(击杀奖励)
+[21:02:03] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[21:02:03] [Client thread/INFO]: [CHAT] 你没有 place 权限.
+[21:02:03] [Client thread/INFO]: [CHAT]  Cloud ? KuyDanZ被推入虚空,击杀者:Li_Chu2009 4连杀!
+[21:02:11] [Client thread/INFO]: [CHAT] +25 搭路经验(方块奖励)
+[21:02:22] [Client thread/INFO]: [CHAT]  Cloud ? Bad_Feng被推入虚空,击杀者:MooKal_swell 3连杀!
+[21:02:23] [Client thread/INFO]: [CHAT] +10 搭路经验(在线奖励)
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT] §8§l§m                  ]§8§l§m   §e§lCl§6§lou§c§ld§8§l§m   §8§l§m[                  
+[21:02:31] [Client thread/INFO]: [CHAT]  §b§l全服公告( ゜- ゜)つロ
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT]  §7如果在游戏过程中发现外挂
+[21:02:31] [Client thread/INFO]: [CHAT]  §7请使用§3/wdr§7或§3/report§7进行举报!
+[21:02:31] [Client thread/INFO]: [CHAT]  §7我们在收到举报后，会及时进行处理。
+[21:02:31] [Client thread/INFO]: [CHAT]  §7同时您也可以录像发至官方群进行反馈。
+[21:02:31] [Client thread/INFO]: [CHAT] §f 
+[21:02:31] [Client thread/INFO]: [CHAT]  §7官方①群：§e371307860
+[21:02:31] [Client thread/INFO]: [CHAT]  §7官方②群：§e942976152
+[21:02:31] [Client thread/INFO]: [CHAT]  §7玩家自证群：§e794384998
+[21:02:31] [Client thread/INFO]: [CHAT] §8§l§m                                                     
+[21:02:36] [Client thread/INFO]: [CHAT]  Cloud ? Bad_Feng被推入虚空,击杀者:GLgele 2连杀!
+[21:02:36] [Client thread/INFO]: [CHAT] +10 搭路经验(连杀奖励)
+[21:02:51] [Client thread/INFO]: Stopping!
+[21:02:51] [Client thread/INFO]: SoundSystem shutting down...
+[21:02:52] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
