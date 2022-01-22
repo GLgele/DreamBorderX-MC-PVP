@@ -11,21 +11,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2021-11-21 17:07:13 +0800"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2021-11-21 17:05:54 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_double_plant": "2021-11-21 17:07:15 +0800"
+      "has_lots_of_items": "2021-11-21 17:07:13 +0800"
     },
     "done": true
   },
@@ -35,8 +29,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2021-11-21 17:07:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2022-01-22 18:56:35 +0800",
       "zombie": "2021-11-21 17:06:00 +0800"
     },
     "done": false
