@@ -1,18 +1,38 @@
-[19:57:12] [Client thread/INFO]: Setting user: GLgele
-[19:57:12] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI4MmVkNTVhMWY3OWU0MjRjOGE2MjBhZjgyNDI5MWFmYyIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MzAwNjM4NjEuNDI5MjMxLCJpYXQiOjE2Mjk4MDQ2NjEuNDI5MjMxfQ.uStooIOQMZvmrhL5CtB1Z310CBOSBAiIGPbGZsoqMjs:84e8de8ef6d94371835b6844cb7ff0e9)
-[19:57:13] [Client thread/INFO]: LWJGL Version: 2.9.4
-[19:57:14] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
-[19:57:15] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[19:57:15] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[19:57:15] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[19:57:15] [Thread-7/INFO]: OpenAL initialized.
-[19:57:15] [Sound Library Loader/INFO]: Sound engine started
-[19:57:16] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
-[19:57:16] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
-[19:57:17] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[19:57:18] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
-[19:57:24] [Client thread/INFO]: Connecting to mc964.com, 25565
-[19:57:26] [Client thread/FATAL]: Error executing task
+[16:06:05] [Client thread/INFO]: Setting user: GLgele
+[16:06:05] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI4MmVkNTVhMWY3OWU0MjRjOGE2MjBhZjgyNDI5MWFmYyIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MzAwNjM4NjEuNDI5MjMxLCJpYXQiOjE2Mjk4MDQ2NjEuNDI5MjMxfQ.uStooIOQMZvmrhL5CtB1Z310CBOSBAiIGPbGZsoqMjs:84e8de8ef6d94371835b6844cb7ff0e9)
+[16:06:07] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:06:08] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
+[16:06:08] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:06:08] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[16:06:08] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:06:08] [Thread-7/INFO]: OpenAL initialized.
+[16:06:08] [Sound Library Loader/INFO]: Sound engine started
+[16:06:10] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
+[16:06:10] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[16:06:11] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[16:06:12] [Client thread/INFO]: Connecting to play.mcyc.win, 25565
+[16:06:23] [Client thread/INFO]: [CHAT] 
+[?] 欢迎回到游戏世界! 这里是关于登录系统的一些常用指令:
+
+  ? /unregister <密码>
+  ? /changepassword <当前-密码> <新-密码>
+  ? /createpassword <密码>
+  ? /premium <密码>
+  ? /cracked <密码>
+  ? /startsession
+  ? /destroysession
+  ? /changeemailaddress <密码> <邮箱地址>
+  ? /recoverypassword <邮箱地址>
+
+
+[?] 嫌登录麻烦？正版认证之后可以直接进入服务器:
+
+  ? /premium <密码> - 正版认证(登录密码)
+  ? /startsession - 盗版用户专用,持续一段时间不用登录
+
+[16:06:24] [Client thread/INFO]: [CHAT] [+] GLgele
+[16:06:24] [Client thread/INFO]: [CHAT] §8[§a§l?§8] §a§l你今天还没有签到! §c§l[点击此处打开签到界面]
+[16:06:24] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -30,38 +50,53 @@ Caused by: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:57:27] [Client thread/INFO]: [CHAT] ===================================================
-[19:57:27] [Client thread/INFO]: [CHAT] |           Clover Pixel
-[19:57:27] [Client thread/INFO]: [CHAT] |
-[19:57:27] [Client thread/INFO]: [CHAT] | 你的账户 已经注册  请登陆
-[19:57:27] [Client thread/INFO]: [CHAT] |
-[19:57:27] [Client thread/INFO]: [CHAT] | 使用 "/login <密码>" 来进行登陆
-[19:57:27] [Client thread/INFO]: [CHAT] |
-[19:57:27] [Client thread/INFO]: [CHAT] ===================================================
-[19:57:29] [Client thread/INFO]: [CHAT] §d§l『邀人』§f gudusha §f§l: 1 §b§l[§f超级战墙#3§b§l] 
-[19:57:30] [Client thread/INFO]: [CHAT]      
-[19:57:30] [Client thread/INFO]: [CHAT]      
-[19:57:30] [Client thread/INFO]: [CHAT] ===================================================
-[19:57:30] [Client thread/INFO]: [CHAT] | 密码验证成功 请妥善保管你的账户与密码
-[19:57:30] [Client thread/INFO]: [CHAT] ===================================================
-[19:57:30] [Client thread/INFO]: [CHAT] GLgele,欢迎你回来！
-[19:57:31] [Client thread/INFO]: [CHAT] -----------------------------------------
-[19:57:31] [Client thread/INFO]: [CHAT] [点券中心] 正在查询云平台余额进行点券转换...
-[19:57:32] [Client thread/INFO]: [CHAT] 
-[19:57:32] [Client thread/INFO]: [CHAT] ? 欢迎来到 四叶草 - 国际版
-[19:57:32] [Client thread/INFO]: [CHAT] 
-[19:57:32] [Client thread/INFO]: [CHAT]  这里是主大厅，你可以在这里进行
-[19:57:32] [Client thread/INFO]: [CHAT]  服区连接与中转等操作。
-[19:57:32] [Client thread/INFO]: [CHAT]  注意你的物品栏有快捷物品哦~
-[19:57:32] [Client thread/INFO]: [CHAT] 
-[19:57:32] [Client thread/INFO]: [CHAT] ? 服务器QQ群：949760054
-[19:57:32] [Client thread/INFO]: [CHAT] ? 祝你游戏愉快~
-[19:57:32] [Client thread/INFO]: [CHAT] 
-[19:57:33] [Client thread/INFO]: [CHAT] §d§l『邀人』§b[MVP§c+§b]§f ChaoJiGuangGod §f§l: 1 §b§l[§f超级战墙#3§b§l] 
-[19:57:33] [Client thread/INFO]: [CHAT] [神秘盒]cmzdjd开启了一个神秘盒！
-[19:57:34] [Client thread/INFO]: [CHAT] §d§l『邀人』§b[MVP§c+§b]§f kushen_ §f§l: 1 §b§l[§f超级战墙#3§b§l] 
-[19:57:39] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家GLgele加入了逃杀!
-[19:57:39] [Client thread/FATAL]: Error executing task
+[16:06:25] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[16:06:27] [Client thread/INFO]: [CHAT] [?] 你打开了签到菜单。
+[16:06:29] [Client thread/INFO]: [CHAT] [?] 签到奖励已获取.
+[16:06:29] [Client thread/INFO]: [CHAT] ????????????????????????????????????????
+[16:06:29] [Client thread/INFO]: [CHAT] 
+[16:06:29] [Client thread/INFO]: [CHAT]   [?] 今日签到已完成!
+[16:06:29] [Client thread/INFO]: [CHAT] 
+[16:06:29] [Client thread/INFO]: [CHAT]   # 您已连续签到 1 天
+[16:06:29] [Client thread/INFO]: [CHAT]   # 您今天是全服第 463 个签到的玩家
+[16:06:29] [Client thread/INFO]: [CHAT] 
+[16:06:29] [Client thread/INFO]: [CHAT] ????????????????????????????????????????
+[16:06:32] [Client thread/INFO]: [CHAT] [+] xiaohei
+[16:06:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[16:06:42] [Client thread/INFO]: [CHAT] 
+[16:06:42] [Client thread/INFO]: [CHAT]    GameCraft - 游戏世界 
+[16:06:42] [Client thread/INFO]: [CHAT]       官方不受理任何盗号、改密码事件
+[16:06:42] [Client thread/INFO]: [CHAT]       请不要将您的账号借给他人!否则后果自负！
+[16:06:42] [Client thread/INFO]: [CHAT] 
+[16:06:42] [Client thread/INFO]: [CHAT]       服务器赞助链接: mcyc.mcrmb.com
+[16:06:42] [Client thread/INFO]: [CHAT]       服务器游戏地址: play.mcyc.win
+[16:06:42] [Client thread/INFO]: [CHAT]       服务器管方网址: www.mcyc.win
+[16:06:42] [Client thread/INFO]: [CHAT] 
+[16:06:57] [Client thread/INFO]: [CHAT] [-] xiaohei
+[16:07:02] [Client thread/INFO]: [CHAT] [+] 546456
+[16:07:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[16:07:30] [Client thread/INFO]: [CHAT] [+] GAIYA
+[16:07:31] [Client thread/INFO]: [CHAT] [-] 546456
+[16:07:33] [Client thread/INFO]: [CHAT] [+] 1165
+[16:07:43] [Client thread/INFO]: [CHAT] [-] xxxlianja
+[16:07:44] [Client thread/INFO]: [CHAT] [-] 1165
+[16:08:05] [Client thread/INFO]: [CHAT] [+] gou_xiong
+[16:08:22] [Client thread/INFO]: [CHAT] 
+[16:08:22] [Client thread/INFO]: [CHAT]    GameCraft - 游戏世界 
+[16:08:22] [Client thread/INFO]: [CHAT]       在游戏中使用 /report <玩家id> <理由>
+[16:08:22] [Client thread/INFO]: [CHAT]       来举报作弊/非法组队/非法装备/RMB交易
+[16:08:22] [Client thread/INFO]: [CHAT]       欢迎大家进行举报监督，共创美好的游戏环境~
+[16:08:22] [Client thread/INFO]: [CHAT] 
+[16:08:22] [Client thread/INFO]: [CHAT]       服务器赞助链接: mcyc.mcrmb.com
+[16:08:22] [Client thread/INFO]: [CHAT]       服务器游戏地址: play.mcyc.win
+[16:08:22] [Client thread/INFO]: [CHAT]       服务器管方网址: www.mcyc.win
+[16:08:22] [Client thread/INFO]: [CHAT] 
+[16:08:33] [Client thread/INFO]: [CHAT] [-] GAIYA
+[16:08:34] [Client thread/INFO]: [CHAT] [-] gou_xiong
+[16:08:41] [Client thread/INFO]: [CHAT] [+] Skarin92
+[16:08:51] [Client thread/INFO]: [CHAT] [?] 欢迎进入 起床战争大厅 ，右击NPC即可加入游戏.
+[16:08:51] [Client thread/INFO]: [CHAT] [+] GLgele
+[16:08:51] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -79,74 +114,31 @@ Caused by: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:57:40] [Client thread/INFO]: [CHAT] §d§l『邀人』§b[MVP§c+§b]§f kushen_ §f§l: 1 §b§l[§f超级战墙#3§b§l] 
-[19:57:41] [Client thread/INFO]: [CHAT] ========================================
-[19:57:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[19:57:41] [Client thread/INFO]: [CHAT] §r
-[19:57:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[19:57:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[19:57:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[19:57:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[19:57:41] [Client thread/INFO]: [CHAT] §r
-[19:57:41] [Client thread/INFO]: [CHAT] ========================================
-[19:57:47] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家Millanill退出了逃杀!
-[19:57:54] [Client thread/INFO]: [CHAT] 大逃杀 >> 切换成功!
-[19:57:55] [Client thread/INFO]: [CHAT] §d§l『邀人』§f yesutian §f§l: 1 §b§l[§f梦幻#西木区§b§l] 
-[19:57:57] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家Xian_iijia退出了逃杀!
-[19:57:57] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家Theluze加入了逃杀!
-[19:57:58] [Client thread/INFO]: [CHAT] §d§l『邀人』§f feng_zhu_nc §f§l: eeeee §b§l[§f普通#亚马逊§b§l] 
-[19:58:01] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家Millanill加入了逃杀!
-[19:58:03] [Client thread/INFO]: [CHAT] 大逃杀 >> 切换成功!
-[19:58:13] [Client thread/INFO]: [CHAT] §d§l『邀人』§f FLIRevc §f§l: 111111111 §b§l[§f普通#亚马逊§b§l] 
-[19:58:24] [Client thread/INFO]: [CHAT] 大逃杀 >> 启用成功!
-[19:58:26] [Client thread/INFO]: [CHAT] §d§l『邀人』§f WHHH §f§l: 1 §b§l[§f梦幻#西木区§b§l] 
-[19:58:30] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家qjdcx421退出了逃杀!
-[19:58:34] [Client thread/INFO]: [CHAT] 大逃杀 >> 切换成功!
-[19:58:34] [Client thread/INFO]: [CHAT] 大逃杀 >> 切换成功!
-[19:58:35] [Client thread/INFO]: [CHAT] 大逃杀 >> 切换成功!
-[19:58:40] [Client thread/INFO]: [CHAT] 大逃杀 >> 启用成功!
-[19:58:41] [Client thread/INFO]: [CHAT] ========================================
-[19:58:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[19:58:41] [Client thread/INFO]: [CHAT] §r
-[19:58:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[19:58:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[19:58:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[19:58:41] [Client thread/INFO]: [CHAT] §r
-[19:58:41] [Client thread/INFO]: [CHAT]     详情请见:
-[19:58:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[19:58:41] [Client thread/INFO]: [CHAT] ========================================
-[19:58:44] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家GLgele加入了队列!
-[19:58:44] [Client thread/INFO]: [CHAT] 大逃杀 >> 当前队列距离开始游戏还需2人(逃生者1人,追捕者1人).
-[19:58:44] [Client thread/INFO]: [CHAT] 大逃杀 >> 模式2V1的队列距离开始游戏还需2人(逃生者1人,追捕者1人),赶快使用匹配系统加入他们吧!
-[19:58:44] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家abcdgggg加入了逃杀!
-[19:59:03] [Client thread/INFO]: [CHAT] 大逃杀 >> 模式4V1的队列距离开始游戏还需4人(逃生者0人,追捕者4人),赶快使用匹配系统加入他们吧!
-[19:59:07] [Client thread/INFO]: [CHAT] 大逃杀 >> 模式4V1的队列距离开始游戏还需3人(逃生者0人,追捕者3人),赶快使用匹配系统加入他们吧!
-[19:59:09] [Client thread/INFO]: [CHAT] 大逃杀 >> 已退出匹配!
-[19:59:13] [Client thread/INFO]: [CHAT] 大逃杀 >> 切换成功!
-[19:59:14] [Client thread/INFO]: [CHAT] 大逃杀 >> 切换成功!
-[19:59:15] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家GLgele加入了队列!
-[19:59:15] [Client thread/INFO]: [CHAT] 大逃杀 >> 当前队列距离开始游戏还需2人(逃生者0人,追捕者2人).
-[19:59:15] [Client thread/INFO]: [CHAT] 大逃杀 >> 模式4V1的队列距离开始游戏还需2人(逃生者0人,追捕者2人),赶快使用匹配系统加入他们吧!
-[19:59:16] [Client thread/INFO]: [CHAT] §d§l『邀人』§f yesutian §f§l: lai ren §b§l[§f梦幻#西木区§b§l] 
-[19:59:30] [Client thread/INFO]: [CHAT] §d§l『邀人』§f mc_erana §f§l: 发点箭吧 §b§l[§f超级战墙#3§b§l] 
-[19:59:41] [Client thread/INFO]: [CHAT] ========================================
-[19:59:41] [Client thread/INFO]: [CHAT]      发现可恨的作弊者？ >>> 
-[19:59:41] [Client thread/INFO]: [CHAT] §r
-[19:59:41] [Client thread/INFO]: [CHAT]      请使用举报系统举报作弊者！
-[19:59:41] [Client thread/INFO]: [CHAT]      我们绝不姑息任何作弊行为！
-[19:59:41] [Client thread/INFO]: [CHAT]      举报请输入: /report <玩家> <理由>
-[19:59:41] [Client thread/INFO]: [CHAT]      感谢你为维护游戏环境做出的努力！(*^▽^*)//
-[19:59:41] [Client thread/INFO]: [CHAT] §r
-[19:59:41] [Client thread/INFO]: [CHAT] ========================================
-[19:59:43] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家Real_So加入了逃杀!
-[19:59:46] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家Real_So加入了队列!
-[19:59:46] [Client thread/INFO]: [CHAT] 大逃杀 >> 当前队列距离开始游戏还需1人(逃生者0人,追捕者1人).
-[19:59:46] [Client thread/INFO]: [CHAT] 大逃杀 >> 模式4V1的队列距离开始游戏还需1人(逃生者0人,追捕者1人),赶快使用匹配系统加入他们吧!
-[19:59:48] [Client thread/INFO]: [CHAT] ? Real_So说: 4V1
-[19:59:53] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家abcdgggg加入了队列!
-[19:59:53] [Client thread/INFO]: [CHAT] 大逃杀 >> 当前队列距离开始游戏还需0人(逃生者0人,追捕者0人).
-[19:59:53] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家Millanill退出了逃杀!
-[19:59:54] [Client thread/FATAL]: Error executing task
+[16:08:52] [Client thread/INFO]: [CHAT] [-] di_mu
+[16:08:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[16:08:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[16:08:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.player.attack.nodamage
+[16:08:59] [Client thread/INFO]: [CHAT] [-] wick
+[16:09:01] [Client thread/INFO]: [CHAT] Command Error!Please to /help
+[16:09:02] [Client thread/INFO]: [CHAT] [-] Chlorine
+[16:09:03] [Client thread/INFO]: [CHAT] Command Error!Please to /help
+[16:09:05] [Client thread/INFO]: [CHAT] [+] Skarin92
+[16:09:06] [Client thread/INFO]: [CHAT] [+] xxxlianja
+[16:09:06] [Client thread/INFO]: [CHAT] [+] Chlorine
+[16:09:11] [Client thread/INFO]: [CHAT] [?] 你没有权限开启高跳效果. 请购买 会员 以解锁该功能!
+[16:09:12] [Client thread/INFO]: [CHAT] [-] xxxlianja
+[16:09:14] [Client thread/INFO]: [CHAT] [-] Chlorine
+[16:09:16] [Client thread/INFO]: [CHAT] [?] 你没有权限骑上其他玩家. 请购买 会员 以解锁该功能!
+[16:09:19] [Client thread/INFO]: [CHAT] [-] 3636865
+[16:09:21] [Client thread/INFO]: [CHAT] [-] piuqiupiaqia
+[16:09:22] [Client thread/INFO]: [CHAT] [-] Skarin92
+[16:09:27] [Client thread/INFO]: [CHAT] [+] xxxlianja
+[16:09:31] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:09:32] [Client thread/INFO]: [CHAT] Already connecting to this server!
+[16:09:32] [Client thread/INFO]: [CHAT] [+] 1xiaosong_
+[16:09:36] [Client thread/INFO]: [CHAT] [?] 传送中.
+[16:09:37] [Client thread/INFO]: [CHAT] [+] GLgele
+[16:09:37] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -164,10 +156,8 @@ Caused by: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[19:59:58] [Client thread/INFO]: [CHAT] 大逃杀 >> 指南针系统已自动刷新.
-[20:00:01] [Client thread/INFO]: [CHAT] 队友误伤!
-[20:00:01] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [打开物品栏] 成就！
-[20:00:02] [Client thread/FATAL]: Error executing task
+[16:09:41] [Client thread/INFO]: Connecting to mc964.com, 25565
+[16:09:44] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -185,664 +175,294 @@ Caused by: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[20:00:05] [Client thread/INFO]: [CHAT] 队友误伤!
-[20:00:06] [Client thread/INFO]: [CHAT] 队友误伤!
-[20:00:10] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 别搞
-[20:00:10] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:00:18] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [获得木头] 成就！
-[20:00:20] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 那个啥
-[20:00:22] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 我开了
-[20:00:34] [Client thread/INFO]: [CHAT] GLgele 刚刚获得了 [打开物品栏] 成就！
-[20:00:34] [Client thread/INFO]: [CHAT] GLgele 刚刚获得了 [获得木头] 成就！
-[20:00:41] [Client thread/INFO]: [CHAT] ========================================
-[20:00:41] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
-[20:00:41] [Client thread/INFO]: [CHAT] §r
-[20:00:41] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
-[20:00:41] [Client thread/INFO]: [CHAT] §r
-[20:00:41] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
-[20:00:41] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
-[20:00:41] [Client thread/INFO]: [CHAT] §r
-[20:00:41] [Client thread/INFO]: [CHAT] ========================================
-[20:00:48] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 需不需要我飞过去杀了他
-[20:00:49] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [打开物品栏] 成就！
-[20:00:59] [Client thread/INFO]: [CHAT] GLgele 刚刚获得了 [这是? 工作台!] 成就！
-[20:01:00] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [这是? 工作台!] 成就！
-[20:01:06] [Client thread/INFO]: [CHAT] §d§l『邀人』§f mc_erana §f§l: ???? §b§l[§f超级战墙#3§b§l] 
-[20:01:07] [Client thread/INFO]: [CHAT] GLgele 刚刚获得了 [出击时间到！] 成就！
-[20:01:13] [Client thread/INFO]: [CHAT] [全体频道]? Millanill说: ?
-[20:01:22] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [打开物品栏] 成就！
-[20:01:28] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: ?
-[20:01:41] [Client thread/INFO]: [CHAT] ========================================
-[20:01:41] [Client thread/INFO]: [CHAT]    Clover Pixel 游戏帮助 >>>
-[20:01:41] [Client thread/INFO]: [CHAT] §r
-[20:01:41] [Client thread/INFO]: [CHAT]      全服邀人: /yao <内容>
-[20:01:41] [Client thread/INFO]: [CHAT]      正版验证: /zb (仅限大厅)
-[20:01:41] [Client thread/INFO]: [CHAT]      返回大厅: /l
-[20:01:41] [Client thread/INFO]: [CHAT]      游戏组队: /p
-[20:01:41] [Client thread/INFO]: [CHAT] §r
-[20:01:41] [Client thread/INFO]: [CHAT] ========================================
-[20:02:24] [Client thread/INFO]: [CHAT] GLgele 刚刚获得了 [怪物猎人] 成就！
-[20:02:41] [Client thread/INFO]: [CHAT] ========================================
-[20:02:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[20:02:41] [Client thread/INFO]: [CHAT] §r
-[20:02:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[20:02:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[20:02:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[20:02:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[20:02:41] [Client thread/INFO]: [CHAT] §r
-[20:02:41] [Client thread/INFO]: [CHAT] ========================================
-[20:02:48] [Client thread/INFO]: [CHAT] GLgele 刚刚获得了 [采矿时间到！] 成就！
-[20:03:12] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:03:36] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 等你进地狱我再搞
-[20:03:41] [Client thread/INFO]: [CHAT] ========================================
-[20:03:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[20:03:41] [Client thread/INFO]: [CHAT] §r
-[20:03:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[20:03:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[20:03:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[20:03:41] [Client thread/INFO]: [CHAT] §r
-[20:03:41] [Client thread/INFO]: [CHAT]     详情请见:
-[20:03:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[20:03:41] [Client thread/INFO]: [CHAT] ========================================
-[20:04:16] [Client thread/INFO]: [CHAT] GLgele 刚刚获得了 [获得升级] 成就！
-[20:04:21] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [采矿时间到！] 成就！
-[20:04:41] [Client thread/INFO]: [CHAT] ========================================
-[20:04:41] [Client thread/INFO]: [CHAT]      发现可恨的作弊者？ >>> 
-[20:04:41] [Client thread/INFO]: [CHAT] §r
-[20:04:41] [Client thread/INFO]: [CHAT]      请使用举报系统举报作弊者！
-[20:04:41] [Client thread/INFO]: [CHAT]      我们绝不姑息任何作弊行为！
-[20:04:41] [Client thread/INFO]: [CHAT]      举报请输入: /report <玩家> <理由>
-[20:04:41] [Client thread/INFO]: [CHAT]      感谢你为维护游戏环境做出的努力！(*^▽^*)//
-[20:04:41] [Client thread/INFO]: [CHAT] §r
-[20:04:41] [Client thread/INFO]: [CHAT] ========================================
-[20:04:49] [Client thread/ERROR]: Item entity 12782 has no item?!
-[20:04:49] [Client thread/ERROR]: Item entity 12782 has no item?!
-[20:05:20] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [获得木头] 成就！
-[20:05:26] [Client thread/ERROR]: Item entity 13420 has no item?!
-[20:05:26] [Client thread/ERROR]: Item entity 13420 has no item?!
-[20:05:26] [Client thread/ERROR]: Item entity 13420 has no item?!
-[20:05:35] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§fYauix§a]  §f＞ §5§lban了 
-[20:05:36] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [获得升级] 成就！
-[20:05:41] [Client thread/INFO]: [CHAT] ========================================
-[20:05:41] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
-[20:05:41] [Client thread/INFO]: [CHAT] §r
-[20:05:41] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
-[20:05:41] [Client thread/INFO]: [CHAT] §r
-[20:05:41] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
-[20:05:41] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
-[20:05:41] [Client thread/INFO]: [CHAT] §r
-[20:05:41] [Client thread/INFO]: [CHAT] ========================================
-[20:05:44] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [出击时间到！] 成就！
-[20:06:05] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [怪物猎人] 成就！
-[20:06:13] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:06:34] [Client thread/INFO]: [CHAT] ? Theluze 被逃生者Millanill击杀.
-[20:06:41] [Client thread/INFO]: [CHAT] ========================================
-[20:06:41] [Client thread/INFO]: [CHAT]    Clover Pixel 游戏帮助 >>>
-[20:06:41] [Client thread/INFO]: [CHAT] §r
-[20:06:41] [Client thread/INFO]: [CHAT]      全服邀人: /yao <内容>
-[20:06:41] [Client thread/INFO]: [CHAT]      正版验证: /zb (仅限大厅)
-[20:06:41] [Client thread/INFO]: [CHAT]      返回大厅: /l
-[20:06:41] [Client thread/INFO]: [CHAT]      游戏组队: /p
-[20:06:41] [Client thread/INFO]: [CHAT] §r
-[20:06:41] [Client thread/INFO]: [CHAT] ========================================
-[20:06:51] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [“热”门话题] 成就！
-[20:07:15] [Client thread/ERROR]: Item entity 14908 has no item?!
-[20:07:15] [Client thread/ERROR]: Item entity 14908 has no item?!
-[20:07:15] [Client thread/ERROR]: Item entity 14908 has no item?!
-[20:07:41] [Client thread/INFO]: [CHAT] ========================================
-[20:07:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[20:07:41] [Client thread/INFO]: [CHAT] §r
-[20:07:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[20:07:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[20:07:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[20:07:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[20:07:41] [Client thread/INFO]: [CHAT] §r
-[20:07:41] [Client thread/INFO]: [CHAT] ========================================
-[20:08:20] [Client thread/INFO]: [CHAT] §d§l『邀人』§f yesutian §f§l: 1 §b§l[§f职业战争01§b§l] 
-[20:08:41] [Client thread/INFO]: [CHAT] ========================================
-[20:08:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[20:08:41] [Client thread/INFO]: [CHAT] §r
-[20:08:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[20:08:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[20:08:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[20:08:41] [Client thread/INFO]: [CHAT] §r
-[20:08:41] [Client thread/INFO]: [CHAT]     详情请见:
-[20:08:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[20:08:41] [Client thread/INFO]: [CHAT] ========================================
-[20:08:44] [Client thread/INFO]: [CHAT] §d§l『邀人』§f shankuai §f§l: qwq §b§l[§f超级战墙#8§b§l] 
-[20:08:46] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [这是? 工作台!] 成就！
-[20:08:52] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [采矿时间到！] 成就！
-[20:09:02] [Client thread/INFO]: [CHAT] §d§l『邀人』§f shankuai §f§l: 快来人 §b§l[§f超级战墙#8§b§l] 
-[20:09:14] [Client thread/INFO]: [CHAT] §d§l『邀人』§f shankuai §f§l: 快来人 §b§l[§f超级战墙#8§b§l] 
-[20:09:15] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:09:29] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [获得升级] 成就！
-[20:09:41] [Client thread/INFO]: [CHAT] ========================================
-[20:09:41] [Client thread/INFO]: [CHAT]      发现可恨的作弊者？ >>> 
-[20:09:41] [Client thread/INFO]: [CHAT] §r
-[20:09:41] [Client thread/INFO]: [CHAT]      请使用举报系统举报作弊者！
-[20:09:41] [Client thread/INFO]: [CHAT]      我们绝不姑息任何作弊行为！
-[20:09:41] [Client thread/INFO]: [CHAT]      举报请输入: /report <玩家> <理由>
-[20:09:41] [Client thread/INFO]: [CHAT]      感谢你为维护游戏环境做出的努力！(*^▽^*)//
-[20:09:41] [Client thread/INFO]: [CHAT] §r
-[20:09:41] [Client thread/INFO]: [CHAT] ========================================
-[20:09:47] [Client thread/INFO]: [CHAT] §d§l『邀人』§f feng_zhu_nc §f§l: ??? §b§l[§f超能力#别墅§b§l] 
-[20:09:55] [Client thread/INFO]: [CHAT] §d§l『邀人』§f feng_zhu_nc §f§l: LAI §b§l[§f超能力#别墅§b§l] 
-[20:09:55] [Client thread/INFO]: [CHAT] §d§l『邀人』§f shankuai §f§l: 快来人 §b§l[§f空岛战争#5§b§l] 
-[20:10:05] [Client thread/INFO]: [CHAT] ? abcdgggg 被逃生者Millanill击杀.
-[20:10:05] [Client thread/INFO]: [CHAT] 大逃杀 >> 指南针系统已自动刷新.
-[20:10:10] [Client thread/INFO]: [CHAT] GLgele 刚刚获得了 [“热”门话题] 成就！
-[20:10:21] [Client thread/INFO]: [CHAT] ? Real_So 死了.
-[20:10:29] [Client thread/INFO]: [CHAT] §d§l『邀人』§f shankuai §f§l: 快来人 §b§l[§f空岛战争#5§b§l] 
-[20:10:30] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [获得木头] 成就！
-[20:10:41] [Client thread/INFO]: [CHAT] ========================================
-[20:10:41] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
-[20:10:41] [Client thread/INFO]: [CHAT] §r
-[20:10:41] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
-[20:10:41] [Client thread/INFO]: [CHAT] §r
-[20:10:41] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
-[20:10:41] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
-[20:10:41] [Client thread/INFO]: [CHAT] §r
-[20:10:41] [Client thread/INFO]: [CHAT] ========================================
-[20:10:55] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [这是? 工作台!] 成就！
-[20:11:01] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: ?
-[20:11:08] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [采矿时间到！] 成就！
-[20:11:25] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [获得升级] 成就！
-[20:11:41] [Client thread/INFO]: [CHAT] ========================================
-[20:11:41] [Client thread/INFO]: [CHAT]    Clover Pixel 游戏帮助 >>>
-[20:11:41] [Client thread/INFO]: [CHAT] §r
-[20:11:41] [Client thread/INFO]: [CHAT]      全服邀人: /yao <内容>
-[20:11:41] [Client thread/INFO]: [CHAT]      正版验证: /zb (仅限大厅)
-[20:11:41] [Client thread/INFO]: [CHAT]      返回大厅: /l
-[20:11:41] [Client thread/INFO]: [CHAT]      游戏组队: /p
-[20:11:41] [Client thread/INFO]: [CHAT] §r
-[20:11:41] [Client thread/INFO]: [CHAT] ========================================
-[20:12:10] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [“热”门话题] 成就！
-[20:12:13] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da 
-[20:12:13] [Client thread/INFO]: [CHAT] §d§l『邀人』§f yesutian §f§l: 1 §b§l[§f新炸弹跑酷#1§b§l] 
-[20:12:14] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da 
-[20:12:14] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da 
-[20:12:14] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da 
-[20:12:15] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da 
-[20:12:15] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da 
-[20:12:16] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:12:16] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da 
-[20:12:17] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da 
-[20:12:18] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da? 
-[20:12:18] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da? 
-[20:12:19] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da? 
-[20:12:25] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [来硬的] 成就！
-[20:12:25] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [钻石！] 成就！
-[20:12:25] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [给你钻石！] 成就！
-[20:12:26] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da? 
-[20:12:27] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lni men wei shen me bu da? 
-[20:12:35] [Client thread/INFO]: [CHAT] §d§l『邀人』§f yesutian §f§l: lai ren §b§l[§f新炸弹跑酷#1§b§l] 
-[20:12:36] [Client thread/INFO]: [CHAT] [全体频道]? Millanill说: ...
-[20:12:41] [Client thread/INFO]: [CHAT] ========================================
-[20:12:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[20:12:41] [Client thread/INFO]: [CHAT] §r
-[20:12:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[20:12:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[20:12:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[20:12:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[20:12:41] [Client thread/INFO]: [CHAT] §r
-[20:12:41] [Client thread/INFO]: [CHAT] ========================================
-[20:12:46] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lkong bao jiu neng bu da shi bu 
-[20:12:49] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lkong bao jiu neng bu da shi bu? 
-[20:13:08] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lteam hai bu guan wo shi 
-[20:13:12] [Client thread/INFO]: [CHAT] §d§l『邀人』§f yesutian §f§l: lai ren §b§l[§f新炸弹跑酷#1§b§l] 
-[20:13:14] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lhao li hai 
-[20:13:32] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lhao diao hao diao 
-[20:13:34] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lhao diao hao diao 
-[20:13:39] [Client thread/INFO]: [CHAT] [全体频道]? Millanill说: ...
-[20:13:41] [Client thread/INFO]: [CHAT] ========================================
-[20:13:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[20:13:41] [Client thread/INFO]: [CHAT] §r
-[20:13:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[20:13:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[20:13:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[20:13:41] [Client thread/INFO]: [CHAT] §r
-[20:13:41] [Client thread/INFO]: [CHAT]     详情请见:
-[20:13:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[20:13:41] [Client thread/INFO]: [CHAT] ========================================
-[20:13:41] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[20:13:43] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lbu kui shi da shen 
-[20:13:48] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[20:13:53] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [来硬的] 成就！
-[20:13:53] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [钻石！] 成就！
-[20:13:53] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [给你钻石！] 成就！
-[20:14:00] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[20:14:04] [Client thread/INFO]: [CHAT] ? abcdgggg 死了.
-[20:14:06] [Client thread/INFO]: [CHAT] ? Real_So 死了.
-[20:14:24] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lshuo rang ni da le shi bu ? ni bu hui zou 
-[20:14:26] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lshuo rang ni da le shi bu ? ni bu hui zou ? 
-[20:14:32] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lshuo rang ni da le shi bu ? ni bu hui zou ? ni zhan yi qi bu da shi ba 
-[20:14:34] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lshuo rang ni da le shi bu ? ni bu hui zou ? ni zhan yi qi bu da shi bu 
-[20:14:36] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lshuo rang ni da le shi bu ? ni bu hui zou ? ni zhan yi qi bu da shi bu? 
-[20:14:36] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lshuo rang ni da le shi bu ? ni bu hui zou ? ni zhan yi qi bu da shi bu? 
-[20:14:41] [Client thread/INFO]: [CHAT] ========================================
-[20:14:41] [Client thread/INFO]: [CHAT]      发现可恨的作弊者？ >>> 
-[20:14:41] [Client thread/INFO]: [CHAT] §r
-[20:14:41] [Client thread/INFO]: [CHAT]      请使用举报系统举报作弊者！
-[20:14:41] [Client thread/INFO]: [CHAT]      我们绝不姑息任何作弊行为！
-[20:14:41] [Client thread/INFO]: [CHAT]      举报请输入: /report <玩家> <理由>
-[20:14:41] [Client thread/INFO]: [CHAT]      感谢你为维护游戏环境做出的努力！(*^▽^*)//
-[20:14:41] [Client thread/INFO]: [CHAT] §r
-[20:14:41] [Client thread/INFO]: [CHAT] ========================================
-[20:14:48] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lgang cai wei shen me bu da a 
-[20:14:50] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lgang cai wei shen me bu da a ???? 
-[20:14:54] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[20:15:15] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lbu hui da le 
-[20:15:16] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:15:19] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fcomeonhitme§a]  §f＞ §5§lzhen zui le 
-[20:15:41] [Client thread/INFO]: [CHAT] ========================================
-[20:15:41] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
-[20:15:41] [Client thread/INFO]: [CHAT] §r
-[20:15:41] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
-[20:15:41] [Client thread/INFO]: [CHAT] §r
-[20:15:41] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
-[20:15:41] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
-[20:15:41] [Client thread/INFO]: [CHAT] §r
-[20:15:41] [Client thread/INFO]: [CHAT] ========================================
-[20:15:48] [Client thread/INFO]: [CHAT] ? Real_So 死了.
-[20:15:55] [Client thread/INFO]: [CHAT] abcdgggg 刚刚获得了 [打开物品栏] 成就！
-[20:16:41] [Client thread/INFO]: [CHAT] ========================================
-[20:16:41] [Client thread/INFO]: [CHAT]    Clover Pixel 游戏帮助 >>>
-[20:16:41] [Client thread/INFO]: [CHAT] §r
-[20:16:41] [Client thread/INFO]: [CHAT]      全服邀人: /yao <内容>
-[20:16:41] [Client thread/INFO]: [CHAT]      正版验证: /zb (仅限大厅)
-[20:16:41] [Client thread/INFO]: [CHAT]      返回大厅: /l
-[20:16:41] [Client thread/INFO]: [CHAT]      游戏组队: /p
-[20:16:41] [Client thread/INFO]: [CHAT] §r
-[20:16:41] [Client thread/INFO]: [CHAT] ========================================
-[20:17:03] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [“热”门话题] 成就！
-[20:17:05] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
-[20:17:07] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§fYauix§a]  §f＞ §5§l你说你们追着战神跑干什么 
-[20:17:13] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§fYauix§a]  §f＞ §5§l真无语 
-[20:17:13] [Client thread/INFO]: [CHAT] ? Real_So 死了.
-[20:17:21] [Client thread/INFO]: [CHAT] ? Real_So 死了.
-[20:17:29] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [来硬的] 成就！
-[20:17:29] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [钻石！] 成就！
-[20:17:29] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [给你钻石！] 成就！
-[20:17:41] [Client thread/INFO]: [CHAT] ========================================
-[20:17:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[20:17:41] [Client thread/INFO]: [CHAT] §r
-[20:17:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[20:17:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[20:17:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[20:17:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[20:17:41] [Client thread/INFO]: [CHAT] §r
-[20:17:41] [Client thread/INFO]: [CHAT] ========================================
-[20:18:06] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§fXyHoNGTA§a]  §f＞ §5§l凌然喝奶茶不
-[20:18:17] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:18:30] [Client thread/ERROR]: Item entity 23285 has no item?!
-[20:18:41] [Client thread/INFO]: [CHAT] ========================================
-[20:18:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[20:18:41] [Client thread/INFO]: [CHAT] §r
-[20:18:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[20:18:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[20:18:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[20:18:41] [Client thread/INFO]: [CHAT] §r
-[20:18:41] [Client thread/INFO]: [CHAT]     详情请见:
-[20:18:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[20:18:41] [Client thread/INFO]: [CHAT] ========================================
-[20:18:57] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [我们需要再深入些] 成就！
-[20:19:41] [Client thread/INFO]: [CHAT] ========================================
-[20:19:41] [Client thread/INFO]: [CHAT]      发现可恨的作弊者？ >>> 
-[20:19:41] [Client thread/INFO]: [CHAT] §r
-[20:19:41] [Client thread/INFO]: [CHAT]      请使用举报系统举报作弊者！
-[20:19:41] [Client thread/INFO]: [CHAT]      我们绝不姑息任何作弊行为！
-[20:19:41] [Client thread/INFO]: [CHAT]      举报请输入: /report <玩家> <理由>
-[20:19:41] [Client thread/INFO]: [CHAT]      感谢你为维护游戏环境做出的努力！(*^▽^*)//
-[20:19:41] [Client thread/INFO]: [CHAT] §r
-[20:19:41] [Client thread/INFO]: [CHAT] ========================================
-[20:19:49] [Client thread/ERROR]: Item entity 24205 has no item?!
-[20:20:09] [Client thread/INFO]: [CHAT] 大逃杀 >> 指南针系统已自动刷新.
-[20:20:41] [Client thread/INFO]: [CHAT] ========================================
-[20:20:41] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
-[20:20:41] [Client thread/INFO]: [CHAT] §r
-[20:20:41] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
-[20:20:41] [Client thread/INFO]: [CHAT] §r
-[20:20:41] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
-[20:20:41] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
-[20:20:41] [Client thread/INFO]: [CHAT] §r
-[20:20:41] [Client thread/INFO]: [CHAT] ========================================
-[20:21:19] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:21:25] [Client thread/INFO]: [CHAT] §d§l『邀人』§f junzai_ §f§l: 这么窝囊叫什么你死的比我早呢 §b§l[§f黎明之争#1§b§l] 
-[20:21:31] [Client thread/INFO]: [CHAT] §d§l『邀人』§f junzai_ §f§l: 别叫了真菜 §b§l[§f黎明之争#1§b§l] 
-[20:21:41] [Client thread/INFO]: [CHAT] ========================================
-[20:21:41] [Client thread/INFO]: [CHAT]    Clover Pixel 游戏帮助 >>>
-[20:21:41] [Client thread/INFO]: [CHAT] §r
-[20:21:41] [Client thread/INFO]: [CHAT]      全服邀人: /yao <内容>
-[20:21:41] [Client thread/INFO]: [CHAT]      正版验证: /zb (仅限大厅)
-[20:21:41] [Client thread/INFO]: [CHAT]      返回大厅: /l
-[20:21:41] [Client thread/INFO]: [CHAT]      游戏组队: /p
-[20:21:41] [Client thread/INFO]: [CHAT] §r
-[20:21:41] [Client thread/INFO]: [CHAT] ========================================
-[20:21:50] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [出击时间到！] 成就！
-[20:22:41] [Client thread/INFO]: [CHAT] ========================================
-[20:22:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[20:22:41] [Client thread/INFO]: [CHAT] §r
-[20:22:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[20:22:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[20:22:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[20:22:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[20:22:41] [Client thread/INFO]: [CHAT] §r
-[20:22:41] [Client thread/INFO]: [CHAT] ========================================
-[20:23:32] [Client thread/INFO]: [CHAT] Millanill 刚刚获得了 [与火共舞] 成就！
-[20:23:41] [Client thread/INFO]: [CHAT] ========================================
-[20:23:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[20:23:41] [Client thread/INFO]: [CHAT] §r
-[20:23:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[20:23:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[20:23:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[20:23:41] [Client thread/INFO]: [CHAT] §r
-[20:23:41] [Client thread/INFO]: [CHAT]     详情请见:
-[20:23:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[20:23:41] [Client thread/INFO]: [CHAT] ========================================
-[20:24:13] [Client thread/INFO]: [CHAT] §aClover §fPixel §e>> §a督查§bXxxxXxXxxxXxx§a现在在线.当前在线督查人数: §b6§a,使用§e/report <玩家ID>§a来举报可恨的作弊者! 
-[20:24:20] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fChaoJiShaoJie§a]  §f＞ §5§l1 
-[20:24:20] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:24:41] [Client thread/INFO]: [CHAT] ========================================
-[20:24:41] [Client thread/INFO]: [CHAT]      发现可恨的作弊者？ >>> 
-[20:24:41] [Client thread/INFO]: [CHAT] §r
-[20:24:41] [Client thread/INFO]: [CHAT]      请使用举报系统举报作弊者！
-[20:24:41] [Client thread/INFO]: [CHAT]      我们绝不姑息任何作弊行为！
-[20:24:41] [Client thread/INFO]: [CHAT]      举报请输入: /report <玩家> <理由>
-[20:24:41] [Client thread/INFO]: [CHAT]      感谢你为维护游戏环境做出的努力！(*^▽^*)//
-[20:24:41] [Client thread/INFO]: [CHAT] §r
-[20:24:41] [Client thread/INFO]: [CHAT] ========================================
-[20:24:55] [Client thread/INFO]: [CHAT] ? abcdgggg 死了.
-[20:25:13] [Client thread/INFO]: [CHAT] [追捕者频道]? GLgele说: you tie ma
-[20:25:41] [Client thread/INFO]: [CHAT] ========================================
-[20:25:41] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
-[20:25:41] [Client thread/INFO]: [CHAT] §r
-[20:25:41] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
-[20:25:41] [Client thread/INFO]: [CHAT] §r
-[20:25:41] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
-[20:25:41] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
-[20:25:41] [Client thread/INFO]: [CHAT] §r
-[20:25:41] [Client thread/INFO]: [CHAT] ========================================
-[20:26:41] [Client thread/INFO]: [CHAT] ========================================
-[20:26:41] [Client thread/INFO]: [CHAT]    Clover Pixel 游戏帮助 >>>
-[20:26:41] [Client thread/INFO]: [CHAT] §r
-[20:26:41] [Client thread/INFO]: [CHAT]      全服邀人: /yao <内容>
-[20:26:41] [Client thread/INFO]: [CHAT]      正版验证: /zb (仅限大厅)
-[20:26:41] [Client thread/INFO]: [CHAT]      返回大厅: /l
-[20:26:41] [Client thread/INFO]: [CHAT]      游戏组队: /p
-[20:26:41] [Client thread/INFO]: [CHAT] §r
-[20:26:41] [Client thread/INFO]: [CHAT] ========================================
-[20:27:25] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:27:41] [Client thread/INFO]: [CHAT] ========================================
-[20:27:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[20:27:41] [Client thread/INFO]: [CHAT] §r
-[20:27:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[20:27:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[20:27:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[20:27:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[20:27:41] [Client thread/INFO]: [CHAT] §r
-[20:27:41] [Client thread/INFO]: [CHAT] ========================================
-[20:28:04] [Client thread/INFO]: [CHAT] [追捕者频道]? abcdgggg说: vk
-[20:28:41] [Client thread/INFO]: [CHAT] ========================================
-[20:28:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[20:28:41] [Client thread/INFO]: [CHAT] §r
-[20:28:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[20:28:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[20:28:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[20:28:41] [Client thread/INFO]: [CHAT] §r
-[20:28:41] [Client thread/INFO]: [CHAT]     详情请见:
-[20:28:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[20:28:41] [Client thread/INFO]: [CHAT] ========================================
-[20:28:55] [Client thread/INFO]: [CHAT] [追捕者频道]? abcdgggg说: tt
-[20:29:06] [Client thread/INFO]: [CHAT] [追捕者频道]? Theluze说: qwq
-[20:29:10] [Client thread/INFO]: [CHAT] [追捕者频道]? abcdgggg说: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-[20:29:29] [Client thread/INFO]: [CHAT] Theluze 刚刚获得了 [我们需要再深入些] 成就！
-[20:29:34] [Client thread/INFO]: [CHAT] §d§l『邀人』§f gudusha §f§l: 1 §b§l[§f超级战墙#3§b§l] 
-[20:29:41] [Client thread/INFO]: [CHAT] ========================================
-[20:29:41] [Client thread/INFO]: [CHAT]      发现可恨的作弊者？ >>> 
-[20:29:41] [Client thread/INFO]: [CHAT] §r
-[20:29:41] [Client thread/INFO]: [CHAT]      请使用举报系统举报作弊者！
-[20:29:41] [Client thread/INFO]: [CHAT]      我们绝不姑息任何作弊行为！
-[20:29:41] [Client thread/INFO]: [CHAT]      举报请输入: /report <玩家> <理由>
-[20:29:41] [Client thread/INFO]: [CHAT]      感谢你为维护游戏环境做出的努力！(*^▽^*)//
-[20:29:41] [Client thread/INFO]: [CHAT] §r
-[20:29:41] [Client thread/INFO]: [CHAT] ========================================
-[20:30:16] [Client thread/INFO]: [CHAT] 大逃杀 >> 指南针系统已自动刷新.
-[20:30:26] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:30:27] [Client thread/INFO]: [CHAT] ? abcdgggg 死了.
-[20:30:41] [Client thread/INFO]: [CHAT] ========================================
-[20:30:41] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
-[20:30:41] [Client thread/INFO]: [CHAT] §r
-[20:30:41] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
-[20:30:41] [Client thread/INFO]: [CHAT] §r
-[20:30:41] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
-[20:30:41] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
-[20:30:41] [Client thread/INFO]: [CHAT] §r
-[20:30:41] [Client thread/INFO]: [CHAT] ========================================
-[20:30:58] [Client thread/ERROR]: Item entity 34813 has no item?!
-[20:30:58] [Client thread/ERROR]: Item entity 34813 has no item?!
-[20:31:31] [Client thread/ERROR]: Item entity 35138 has no item?!
-[20:31:31] [Client thread/ERROR]: Item entity 35138 has no item?!
-[20:31:31] [Client thread/ERROR]: Item entity 35138 has no item?!
-[20:31:31] [Client thread/ERROR]: Item entity 35138 has no item?!
-[20:31:31] [Client thread/ERROR]: Item entity 35138 has no item?!
-[20:31:41] [Client thread/INFO]: [CHAT] ========================================
-[20:31:41] [Client thread/INFO]: [CHAT]    Clover Pixel 游戏帮助 >>>
-[20:31:41] [Client thread/INFO]: [CHAT] §r
-[20:31:41] [Client thread/INFO]: [CHAT]      全服邀人: /yao <内容>
-[20:31:41] [Client thread/INFO]: [CHAT]      正版验证: /zb (仅限大厅)
-[20:31:41] [Client thread/INFO]: [CHAT]      返回大厅: /l
-[20:31:41] [Client thread/INFO]: [CHAT]      游戏组队: /p
-[20:31:41] [Client thread/INFO]: [CHAT] §r
-[20:31:41] [Client thread/INFO]: [CHAT] ========================================
-[20:31:48] [Client thread/INFO]: [CHAT] §6§l『喇叭』§4[管理员]§f§a[§fC_QiQi§a]  §f＞ §5§lXIA YI TIAO 
-[20:32:04] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§fLugira§a]  §f＞ §5§l人傻了
-[20:32:16] [Client thread/INFO]: [CHAT] §d§l『邀人』§f AK_2754 §f§l: 能不能让战神给我的1000点券发我账户上面啊 §b§l[§fSkyPvp#1§b§l] 
-[20:32:41] [Client thread/INFO]: [CHAT] ========================================
-[20:32:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[20:32:41] [Client thread/INFO]: [CHAT] §r
-[20:32:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[20:32:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[20:32:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[20:32:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[20:32:41] [Client thread/INFO]: [CHAT] §r
-[20:32:41] [Client thread/INFO]: [CHAT] ========================================
-[20:32:42] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§foursum§a]  §f＞ §5§lSunny火速来黎明 
-[20:32:53] [Client thread/ERROR]: Item entity 35644 has no item?!
-[20:32:53] [Client thread/ERROR]: Item entity 35644 has no item?!
-[20:33:15] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§foursum§a]  §f＞ §5§l我有正能量光体,这个LJ商人说我没有 
-[20:33:19] [Client thread/INFO]: [CHAT] Real_So 刚刚获得了 [我们需要再深入些] 成就！
-[20:33:27] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:33:36] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§fYouXian_§a]  §f＞ §5§l应为你不够正能量 
-[20:33:41] [Client thread/INFO]: [CHAT] ========================================
-[20:33:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[20:33:41] [Client thread/INFO]: [CHAT] §r
-[20:33:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[20:33:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[20:33:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[20:33:41] [Client thread/INFO]: [CHAT] §r
-[20:33:41] [Client thread/INFO]: [CHAT]     详情请见:
-[20:33:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[20:33:41] [Client thread/INFO]: [CHAT] ========================================
-[20:33:42] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fkushen_§a]  §f＞ §5§l偷袭狗 
-[20:33:46] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§foursum§a]  §f＞ §5§l什么? 
-[20:34:06] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§foursum§a]  §f＞ §5§l等级不够? 
-[20:34:08] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 这呢
-[20:34:10] [Client thread/INFO]: [CHAT] §d§l『邀人』§f FreeLonce §f§l: 1 §b§l[§f主大厅§b§l] 
-[20:34:12] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: theluze
-[20:34:24] [Client thread/INFO]: [CHAT] [追捕者频道]? Theluze说: a
-[20:34:29] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 回头
-[20:34:41] [Client thread/INFO]: [CHAT] ========================================
-[20:34:41] [Client thread/INFO]: [CHAT]      发现可恨的作弊者？ >>> 
-[20:34:41] [Client thread/INFO]: [CHAT] §r
-[20:34:41] [Client thread/INFO]: [CHAT]      请使用举报系统举报作弊者！
-[20:34:41] [Client thread/INFO]: [CHAT]      我们绝不姑息任何作弊行为！
-[20:34:41] [Client thread/INFO]: [CHAT]      举报请输入: /report <玩家> <理由>
-[20:34:41] [Client thread/INFO]: [CHAT]      感谢你为维护游戏环境做出的努力！(*^▽^*)//
-[20:34:41] [Client thread/INFO]: [CHAT] §r
-[20:34:41] [Client thread/INFO]: [CHAT] ========================================
-[20:35:06] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fKaryir§a]  §f＞ §5§lcnm 
-[20:35:10] [Client thread/INFO]: [CHAT] [全体频道]? Millanill说: ...
-[20:35:13] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fKaryir§a]  §f＞ §5§l跑的比驴还快 
-[20:35:21] [Client thread/INFO]: [CHAT] §d§l『邀人』§f TTUexpLOVE §f§l: 没人打pot吗 §b§l[§fPractice#§b§l] 
-[20:35:24] [Client thread/INFO]: [CHAT] §d§l『邀人』§f TTUexpLOVE §f§l: 没人打pot吗 §b§l[§fPractice#§b§l] 
-[20:35:39] [Client thread/INFO]: [CHAT] §6§l『喇叭』§b[MVP§c+§b]§f§a[§fChaoJiShaoJie§a]  §f＞ §5§l虎牙直播！房间号：24108122正在直播中 
-[20:35:41] [Client thread/INFO]: [CHAT] ========================================
-[20:35:41] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
-[20:35:41] [Client thread/INFO]: [CHAT] §r
-[20:35:41] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
-[20:35:41] [Client thread/INFO]: [CHAT] §r
-[20:35:41] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
-[20:35:41] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
-[20:35:41] [Client thread/INFO]: [CHAT] §r
-[20:35:41] [Client thread/INFO]: [CHAT] ========================================
-[20:35:56] [Client thread/INFO]: [CHAT] [追捕者频道]? abcdgggg说: Real_So help
-[20:35:59] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 给你装备 给你机会
-[20:36:09] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: ？
-[20:36:10] [Client thread/INFO]: [CHAT] ? Theluze 死了.
-[20:36:10] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 咋了
-[20:36:26] [Client thread/INFO]: [CHAT] [追捕者频道]? GLgele说: zuo biao ke yi fa yi xia ma
-[20:36:28] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:36:29] [Client thread/INFO]: [CHAT] [追捕者频道]? GLgele说: pos plz
-[20:36:41] [Client thread/INFO]: [CHAT] ========================================
-[20:36:41] [Client thread/INFO]: [CHAT]    Clover Pixel 游戏帮助 >>>
-[20:36:41] [Client thread/INFO]: [CHAT] §r
-[20:36:41] [Client thread/INFO]: [CHAT]      全服邀人: /yao <内容>
-[20:36:41] [Client thread/INFO]: [CHAT]      正版验证: /zb (仅限大厅)
-[20:36:41] [Client thread/INFO]: [CHAT]      返回大厅: /l
-[20:36:41] [Client thread/INFO]: [CHAT]      游戏组队: /p
-[20:36:41] [Client thread/INFO]: [CHAT] §r
-[20:36:41] [Client thread/INFO]: [CHAT] ========================================
-[20:36:42] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: -29 -79
-[20:36:48] [Client thread/INFO]: [CHAT] [追捕者频道]? GLgele说: thanks
-[20:37:24] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 给你机会
-[20:37:39] [Client thread/INFO]: [CHAT] ? abcdgggg 死了.
-[20:37:41] [Client thread/INFO]: [CHAT] ========================================
-[20:37:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[20:37:41] [Client thread/INFO]: [CHAT] §r
-[20:37:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[20:37:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[20:37:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[20:37:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[20:37:41] [Client thread/INFO]: [CHAT] §r
-[20:37:41] [Client thread/INFO]: [CHAT] ========================================
-[20:37:49] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 给你三分钟然后我追你
-[20:37:54] [Client thread/INFO]: [CHAT] abcdgggg 刚刚获得了 [获得木头] 成就！
-[20:37:57] [Client thread/INFO]: [CHAT] [全体频道]? Millanill说: wo...
-[20:37:59] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 我擦
-[20:38:05] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 获得木头成就
-[20:38:05] [Client thread/INFO]: [CHAT] [全体频道]? Millanill说: wo neng da guo ni?
-[20:38:07] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 你干嘛了
-[20:38:14] [Client thread/INFO]: [CHAT] §d§l『邀人』§f TTUexpLOVE §f§l: 没人打pot吗 §b§l[§fPractice#§b§l] 
-[20:38:15] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 我拉小
-[20:38:41] [Client thread/INFO]: [CHAT] ========================================
-[20:38:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[20:38:41] [Client thread/INFO]: [CHAT] §r
-[20:38:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[20:38:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[20:38:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[20:38:41] [Client thread/INFO]: [CHAT] §r
-[20:38:41] [Client thread/INFO]: [CHAT]     详情请见:
-[20:38:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[20:38:41] [Client thread/INFO]: [CHAT] ========================================
-[20:38:45] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 三分钟
-[20:38:51] [Client thread/INFO]: [CHAT] [追捕者频道]? abcdgggg说: t
-[20:39:09] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 做地狱门来下届
-[20:39:18] [Client thread/INFO]: [CHAT] §6§l『喇叭』§f§a[§fshankuai§a]  §f＞ §5§l? 
-[20:39:19] [Client thread/INFO]: [CHAT] [追捕者频道]? Theluze说: ..
-[20:39:29] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:39:41] [Client thread/INFO]: [CHAT] ========================================
-[20:39:41] [Client thread/INFO]: [CHAT]      发现可恨的作弊者？ >>> 
-[20:39:41] [Client thread/INFO]: [CHAT] §r
-[20:39:41] [Client thread/INFO]: [CHAT]      请使用举报系统举报作弊者！
-[20:39:41] [Client thread/INFO]: [CHAT]      我们绝不姑息任何作弊行为！
-[20:39:41] [Client thread/INFO]: [CHAT]      举报请输入: /report <玩家> <理由>
-[20:39:41] [Client thread/INFO]: [CHAT]      感谢你为维护游戏环境做出的努力！(*^▽^*)//
-[20:39:41] [Client thread/INFO]: [CHAT] §r
-[20:39:41] [Client thread/INFO]: [CHAT] ========================================
-[20:39:44] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 两分钟
-[20:39:56] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 道具来人 §b§l[§f道具起床#2§b§l] 
-[20:40:04] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 我直接杀他吧
-[20:40:09] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 4/165 §b§l[§f道具起床#2§b§l] 
-[20:40:12] [Client thread/INFO]: [CHAT] [追捕者频道]? abcdgggg说: 干了兄弟们
-[20:40:19] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 你们还要玩吗
-[20:40:20] [Client thread/INFO]: [CHAT] 大逃杀 >> 指南针系统已自动刷新.
-[20:40:26] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 4/16 §b§l[§f道具起床#2§b§l] 
-[20:40:33] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 我擦
-[20:40:38] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 掉岩浆了
-[20:40:38] [Client thread/INFO]: [CHAT] ? abcdgggg 死了.
-[20:40:41] [Client thread/INFO]: [CHAT] ========================================
-[20:40:41] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
-[20:40:41] [Client thread/INFO]: [CHAT] §r
-[20:40:41] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
-[20:40:41] [Client thread/INFO]: [CHAT] §r
-[20:40:41] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
-[20:40:41] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
-[20:40:41] [Client thread/INFO]: [CHAT] §r
-[20:40:41] [Client thread/INFO]: [CHAT] ========================================
-[20:40:50] [Client thread/INFO]: [CHAT] [追捕者频道]? Theluze说: en
-[20:40:51] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 半分钟
-[20:40:53] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 5/16。神域天堂起床 §b§l[§f道具起床#2§b§l] 
-[20:40:57] [Client thread/INFO]: [CHAT] [追捕者频道]? Theluze说: kan le
-[20:41:09] [Client thread/INFO]: [CHAT] [追捕者频道]? Real_So说: 我开tpaura了
-[20:41:13] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 6/16。神域天堂起床 §b§l[§f道具起床#2§b§l] 
-[20:41:15] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 10
-[20:41:22] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 3
-[20:41:24] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 7/16。神域天堂起床 §b§l[§f道具起床#2§b§l] 
-[20:41:25] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 2
-[20:41:26] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 1
-[20:41:34] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 7/16。神域天堂起床 §b§l[§f道具起床#2§b§l] 
-[20:41:41] [Client thread/INFO]: [CHAT] ========================================
-[20:41:41] [Client thread/INFO]: [CHAT]    Clover Pixel 游戏帮助 >>>
-[20:41:41] [Client thread/INFO]: [CHAT] §r
-[20:41:41] [Client thread/INFO]: [CHAT]      全服邀人: /yao <内容>
-[20:41:41] [Client thread/INFO]: [CHAT]      正版验证: /zb (仅限大厅)
-[20:41:41] [Client thread/INFO]: [CHAT]      返回大厅: /l
-[20:41:41] [Client thread/INFO]: [CHAT]      游戏组队: /p
-[20:41:41] [Client thread/INFO]: [CHAT] §r
-[20:41:41] [Client thread/INFO]: [CHAT] ========================================
-[20:41:48] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 7/16。神域天堂起床 §b§l[§f道具起床#2§b§l] 
-[20:41:57] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 差一人 §b§l[§f道具起床#2§b§l] 
-[20:42:05] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 110s §b§l[§f道具起床#2§b§l] 
-[20:42:24] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 110s §b§l[§f道具起床#2§b§l] 
-[20:42:29] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 90s §b§l[§f道具起床#2§b§l] 
-[20:42:31] [Client thread/INFO]: [CHAT] VK >> 遇到可恨的作弊者但没有督察在线?试试/vk help吧!
-[20:42:36] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 80s §b§l[§f道具起床#2§b§l] 
-[20:42:41] [Client thread/INFO]: [CHAT] ========================================
-[20:42:41] [Client thread/INFO]: [CHAT]    Clover Pixel 服务器优化更新 >>>
-[20:42:41] [Client thread/INFO]: [CHAT] §r
-[20:42:41] [Client thread/INFO]: [CHAT]      目前服务器已进行网络优化
-[20:42:41] [Client thread/INFO]: [CHAT]      喇叭和召唤现已修复
-[20:42:41] [Client thread/INFO]: [CHAT]      如果您游玩的时候感觉卡顿
-[20:42:41] [Client thread/INFO]: [CHAT]      请使用：by.cloverpixel.com
-[20:42:41] [Client thread/INFO]: [CHAT] §r
-[20:42:41] [Client thread/INFO]: [CHAT] ========================================
-[20:43:02] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 80s §b§l[§f道具起床#2§b§l] 
-[20:43:04] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: 你这样我容易直接把你大岩浆
-[20:43:06] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 60s §b§l[§f道具起床#2§b§l] 
-[20:43:07] [Client thread/INFO]: [CHAT] [全体频道]? Millanill说: ren sheng zi gu shei wu si
-[20:43:14] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: AZ
-[20:43:17] [Client thread/INFO]: [CHAT] [全体频道]? Millanill说: liu qu dan xin zhao han qing
-[20:43:20] [Client thread/INFO]: [CHAT] ? Real_So 死了.
-[20:43:22] [Client thread/INFO]: [CHAT] §d§l『邀人』§f mc_an_ying §f§l: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazhan shen ni zhe shi jian kai shi §b§l[§f道具起床#2§b§l] 
-[20:43:24] [Client thread/INFO]: [CHAT] ? Millanill 死了.
-[20:43:24] [Client thread/INFO]: [CHAT] §d§l『邀人』§f mc_an_ying §f§l: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazhan shen ni zhe shi jian kai shi §b§l[§f道具起床#2§b§l] 
-[20:43:27] [Client thread/INFO]: [CHAT] §d§l『邀人』§f mc_an_ying §f§l: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazhan shen ni zhe shi jian kai shi §b§l[§f道具起床#2§b§l] 
-[20:43:35] [Client thread/INFO]: [CHAT] [全体频道]? Real_So说: woTPaura进岩浆我吐了
-[20:43:37] [Client thread/INFO]: [CHAT] §d§l『邀人』§f KaKaLong §f§l: Lyfera §b§l[§f斗罗监狱§b§l] 
-[20:43:41] [Client thread/INFO]: [CHAT] ========================================
-[20:43:41] [Client thread/INFO]: [CHAT]     CloverPixel招募主播啦!!! >>>
-[20:43:41] [Client thread/INFO]: [CHAT] §r
-[20:43:41] [Client thread/INFO]: [CHAT]     CloverPixel主播招募已启动!欢迎
-[20:43:41] [Client thread/INFO]: [CHAT]     各位主播/UP主入驻!
-[20:43:41] [Client thread/INFO]: [CHAT]     专属称号/游戏职业等众多特权等你来拿!
-[20:43:41] [Client thread/INFO]: [CHAT] §r
-[20:43:41] [Client thread/INFO]: [CHAT]     详情请见:
-[20:43:41] [Client thread/INFO]: [CHAT]     http://bbs.cloverpixel.com
-[20:43:41] [Client thread/INFO]: [CHAT] ========================================
-[20:43:54] [Client thread/INFO]: [CHAT] +2.0硬币(胜利)!
-[20:43:59] [Client thread/INFO]: [CHAT] §d§l『邀人』§f DaiDu §f§l: 5s §b§l[§f道具起床#2§b§l] 
-[20:44:06] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家GLgele加入了逃杀!
-[20:44:06] [Client thread/FATAL]: Error executing task
+[16:09:46] [Client thread/INFO]: [CHAT] ===================================================
+[16:09:46] [Client thread/INFO]: [CHAT] |           Clover Pixel
+[16:09:46] [Client thread/INFO]: [CHAT] |
+[16:09:46] [Client thread/INFO]: [CHAT] | 你的账户 已经注册  请登陆
+[16:09:46] [Client thread/INFO]: [CHAT] |
+[16:09:46] [Client thread/INFO]: [CHAT] | 使用 "/login <密码>" 来进行登陆
+[16:09:46] [Client thread/INFO]: [CHAT] |
+[16:09:46] [Client thread/INFO]: [CHAT] ===================================================
+[16:09:47] [Client thread/INFO]: [CHAT]      
+[16:09:47] [Client thread/INFO]: [CHAT]      
+[16:09:47] [Client thread/INFO]: [CHAT] ===================================================
+[16:09:47] [Client thread/INFO]: [CHAT] | 密码验证成功 请妥善保管你的账户与密码
+[16:09:47] [Client thread/INFO]: [CHAT] ===================================================
+[16:09:47] [Client thread/INFO]: [CHAT] GLgele,欢迎你回来！
+[16:09:50] [Client thread/INFO]: [CHAT] -----------------------------------------
+[16:09:50] [Client thread/INFO]: [CHAT] [点券中心] 正在查询云平台余额进行点券转换...
+[16:09:50] [Client thread/INFO]: [CHAT] [点券中心] glgele云平台账户余额为0, 请充值后操作~
+[16:09:50] [Client thread/INFO]: [CHAT] -----------------------------------------
+[16:09:50] [Client thread/INFO]: [CHAT] §6§l『喇叭』§7 NMSl_qwq §f: §f你在几把狗叫我就叫氧气焊嘎你勾ChaoJiShenGod
+[16:09:51] [Client thread/INFO]: [CHAT] §6§l『喇叭』§7 NMSl_qwq §f: §f你在几把狗叫我就叫氧气焊嘎你勾ChaoJiShenGod
+[16:09:51] [Client thread/INFO]: [CHAT] 
+[16:09:51] [Client thread/INFO]: [CHAT] ? 欢迎来到 四叶草 - 国际版
+[16:09:51] [Client thread/INFO]: [CHAT] 
+[16:09:51] [Client thread/INFO]: [CHAT]  这里是主大厅，你可以在这里进行
+[16:09:51] [Client thread/INFO]: [CHAT]  服区连接与中转等操作。
+[16:09:51] [Client thread/INFO]: [CHAT]  注意你的物品栏有快捷物品哦~
+[16:09:51] [Client thread/INFO]: [CHAT] 
+[16:09:51] [Client thread/INFO]: [CHAT] ? 服务器QQ群：949760054
+[16:09:51] [Client thread/INFO]: [CHAT] ? 祝你游戏愉快~
+[16:09:51] [Client thread/INFO]: [CHAT] 
+[16:09:51] [Client thread/INFO]: [CHAT] §6§l『喇叭』§7 NMSl_qwq §f: §f你在几把狗叫我就叫氧气焊嘎你勾ChaoJiShenGod
+[16:09:51] [Client thread/INFO]: [CHAT] §6§l『喇叭』§7 NMSl_qwq §f: §f你在几把狗叫我就叫氧气焊嘎你勾ChaoJiShenGod
+[16:09:51] [Client thread/INFO]: [CHAT] §6§l『喇叭』§7 NMSl_qwq §f: §f你在几把狗叫我就叫氧气焊嘎你勾ChaoJiShenGod
+[16:10:02] [Client thread/INFO]: [CHAT] §d§l『邀人』§7 world_2 §f: 烦死了 §e§l[§6建筑服§e§l] 
+[16:10:02] [Client thread/INFO]: [CHAT] ▇ 已将 GLgele 传送至服务器: 搭路练习
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
 	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
@@ -860,8 +480,140 @@ Caused by: java.lang.NullPointerException
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[20:44:06] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家Real_So加入了逃杀!
-[20:44:08] [Client thread/INFO]: [CHAT] 大逃杀 >> 玩家Millanill退出了逃杀!
-[20:44:10] [Client thread/INFO]: Stopping!
-[20:44:10] [Client thread/INFO]: SoundSystem shutting down...
-[20:44:10] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:10:03] [Client thread/INFO]: [CHAT] GLgele 加入了游戏.
+[16:10:03] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.k(SourceFile:179) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1313) ~[1.8.9.jar:?]
+	at hq.a(SourceFile:54) ~[1.8.9.jar:?]
+	at hq.a(SourceFile:10) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:03] [Client thread/INFO]: [CHAT]  33c 被 ws_ys 推入虚空
+[16:10:03] [Client thread/INFO]: [CHAT] 
+[16:10:03] [Client thread/INFO]: [CHAT] ? 您已连接 搭路练习 .
+[16:10:03] [Client thread/INFO]: [CHAT] 
+[16:10:07] [Client thread/INFO]: [CHAT]  ws_ys 被 addcee 推入虚空
+[16:10:07] [Client thread/INFO]: [CHAT]  gameboll 被 fob_young 推入虚空 5连杀！
+[16:10:08] [Client thread/INFO]: [CHAT] ========================================
+[16:10:08] [Client thread/INFO]: [CHAT]      经济系统公告！ >>>
+[16:10:08] [Client thread/INFO]: [CHAT] §r
+[16:10:08] [Client thread/INFO]: [CHAT]      会员特权更新、硬币领取上线！
+[16:10:08] [Client thread/INFO]: [CHAT] §r
+[16:10:08] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
+[16:10:08] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
+[16:10:08] [Client thread/INFO]: [CHAT] §r
+[16:10:08] [Client thread/INFO]: [CHAT] ========================================
+[16:10:10] [Client thread/INFO]: [CHAT]  addcee 被 33c 推入虚空
+[16:10:12] [Client thread/INFO]: [CHAT]  fob_young 被 NYB_JERRY__ 推入虚空
+[16:10:14] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.a(SourceFile:271) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1387) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:10:14] [Client thread/INFO]: [CHAT] -------------------------
+[16:10:14] [Client thread/INFO]: [CHAT]            K升级！K
+[16:10:14] [Client thread/INFO]: [CHAT]     你现在的 搭路等级 为 9?
+[16:10:14] [Client thread/INFO]: [CHAT] -------------------------
+[16:10:14] [Client thread/INFO]: [CHAT] -------------------------
+[16:10:14] [Client thread/INFO]: [CHAT]            K升级！K
+[16:10:14] [Client thread/INFO]: [CHAT]     你现在的 搭路等级 为 10?
+[16:10:14] [Client thread/INFO]: [CHAT] -------------------------
+[16:10:14] [Client thread/INFO]: [CHAT] [签到系统] 签到成功，获得 1000 经验。
+[16:10:15] [Client thread/INFO]: [CHAT] §d§l『邀人』§7 ObsidiaN_ §f: 哼哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 §e§l[§6起床战争#2§e§l] 
+[16:10:15] [Client thread/INFO]: [CHAT]  addcee 被 fob_young 推入虚空
+[16:10:16] [Client thread/INFO]: [CHAT]  ws_ys 被 33c 推入虚空 2连杀！
+[16:10:16] [Client thread/INFO]: [CHAT]  33c 被 ws_ys 推入虚空
+[16:10:20] [Client thread/INFO]: [CHAT]  33c 被 ws_ys 推入虚空 2连杀！
+[16:10:21] [Client thread/INFO]: [CHAT] §d§l『邀人』§7 xiao385220 §f: 来吧 §e§l[§6SkyPvp#1§e§l] 
+[16:10:22] [Client thread/INFO]: [CHAT]  ws_ys 被 fob_young 推入虚空 2连杀！
+[16:10:22] [Client thread/INFO]: [CHAT] §6§lBridge §f>> 走搭位置指示已开启
+[16:10:23] [Client thread/INFO]: [CHAT]  33c 被 addcee 推入虚空
+[16:10:24] [Client thread/INFO]: [CHAT]  addcee 被 fob_young 推入虚空 3连杀！
+[16:10:25] [Client thread/INFO]: [CHAT]  fob_young 被 ws_ys 推入虚空
+[16:10:25] [Client thread/INFO]: [CHAT] §d§l『邀人』§7 ObsidiaN_ §f: 10/16 §e§l[§6起床战争#2§e§l] 
+[16:10:26] [Client thread/INFO]: [CHAT] §d§l『邀人』§7 SafeWa1k §f: 星宇给我上你服务器op §e§l[§6超级战墙#5§e§l] 
+[16:10:27] [Client thread/INFO]: [CHAT] §6§lBridge §f>> 搭路速度统计已关闭
+[16:10:27] [Client thread/INFO]: [CHAT]  fob_young 被 addcee 推入虚空
+[16:10:29] [Client thread/INFO]: [CHAT] §6§lBridge §f>> 搭路速度统计已开启
+[16:10:30] [Client thread/INFO]: [CHAT]  NYB_JERRY__ 被 l128ce1we 推入虚空
+[16:10:30] [Client thread/INFO]: [CHAT]  l128ce1we 被 ws_ys 推入虚空 2连杀！
+[16:10:32] [Client thread/INFO]: [CHAT] §6§lBridge §f>> 侧搭辅助指示已关闭
+[16:10:34] [Client thread/INFO]: [CHAT] §6§lBridge §f>> 侧搭辅助指示已开启
+[16:10:39] [Client thread/INFO]: [CHAT]  addcee 被 l128ce1we 推入虚空
+[16:10:40] [Client thread/INFO]: [CHAT] 传送到地标 BridgePVP*.
+[16:10:41] [Client thread/INFO]: [CHAT]  NYB_JERRY__ 被 Frisk951 推入虚空
+[16:10:42] [Client thread/INFO]: [CHAT]  l128ce1we 被 Frisk951 推入虚空 2连杀！
+[16:10:46] [Client thread/INFO]: [CHAT] +40 搭路经验(在线奖励)
+[16:10:47] [Client thread/INFO]: [CHAT]  Frisk951 被 ws_ys 推入虚空 3连杀！
+[16:10:50] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[16:10:55] [Client thread/INFO]: [CHAT]  addcee 被 ws_ys 推入虚空 4连杀！
+[16:10:58] [Client thread/INFO]: [CHAT]  ws_ys 被 33c 推入虚空
+[16:11:00] [Client thread/INFO]: [CHAT]  NYB_JERRY__ 被 33c 推入虚空 2连杀！
+[16:11:03] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[16:11:06] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[16:11:06] [Client thread/INFO]: [CHAT] Hey! Sorry, but you can't place that block here.
+[16:11:08] [Client thread/INFO]: [CHAT]      Clover Pixel 交流群 >>>
+[16:11:08] [Client thread/INFO]: [CHAT] §r
+[16:11:08] [Client thread/INFO]: [CHAT] §f官方群：§a949760054! §e[单击加入]
+[16:11:08] [Client thread/INFO]: [CHAT] §r
+[16:11:08] [Client thread/INFO]: [CHAT] §f申诉反馈群：§a823319317! §e[单击加入]
+[16:11:08] [Client thread/INFO]: [CHAT] §r
+[16:11:08] [Client thread/INFO]: [CHAT]      管理组提醒您,不要轻易相信人民币交易
+[16:11:08] [Client thread/INFO]: [CHAT]      如果您上当受骗,服务器不会给予补偿!!!
+[16:11:08] [Client thread/INFO]: [CHAT] §r
+[16:11:08] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[16:11:10] [Client thread/INFO]: [CHAT]  33c 被 ws_ys 推入虚空
+[16:11:10] [Client thread/INFO]: [CHAT] §6§l『喇叭』§7 NMSl_qwq §f: §f王小明炸的时候点了一下tpaura 补了一刀伤害
+[16:11:11] [Client thread/INFO]: [CHAT]  addcee 被 ws_ys 推入虚空 2连杀！
+[16:11:11] [Client thread/INFO]: [CHAT]  NYB_JERRY__ 被 addcee 推入虚空
+[16:11:12] [Client thread/INFO]: [CHAT]  ws_ys 被 l128ce1we 推入虚空
+[16:11:15] [Client thread/INFO]: [CHAT]  GLgele 被 Frisk951 推入虚空
+[16:11:15] [Client thread/INFO]: [CHAT]  fob_young 被 ws_ys 推入虚空
+[16:11:42] [Client thread/INFO]: Connecting to mc.hypixel.net., 25565
+[16:11:48] [Client thread/INFO]: Connecting to mc.hypixel.net., 25565
+[16:12:01] [Client thread/INFO]: Connecting to ningbo.hypixel.net, 25565
+[16:12:05] [Client thread/INFO]: Connecting to ningbo.hypixel.net, 25565
+[16:12:15] [Client thread/INFO]: Stopping!
+[16:12:15] [Client thread/INFO]: SoundSystem shutting down...
+[16:12:15] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
