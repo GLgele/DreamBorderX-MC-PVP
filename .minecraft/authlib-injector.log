@@ -1,11 +1,10 @@
-Logging started at 2022-01-22T10:47:21.333Z
-[authlib-injector] [INFO] Version: 1.1.39
+Logging started at 2022-03-13T09:02:36.002Z
+[authlib-injector] [INFO] Version: 1.1.41
 [authlib-injector] [INFO] Authentication server: https://mcskin.littleservice.cn/api/yggdrasil/
-[authlib-injector] [INFO] Polyfill privileges API
 [authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
 [authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Callback Metafactory Transformer]
 [authlib-injector] [INFO] Enable MC-52974 Workaround
-[authlib-injector] [INFO] Httpd is running on port 51065
+[authlib-injector] [INFO] Httpd is running on port 64727
 [authlib-injector] [INFO] Transformed [bua] with [Constant URL Transformer]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [Callback Metafactory Transformer]
@@ -14,55 +13,3 @@ Logging started at 2022-01-22T10:47:21.333Z
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Yggdrasil Public Key Transformer]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [MC-52974 Workaround]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Callback Metafactory Transformer]
-[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository] with [Constant URL Transformer]
-[authlib-injector] [WARNING] An error occurred while processing request [/https/api.mojang.com/profiles/minecraft]
-java.io.UncheckedIOException: java.io.IOException: Server returned HTTP response code: 405 for URL: https://littleskin.cn/api/yggdrasil/api/profiles/minecraft
-	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUIDs(YggdrasilClient.java:65)
-	at moe.yushi.authlibinjector.httpd.QueryUUIDsFilter.performQuery(QueryUUIDsFilter.java:81)
-	at moe.yushi.authlibinjector.httpd.QueryUUIDsFilter.handle(QueryUUIDsFilter.java:62)
-	at moe.yushi.authlibinjector.httpd.URLProcessor$1.serve(URLProcessor.java:132)
-	at moe.yushi.authlibinjector.internal.fi.iki.elonen.HTTPSession.execute(HTTPSession.java:246)
-	at moe.yushi.authlibinjector.internal.fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:104)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: java.io.IOException: Server returned HTTP response code: 405 for URL: https://littleskin.cn/api/yggdrasil/api/profiles/minecraft
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
-	at moe.yushi.authlibinjector.util.IOUtils.http(IOUtils.java:66)
-	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUIDs(YggdrasilClient.java:61)
-	... 6 more
-
-[authlib-injector] [WARNING] An error occurred while processing request [/https/api.mojang.com/profiles/minecraft]
-java.io.UncheckedIOException: java.io.IOException: Server returned HTTP response code: 405 for URL: https://littleskin.cn/api/yggdrasil/api/profiles/minecraft
-	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUIDs(YggdrasilClient.java:65)
-	at moe.yushi.authlibinjector.httpd.QueryUUIDsFilter.performQuery(QueryUUIDsFilter.java:81)
-	at moe.yushi.authlibinjector.httpd.QueryUUIDsFilter.handle(QueryUUIDsFilter.java:62)
-	at moe.yushi.authlibinjector.httpd.URLProcessor$1.serve(URLProcessor.java:132)
-	at moe.yushi.authlibinjector.internal.fi.iki.elonen.HTTPSession.execute(HTTPSession.java:246)
-	at moe.yushi.authlibinjector.internal.fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:104)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: java.io.IOException: Server returned HTTP response code: 405 for URL: https://littleskin.cn/api/yggdrasil/api/profiles/minecraft
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
-	at moe.yushi.authlibinjector.util.IOUtils.http(IOUtils.java:66)
-	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUIDs(YggdrasilClient.java:61)
-	... 6 more
-
-[authlib-injector] [WARNING] An error occurred while processing request [/https/api.mojang.com/profiles/minecraft]
-java.io.UncheckedIOException: java.io.IOException: Server returned HTTP response code: 405 for URL: https://littleskin.cn/api/yggdrasil/api/profiles/minecraft
-	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUIDs(YggdrasilClient.java:65)
-	at moe.yushi.authlibinjector.httpd.QueryUUIDsFilter.performQuery(QueryUUIDsFilter.java:81)
-	at moe.yushi.authlibinjector.httpd.QueryUUIDsFilter.handle(QueryUUIDsFilter.java:62)
-	at moe.yushi.authlibinjector.httpd.URLProcessor$1.serve(URLProcessor.java:132)
-	at moe.yushi.authlibinjector.internal.fi.iki.elonen.HTTPSession.execute(HTTPSession.java:246)
-	at moe.yushi.authlibinjector.internal.fi.iki.elonen.NanoHTTPD$ClientHandler.run(NanoHTTPD.java:104)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: java.io.IOException: Server returned HTTP response code: 405 for URL: https://littleskin.cn/api/yggdrasil/api/profiles/minecraft
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
-	at moe.yushi.authlibinjector.util.IOUtils.http(IOUtils.java:66)
-	at moe.yushi.authlibinjector.yggdrasil.YggdrasilClient.queryUUIDs(YggdrasilClient.java:61)
-	... 6 more
-
