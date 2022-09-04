@@ -1,0 +1,119 @@
+---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 22-8-26 下午7:00
+Description: Rendering item
+
+com.google.common.util.concurrent.UncheckedExecutionException: java.lang.IllegalArgumentException: Invalid URL 'http://textures.minecraft.net/texture/b1dd4fe4a429abd665dfdb3e21321d6eFjg?ff#VSv#?SfF#?3VCS?3?Tf?yb25'
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2201)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3934)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827)
+	at bnp.a(SourceFile:126)
+	at bhk.a(SourceFile:76)
+	at bfi.a(SourceFile:52)
+	at bjh.a(SourceFile:122)
+	at bjh.a(SourceFile:323)
+	at bjh.b(SourceFile:359)
+	at ayl.a(SourceFile:249)
+	at ayl.a(SourceFile:107)
+	at bfk.a(SourceFile:1039)
+	at ave.av(SourceFile:915)
+	at ave.a(SourceFile:325)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+Caused by: java.lang.IllegalArgumentException: Invalid URL 'http://textures.minecraft.net/texture/b1dd4fe4a429abd665dfdb3e21321d6eFjg?ff#VSv#?SfF#?3VCS?3?Tf?yb25'
+	at moe.yushi.authlibinjector.transform.support.SkinWhitelistTransformUnit.isWhitelistedDomain(SkinWhitelistTransformUnit.java:71)
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.isWhitelistedDomain(YggdrasilMinecraftSessionService.java)
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.getTextures(YggdrasilMinecraftSessionService.java:149)
+	at bnp$1.a(SourceFile:47)
+	at bnp$1.load(SourceFile:44)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3524)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2317)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2280)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2195)
+	... 16 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2201)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3934)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827)
+	at bnp.a(SourceFile:126)
+	at bhk.a(SourceFile:76)
+	at bfi.a(SourceFile:52)
+	at bjh.a(SourceFile:122)
+	at bjh.a(SourceFile:323)
+
+-- Item being rendered --
+Details:
+	Item Type: aat@679d0be8
+	Item Aux: 3
+	Item NBT: {ViaRewind1_8to1_9:{data:3s,lore:[0:"",1:"§f这是§aGame§fCraft 玩家协议",2:"§f您必须同意本协议才能加入游戏",3:"§f请注意 当您违反我们的玩家协议时",4:"§f我们有权对您进行惩罚",5:"",6:"§f我们在必要时有权§c修改协议条例",7:"§f请你随时关注玩家协议变动!",8:"",9:"§aGame§fCraft §e拥有最终解释权!"],displayName:"§aGame§fCraft 玩家协议总则",id:397s},SkullOwner:{Id:"0afd22b1-3218-4c9b-8228-47817b855b68",Properties:{textures:[0:{Signature:"TrMenu_TexturedSkull",Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjFkZDRmZTRhNDI5YWJkNjY1ZGZkYjNlMjEzMjFkNmVGameTZhNmI1ZTdiOTU2ZGI5YzVkNTljOWVGameWIyNSJ9fX0="}]}},display:{VB|Protocol1_12_2To1_13|2|Name:"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"green\",\"text\":\"Game\"},{\"color\":\"white\",\"text\":\"Craft \"},{\"color\":\"white\",\"text\":\"玩家协议总则\"}],\"text\":\"\"}],\"text\":\"\"}",Lore:[0:"",1:"§f这是§aGame§fCraft 玩家协议",2:"§f您必须同意本协议才能加入游戏",3:"§f请注意 当您违反我们的玩家协议时",4:"§f我们有权对您进行惩罚",5:"",6:"§f我们在必要时有权§c修改协议条例",7:"§f请你随时关注玩家协议变动!",8:"",9:"§aGame§fCraft §e拥有最终解释权!"],ViaVersion|Protocol1_14To1_13_2|Lore:[0:"",1:"§f这是§aGame§fCraft §f玩家协议",2:"§f您必须同意本协议才能加入游戏",3:"§f请注意 §f当您违反我们的玩家协议时",4:"§f我们有权对您进行惩罚",5:"",6:"§f我们在必要时有权§c修改协议条例",7:"§f请你随时关注玩家协议变动!",8:"",9:"§aGame§fCraft §e拥有最终解释权!"],VB|Protocol1_13_2To1_14|oLore:[0:"{\"italic\":false,\"text\":\"\"}",1:"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"white\",\"text\":\"这是\"},{\"color\":\"green\",\"text\":\"Game\"},{\"color\":\"white\",\"text\":\"Craft \"},{\"color\":\"white\",\"text\":\"玩家协议\"}],\"text\":\"\"}],\"text\":\"\"}",2:"{\"italic\":false,\"extra\":[{\"color\":\"white\",\"text\":\"您必须同意本协议才能加入游戏\"}],\"text\":\"\"}",3:"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"white\",\"text\":\"请注意 \"},{\"color\":\"white\",\"text\":\"当您违反我们的玩家协议时\"}],\"text\":\"\"}],\"text\":\"\"}",4:"{\"italic\":false,\"extra\":[{\"color\":\"white\",\"text\":\"我们有权对您进行惩罚\"}],\"text\":\"\"}",5:"{\"italic\":false,\"text\":\"\"}",6:"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"white\",\"text\":\"我们在必要时有权\"},{\"color\":\"red\",\"text\":\"修改协议条例\"}],\"text\":\"\"}],\"text\":\"\"}",7:"{\"italic\":false,\"extra\":[{\"color\":\"white\",\"text\":\"请你随时关注玩家协议变动!\"}],\"text\":\"\"}",8:"{\"italic\":false,\"text\":\"\"}",9:"{\"italic\":false,\"extra\":[{\"extra\":[{\"color\":\"green\",\"text\":\"Game\"},{\"color\":\"white\",\"text\":\"Craft \"},{\"color\":\"yellow\",\"text\":\"拥有最终解释权!\"}],\"text\":\"\"}],\"text\":\"\"}"],Name:"§aGame§fCraft 玩家协议总则",ViaVersion|Protocol1_13To1_12_2|Name:"§aGame§fCraft §f玩家协议总则"}}
+	Item Foil: false
+Stacktrace:
+	at bjh.b(SourceFile:359)
+	at ayl.a(SourceFile:249)
+	at ayl.a(SourceFile:107)
+
+-- Screen render details --
+Details:
+	Screen name: ayr
+	Mouse location: Scaled: (80, 61). Absolute: (322, 766)
+	Screen size: Scaled: (480, 254). Absolute: (1920, 1013). Scale factor of 4
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 10 total; [bew['GLgele'/298957, l='MpServer', x=72.70, y=54.00, z=-80.25], bex['An_Clan'/298929, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['§a玩家协议'/1, l='MpServer', x=72.69, y=54.00, z=-80.38], bex['§c传送大厅'/4, l='MpServer', x=79.50, y=54.00, z=-81.28], bex['HHHL'/299184, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['rerefgt4545'/299200, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['Eco'/299228, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['IKUN'/299306, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['x8x000000'/299373, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['93032'/299398, l='MpServer', x=79.41, y=54.00, z=-70.69]]
+	Chunk stats: MultiplayerChunkCache: 441, 441
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: 74.00,54.00,-80.00 - World: (74,54,-80), Chunk: (at 10,3,0 in 4,-5; contains blocks 64,0,-80 to 79,255,-65), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Level time: 178168 game time, 474129692 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: adventure (ID 2). Hardcore: false. Cheats: false
+	Forced entities: 24 total; [bex['§a玩家协议'/1, l='MpServer', x=72.69, y=54.00, z=-80.38], bex['93032'/299398, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['§c传送大厅'/4, l='MpServer', x=79.50, y=54.00, z=-81.28], bex['rerefgt4545'/299200, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['x8x000000'/299373, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['x8x000000'/299373, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['IKUN'/299306, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['Eco'/299228, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['IKUN'/299306, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['HHHL'/299184, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['HHHL'/299184, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['93032'/299398, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['An_Clan'/298929, l='MpServer', x=79.41, y=54.00, z=-70.69], bew['GLgele'/298957, l='MpServer', x=72.70, y=54.00, z=-80.25], bex['x8x000000'/298769, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['rerefgt4545'/298542, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['Eco'/299228, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['3236123831'/296297, l='MpServer', x=79.00, y=54.00, z=-79.50], bex['IKUN'/298677, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['An_Clan'/298929, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['§a玩家协议'/1, l='MpServer', x=72.69, y=54.00, z=-80.38], bex['rerefgt4545'/299200, l='MpServer', x=79.41, y=54.00, z=-70.69], bex['§c传送大厅'/4, l='MpServer', x=79.50, y=54.00, z=-81.28], bex['ShengTaoCheng123'/298775, l='MpServer', x=79.69, y=54.00, z=-80.50]]
+	Retry entities: 0 total; []
+	Server brand: Waterfall <- Paper
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at bdb.a(SourceFile:309)
+	at ave.b(SourceFile:2311)
+	at ave.a(SourceFile:334)
+	at net.minecraft.client.main.Main.main(SourceFile:124)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.9
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_311, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 170337072 bytes (162 MB) / 369098752 bytes (352 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 11 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx4096m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	Launched Version: HMCL 3.3.188
+	LWJGL: 2.9.4
+	OpenGL: NVIDIA GeForce GTX 1650/PCIe/SSE2 GL version 4.6.0 NVIDIA 516.59, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: No
+	Is Modded: Probably not. Jar signature remains and client brand is untouched.
+	Type: Client (map_client.txt)
+	Resource Packs: 游戏世界材质包, PVP.zip
+	Current Language: 简体中文 (中国)
+	Profiler Position: N/A (disabled)
+	CPU: 8x Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
