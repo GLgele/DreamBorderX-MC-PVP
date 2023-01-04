@@ -1,17 +1,11 @@
-Logging started at 2022-07-13T14:17:19.508Z
-[authlib-injector] [INFO] Version: 1.1.46
+Logging started at 2023-01-03T02:22:31.050Z
+[authlib-injector] [INFO] Version: 1.2.1
 [authlib-injector] [INFO] Authentication server: https://mcskin.littleservice.cn/api/yggdrasil/
 [authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Main Arguments Transformer]
-[authlib-injector] [INFO] Transformed [net.minecraft.client.main.Main] with [Callback Metafactory Transformer]
-[authlib-injector] [INFO] Enable MC-52974 Workaround
-[authlib-injector] [INFO] Httpd is running on port 14865
-[authlib-injector] [INFO] Transformed [bua] with [Constant URL Transformer]
+[authlib-injector] [INFO] Httpd is running on port 2984
+[authlib-injector] [INFO] Transformed [dzj] with [Constant URL Transformer]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [ConcatenateURL Workaround]
-[authlib-injector] [INFO] Transformed [com.mojang.authlib.HttpAuthenticationService] with [Callback Metafactory Transformer]
-[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilEnvironment] with [Constant URL Transformer]
 [authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Texture Whitelist Transformer]
-[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Yggdrasil Public Key Transformer]
-[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [MC-52974 Workaround]
-[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService] with [Callback Metafactory Transformer]
 [authlib-injector] [INFO] Transformed [io.netty.bootstrap.Bootstrap] with [Constant URL Transformer]
-[authlib-injector] [INFO] Transformed [com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository] with [Constant URL Transformer]
+[authlib-injector] [INFO] Transformed [com.mojang.authlib.properties.Property] with [Yggdrasil Public Key Transformer]
