@@ -1,25 +1,23 @@
-[15:57:06] [Client thread/INFO]: Setting user: GLgele
-[15:57:06] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI4MmVkNTVhMWY3OWU0MjRjOGE2MjBhZjgyNDI5MWFmYyIsInNwciI6Ijg0ZThkZThlZjZkOTQzNzE4MzViNjg0NGNiN2ZmMGU5IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MzAwNjM4NjEuNDI5MjMxLCJpYXQiOjE2Mjk4MDQ2NjEuNDI5MjMxfQ.uStooIOQMZvmrhL5CtB1Z310CBOSBAiIGPbGZsoqMjs:84e8de8ef6d94371835b6844cb7ff0e9)
-[15:57:07] [Client thread/INFO]: LWJGL Version: 2.9.4
-[15:57:08] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
-[15:57:09] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[15:57:09] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[15:57:09] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[15:57:09] [Thread-7/INFO]: OpenAL initialized.
-[15:57:09] [Sound Library Loader/INFO]: Sound engine started
-[15:57:11] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
-[15:57:11] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
-[15:57:13] [Client thread/INFO]: Created: 2048x2048 textures-atlas
-[15:57:28] [Client thread/ERROR]: Can't ping cloudegg.cloud: Internal Exception: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
-[15:57:50] [Client thread/INFO]: Connecting to mc.gamster.org, 25565
-[15:57:52] [Client thread/INFO]: [CHAT] Gamster ? You are not registered yet!
-Gamster ? /register <password> <password>
-Gamster ? Or: You have bought Minecraft? Activate the premium login with /premium on
-[15:57:53] [Client thread/INFO]: [CHAT] ? Current playing song ? "Do You Hear What I Hear"
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:46:05] [Client thread/INFO]: Setting user: RuoBai07
+[12:46:05] [Client thread/INFO]: (Session ID is token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI3ZTU3N2FlZWI1NDE1NWQyYmIzM2I0ODZhYmZiMTg2NyIsInlnZ3QiOiI4ZGRlZDUxNDdhZDY0MGRlYmYzNmFjNjhjOGY0NTYyYSIsInNwciI6IjNlODEwY2RiNWQwZjRjOTE4NDQ3YTBmOWUxZDY1MTQzIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2NzQ2MjE5NjAuNDI5MzcyLCJpYXQiOjE2NzQzNjI3NjAuNDI5MzcyfQ.NCMtX9B6MWm-UAAMu_iYFegDiZRWB7V_4n4jNZ2-psI:3e810cdb5d0f4c918447a0f9e1d65143)
+[12:46:06] [Client thread/INFO]: LWJGL Version: 2.9.4
+[12:46:07] [Client thread/INFO]: Reloading ResourceManager: Default, 游戏世界材质包, PVP.zip
+[12:46:07] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:46:07] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[12:46:07] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:46:07] [Thread-7/INFO]: OpenAL initialized.
+[12:46:07] [Sound Library Loader/INFO]: Sound engine started
+[12:46:08] [Client thread/WARN]: Texture minecraft:textures/blocks/slime.png with size 8x8 limits mip level from 4 to 3
+[12:46:08] [Client thread/WARN]: textures: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[12:46:10] [Client thread/INFO]: Created: 2048x2048 textures-atlas
+[12:46:36] [Client thread/INFO]: Connecting to mc.gamster.org, 25565
+[12:46:38] [Client thread/INFO]: [CHAT] Gamster ▸ You are not registered yet!
+Gamster ▸ /register <password> <password>
+Gamster ▸ Or: You have bought Minecraft? Activate the premium login with /premium on
+[12:46:39] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -30,14 +28,14 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:46:39] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -48,14 +46,14 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:46:39] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -66,14 +64,14 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:46:39] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -84,14 +82,14 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:46:39] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -102,14 +100,17 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:46:40] [pool-2-thread-1/ERROR]: Signature is missing from textures payload
+[12:46:42] [Client thread/INFO]: [CHAT] Gamster ▸ You have changed your language to English.
+[12:46:45] [Client thread/INFO]: [CHAT] Gamster ▸ The password must be at least 8 characters long!
+[12:46:52] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -120,14 +121,15 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:46:54] [Client thread/INFO]: [CHAT] Gamster ▸ You have been registered successfully.
+[12:46:54] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -138,14 +140,23 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:47:00] [Client thread/INFO]: [CHAT]        -------- Do you need help? --------
+[12:47:00] [Client thread/INFO]: [CHAT]  
+[12:47:00] [Client thread/INFO]: [CHAT] When you encounter a problem in game you can contact the staff by using the /support en command to ask for help.
+[12:47:00] [Client thread/INFO]: [CHAT]  
+[12:47:00] [Client thread/INFO]: [CHAT] A staff member will answer to you directly on the server, and you can reply back by using the /sc command (chat support).
+[12:47:00] [Client thread/INFO]: [CHAT]  
+[12:47:00] [Client thread/INFO]: [CHAT] At the end, with one click you can give positive feedback to the staff member who helped you if you are satisfied with the way you were helped.
+[12:47:00] [Client thread/INFO]: [CHAT]  
+[12:47:00] [Client thread/INFO]: [CHAT] Support commands can be listed using the /support command.
+[12:47:03] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -156,14 +167,14 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:47:08] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -174,14 +185,14 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:47:18] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -192,575 +203,18 @@ Caused by: java.lang.NullPointerException
 	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
 	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
+[12:47:38] [Client thread/INFO]: [CHAT] Bedwars ▸ RuoBai07 has joined (6/16)!
+[12:47:38] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 40 seconds!
+[12:47:43] [Client thread/INFO]: [CHAT] Bedwars ▸ You joined the Yellow team!
+[12:47:46] [Client thread/INFO]: [CHAT] Bedwars ▸ Adi_Gamers has joined (7/16)!
+[12:47:46] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:57:53] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:57:53] [Client thread/INFO]: [CHAT] Gamster ? You have changed your language to English.
-[15:57:54] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:57:54] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:00] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:01] [Client thread/INFO]: [CHAT]  ┃ Mage ┃ ion212 ? cum returnez gradul daca vreau ??
-[15:58:11] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:11] [Client thread/INFO]: [CHAT] Gamster ? The password must be at least 8 characters long!
-[15:58:12] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:14] [Client thread/INFO]: [CHAT]  ┃ Mage ┃ ion212 ? ?
-[15:58:19] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:19] [Client thread/INFO]: [CHAT] Gamster ? You have been registered successfully.
-[15:58:22] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:27] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:27] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:36] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:38] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:48] [Client thread/INFO]: [CHAT] ? Entering SAFE-ZONE // gamster.org
-[15:58:48] [Client thread/INFO]: [CHAT] 
-[15:58:48] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:48] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:58:48] [Client thread/INFO]: [CHAT] ]--------------[ Voting Rewards ]--------------[
-[15:58:48] [Client thread/INFO]: [CHAT]   * 25 KitPvP coins (per vote link)
-[15:58:48] [Client thread/INFO]: [CHAT] 
-[15:58:48] [Client thread/INFO]: [CHAT]   * Vote daily with /vote command!
-[15:58:48] [Client thread/INFO]: [CHAT] ]-------------------------------------------[
-[15:58:52] [Client thread/INFO]: [CHAT] KitPvP ? You have opened a Kit Unlocker!
-[15:58:58] [Client thread/INFO]: [CHAT] KitPvP ? You have won the kit Archer, Congratulations!
-[15:59:02] [Client thread/INFO]: [CHAT] KitPvP ? You have opened a Kit Unlocker!
-[15:59:08] [Client thread/INFO]: [CHAT] KitPvP ? You have won the kit Viking, Congratulations!
-[15:59:16] [Client thread/INFO]: [CHAT] KitPvP ? You have selected the kit Viking
-[15:59:21] [Client thread/INFO]: [CHAT] ? Leaving SAFE-ZONE // gamster.org
-[15:59:29] [Client thread/INFO]: [CHAT] ? Current playing song ? "Little Drummer Boy"
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:29] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:30] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:32] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
-	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
-	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[15:59:34] [Client thread/INFO]: [CHAT] Bedwars ? GLgele has joined (2/8)!
-[15:59:35] [Client thread/INFO]: [CHAT] Bedwars ? FONFANTA has joined (3/8)!
-[15:59:35] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -770,17 +224,24 @@ Caused by: java.lang.NullPointerException
 	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
 	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:59:39] [Client thread/INFO]: [CHAT] Bedwars ? FONFANTA has quit!
-[15:59:39] [Client thread/INFO]: [CHAT] Bedwars ? You joined the Yellow team!
-[15:59:48] [Client thread/INFO]: [CHAT] Bedwars ? grtyrub has joined (3/8)!
-[15:59:48] [Client thread/FATAL]: Error executing task
+[12:47:47] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 30 seconds!
+[12:47:54] [Client thread/INFO]: [CHAT] ----------------------------------------
+[12:47:54] [Client thread/INFO]: [CHAT]   Gamster Skins - 2.2
+   /skin <skinname> - Changes your skin from a Skin name.
+    /skin <skin url> - Changes your skin from URL.
+    /skin update - Updates your skin.
+    /skin clear - Clears your skin.
+[12:47:54] [Client thread/INFO]: [CHAT] ----------------------------------------
+[12:47:57] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 20 seconds!
+[12:47:58] [Client thread/INFO]: [CHAT] Bedwars ▸ bedlessnoob89 has joined (8/16)!
+[12:47:58] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -790,15 +251,17 @@ Caused by: java.lang.NullPointerException
 	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
 	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:59:48] [Client thread/INFO]: [CHAT] Bedwars ? imusb98 has joined (4/8)!
-[15:59:48] [Client thread/FATAL]: Error executing task
+[12:48:05] [Client thread/INFO]: [CHAT] Bedwars ▸ SLOTHOPPER has joined (9/16)!
+[12:48:07] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 10 seconds!
+[12:48:08] [Client thread/INFO]: [CHAT] Bedwars ▸ likeohio has joined (10/16)!
+[12:48:08] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -808,16 +271,111 @@ Caused by: java.lang.NullPointerException
 	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
 	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:59:48] [Client thread/INFO]: [CHAT] Bedwars ? The game starts in 40 seconds!
-[15:59:50] [Client thread/INFO]: [CHAT] Bedwars ? LuckYegor2012 has joined (5/8)!
-[15:59:50] [Client thread/FATAL]: Error executing task
+[12:48:11] [Client thread/INFO]: [CHAT] Bedwars ▸ likeohio has quit!
+[12:48:12] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 5 seconds!
+[12:48:13] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 4 seconds!
+[12:48:14] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 3 seconds!
+[12:48:15] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 2 seconds!
+[12:48:17] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 1 seconds!
+[12:48:19] [Client thread/INFO]: [CHAT] ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[12:48:19] [Client thread/INFO]: [CHAT]                                    BedWars
+[12:48:19] [Client thread/INFO]: [CHAT] 
+[12:48:19] [Client thread/INFO]: [CHAT]     Protect your bed and destroy the enemy beds.
+[12:48:19] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
+[12:48:19] [Client thread/INFO]: [CHAT]    Iron, Gold, Emerald, and Diamond from generators
+[12:48:19] [Client thread/INFO]: [CHAT]              to access powerful upgrades.
+[12:48:19] [Client thread/INFO]: [CHAT] 
+[12:48:19] [Client thread/INFO]: [CHAT] ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[12:48:23] [Client thread/INFO]: [CHAT] [2✩] ┃ [YELLOW] SLOTHOPPER › hi
+[12:48:26] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §cYou can't write in the chat yet!
+§6§lGamster §7▸ §cYou must play at least §e60 minutes§c.
+[12:48:32] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §cYou have already sent this message!
+[12:48:35] [Client thread/INFO]: [CHAT] [2✩] ┃ [YELLOW] SLOTHOPPER › i won in this map man
+[12:48:35] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §cYou have already sent this message!
+[12:48:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:48:43] [Client thread/INFO]: [CHAT] [2✩] ┃ [YELLOW] SLOTHOPPER › go yellow go
+[12:48:52] [Client thread/INFO]: [CHAT] bedlessnoob89 fell into the void.
+[12:48:54] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:48:54] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:48:54] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:48:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:48:55] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:48:56] [Client thread/INFO]: [CHAT] [2✩] ┃ [YELLOW] SLOTHOPPER › we win these
+[12:48:59] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed was iced by dream345345!
+[12:49:07] [Client thread/INFO]: [CHAT] RuoBai07 was killed by dream345345. FINAL KILL!
+[12:49:08] [Client thread/INFO]: [CHAT] Bedwars ▸ You are now spectating Orchestra.
+[12:49:08] [Client thread/INFO]: [CHAT] Bedwars ▸ You can leave the arena at any time doing /leave.
+[12:49:08] [Client thread/INFO]: [CHAT] Bedwars ▸ You have been eliminated!
+[12:49:09] [Client thread/INFO]: [CHAT] dream345345 was killed by SLOTHOPPER.
+[12:49:11] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:49:12] [pool-2-thread-1/ERROR]: Signature is missing from textures payload
+[12:49:12] [pool-2-thread-1/ERROR]: Signature is missing from textures payload
+[12:49:14] [Client thread/INFO]: [CHAT] ----------------------------------------
+[12:49:14] [Client thread/INFO]: [CHAT]   Gamster Skins - 2.2
+   /skin <skinname> - Changes your skin from a Skin name.
+    /skin <skin url> - Changes your skin from URL.
+    /skin update - Updates your skin.
+    /skin clear - Clears your skin.
+[12:49:14] [Client thread/INFO]: [CHAT] ----------------------------------------
+[12:49:38] [Client thread/INFO]: [CHAT] Uploading skin, please wait...(This may take up some time)
+[12:49:40] [Client thread/INFO]: [CHAT] Your skin has been changed.
+[12:50:02] [Client thread/INFO]: [CHAT] Error: You can change your skin again in 36 seconds.
+[12:50:06] [Client thread/INFO]: [CHAT] ----------------------------------------
+[12:50:06] [Client thread/INFO]: [CHAT]   Gamster Skins - 2.2
+   /skin <skinname> - Changes your skin from a Skin name.
+    /skin <skin url> - Changes your skin from URL.
+    /skin update - Updates your skin.
+    /skin clear - Clears your skin.
+[12:50:06] [Client thread/INFO]: [CHAT] ----------------------------------------
+[12:50:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:50:10] [Client thread/INFO]: [CHAT] Error: You can change your skin again in 28 seconds.
+[12:50:18] [Client thread/INFO]: [CHAT] Bedwars ▸ RuoBai07 has joined (3/16)!
+[12:50:23] [Client thread/INFO]: [CHAT] Bedwars ▸ Valgair has joined (4/16)!
+[12:50:23] [Client thread/INFO]: [CHAT] Bedwars ▸ Kraymik has joined (5/16)!
+[12:50:39] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §7Your latency: §e213ms
+[12:50:49] [Client thread/INFO]: [CHAT] Bedwars ▸ WEIR1370 has joined (6/16)!
+[12:50:49] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -827,18 +385,17 @@ Caused by: java.lang.NullPointerException
 	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
 	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[15:59:54] [Client thread/INFO]: [CHAT] Bedwars ? grtyrub has quit!
-[15:59:58] [Client thread/INFO]: [CHAT] Bedwars ? The game starts in 30 seconds!
-[16:00:04] [Client thread/INFO]: [CHAT] Bedwars ? RedLionYT7 has joined (5/8)!
-[16:00:04] [Client thread/INFO]: [CHAT] Bedwars ? Rose1290 has joined (6/8)!
-[16:00:04] [Client thread/FATAL]: Error executing task
+[12:50:49] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 40 seconds!
+[12:50:53] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §7Your latency: §e217ms
+[12:50:53] [Client thread/INFO]: [CHAT] Bedwars ▸ DIKSHA6987 has joined (7/16)!
+[12:50:53] [Client thread/FATAL]: Error executing task
 java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
 	at g.a(SourceFile:45) [1.8.9.jar:?]
 	at ave.av(SourceFile:881) [1.8.9.jar:?]
 	at ave.a(SourceFile:325) [1.8.9.jar:?]
@@ -848,164 +405,1061 @@ Caused by: java.lang.NullPointerException
 	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
 	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
 	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
 	at g.a(SourceFile:44) ~[1.8.9.jar:?]
 	... 3 more
-[16:00:06] [Client thread/INFO]: [CHAT] Bedwars ? DarkStarX69 has joined (7/8)!
-[16:00:06] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[16:00:08] [Client thread/INFO]: [CHAT] Bedwars ? The game starts in 20 seconds!
-[16:00:08] [Client thread/INFO]: [CHAT] Bedwars ? RedLionYT7 has quit!
-[16:00:08] [Client thread/INFO]: [CHAT] Bedwars ? Rose1290 has quit!
-[16:00:13] [Client thread/INFO]: [CHAT] Bedwars ? grtyrub has joined (6/8)!
-[16:00:14] [Client thread/INFO]: [CHAT] Bedwars ? grtyrub has quit!
-[16:00:14] [Client thread/INFO]: [CHAT] Bedwars ? Dodong1235 has joined (6/8)!
-[16:00:14] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[16:00:16] [Client thread/INFO]: [CHAT] Bedwars ? chushe has joined (7/8)!
-[16:00:16] [Client thread/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.lang.NullPointerException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_311]
-	at g.a(SourceFile:45) [1.8.9.jar:?]
-	at ave.av(SourceFile:881) [1.8.9.jar:?]
-	at ave.a(SourceFile:325) [1.8.9.jar:?]
-	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
-Caused by: java.lang.NullPointerException
-	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
-	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
-	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_311]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_311]
-	at g.a(SourceFile:44) ~[1.8.9.jar:?]
-	... 3 more
-[16:00:17] [Client thread/INFO]: [CHAT] Bedwars ? Abus has quit!
-[16:00:18] [Client thread/INFO]: [CHAT] Bedwars ? The game starts in 10 seconds!
-[16:00:19] [Client thread/INFO]: [CHAT] Bedwars ? RedLionYT7 has joined (7/8)!
-[16:00:19] [Client thread/INFO]: [CHAT] Bedwars ? Rose1290 has joined (8/8)!
-[16:00:23] [Client thread/INFO]: [CHAT] Bedwars ? The game starts in 5 seconds!
-[16:00:24] [Client thread/INFO]: [CHAT] Bedwars ? The game starts in 4 seconds!
-[16:00:25] [Client thread/INFO]: [CHAT] Bedwars ? The game starts in 3 seconds!
-[16:00:26] [Client thread/INFO]: [CHAT] Bedwars ? The game starts in 2 seconds!
-[16:00:27] [Client thread/INFO]: [CHAT] Bedwars ? The game starts in 1 seconds!
-[16:00:28] [Client thread/INFO]: [CHAT] ???????????????????????????????????????????????????????????????????????????
-[16:00:28] [Client thread/INFO]: [CHAT]                                    BedWars
-[16:00:28] [Client thread/INFO]: [CHAT] 
-[16:00:28] [Client thread/INFO]: [CHAT]     Protect your bed and destroy the enemy beds.
-[16:00:28] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
-[16:00:28] [Client thread/INFO]: [CHAT]    Iron, Gold, Emerald, and Diamond from generators
-[16:00:28] [Client thread/INFO]: [CHAT]              to access powerful upgrades.
-[16:00:28] [Client thread/INFO]: [CHAT] 
-[16:00:28] [Client thread/INFO]: [CHAT] ???????????????????????????????????????????????????????????????????????????
-[16:00:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:00:49] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:00:49] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:00:49] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:00:50] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:01:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:01:20] [Client thread/INFO]: [CHAT] chushe fell into the void.
-[16:01:28] [Client thread/INFO]: [CHAT] Bedwars ? +5 Coins (Play Time).
-[16:01:28] [Client thread/INFO]: [CHAT] Bedwars ? +10 BedWars Experience Received (Play Time).
-[16:01:44] [Client thread/INFO]: [CHAT] 
-§e§l(!) §fFor in-game §a§lranks§f, §6§lboosters§f, §e§lcosmetics§f and more visit our store at §6§l§nweb.gamster.org
+[12:50:55] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §7Your latency: §e212ms
+[12:50:56] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §7Your latency: §e213ms
+[12:50:57] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §7Your latency: §e210ms
+[12:50:58] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §7Your latency: §e210ms
+[12:50:59] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 30 seconds!
+[12:51:06] [Client thread/INFO]: [CHAT] Bedwars ▸ WEIR1370 has quit!
+[12:51:09] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 20 seconds!
+[12:51:19] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 10 seconds!
+[12:51:23] [Client thread/INFO]: [CHAT] Bedwars ▸ DarkBeastOG has joined (7/16)!
+[12:51:23] [Client thread/INFO]: [CHAT] Bedwars ▸ peakkeeee has joined (8/16)!
+[12:51:24] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 5 seconds!
+[12:51:25] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 4 seconds!
+[12:51:26] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 3 seconds!
+[12:51:26] [Client thread/INFO]: [CHAT] 
+§e§l(!) §fBe careful of §c§lfake§f Discord accounts! §c§lDo not share§f your §6§lpassword§f with anyone!
 
-[16:01:49] [Client thread/INFO]: [CHAT] 
-[16:01:49] [Client thread/INFO]: [CHAT] BED DESTRUCTION > White Bed was deep fried by DarkStarX69!
-[16:02:01] [Client thread/INFO]: [CHAT] 
-[16:02:01] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Aqua Bed was made into a snowman by Dodong1235.
-[16:02:01] [Client thread/INFO]: [CHAT]  
-[16:02:02] [Client thread/INFO]: [CHAT] DarkStarX69 was killed by chushe. FINAL KILL!
-[16:02:02] [Client thread/INFO]: [CHAT] 
-[16:02:02] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Aqua Team has been eliminated!
-[16:02:08] [Client thread/INFO]: [CHAT] imusb98 fell into the void.
-[16:02:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:02:09] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Stone Sword
-[16:02:13] [Client thread/INFO]: [CHAT] 
-[16:02:13] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Red Bed was deep fried by Rose1290!
-[16:02:18] [Client thread/INFO]: [CHAT] 
-[16:02:18] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Pink Bed was deep fried by RedLionYT7!
-[16:02:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:02:28] [Client thread/INFO]: [CHAT] Bedwars ? +5 Coins (Play Time).
-[16:02:28] [Client thread/INFO]: [CHAT] Bedwars ? +10 BedWars Experience Received (Play Time).
-[16:02:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:02:31] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Permanent Iron Armor
-[16:02:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:02:54] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Axe 
-[16:02:55] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Pickaxe 
-[16:02:55] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Axe 
-[16:02:56] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Pickaxe 
-[16:02:59] [Client thread/INFO]: [CHAT] RedLionYT7 was killed by chushe.
-[16:03:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:03:00] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:03:01] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:03:02] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:03:02] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:03:03] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:03:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:03:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:03:17] [Client thread/ERROR]: Item entity 17804 has no item?!
-[16:03:28] [Client thread/INFO]: [CHAT] Bedwars ? +10 BedWars Experience Received (Play Time).
-[16:03:28] [Client thread/INFO]: [CHAT] Bedwars ? +5 Coins (Play Time).
-[16:03:31] [Client thread/INFO]: [CHAT] Rose1290 was knocked into the void by imusb98.
-[16:03:37] [Client thread/INFO]: [CHAT] GLgele was knocked into the void by LuckYegor2012.
-[16:03:37] [Client thread/INFO]: [CHAT] Bedwars ? You will respawn in 5 seconds!
-[16:03:38] [Client thread/INFO]: [CHAT] Bedwars ? You will respawn in 4 seconds!
-[16:03:39] [Client thread/INFO]: [CHAT] Bedwars ? You will respawn in 3 seconds!
-[16:03:40] [Client thread/INFO]: [CHAT] Bedwars ? You will respawn in 2 seconds!
-[16:03:41] [Client thread/INFO]: [CHAT] Bedwars ? You will respawn in 1 seconds!
-[16:03:41] [Client thread/INFO]: [CHAT] RedLionYT7 was locked outside during a snow storm by Dodong1235.
-[16:03:50] [Client thread/INFO]: [CHAT] imusb98 was killed by Rose1290. FINAL KILL!
-[16:03:50] [Client thread/INFO]: [CHAT] 
-[16:03:50] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Red Team has been eliminated!
-[16:03:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:03:52] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:03:52] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:03:53] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:03:53] [Client thread/INFO]: [CHAT] Bedwars ? You purchased Wool
-[16:04:01] [Client thread/INFO]: [CHAT] RedLionYT7 was killed by chushe.
-[16:04:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:04:05] [Client thread/INFO]: [CHAT] Bedwars ? RedLionYT7 has quit!
-[16:04:14] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed was iced by LuckYegor2012!
-[16:04:15] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
-[16:04:19] [Client thread/INFO]: [CHAT] GLgele was killed by LuckYegor2012. FINAL KILL!
-[16:04:19] [Client thread/INFO]: [CHAT] Bedwars ? You are now spectating Polygon.
-[16:04:19] [Client thread/INFO]: [CHAT] Bedwars ? You can leave the arena at any time doing /leave.
-[16:04:19] [Client thread/INFO]: [CHAT] Bedwars ? You have been eliminated!
-[16:04:22] [Client thread/INFO]: [CHAT] 
-[16:04:22] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Gray Bed was deep fried by chushe!
-[16:04:26] [Client thread/INFO]: [CHAT] Rose1290 was locked outside during a snow storm by Dodong1235.
-[16:04:29] [Client thread/INFO]: Stopping!
-[16:04:29] [Client thread/INFO]: SoundSystem shutting down...
-[16:04:29] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:51:27] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 2 seconds!
+[12:51:28] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 1 seconds!
+[12:51:29] [Client thread/INFO]: [CHAT] ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[12:51:29] [Client thread/INFO]: [CHAT]                                    BedWars
+[12:51:29] [Client thread/INFO]: [CHAT] 
+[12:51:29] [Client thread/INFO]: [CHAT]     Protect your bed and destroy the enemy beds.
+[12:51:29] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
+[12:51:29] [Client thread/INFO]: [CHAT]    Iron, Gold, Emerald, and Diamond from generators
+[12:51:29] [Client thread/INFO]: [CHAT]              to access powerful upgrades.
+[12:51:29] [Client thread/INFO]: [CHAT] 
+[12:51:29] [Client thread/INFO]: [CHAT] ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[12:51:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:52:03] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:52:04] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:52:04] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:52:05] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:52:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:52:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:52:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:52:29] [Client thread/INFO]: [CHAT] Bedwars ▸ +10 BedWars Experience Received (Play Time).
+[12:52:29] [Client thread/INFO]: [CHAT] Bedwars ▸ +5 Coins (Play Time).
+[12:52:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:52:42] [Client thread/INFO]: [CHAT] anjali2 fell into the void.
+[12:52:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:52:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:52:50] [Client thread/INFO]: [CHAT] DarkBeastOG was killed by Kraymik.
+[12:52:58] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Permanent Iron Armor
+[12:52:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:53:05] [Client thread/INFO]: [CHAT] anjali2 was killed by baiboon1234.
+[12:53:06] [Client thread/INFO]: [CHAT] DarkBeastOG was killed by Kraymik.
+[12:53:07] [Client thread/INFO]: [CHAT] 
+[12:53:07] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Green Bed was deep fried by baiboon1234!
+[12:53:09] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed was iced by DIKSHA6987!
+[12:53:10] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:53:15] [Client thread/INFO]: [CHAT] 
+[12:53:15] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Blue Bed was deep fried by Kraymik!
+[12:53:16] [Client thread/INFO]: [CHAT] anjali2 was pushed by baiboon1234. FINAL KILL!
+[12:53:16] [Client thread/INFO]: [CHAT] 
+[12:53:16] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Green Team has been eliminated!
+[12:53:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:53:29] [Client thread/INFO]: [CHAT] Bedwars ▸ +5 Coins (Play Time).
+[12:53:29] [Client thread/INFO]: [CHAT] Bedwars ▸ +10 BedWars Experience Received (Play Time).
+[12:53:31] [Client thread/INFO]: [CHAT] Kraymik was glazed in BBQ sauce by DarkBeastOG.
+[12:53:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:53:34] [Client thread/INFO]: [CHAT] baiboon1234 was killed by DIKSHA6987. FINAL KILL!
+[12:53:35] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Iron Sword
+[12:53:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:53:44] [Client thread/INFO]: [CHAT] Bedwars ▸ +10 BedWars Experience Received (Regular Kill).
+[12:53:44] [Client thread/INFO]: [CHAT] Bedwars ▸ +10.0 Coins (Regular Kill).
+[12:53:44] [Client thread/INFO]: [CHAT] DIKSHA6987 was killed by RuoBai07.
+[12:53:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:54:01] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Golden Apple
+[12:54:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:54:08] [Client thread/INFO]: [CHAT] peakkeeee was killed by Kraymik. FINAL KILL!
+[12:54:09] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:54:09] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:54:10] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:54:10] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:54:10] [Client thread/INFO]: [CHAT] Kraymik was glazed in BBQ sauce by DarkBeastOG.
+[12:54:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:54:27] [Client thread/INFO]: [CHAT] RuoBai07 fell into the void. FINAL KILL!
+[12:54:27] [Client thread/INFO]: [CHAT] Bedwars ▸ You are now spectating Orchestra.
+[12:54:27] [Client thread/INFO]: [CHAT] Bedwars ▸ You can leave the arena at any time doing /leave.
+[12:54:27] [Client thread/INFO]: [CHAT] Bedwars ▸ You have been eliminated!
+[12:54:40] [Client thread/INFO]: [CHAT] Bedwars ▸ RuoBai07 has joined (2/16)!
+[12:54:50] [Client thread/INFO]: [CHAT] Bedwars ▸ pimpon has joined (3/16)!
+[12:54:50] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:54:51] [Client thread/INFO]: [CHAT] Bedwars ▸ HIGAME has joined (4/16)!
+[12:54:51] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:09] [Client thread/INFO]: [CHAT] Bedwars ▸ ewfefwes has joined (5/16)!
+[12:55:09] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:10] [Client thread/INFO]: [CHAT] Bedwars ▸ doipho has joined (6/16)!
+[12:55:10] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:10] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 40 seconds!
+[12:55:13] [Client thread/INFO]: [CHAT] Bedwars ▸ yumyumyum has joined (7/16)!
+[12:55:13] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:16] [Client thread/INFO]: [CHAT] Bedwars ▸ DexterNinja has joined (8/16)!
+[12:55:16] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:16] [Client thread/INFO]: [CHAT] Bedwars ▸ CryptoDallas has joined (9/16)!
+[12:55:16] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:20] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 30 seconds!
+[12:55:30] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 20 seconds!
+[12:55:32] [Client thread/INFO]: [CHAT] Bedwars ▸ DarkBeastOG has joined (10/16)!
+[12:55:32] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:32] [Client thread/INFO]: [CHAT] Bedwars ▸ peakkeeee has joined (11/16)!
+[12:55:32] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:33] [Client thread/INFO]: [CHAT] Bedwars ▸ Peanutbutter147 has joined (12/16)!
+[12:55:33] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:36] [Client thread/INFO]: [CHAT] Bedwars ▸ Pagal8687 has joined (13/16)!
+[12:55:36] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:36] [Client thread/INFO]: [CHAT] Bedwars ▸ hakama_69alt has joined (14/16)!
+[12:55:36] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:40] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 10 seconds!
+[12:55:44] [Client thread/INFO]: [CHAT] Bedwars ▸ SkTharshan has joined (15/16)!
+[12:55:44] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:44] [Client thread/INFO]: [CHAT] Bedwars ▸ YerBoiDan has joined (16/16)!
+[12:55:44] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:55:45] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 5 seconds!
+[12:55:46] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 4 seconds!
+[12:55:47] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 3 seconds!
+[12:55:48] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 2 seconds!
+[12:55:49] [Client thread/INFO]: [CHAT] [9✩] ┃ hakama_69alt › SkTharshan noobs
+[12:55:49] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 1 seconds!
+[12:55:50] [Client thread/INFO]: [CHAT] Bedwars ▸ DarkBeastOG has quit!
+[12:55:51] [Client thread/INFO]: [CHAT] ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[12:55:51] [Client thread/INFO]: [CHAT]                                    BedWars
+[12:55:51] [Client thread/INFO]: [CHAT] 
+[12:55:51] [Client thread/INFO]: [CHAT]     Protect your bed and destroy the enemy beds.
+[12:55:51] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
+[12:55:51] [Client thread/INFO]: [CHAT]    Iron, Gold, Emerald, and Diamond from generators
+[12:55:51] [Client thread/INFO]: [CHAT]              to access powerful upgrades.
+[12:55:51] [Client thread/INFO]: [CHAT] 
+[12:55:51] [Client thread/INFO]: [CHAT] ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[12:55:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:55:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:55:56] [Client thread/ERROR]: Item entity 878 has no item?!
+[12:55:57] [Client thread/INFO]: [CHAT] Bedwars ▸ SkTharshan has quit!
+[12:55:59] [Client thread/INFO]: [CHAT] Bedwars ▸ YerBoiDan has quit!
+[12:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:24] [Client thread/INFO]: [CHAT] hakama_69alt fell into the void.
+[12:56:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:26] [Client thread/INFO]: [CHAT] 
+§e§l(!) §fFollow us on §e§lInstagram §6§l@the_real_gamster_official
+
+[12:56:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:34] [Client thread/INFO]: [CHAT] DexterNinja fell into the void.
+[12:56:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:50] [Client thread/INFO]: [CHAT] doipho fell into the void.
+[12:56:50] [Client thread/INFO]: [CHAT] Bedwars ▸ +5 Coins (Play Time).
+[12:56:50] [Client thread/INFO]: [CHAT] Bedwars ▸ +10 BedWars Experience Received (Play Time).
+[12:56:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:56:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:57:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:57:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:57:04] [Client thread/INFO]: [CHAT] DexterNinja was killed by hakama_69alt.
+[12:57:05] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §7Your latency: §e281ms
+[12:57:06] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed was iced by yumyumyum!
+[12:57:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:57:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:57:13] [Client thread/INFO]: [CHAT] RuoBai07 was killed by yumyumyum. FINAL KILL!
+[12:57:13] [Client thread/INFO]: [CHAT] Bedwars ▸ You are now spectating Mirage.
+[12:57:13] [Client thread/INFO]: [CHAT] Bedwars ▸ You can leave the arena at any time doing /leave.
+[12:57:13] [Client thread/INFO]: [CHAT] Bedwars ▸ You have been eliminated!
+[12:57:15] [Client thread/INFO]: [CHAT] ewfefwes was killed by yumyumyum. FINAL KILL!
+[12:57:15] [Client thread/INFO]: [CHAT] 
+[12:57:15] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Red Team has been eliminated!
+[12:57:16] [Client thread/INFO]: [CHAT] hakama_69alt was knocked into the void by DexterNinja.
+[12:57:17] [Client thread/INFO]: [CHAT] Pagal8687 was killed by CryptoDallas.
+[12:57:20] [Client thread/INFO]: [CHAT] Bedwars ▸ RuoBai07 has joined (7/16)!
+[12:57:22] [Client thread/INFO]: [CHAT] Bedwars ▸ Valgair has joined (8/16)!
+[12:57:22] [Client thread/INFO]: [CHAT] Bedwars ▸ Kraymik has joined (9/16)!
+[12:57:24] [Client thread/INFO]: [CHAT] Bedwars ▸ zK1nqL_ has joined (10/16)!
+[12:57:24] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:57:26] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 30 seconds!
+[12:57:28] [Client thread/INFO]: [CHAT] Bedwars ▸ NutNuy has quit!
+[12:57:29] [Client thread/INFO]: [CHAT] [2✩] ┃ vasile4567 › ba cine are hec sa meregem, toti pe iel bine
+[12:57:33] [Client thread/INFO]: [CHAT] Bedwars ▸ THE_ELTACHY has joined (10/16)!
+[12:57:33] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[12:57:36] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 20 seconds!
+[12:57:40] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §cYou can't write in the chat yet!
+§6§lGamster §7▸ §cYou must play at least §e60 minutes§c.
+[12:57:46] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 10 seconds!
+[12:57:46] [Client thread/INFO]: [CHAT] Bedwars ▸ Peanutbutter147 has joined (11/16)!
+[12:57:48] [Client thread/INFO]: [CHAT] Bedwars ▸ peakkeeee has joined (12/16)!
+[12:57:51] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 5 seconds!
+[12:57:52] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 4 seconds!
+[12:57:53] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 3 seconds!
+[12:57:54] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 2 seconds!
+[12:57:55] [Client thread/INFO]: [CHAT] Bedwars ▸ The game starts in 1 seconds!
+[12:57:56] [Client thread/INFO]: [CHAT] ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[12:57:56] [Client thread/INFO]: [CHAT]                                    BedWars
+[12:57:56] [Client thread/INFO]: [CHAT] 
+[12:57:56] [Client thread/INFO]: [CHAT]     Protect your bed and destroy the enemy beds.
+[12:57:56] [Client thread/INFO]: [CHAT]       Upgrade yourself and your team by collecting
+[12:57:56] [Client thread/INFO]: [CHAT]    Iron, Gold, Emerald, and Diamond from generators
+[12:57:56] [Client thread/INFO]: [CHAT]              to access powerful upgrades.
+[12:57:56] [Client thread/INFO]: [CHAT] 
+[12:57:56] [Client thread/INFO]: [CHAT] ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[12:57:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:04] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:10] [Client thread/INFO]: [CHAT] Vote ▸ Many thanks to CHJ 6x, BioFish 6x, ProloGyX 7x, okbro00 2x, DemonSlayer14 1x, MaoYue38 5x, PuyaKz 6x, konlovesbud 6x, Amonsaika12 2x, DEVdex123z 2x, OkBro99 1x, Cataexe99 6x.
+Vote ▸ By voting you get Mystery Dust, Vote Tokens and cool Items.
+[12:58:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:12] [Client thread/INFO]: [CHAT] §6§lGamster §7▸ §7Your latency: §e264ms
+[12:58:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:26] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:58:27] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:58:27] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:58:28] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:58:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:58:48] [Client thread/INFO]: [CHAT] Kraymik fell into the void.
+[12:58:52] [Client thread/INFO]: [CHAT] 
+[12:58:52] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Blue Bed was deep fried by DIKSHA6987!
+[12:58:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +5 Coins (Play Time).
+[12:58:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +10 BedWars Experience Received (Play Time).
+[12:58:57] [Client thread/INFO]: [CHAT] DIKSHA6987 was killed by Peanutbutter147.
+[12:58:59] [Client thread/INFO]: [CHAT] zK1nqL_ fell into the void.
+[12:59:05] [Client thread/INFO]: [CHAT] Ranjith was killed by vasile4567.
+[12:59:27] [Client thread/INFO]: [CHAT] THE_ELTACHY was knocked into the void by Valgair.
+[12:59:27] [Client thread/INFO]: [CHAT] Bedwars ▸ THE_ELTACHY has quit!
+[12:59:29] [Client thread/INFO]: [CHAT] DIKSHA6987 was glazed in BBQ sauce by peakkeeee.
+[12:59:35] [Client thread/INFO]: [CHAT] nicu34556 was knocked into the void by Ranjith.
+[12:59:41] [Client thread/INFO]: [CHAT] vasile4567 was knocked into the void by Ranjith.
+[12:59:41] [Client thread/INFO]: [CHAT] peakkeeee was killed by DIKSHA6987. FINAL KILL!
+[12:59:44] [Client thread/INFO]: [CHAT] DIKSHA6987 was knocked into the void by peakkeeee.
+[12:59:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:59:47] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:59:47] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:59:48] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[12:59:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[12:59:50] [Client thread/INFO]: [CHAT] Bedwars ▸ You don't have enough Iron! Need 18 more!
+[12:59:51] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Permanent Iron Armor
+[12:59:54] [Client thread/INFO]: [CHAT] zK1nqL_ was killed by Peanutbutter147.
+[12:59:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +5 Coins (Play Time).
+[12:59:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +10 BedWars Experience Received (Play Time).
+[12:59:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:00:00] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Iron Sword
+[13:00:01] [Client thread/INFO]: [CHAT] Bedwars ▸ zK1nqL_ has quit!
+[13:00:02] [Client thread/INFO]: [CHAT] Ranjith was knocked into the void by vasile4567.
+[13:00:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:00:06] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:00:06] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:00:06] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:00:07] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:00:11] [Client thread/INFO]: [CHAT] DIKSHA6987 fell into the void.
+[13:00:33] [Client thread/INFO]: [CHAT] Kraymik was knocked into the void by vasile4567.
+[13:00:41] [Client thread/INFO]: [CHAT] vasile4567 was killed by Ranjith.
+[13:00:42] [Client thread/INFO]: [CHAT] nicu34556 was knocked into the void by Ranjith.
+[13:00:44] [Client thread/INFO]: [CHAT] Ranjith was knocked into the void by vasile4567.
+[13:00:51] [Client thread/INFO]: [CHAT] 
+[13:00:51] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Gray Bed was deep fried by DIKSHA6987!
+[13:00:53] [Client thread/INFO]: [CHAT] DIKSHA6987 was killed by nicu34556.
+[13:00:54] [Client thread/INFO]: [CHAT] Bedwars ▸ Ranjith has quit!
+[13:00:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +5 Coins (Play Time).
+[13:00:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +10 BedWars Experience Received (Play Time).
+[13:01:03] [Client thread/INFO]: [CHAT] vasile4567 was killed by Kraymik. FINAL KILL!
+[13:01:07] [Client thread/INFO]: [CHAT] nicu34556 was killed by Kraymik. FINAL KILL!
+[13:01:08] [Client thread/INFO]: [CHAT] 
+[13:01:08] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Gray Team has been eliminated!
+[13:01:10] [Client thread/INFO]: [CHAT] Kraymik was knocked into the void by nicu34556.
+[13:01:22] [Client thread/INFO]: [CHAT] KAPTAN_GAMING was knocked into the void by Peanutbutter147.
+[13:01:23] [Client thread/INFO]: [CHAT] Bedwars ▸ +15 BedWars Experience Received (Bed Destroyed).
+[13:01:23] [Client thread/INFO]: [CHAT] Bedwars ▸ +60.0 Coins (Bed Destroyed).
+[13:01:23] [Client thread/INFO]: [CHAT] 
+[13:01:23] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Green Bed was deep fried by RuoBai07!
+[13:01:26] [Client thread/INFO]: [CHAT] 
+§e§l(!) §6§l§nUP§r §e§l§nTO§r §6§l§n90%§r §e§l§nSALE§r §fat §a§lranks§f, §6§lboosters§f, §e§lcosmetics§f and more visit our store at §6§l§nweb.gamster.org
+
+[13:01:28] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at bcy.a(SourceFile:301) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:75) ~[1.8.9.jar:?]
+	at fp.a(SourceFile:16) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:01:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:01:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:01:36] [Client thread/INFO]: [CHAT] RuoBai07 was struck down by KAPTAN_GAMING.
+[13:01:37] [Client thread/INFO]: [CHAT] Bedwars ▸ You will respawn in 5 seconds!
+[13:01:38] [Client thread/INFO]: [CHAT] Bedwars ▸ You will respawn in 4 seconds!
+[13:01:39] [Client thread/INFO]: [CHAT] Bedwars ▸ You will respawn in 3 seconds!
+[13:01:40] [Client thread/INFO]: [CHAT] Kraymik was knocked into the void by DIKSHA6987.
+[13:01:40] [Client thread/INFO]: [CHAT] Bedwars ▸ You will respawn in 2 seconds!
+[13:01:40] [Client thread/INFO]: [CHAT] DIKSHA6987 was knocked into the void by Kraymik.
+[13:01:41] [Client thread/INFO]: [CHAT] Bedwars ▸ You will respawn in 1 seconds!
+[13:01:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:01:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:01:50] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:01:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:01:51] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:01:51] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:01:51] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:01:52] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Iron Sword
+[13:01:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +5 Coins (Play Time).
+[13:01:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +10 BedWars Experience Received (Play Time).
+[13:01:58] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:01:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:01:58] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:01:59] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:02:00] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:02:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:02:07] [Client thread/INFO]: [CHAT] Kraymik fell into the void.
+[13:02:34] [Client thread/INFO]: [CHAT] DIKSHA6987 was killed by Kraymik.
+[13:02:38] [Client thread/INFO]: [CHAT] Bedwars ▸ DIKSHA6987 has quit!
+[13:02:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +5 Coins (Play Time).
+[13:02:56] [Client thread/INFO]: [CHAT] Bedwars ▸ +10 BedWars Experience Received (Play Time).
+[13:02:58] [Client thread/INFO]: [CHAT] BED DESTRUCTION > Your bed was iced by Kraymik!
+[13:03:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:03:13] [Client thread/INFO]: [CHAT] Bedwars ▸ You purchased Wool
+[13:03:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:03:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:
+[13:03:20] [Client thread/INFO]: [CHAT] Peanutbutter147 was struck down by KAPTAN_GAMING. FINAL KILL!
+[13:03:20] [Client thread/INFO]: [CHAT] 
+[13:03:20] [Client thread/INFO]: [CHAT] TEAM ELIMINATED > Blue Team has been eliminated!
+[13:03:26] [Client thread/INFO]: [CHAT] RuoBai07 was knocked into the void by Kraymik. FINAL KILL!
+[13:03:26] [Client thread/INFO]: [CHAT] Bedwars ▸ You are now spectating Darkened.
+[13:03:26] [Client thread/INFO]: [CHAT] Bedwars ▸ You can leave the arena at any time doing /leave.
+[13:03:26] [Client thread/INFO]: [CHAT] Bedwars ▸ You have been eliminated!
+[13:03:37] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:03:37] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:03:38] [pool-2-thread-8/ERROR]: Signature is missing from textures payload
+[13:03:38] [pool-2-thread-8/ERROR]: Signature is missing from textures payload
+[13:03:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:03:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:03:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:03:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:03:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:03:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:03:58] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:03:58] [Client thread/INFO]: [CHAT] 
+[13:03:58] [Client thread/INFO]: [CHAT] ]--------------[ Voting Rewards ]--------------[
+[13:03:58] [Client thread/INFO]: [CHAT]   * 2x - Vote Key (per vote link)
+[13:03:58] [Client thread/INFO]: [CHAT]   * 1x - DropParty Key (per vote link)
+[13:03:58] [Client thread/INFO]: [CHAT]   * 2x - Gold Ingot (per vote link)
+[13:03:58] [Client thread/INFO]: [CHAT]   * $1000 (per vote link)
+[13:03:58] [Client thread/INFO]: [CHAT] 
+[13:03:58] [Client thread/INFO]: [CHAT]   * Vote daily with /vote command!
+[13:03:58] [Client thread/INFO]: [CHAT] ]-------------------------------------------[
+[13:03:58] [Client thread/INFO]: [CHAT] ▸ Entering SAFE-ZONE // mc.gamster.org
+[13:03:58] [Client thread/INFO]: [CHAT] ▸ Welcome RuoBai07 to Assassins (#69,058)
+[13:03:58] [Client thread/INFO]: [CHAT] [Recruit] ┃ Dermastroke › give me the axe 
+[13:04:03] [Client thread/INFO]: [CHAT] [Veteran] ┃ minecraft66686 › why? 
+[13:04:04] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[13:04:10] [Client thread/INFO]: [CHAT] - Quests | Assassin -
+[13:04:10] [Client thread/INFO]: [CHAT] 1. Un nou inceput
+[13:04:10] [Client thread/INFO]: [CHAT] 2. Capitolul 1:Renasterea
+[13:04:10] [Client thread/INFO]: [CHAT] 3. Assassin iscusit
+[13:04:10] [Client thread/INFO]: [CHAT] 4. Cancel
+[13:04:10] [Client thread/INFO]: [CHAT] Enter an option
+[13:04:12] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:12] [Client thread/INFO]: [CHAT] [Recruit] ┃ Dermastroke › i dont know 
+[13:04:18] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:18] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:18] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:18] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:18] [pool-2-thread-8/ERROR]: Signature is missing from textures payload
+[13:04:25] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:30] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:32] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:32] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:32] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:32] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:32] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:04:32] [Client thread/INFO]: [CHAT] Showing all players!
+[13:04:51] [Client thread/INFO]: [CHAT] You teleported to world 'Race'!
+[13:04:53] [Client thread/INFO]: [CHAT] Started parkour! Get to the end as quick as possible.
+[13:06:26] [Client thread/INFO]: [CHAT] 
+§e§l(!) §fIf you have a §a§lpremium account§f register this by using the §6§l§n/premium on§f command!
+
+[13:06:39] [Client thread/INFO]: [CHAT] You completed the parkour in 0h 1m 45s 257ms
+[13:06:39] [Client thread/INFO]: [CHAT] You completed this parkour for the first time!
+[13:06:39] [Client thread/INFO]: [CHAT] You have received 50 from CONSOLE
+[13:06:39] [Client thread/INFO]: [CHAT] Started parkour! Get to the end as quick as possible.
+[13:06:44] [Client thread/INFO]: [CHAT] Returning to beginning of parkour...
+[13:06:50] [Client thread/INFO]: [CHAT] Extras ▸ You don't have permission to do that in this world!
+[13:06:54] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_251]
+	at g.a(SourceFile:45) [1.8.9.jar:?]
+	at ave.av(SourceFile:881) [1.8.9.jar:?]
+	at ave.a(SourceFile:325) [1.8.9.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [1.8.9.jar:?]
+Caused by: java.lang.NullPointerException
+	at auo.d(SourceFile:229) ~[1.8.9.jar:?]
+	at bcy.a(SourceFile:1392) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:113) ~[1.8.9.jar:?]
+	at hr.a(SourceFile:13) ~[1.8.9.jar:?]
+	at fh$1.run(SourceFile:13) ~[1.8.9.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_251]
+	at g.a(SourceFile:44) ~[1.8.9.jar:?]
+	... 3 more
+[13:06:56] [Client thread/INFO]: [CHAT] Started parkour! Get to the end as quick as possible.
+[13:08:02] [Client thread/INFO]: [CHAT] Returning to beginning of parkour...
+[13:08:05] [Client thread/ERROR]: Can't ping ningbo.hypixel.net: Disconnected
+[13:08:05] [Client thread/ERROR]: Can't ping wt.mcyc.win: Disconnected
+[13:08:05] [Client thread/ERROR]: Can't ping play.mcyc.win: Disconnected
+[13:08:05] [Client thread/ERROR]: Can't ping dx.mcyc.win: Disconnected
+[13:08:05] [Client thread/ERROR]: Can't ping mcyc.win: Disconnected
+[13:08:07] [Client thread/INFO]: Stopping!
+[13:08:07] [Client thread/INFO]: SoundSystem shutting down...
+[13:08:07] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
